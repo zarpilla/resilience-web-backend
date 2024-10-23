@@ -1,0 +1,47 @@
+{
+  "collectionName": "components_sections_blurbs",
+  "info": {
+    "displayName": "Blurbs",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "titleHeading": {
+      "type": "enumeration",
+      "enum": [
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "p"
+      ]
+    },
+    "text": {
+      "type": "blocks"
+    },
+    "media": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": true,
+      "component": "meta.styles"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.link"
+    }
+  }
+}

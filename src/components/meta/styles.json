@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_meta_styles",
+  "info": {
+    "displayName": "styles",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "cssClass": {
+      "type": "string"
+    },
+    "marginTop": {
+      "type": "integer"
+    },
+    "marginRight": {
+      "type": "integer"
+    },
+    "marginBottom": {
+      "type": "integer"
+    },
+    "marginLeft": {
+      "type": "integer"
+    },
+    "paddingTop": {
+      "type": "integer"
+    },
+    "paddingRight": {
+      "type": "integer"
+    },
+    "paddingBottom": {
+      "type": "integer"
+    },
+    "paddingLeft": {
+      "type": "integer"
+    },
+    "units": {
+      "type": "enumeration",
+      "enum": [
+        "rem",
+        "px"
+      ]
+    }
+  }
+}

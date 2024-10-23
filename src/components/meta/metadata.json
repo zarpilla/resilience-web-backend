@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_meta_metadata",
+  "info": {
+    "displayName": "metadata"
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    },
+    "metaDescription": {
+      "type": "text"
+    },
+    "shareImage": {
+      "allowedTypes": [
+        "images",
+        "files"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "noIndex": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
