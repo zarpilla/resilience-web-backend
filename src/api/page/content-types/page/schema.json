@@ -54,8 +54,11 @@
       "type": "dynamiczone",
       "components": [
         "sections.hero",
-        "sections.blurbs",
-        "sections.image"
+        "sections.image",
+        "sections.columns",
+        "sections.menu",
+        "sections.slider",
+        "sections.blurbs"
       ]
     },
     "type": {
@@ -68,9 +71,24 @@
       "enum": [
         "page",
         "article",
-        "resource"
+        "resource",
+        "scope",
+        "project"
       ],
       "default": "page"
+    },
+    "pageCss": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "string"
+    },
+    "tag": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::tag.tag"
     }
   }
 }

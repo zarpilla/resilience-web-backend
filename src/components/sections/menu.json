@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_sections_menus",
+  "info": {
+    "displayName": "Menu",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "menu": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::menu.menu"
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    },
+    "preset": {
+      "type": "enumeration",
+      "enum": [
+        "default",
+        "tags-cloud",
+        "marquee"
+      ],
+      "default": "default"
+    }
+  }
+}

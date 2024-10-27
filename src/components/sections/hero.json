@@ -6,16 +6,6 @@
   },
   "options": {},
   "attributes": {
-    "backgroundImage": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ]
-    },
     "title": {
       "type": "string"
     },
@@ -33,6 +23,17 @@
       "type": "component",
       "repeatable": false,
       "component": "meta.styles"
+    },
+    "text": {
+      "type": "blocks"
+    },
+    "align": {
+      "type": "enumeration",
+      "enum": [
+        "bottom-left",
+        "centered"
+      ],
+      "default": "bottom-left"
     }
   }
 }

@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_sections_sliders",
+  "info": {
+    "displayName": "Slider",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "subTitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "menu": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::menu.menu"
+    },
+    "c2a": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.c2-a"
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    },
+    "goToText": {
+      "type": "string"
+    },
+    "background": {
+      "type": "string"
+    }
+  }
+}

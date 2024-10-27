@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_meta_c2_as",
+  "info": {
+    "displayName": "C2A",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "target": {
+      "type": "enumeration",
+      "enum": [
+        "_self",
+        "_blank"
+      ]
+    },
+    "page": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::page.page"
+    },
+    "cssClass": {
+      "type": "string",
+      "default": "btn zbtn-dark zbtn-100 mt-4 zw-100 btn-with-arrow-right"
+    }
+  }
+}

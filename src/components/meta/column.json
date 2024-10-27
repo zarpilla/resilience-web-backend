@@ -1,0 +1,48 @@
+{
+  "collectionName": "components_meta_columns",
+  "info": {
+    "displayName": "Column",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "blocks"
+    },
+    "media": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    },
+    "c2a": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.c2-a"
+    },
+    "title": {
+      "type": "string"
+    },
+    "titleHeading": {
+      "type": "enumeration",
+      "enum": [
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "p"
+      ]
+    }
+  }
+}

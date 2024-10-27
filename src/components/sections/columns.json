@@ -1,17 +1,16 @@
 {
-  "collectionName": "components_sections_blurbs",
+  "collectionName": "components_sections_columns",
   "info": {
-    "displayName": "Blurbs"
+    "displayName": "Columns",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "title": {
-      "type": "string"
-    },
-    "blurbs": {
+    "columns": {
+      "displayName": "Column",
       "type": "component",
       "repeatable": true,
-      "component": "meta.blurb"
+      "component": "meta.column"
     },
     "styles": {
       "type": "component",

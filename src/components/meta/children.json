@@ -22,6 +22,11 @@
       "type": "component",
       "repeatable": true,
       "component": "meta.children2"
+    },
+    "submenu": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::menu.menu"
     }
   }
 }

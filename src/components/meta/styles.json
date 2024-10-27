@@ -9,36 +9,46 @@
     "cssClass": {
       "type": "string"
     },
-    "marginTop": {
-      "type": "integer"
+    "backgroundImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
     },
-    "marginRight": {
-      "type": "integer"
+    "height": {
+      "type": "string"
     },
-    "marginBottom": {
-      "type": "integer"
-    },
-    "marginLeft": {
-      "type": "integer"
-    },
-    "paddingTop": {
-      "type": "integer"
-    },
-    "paddingRight": {
-      "type": "integer"
-    },
-    "paddingBottom": {
-      "type": "integer"
-    },
-    "paddingLeft": {
-      "type": "integer"
-    },
-    "units": {
+    "textColor": {
       "type": "enumeration",
       "enum": [
-        "rem",
-        "px"
+        "light",
+        "dark"
       ]
+    },
+    "margin": {
+      "type": "string"
+    },
+    "padding": {
+      "type": "string"
+    },
+    "background": {
+      "type": "string"
+    },
+    "width": {
+      "type": "string"
+    },
+    "widthList": {
+      "type": "enumeration",
+      "enum": [
+        "pct100",
+        "pct80"
+      ]
+    },
+    "sectionId": {
+      "type": "string"
     }
   }
 }

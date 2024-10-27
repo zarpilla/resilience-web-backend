@@ -1,5 +1,36 @@
 import type { Struct, Schema } from '@strapi/strapi';
 
+export interface SectionsSlider extends Struct.ComponentSchema {
+  collectionName: 'components_sections_sliders';
+  info: {
+    displayName: 'Slider';
+    description: '';
+  };
+  attributes: {
+    subTitle: Schema.Attribute.String;
+    title: Schema.Attribute.String;
+    menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
+    c2a: Schema.Attribute.Component<'meta.c2-a', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+    goToText: Schema.Attribute.String;
+    background: Schema.Attribute.String;
+  };
+}
+
+export interface SectionsMenu extends Struct.ComponentSchema {
+  collectionName: 'components_sections_menus';
+  info: {
+    displayName: 'Menu';
+    description: '';
+  };
+  attributes: {
+    menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+    preset: Schema.Attribute.Enumeration<['default', 'tags-cloud', 'marquee']> &
+      Schema.Attribute.DefaultTo<'default'>;
+  };
+}
+
 export interface SectionsImage extends Struct.ComponentSchema {
   collectionName: 'components_sections_images';
   info: {
@@ -20,9 +51,23 @@ export interface SectionsHero extends Struct.ComponentSchema {
     description: '';
   };
   attributes: {
-    backgroundImage: Schema.Attribute.Media<'images' | 'files' | 'videos'>;
     title: Schema.Attribute.String;
     titleHeading: Schema.Attribute.Enumeration<['h1', 'h2', 'h3', 'h4', 'p']>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+    text: Schema.Attribute.Blocks;
+    align: Schema.Attribute.Enumeration<['bottom-left', 'centered']> &
+      Schema.Attribute.DefaultTo<'bottom-left'>;
+  };
+}
+
+export interface SectionsColumns extends Struct.ComponentSchema {
+  collectionName: 'components_sections_columns';
+  info: {
+    displayName: 'Columns';
+    description: '';
+  };
+  attributes: {
+    columns: Schema.Attribute.Component<'meta.column', true>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
   };
 }
@@ -31,18 +76,11 @@ export interface SectionsBlurbs extends Struct.ComponentSchema {
   collectionName: 'components_sections_blurbs';
   info: {
     displayName: 'Blurbs';
-    description: '';
   };
   attributes: {
     title: Schema.Attribute.String;
-    titleHeading: Schema.Attribute.Enumeration<['h1', 'h2', 'h3', 'h4', 'p']>;
-    text: Schema.Attribute.Blocks;
-    media: Schema.Attribute.Media<
-      'images' | 'files' | 'videos' | 'audios',
-      true
-    >;
-    styles: Schema.Attribute.Component<'meta.styles', true>;
-    link: Schema.Attribute.Component<'meta.link', false>;
+    blurbs: Schema.Attribute.Component<'meta.blurb', true>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
   };
 }
 
@@ -54,15 +92,15 @@ export interface MetaStyles extends Struct.ComponentSchema {
   };
   attributes: {
     cssClass: Schema.Attribute.String;
-    marginTop: Schema.Attribute.Integer;
-    marginRight: Schema.Attribute.Integer;
-    marginBottom: Schema.Attribute.Integer;
-    marginLeft: Schema.Attribute.Integer;
-    paddingTop: Schema.Attribute.Integer;
-    paddingRight: Schema.Attribute.Integer;
-    paddingBottom: Schema.Attribute.Integer;
-    paddingLeft: Schema.Attribute.Integer;
-    units: Schema.Attribute.Enumeration<['rem', 'px']>;
+    backgroundImage: Schema.Attribute.Media<'images' | 'files'>;
+    height: Schema.Attribute.String;
+    textColor: Schema.Attribute.Enumeration<['light', 'dark']>;
+    margin: Schema.Attribute.String;
+    padding: Schema.Attribute.String;
+    background: Schema.Attribute.String;
+    width: Schema.Attribute.String;
+    widthList: Schema.Attribute.Enumeration<['pct100', 'pct80']>;
+    sectionId: Schema.Attribute.String;
   };
 }
 
@@ -103,6 +141,39 @@ export interface MetaLink extends Struct.ComponentSchema {
   };
 }
 
+export interface MetaColumn extends Struct.ComponentSchema {
+  collectionName: 'components_meta_columns';
+  info: {
+    displayName: 'Column';
+    description: '';
+  };
+  attributes: {
+    text: Schema.Attribute.Blocks;
+    media: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+    c2a: Schema.Attribute.Component<'meta.c2-a', false>;
+    title: Schema.Attribute.String;
+    titleHeading: Schema.Attribute.Enumeration<
+      ['h1', 'h2', 'h3', 'h4', 'h5', 'p']
+    >;
+  };
+}
+
+export interface MetaColumnContent extends Struct.ComponentSchema {
+  collectionName: 'components_meta_column_contents';
+  info: {
+    displayName: 'ColumnContent';
+  };
+  attributes: {
+    text: Schema.Attribute.Blocks;
+    media: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    mediaHover: Schema.Attribute.Media<
+      'images' | 'files' | 'videos' | 'audios',
+      true
+    >;
+  };
+}
+
 export interface MetaChildren2 extends Struct.ComponentSchema {
   collectionName: 'components_meta_children2s';
   info: {
@@ -126,21 +197,64 @@ export interface MetaChildren extends Struct.ComponentSchema {
     page: Schema.Attribute.Relation<'oneToOne', 'api::page.page'>;
     href: Schema.Attribute.String;
     children: Schema.Attribute.Component<'meta.children2', true>;
+    submenu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
+  };
+}
+
+export interface MetaC2A extends Struct.ComponentSchema {
+  collectionName: 'components_meta_c2_as';
+  info: {
+    displayName: 'C2A';
+    description: '';
+  };
+  attributes: {
+    text: Schema.Attribute.String;
+    href: Schema.Attribute.String;
+    target: Schema.Attribute.Enumeration<['_self', '_blank']>;
+    page: Schema.Attribute.Relation<'oneToOne', 'api::page.page'>;
+    cssClass: Schema.Attribute.String &
+      Schema.Attribute.DefaultTo<'btn zbtn-dark zbtn-100 mt-4 zw-100 btn-with-arrow-right'>;
+  };
+}
+
+export interface MetaBlurb extends Struct.ComponentSchema {
+  collectionName: 'components_meta_blurbs';
+  info: {
+    displayName: 'Blurb';
+  };
+  attributes: {
+    title: Schema.Attribute.String;
+    titleHeading: Schema.Attribute.Enumeration<
+      ['h1', 'h2', 'h3', 'h4', 'h5', 'p']
+    >;
+    text: Schema.Attribute.Blocks;
+    image: Schema.Attribute.Media<'images' | 'files'>;
+    imagePosition: Schema.Attribute.Enumeration<['top', 'left']> &
+      Schema.Attribute.DefaultTo<'top'>;
+    imageWidth: Schema.Attribute.String;
+    cssClass: Schema.Attribute.String;
   };
 }
 
 declare module '@strapi/strapi' {
   export module Public {
     export interface ComponentSchemas {
+      'sections.slider': SectionsSlider;
+      'sections.menu': SectionsMenu;
       'sections.image': SectionsImage;
       'sections.hero': SectionsHero;
+      'sections.columns': SectionsColumns;
       'sections.blurbs': SectionsBlurbs;
       'meta.styles': MetaStyles;
       'meta.social': MetaSocial;
       'meta.metadata': MetaMetadata;
       'meta.link': MetaLink;
+      'meta.column': MetaColumn;
+      'meta.column-content': MetaColumnContent;
       'meta.children2': MetaChildren2;
       'meta.children': MetaChildren;
+      'meta.c2-a': MetaC2A;
+      'meta.blurb': MetaBlurb;
     }
   }
 }
