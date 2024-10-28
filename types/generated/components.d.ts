@@ -94,12 +94,13 @@ export interface MetaStyles extends Struct.ComponentSchema {
     cssClass: Schema.Attribute.String;
     backgroundImage: Schema.Attribute.Media<'images' | 'files'>;
     height: Schema.Attribute.String;
-    textColor: Schema.Attribute.Enumeration<['light', 'dark']>;
+    textColor: Schema.Attribute.Enumeration<['light', 'dark']> &
+      Schema.Attribute.DefaultTo<'dark'>;
     margin: Schema.Attribute.String;
     padding: Schema.Attribute.String;
     background: Schema.Attribute.String;
     width: Schema.Attribute.String;
-    widthList: Schema.Attribute.Enumeration<['pct100', 'pct80']>;
+    widthList: Schema.Attribute.Enumeration<['pct100', 'pct80', 'pct50']>;
     sectionId: Schema.Attribute.String;
   };
 }
@@ -213,7 +214,7 @@ export interface MetaC2A extends Struct.ComponentSchema {
     target: Schema.Attribute.Enumeration<['_self', '_blank']>;
     page: Schema.Attribute.Relation<'oneToOne', 'api::page.page'>;
     cssClass: Schema.Attribute.String &
-      Schema.Attribute.DefaultTo<'btn zbtn-dark zbtn-100 mt-4 zw-100 btn-with-arrow-right'>;
+      Schema.Attribute.DefaultTo<'btn mt-4 btn-with-arrow-right zbtn-dark zw-100'>;
   };
 }
 

@@ -89,6 +89,19 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::tag.tag"
+    },
+    "headerColorMode": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ],
+      "default": "light"
     }
   }
 }

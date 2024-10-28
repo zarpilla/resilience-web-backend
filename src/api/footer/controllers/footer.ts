@@ -15,7 +15,12 @@ export default factories.createCoreController(
         populate: {
           primaryLogo: true,
           secondaryLogo: true,
-          middleLogos: true,
+          middle3Logos: {
+            populate: {
+              icon: true,
+              hover: true,
+            },
+          },
           social: {
             populate: {
               icon: true,
