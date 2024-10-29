@@ -54,11 +54,12 @@
       "type": "dynamiczone",
       "components": [
         "sections.hero",
-        "sections.image",
         "sections.columns",
         "sections.menu",
         "sections.slider",
-        "sections.blurbs"
+        "sections.blurbs",
+        "sections.bios",
+        "sections.scroller"
       ]
     },
     "type": {

@@ -41,15 +41,18 @@
     "width": {
       "type": "string"
     },
-    "widthList": {
+    "container": {
       "type": "enumeration",
       "enum": [
-        "pct100",
-        "pct80",
-        "pct50"
+        "normal",
+        "narrow",
+        "small"
       ]
     },
     "sectionId": {
+      "type": "string"
+    },
+    "backgroundColor": {
       "type": "string"
     }
   }

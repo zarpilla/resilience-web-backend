@@ -1,0 +1,49 @@
+{
+  "collectionName": "components_sections_bios",
+  "info": {
+    "displayName": "Bios",
+    "icon": "alien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "bios": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::bio.bio"
+    },
+    "title": {
+      "type": "string"
+    },
+    "titleHeading": {
+      "type": "enumeration",
+      "enum": [
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "p"
+      ]
+    },
+    "preset": {
+      "type": "enumeration",
+      "enum": [
+        "grid",
+        "list"
+      ],
+      "default": "grid"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "c2aText": {
+      "type": "string"
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    }
+  }
+}

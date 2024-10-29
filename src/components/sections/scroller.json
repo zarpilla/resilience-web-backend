@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_sections_scrollers",
+  "info": {
+    "displayName": "Scroller",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "menu": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::menu.menu"
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    }
+  }
+}

@@ -38,7 +38,7 @@ export default factories.createCoreController(
                         populate: {
                           page: true,
                         },
-                      }
+                      },
                     },
                   },
                 },
@@ -71,9 +71,9 @@ export default factories.createCoreController(
                                 },
                               },
                             },
-                          }
-                        }
-                      },                      
+                          },
+                        },
+                      },
                     },
                   },
                 },
@@ -113,9 +113,46 @@ export default factories.createCoreController(
                                 },
                               },
                             },
-                          }
-                        }
-                      },                      
+                          },
+                        },
+                      },
+                    },
+                  },
+                },
+              },
+              "sections.scroller": {
+                populate: {
+                  styles: {
+                    populate: "backgroundImage",
+                  },
+                  menu: {
+                    populate: {
+                      children: {
+                        populate: {
+                          page: {
+                            populate: {
+                              metadata: {
+                                populate: "shareImage",
+                              },
+                            },
+                          },
+                          submenu: {
+                            populate: {
+                              children: {
+                                populate: {
+                                  page: {
+                                    populate: {
+                                      metadata: {
+                                        populate: "shareImage",
+                                      },
+                                    },
+                                  },
+                                },
+                              },
+                            },
+                          },
+                        },
+                      },
                     },
                   },
                 },
@@ -129,6 +166,19 @@ export default factories.createCoreController(
                     populate: {
                       image: true,
                     },
+                  },
+                },
+              },
+              "sections.bios": {
+                populate: {
+                  bios: {
+                    populate: {
+                      mainImage: true,
+                      largeImage: true,
+                    },
+                  },
+                  styles: {
+                    populate: "backgroundImage",
                   },
                 },
               },

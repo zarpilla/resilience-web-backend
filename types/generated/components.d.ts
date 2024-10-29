@@ -17,6 +17,20 @@ export interface SectionsSlider extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsScroller extends Struct.ComponentSchema {
+  collectionName: 'components_sections_scrollers';
+  info: {
+    displayName: 'Scroller';
+    description: '';
+  };
+  attributes: {
+    title: Schema.Attribute.String;
+    subtitle: Schema.Attribute.Text;
+    menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+  };
+}
+
 export interface SectionsMenu extends Struct.ComponentSchema {
   collectionName: 'components_sections_menus';
   info: {
@@ -84,6 +98,27 @@ export interface SectionsBlurbs extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsBios extends Struct.ComponentSchema {
+  collectionName: 'components_sections_bios';
+  info: {
+    displayName: 'Bios';
+    icon: 'alien';
+    description: '';
+  };
+  attributes: {
+    bios: Schema.Attribute.Relation<'oneToMany', 'api::bio.bio'>;
+    title: Schema.Attribute.String;
+    titleHeading: Schema.Attribute.Enumeration<
+      ['h1', 'h2', 'h3', 'h4', 'h5', 'p']
+    >;
+    preset: Schema.Attribute.Enumeration<['grid', 'list']> &
+      Schema.Attribute.DefaultTo<'grid'>;
+    subtitle: Schema.Attribute.String;
+    c2aText: Schema.Attribute.String;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+  };
+}
+
 export interface MetaStyles extends Struct.ComponentSchema {
   collectionName: 'components_meta_styles';
   info: {
@@ -100,8 +135,9 @@ export interface MetaStyles extends Struct.ComponentSchema {
     padding: Schema.Attribute.String;
     background: Schema.Attribute.String;
     width: Schema.Attribute.String;
-    widthList: Schema.Attribute.Enumeration<['pct100', 'pct80', 'pct50']>;
+    container: Schema.Attribute.Enumeration<['normal', 'narrow', 'small']>;
     sectionId: Schema.Attribute.String;
+    backgroundColor: Schema.Attribute.String;
   };
 }
 
@@ -241,11 +277,13 @@ declare module '@strapi/strapi' {
   export module Public {
     export interface ComponentSchemas {
       'sections.slider': SectionsSlider;
+      'sections.scroller': SectionsScroller;
       'sections.menu': SectionsMenu;
       'sections.image': SectionsImage;
       'sections.hero': SectionsHero;
       'sections.columns': SectionsColumns;
       'sections.blurbs': SectionsBlurbs;
+      'sections.bios': SectionsBios;
       'meta.styles': MetaStyles;
       'meta.social': MetaSocial;
       'meta.metadata': MetaMetadata;
