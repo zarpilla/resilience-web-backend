@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_meta_blog_pages",
+  "info": {
+    "displayName": "BlogPage"
+  },
+  "options": {},
+  "attributes": {
+    "page": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::page.page"
+    },
+    "width": {
+      "type": "enumeration",
+      "enum": [
+        "onethird",
+        "twothirds",
+        "threethirds"
+      ]
+    }
+  }
+}

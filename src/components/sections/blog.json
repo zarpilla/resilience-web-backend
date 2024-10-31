@@ -1,24 +1,21 @@
 {
-  "collectionName": "components_sections_columns",
+  "collectionName": "components_sections_blogs",
   "info": {
-    "displayName": "Columns",
+    "displayName": "Blog",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "columns": {
-      "displayName": "Column",
+    "blogPage": {
+      "displayName": "BlogPage",
       "type": "component",
       "repeatable": true,
-      "component": "meta.column"
+      "component": "meta.blog-page"
     },
     "styles": {
       "type": "component",
       "repeatable": false,
       "component": "meta.styles"
-    },
-    "alias": {
-      "type": "string"
     }
   }
 }

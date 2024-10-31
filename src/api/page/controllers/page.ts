@@ -43,14 +43,22 @@ export default factories.createCoreController(
                   },
                 },
               },
-              "sections.image": {
+              "sections.blog": {
                 populate: {
                   styles: {
                     populate: "backgroundImage",
                   },
-                  // 'columns': true
-                  image: true,
-                  hover: true,
+                  blogPage: {
+                    populate: {
+                      page: {
+                        populate: {
+                          metadata: {
+                            populate: "shareImage",
+                          },
+                        },
+                      }
+                    },
+                  },
                 },
               },
               "sections.menu": {

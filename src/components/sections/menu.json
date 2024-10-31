@@ -24,6 +24,9 @@
         "marquee"
       ],
       "default": "default"
+    },
+    "alias": {
+      "type": "string"
     }
   }
 }

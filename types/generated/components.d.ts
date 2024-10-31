@@ -14,6 +14,7 @@ export interface SectionsSlider extends Struct.ComponentSchema {
     styles: Schema.Attribute.Component<'meta.styles', false>;
     goToText: Schema.Attribute.String;
     background: Schema.Attribute.String;
+    preset: Schema.Attribute.Enumeration<['one', 'three']>;
   };
 }
 
@@ -42,19 +43,7 @@ export interface SectionsMenu extends Struct.ComponentSchema {
     styles: Schema.Attribute.Component<'meta.styles', false>;
     preset: Schema.Attribute.Enumeration<['default', 'tags-cloud', 'marquee']> &
       Schema.Attribute.DefaultTo<'default'>;
-  };
-}
-
-export interface SectionsImage extends Struct.ComponentSchema {
-  collectionName: 'components_sections_images';
-  info: {
-    displayName: 'image';
-    description: '';
-  };
-  attributes: {
-    image: Schema.Attribute.Media<'images' | 'files'>;
-    hover: Schema.Attribute.Media<'images' | 'files'>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    alias: Schema.Attribute.String;
   };
 }
 
@@ -71,6 +60,7 @@ export interface SectionsHero extends Struct.ComponentSchema {
     text: Schema.Attribute.Blocks;
     align: Schema.Attribute.Enumeration<['bottom-left', 'centered']> &
       Schema.Attribute.DefaultTo<'bottom-left'>;
+    alias: Schema.Attribute.String;
   };
 }
 
@@ -83,6 +73,7 @@ export interface SectionsColumns extends Struct.ComponentSchema {
   attributes: {
     columns: Schema.Attribute.Component<'meta.column', true>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
+    alias: Schema.Attribute.String;
   };
 }
 
@@ -94,6 +85,18 @@ export interface SectionsBlurbs extends Struct.ComponentSchema {
   attributes: {
     title: Schema.Attribute.String;
     blurbs: Schema.Attribute.Component<'meta.blurb', true>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+  };
+}
+
+export interface SectionsBlog extends Struct.ComponentSchema {
+  collectionName: 'components_sections_blogs';
+  info: {
+    displayName: 'Blog';
+    description: '';
+  };
+  attributes: {
+    blogPage: Schema.Attribute.Component<'meta.blog-page', true>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
   };
 }
@@ -135,7 +138,9 @@ export interface MetaStyles extends Struct.ComponentSchema {
     padding: Schema.Attribute.String;
     background: Schema.Attribute.String;
     width: Schema.Attribute.String;
-    container: Schema.Attribute.Enumeration<['normal', 'narrow', 'small']>;
+    container: Schema.Attribute.Enumeration<
+      ['normal', 'narrow', 'article', 'small']
+    >;
     sectionId: Schema.Attribute.String;
     backgroundColor: Schema.Attribute.String;
   };
@@ -193,6 +198,7 @@ export interface MetaColumn extends Struct.ComponentSchema {
     titleHeading: Schema.Attribute.Enumeration<
       ['h1', 'h2', 'h3', 'h4', 'h5', 'p']
     >;
+    alias: Schema.Attribute.String;
   };
 }
 
@@ -273,16 +279,29 @@ export interface MetaBlurb extends Struct.ComponentSchema {
   };
 }
 
+export interface MetaBlogPage extends Struct.ComponentSchema {
+  collectionName: 'components_meta_blog_pages';
+  info: {
+    displayName: 'BlogPage';
+  };
+  attributes: {
+    page: Schema.Attribute.Relation<'oneToOne', 'api::page.page'>;
+    width: Schema.Attribute.Enumeration<
+      ['onethird', 'twothirds', 'threethirds']
+    >;
+  };
+}
+
 declare module '@strapi/strapi' {
   export module Public {
     export interface ComponentSchemas {
       'sections.slider': SectionsSlider;
       'sections.scroller': SectionsScroller;
       'sections.menu': SectionsMenu;
-      'sections.image': SectionsImage;
       'sections.hero': SectionsHero;
       'sections.columns': SectionsColumns;
       'sections.blurbs': SectionsBlurbs;
+      'sections.blog': SectionsBlog;
       'sections.bios': SectionsBios;
       'meta.styles': MetaStyles;
       'meta.social': MetaSocial;
@@ -294,6 +313,7 @@ declare module '@strapi/strapi' {
       'meta.children': MetaChildren;
       'meta.c2-a': MetaC2A;
       'meta.blurb': MetaBlurb;
+      'meta.blog-page': MetaBlogPage;
     }
   }
 }

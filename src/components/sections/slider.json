@@ -32,6 +32,13 @@
     },
     "background": {
       "type": "string"
+    },
+    "preset": {
+      "type": "enumeration",
+      "enum": [
+        "one",
+        "three"
+      ]
     }
   }
 }

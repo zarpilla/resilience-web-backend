@@ -59,7 +59,8 @@
         "sections.slider",
         "sections.blurbs",
         "sections.bios",
-        "sections.scroller"
+        "sections.scroller",
+        "sections.blog"
       ]
     },
     "type": {

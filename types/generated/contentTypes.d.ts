@@ -840,6 +840,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         'sections.blurbs',
         'sections.bios',
         'sections.scroller',
+        'sections.blog',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{

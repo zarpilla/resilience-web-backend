@@ -43,6 +43,9 @@
         "h5",
         "p"
       ]
+    },
+    "alias": {
+      "type": "string"
     }
   }
 }
