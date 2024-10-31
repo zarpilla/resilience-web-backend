@@ -39,6 +39,10 @@
         "one",
         "three"
       ]
+    },
+    "intervalMilliseconds": {
+      "default": 8000,
+      "type": "integer"
     }
   }
 }

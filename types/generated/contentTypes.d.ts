@@ -578,6 +578,55 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiCapabilityCapability extends Struct.CollectionTypeSchema {
+  collectionName: 'capabilities';
+  info: {
+    singularName: 'capability';
+    pluralName: 'capabilities';
+    displayName: 'Capability';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    name: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    description: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    audio: Schema.Attribute.Media<'audios'> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    publishedAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::capability.capability'
+    >;
+  };
+}
+
 export interface ApiFooterFooter extends Struct.SingleTypeSchema {
   collectionName: 'footers';
   info: {
@@ -841,6 +890,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         'sections.bios',
         'sections.scroller',
         'sections.blog',
+        'sections.capabilities',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{
@@ -1306,6 +1356,7 @@ declare module '@strapi/strapi' {
       'plugin::users-permissions.role': PluginUsersPermissionsRole;
       'plugin::users-permissions.user': PluginUsersPermissionsUser;
       'api::bio.bio': ApiBioBio;
+      'api::capability.capability': ApiCapabilityCapability;
       'api::footer.footer': ApiFooterFooter;
       'api::header.header': ApiHeaderHeader;
       'api::menu.menu': ApiMenuMenu;

@@ -15,6 +15,8 @@ export interface SectionsSlider extends Struct.ComponentSchema {
     goToText: Schema.Attribute.String;
     background: Schema.Attribute.String;
     preset: Schema.Attribute.Enumeration<['one', 'three']>;
+    intervalMilliseconds: Schema.Attribute.Integer &
+      Schema.Attribute.DefaultTo<8000>;
   };
 }
 
@@ -29,6 +31,9 @@ export interface SectionsScroller extends Struct.ComponentSchema {
     subtitle: Schema.Attribute.Text;
     menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
+    alias: Schema.Attribute.String;
+    preset: Schema.Attribute.Enumeration<['pages', 'images']> &
+      Schema.Attribute.DefaultTo<'pages'>;
   };
 }
 
@@ -74,6 +79,22 @@ export interface SectionsColumns extends Struct.ComponentSchema {
     columns: Schema.Attribute.Component<'meta.column', true>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
     alias: Schema.Attribute.String;
+  };
+}
+
+export interface SectionsCapabilities extends Struct.ComponentSchema {
+  collectionName: 'components_sections_capabilities';
+  info: {
+    displayName: 'Capabilities';
+  };
+  attributes: {
+    title: Schema.Attribute.String;
+    subtitle: Schema.Attribute.String;
+    capabilities: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::capability.capability'
+    >;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
   };
 }
 
@@ -241,6 +262,7 @@ export interface MetaChildren extends Struct.ComponentSchema {
     href: Schema.Attribute.String;
     children: Schema.Attribute.Component<'meta.children2', true>;
     submenu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
+    image: Schema.Attribute.Media<'images' | 'files'>;
   };
 }
 
@@ -300,6 +322,7 @@ declare module '@strapi/strapi' {
       'sections.menu': SectionsMenu;
       'sections.hero': SectionsHero;
       'sections.columns': SectionsColumns;
+      'sections.capabilities': SectionsCapabilities;
       'sections.blurbs': SectionsBlurbs;
       'sections.blog': SectionsBlog;
       'sections.bios': SectionsBios;

@@ -21,6 +21,17 @@
       "type": "component",
       "repeatable": false,
       "component": "meta.styles"
+    },
+    "alias": {
+      "type": "string"
+    },
+    "preset": {
+      "type": "enumeration",
+      "enum": [
+        "pages",
+        "images"
+      ],
+      "default": "pages"
     }
   }
 }

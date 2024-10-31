@@ -80,6 +80,7 @@ export default factories.createCoreController(
                               },
                             },
                           },
+                          image: true,
                         },
                       },
                     },
@@ -159,6 +160,7 @@ export default factories.createCoreController(
                               },
                             },
                           },
+                          image: true,
                         },
                       },
                     },
@@ -183,6 +185,18 @@ export default factories.createCoreController(
                     populate: {
                       mainImage: true,
                       largeImage: true,
+                    },
+                  },
+                  styles: {
+                    populate: "backgroundImage",
+                  },
+                },
+              },
+              "sections.capabilities": {
+                populate: {
+                  capabilities: {
+                    populate: {
+                      audio: true
                     },
                   },
                   styles: {

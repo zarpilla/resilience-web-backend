@@ -60,7 +60,8 @@
         "sections.blurbs",
         "sections.bios",
         "sections.scroller",
-        "sections.blog"
+        "sections.blog",
+        "sections.capabilities"
       ]
     },
     "type": {
