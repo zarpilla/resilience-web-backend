@@ -50,6 +50,8 @@ services:
     networks:
       - strapi
     command: -p 5433
+    expose:
+      - "5433"
 
 #volumes:
 #  strapi-data:
