@@ -705,6 +705,15 @@ export interface ApiFooterFooter extends Struct.SingleTypeSchema {
           localized: true;
         };
       }>;
+    subscriptionForm: Schema.Attribute.Component<
+      'meta.subscription-form',
+      false
+    > &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     createdAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     publishedAt: Schema.Attribute.DateTime;
@@ -785,6 +794,12 @@ export interface ApiHeaderHeader extends Struct.SingleTypeSchema {
         };
       }>;
     seoTitleSufix: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    css: Schema.Attribute.Text &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
@@ -930,6 +945,36 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     locale: Schema.Attribute.String;
     localizations: Schema.Attribute.Relation<'oneToMany', 'api::page.page'>;
+  };
+}
+
+export interface ApiSubscriptionSubscription
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'subscriptions';
+  info: {
+    singularName: 'subscription';
+    pluralName: 'subscriptions';
+    displayName: 'Subscription';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    email: Schema.Attribute.Email;
+    accept: Schema.Attribute.Boolean;
+    createdAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    publishedAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::subscription.subscription'
+    > &
+      Schema.Attribute.Private;
   };
 }
 
@@ -1361,6 +1406,7 @@ declare module '@strapi/strapi' {
       'api::header.header': ApiHeaderHeader;
       'api::menu.menu': ApiMenuMenu;
       'api::page.page': ApiPagePage;
+      'api::subscription.subscription': ApiSubscriptionSubscription;
       'api::tag.tag': ApiTagTag;
       'admin::permission': AdminPermission;
       'admin::user': AdminUser;

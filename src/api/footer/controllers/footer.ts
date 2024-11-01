@@ -50,6 +50,7 @@ export default factories.createCoreController(
               },
             },
           },
+          subscriptionForm: true,
         },
       });
       ctx.body = footer[0];

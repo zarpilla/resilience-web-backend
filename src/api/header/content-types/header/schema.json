@@ -121,6 +121,14 @@
         }
       },
       "type": "string"
+    },
+    "css": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text"
     }
   }
 }

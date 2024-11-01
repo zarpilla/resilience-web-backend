@@ -116,6 +116,16 @@
         }
       },
       "type": "string"
+    },
+    "subscriptionForm": {
+      "type": "component",
+      "repeatable": false,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "meta.subscription-form"
     }
   }
 }

@@ -143,6 +143,22 @@ export interface SectionsBios extends Struct.ComponentSchema {
   };
 }
 
+export interface MetaSubscriptionForm extends Struct.ComponentSchema {
+  collectionName: 'components_meta_subscription_forms';
+  info: {
+    displayName: 'SubscriptionForm';
+    description: '';
+  };
+  attributes: {
+    email: Schema.Attribute.String;
+    button: Schema.Attribute.String;
+    accept: Schema.Attribute.String;
+    sendEmailTo: Schema.Attribute.String;
+    messageOk: Schema.Attribute.Text;
+    messageKo: Schema.Attribute.Text;
+  };
+}
+
 export interface MetaStyles extends Struct.ComponentSchema {
   collectionName: 'components_meta_styles';
   info: {
@@ -326,6 +342,7 @@ declare module '@strapi/strapi' {
       'sections.blurbs': SectionsBlurbs;
       'sections.blog': SectionsBlog;
       'sections.bios': SectionsBios;
+      'meta.subscription-form': MetaSubscriptionForm;
       'meta.styles': MetaStyles;
       'meta.social': MetaSocial;
       'meta.metadata': MetaMetadata;

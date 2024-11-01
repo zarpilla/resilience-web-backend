@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_meta_subscription_forms",
+  "info": {
+    "displayName": "SubscriptionForm",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "email": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    },
+    "accept": {
+      "type": "string"
+    },
+    "sendEmailTo": {
+      "type": "string"
+    },
+    "messageOk": {
+      "type": "text"
+    },
+    "messageKo": {
+      "type": "text"
+    }
+  }
+}
