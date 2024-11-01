@@ -23,7 +23,7 @@ services:
       - ./package.json:/opt/package.json
       - ./yarn.lock:/opt/yarn.lock
       - ./.env:/opt/app/.env
-      - ./public/uploads:/opt/app/public/uploads
+      - ./public:/opt/app/public
     ports:
       - "1350:1350"
     networks:
