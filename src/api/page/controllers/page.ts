@@ -70,7 +70,13 @@ export default factories.createCoreController(
                     populate: {
                       children: {
                         populate: {
-                          page: true,
+                          page: {
+                            populate: {
+                              metadata: {
+                                populate: "shareImage",
+                              },
+                            },
+                          },
                           submenu: {
                             populate: {
                               children: {
