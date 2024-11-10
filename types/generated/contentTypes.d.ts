@@ -928,7 +928,6 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
           localized: false;
         };
       }>;
-    tag: Schema.Attribute.Relation<'oneToOne', 'api::tag.tag'>;
     headerColorMode: Schema.Attribute.Enumeration<['light', 'dark']> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
@@ -936,6 +935,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         };
       }> &
       Schema.Attribute.DefaultTo<'light'>;
+    tags: Schema.Attribute.Relation<'oneToMany', 'api::tag.tag'>;
     createdAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     publishedAt: Schema.Attribute.DateTime;

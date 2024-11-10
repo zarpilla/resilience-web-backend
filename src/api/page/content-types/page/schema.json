@@ -88,11 +88,6 @@
       },
       "type": "string"
     },
-    "tag": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::tag.tag"
-    },
     "headerColorMode": {
       "pluginOptions": {
         "i18n": {
@@ -105,6 +100,11 @@
         "dark"
       ],
       "default": "light"
+    },
+    "tags": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::tag.tag"
     }
   }
 }

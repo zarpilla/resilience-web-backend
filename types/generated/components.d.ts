@@ -180,6 +180,7 @@ export interface MetaStyles extends Struct.ComponentSchema {
     >;
     sectionId: Schema.Attribute.String;
     backgroundColor: Schema.Attribute.String;
+    backgroundImage2: Schema.Attribute.Media<'images' | 'files'>;
   };
 }
 
@@ -236,6 +237,7 @@ export interface MetaColumn extends Struct.ComponentSchema {
       ['h1', 'h2', 'h3', 'h4', 'h5', 'p']
     >;
     alias: Schema.Attribute.String;
+    verticalScroller: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
   };
 }
 

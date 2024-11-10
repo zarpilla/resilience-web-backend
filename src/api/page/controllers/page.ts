@@ -18,27 +18,45 @@ export default factories.createCoreController(
               "sections.hero": {
                 populate: {
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                 },
               },
               "sections.columns": {
                 populate: {
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                   // 'columns': true
                   columns: {
                     populate: {
                       media: true,
                       styles: {
-                        populate: "backgroundImage",
+                        populate: {
+                          backgroundImage: true,
+                          backgroundImage2: true,
+                        },
                       },
                       c2a: {
                         populate: {
                           page: true,
                         },
                       },
+                      verticalScroller: {
+                        populate: {
+                          children: {
+                            populate: {
+                              image: true,
+                            },
+                          },
+                        },
+                      }
                     },
                   },
                 },
@@ -46,7 +64,10 @@ export default factories.createCoreController(
               "sections.blog": {
                 populate: {
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                   blogPage: {
                     populate: {
@@ -56,7 +77,7 @@ export default factories.createCoreController(
                             populate: "shareImage",
                           },
                         },
-                      }
+                      },
                     },
                   },
                 },
@@ -64,7 +85,10 @@ export default factories.createCoreController(
               "sections.menu": {
                 populate: {
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                   menu: {
                     populate: {
@@ -96,7 +120,10 @@ export default factories.createCoreController(
               "sections.slider": {
                 populate: {
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                   c2a: {
                     populate: {
@@ -138,7 +165,10 @@ export default factories.createCoreController(
               "sections.scroller": {
                 populate: {
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                   menu: {
                     populate: {
@@ -176,7 +206,10 @@ export default factories.createCoreController(
               "sections.blurbs": {
                 populate: {
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                   blurbs: {
                     populate: {
@@ -194,7 +227,10 @@ export default factories.createCoreController(
                     },
                   },
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                 },
               },
@@ -202,11 +238,14 @@ export default factories.createCoreController(
                 populate: {
                   capabilities: {
                     populate: {
-                      audio: true
+                      audio: true,
                     },
                   },
                   styles: {
-                    populate: "backgroundImage",
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
                   },
                 },
               },
