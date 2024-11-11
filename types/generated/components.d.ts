@@ -102,6 +102,7 @@ export interface SectionsBlurbs extends Struct.ComponentSchema {
   collectionName: 'components_sections_blurbs';
   info: {
     displayName: 'Blurbs';
+    description: '';
   };
   attributes: {
     title: Schema.Attribute.String;
@@ -304,6 +305,7 @@ export interface MetaBlurb extends Struct.ComponentSchema {
   collectionName: 'components_meta_blurbs';
   info: {
     displayName: 'Blurb';
+    description: '';
   };
   attributes: {
     title: Schema.Attribute.String;
@@ -316,6 +318,7 @@ export interface MetaBlurb extends Struct.ComponentSchema {
       Schema.Attribute.DefaultTo<'top'>;
     imageWidth: Schema.Attribute.String;
     cssClass: Schema.Attribute.String;
+    svg: Schema.Attribute.Text;
   };
 }
 
