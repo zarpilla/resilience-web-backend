@@ -805,6 +805,12 @@ export interface ApiHeaderHeader extends Struct.SingleTypeSchema {
           localized: true;
         };
       }>;
+    favicon: Schema.Attribute.Media<'images'> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: false;
+        };
+      }>;
     createdAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     publishedAt: Schema.Attribute.DateTime;
