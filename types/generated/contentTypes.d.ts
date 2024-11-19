@@ -942,6 +942,12 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
       }> &
       Schema.Attribute.DefaultTo<'light'>;
     tags: Schema.Attribute.Relation<'oneToMany', 'api::tag.tag'>;
+    client: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     createdAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     publishedAt: Schema.Attribute.DateTime;
