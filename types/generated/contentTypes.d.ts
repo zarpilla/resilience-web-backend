@@ -566,6 +566,12 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
           localized: true;
         };
       }>;
+    signature: Schema.Attribute.Media<'images'> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: false;
+        };
+      }>;
     createdAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     publishedAt: Schema.Attribute.DateTime;
