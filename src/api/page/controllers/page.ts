@@ -13,6 +13,10 @@ export default factories.createCoreController(
       const page = await strapi.documents("api::page.page").findOne({
         documentId: ctx.params.id,
         populate: {
+          metadata: {
+            populate: "shareImage",
+          },
+          localizations: true,
           sections: {
             on: {
               "sections.hero": {
