@@ -21,6 +21,8 @@ export interface MetaBlurb extends Struct.ComponentSchema {
   };
   attributes: {
     cssClass: Schema.Attribute.String;
+    effect: Schema.Attribute.Enumeration<['dots', 'grow']> &
+      Schema.Attribute.DefaultTo<'dots'>;
     image: Schema.Attribute.Media<'images' | 'files'>;
     imagePosition: Schema.Attribute.Enumeration<['top', 'left']> &
       Schema.Attribute.DefaultTo<'top'>;

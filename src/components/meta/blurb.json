@@ -48,6 +48,14 @@
     },
     "svg": {
       "type": "text"
+    },
+    "effect": {
+      "type": "enumeration",
+      "enum": [
+        "dots",
+        "grow"
+      ],
+      "default": "dots"
     }
   }
 }
