@@ -243,6 +243,13 @@ export default factories.createCoreController(
                   capabilities: {
                     populate: {
                       audio: true,
+                      page: {
+                        populate: {
+                          metadata: {
+                            populate: "shareImage",
+                          },
+                        },
+                      },
                     },
                   },
                   styles: {

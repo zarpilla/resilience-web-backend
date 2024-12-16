@@ -461,6 +461,7 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
 export interface ApiCapabilityCapability extends Struct.CollectionTypeSchema {
   collectionName: 'capabilities';
   info: {
+    description: '';
     displayName: 'Capability';
     pluralName: 'capabilities';
     singularName: 'capability';
@@ -500,6 +501,7 @@ export interface ApiCapabilityCapability extends Struct.CollectionTypeSchema {
           localized: true;
         };
       }>;
+    page: Schema.Attribute.Relation<'oneToOne', 'api::page.page'>;
     publishedAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
@@ -826,7 +828,15 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
       }>;
     tags: Schema.Attribute.Relation<'oneToMany', 'api::tag.tag'>;
     type: Schema.Attribute.Enumeration<
-      ['page', 'article', 'resource', 'scope', 'project']
+      [
+        'page',
+        'article',
+        'resource',
+        'scope',
+        'project',
+        'capability',
+        'service',
+      ]
     > &
       Schema.Attribute.SetPluginOptions<{
         i18n: {

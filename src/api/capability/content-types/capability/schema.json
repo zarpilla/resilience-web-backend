@@ -4,7 +4,8 @@
   "info": {
     "singularName": "capability",
     "pluralName": "capabilities",
-    "displayName": "Capability"
+    "displayName": "Capability",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -32,16 +33,22 @@
       "type": "text"
     },
     "audio": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "audios"
       ],
-      "type": "media",
-      "multiple": false,
       "pluginOptions": {
         "i18n": {
           "localized": true
         }
       }
+    },
+    "page": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::page.page"
     }
   }
 }

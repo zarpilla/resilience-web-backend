@@ -76,7 +76,9 @@
         "article",
         "resource",
         "scope",
-        "project"
+        "project",
+        "capability",
+        "service"
       ],
       "default": "page"
     },
