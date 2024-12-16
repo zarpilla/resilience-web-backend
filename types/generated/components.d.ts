@@ -294,7 +294,9 @@ export interface SectionsMenu extends Struct.ComponentSchema {
   attributes: {
     alias: Schema.Attribute.String;
     menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
-    preset: Schema.Attribute.Enumeration<['default', 'tags-cloud', 'marquee']> &
+    preset: Schema.Attribute.Enumeration<
+      ['default', 'tags-cloud', 'marquee', 'navigation-arrows']
+    > &
       Schema.Attribute.DefaultTo<'default'>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
   };
