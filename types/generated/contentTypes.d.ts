@@ -556,6 +556,12 @@ export interface ApiFooterFooter extends Struct.SingleTypeSchema {
           localized: true;
         };
       }>;
+    middle3BLogos: Schema.Attribute.Component<'meta.social', true> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     middle3Logos: Schema.Attribute.Component<'meta.social', true> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {

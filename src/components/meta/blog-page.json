@@ -1,7 +1,8 @@
 {
   "collectionName": "components_meta_blog_pages",
   "info": {
-    "displayName": "BlogPage"
+    "displayName": "BlogPage",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -17,6 +18,9 @@
         "twothirds",
         "threethirds"
       ]
+    },
+    "showDescription": {
+      "type": "boolean"
     }
   }
 }

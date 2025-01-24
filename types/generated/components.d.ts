@@ -3,10 +3,12 @@ import type { Schema, Struct } from '@strapi/strapi';
 export interface MetaBlogPage extends Struct.ComponentSchema {
   collectionName: 'components_meta_blog_pages';
   info: {
+    description: '';
     displayName: 'BlogPage';
   };
   attributes: {
     page: Schema.Attribute.Relation<'oneToOne', 'api::page.page'>;
+    showDescription: Schema.Attribute.Boolean;
     width: Schema.Attribute.Enumeration<
       ['onethird', 'twothirds', 'threethirds']
     >;
@@ -242,6 +244,7 @@ export interface SectionsBlurbs extends Struct.ComponentSchema {
 export interface SectionsCapabilities extends Struct.ComponentSchema {
   collectionName: 'components_sections_capabilities';
   info: {
+    description: '';
     displayName: 'Capabilities';
   };
   attributes: {
@@ -249,6 +252,7 @@ export interface SectionsCapabilities extends Struct.ComponentSchema {
       'oneToMany',
       'api::capability.capability'
     >;
+    description: Schema.Attribute.Blocks;
     styles: Schema.Attribute.Component<'meta.styles', false>;
     subtitle: Schema.Attribute.String;
     title: Schema.Attribute.String;

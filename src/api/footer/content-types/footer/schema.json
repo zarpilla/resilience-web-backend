@@ -126,6 +126,16 @@
         }
       },
       "component": "meta.subscription-form"
+    },
+    "middle3BLogos": {
+      "type": "component",
+      "repeatable": true,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "meta.social"
     }
   }
 }

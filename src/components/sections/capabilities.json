@@ -1,7 +1,8 @@
 {
   "collectionName": "components_sections_capabilities",
   "info": {
-    "displayName": "Capabilities"
+    "displayName": "Capabilities",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -20,6 +21,9 @@
       "type": "component",
       "repeatable": false,
       "component": "meta.styles"
+    },
+    "description": {
+      "type": "blocks"
     }
   }
 }
