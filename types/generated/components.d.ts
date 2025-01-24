@@ -248,6 +248,7 @@ export interface SectionsCapabilities extends Struct.ComponentSchema {
     displayName: 'Capabilities';
   };
   attributes: {
+    c2aText: Schema.Attribute.String;
     capabilities: Schema.Attribute.Relation<
       'oneToMany',
       'api::capability.capability'

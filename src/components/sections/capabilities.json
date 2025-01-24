@@ -24,6 +24,9 @@
     },
     "description": {
       "type": "blocks"
+    },
+    "c2aText": {
+      "type": "string"
     }
   }
 }
