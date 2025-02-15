@@ -22,7 +22,8 @@
         "default",
         "tags-cloud",
         "marquee",
-        "navigation-arrows"
+        "navigation-arrows",
+        "title-sections"
       ],
       "default": "default"
     },

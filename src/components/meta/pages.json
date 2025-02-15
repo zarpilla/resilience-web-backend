@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_meta_pages",
+  "info": {
+    "displayName": "pages"
+  },
+  "options": {},
+  "attributes": {
+    "page": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::page.page"
+    }
+  }
+}

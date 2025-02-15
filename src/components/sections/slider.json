@@ -37,7 +37,9 @@
       "type": "enumeration",
       "enum": [
         "one",
-        "three"
+        "three",
+        "services",
+        "three-black"
       ]
     },
     "intervalMilliseconds": {

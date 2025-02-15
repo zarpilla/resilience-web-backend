@@ -31,7 +31,8 @@
       "type": "enumeration",
       "enum": [
         "bottom-left",
-        "centered"
+        "centered",
+        "post"
       ],
       "default": "bottom-left"
     },

@@ -86,6 +86,27 @@ export default factories.createCoreController(
                   },
                 },
               },
+              "sections.masonry": {
+                populate: {
+                  styles: {
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
+                  },
+                  pages: {
+                    populate: {
+                      page: {
+                        populate: {
+                          metadata: {
+                            populate: "shareImage",
+                          },
+                        },
+                      },
+                    },
+                  },
+                },
+              },
               "sections.menu": {
                 populate: {
                   styles: {

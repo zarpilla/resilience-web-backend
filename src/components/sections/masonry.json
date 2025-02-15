@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_sections_masonries",
+  "info": {
+    "displayName": "Masonry",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "subtitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "pages": {
+      "displayName": "pages",
+      "type": "component",
+      "repeatable": true,
+      "component": "meta.pages"
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    }
+  }
+}

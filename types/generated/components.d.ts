@@ -142,6 +142,16 @@ export interface MetaMetadata extends Struct.ComponentSchema {
   };
 }
 
+export interface MetaPages extends Struct.ComponentSchema {
+  collectionName: 'components_meta_pages';
+  info: {
+    displayName: 'pages';
+  };
+  attributes: {
+    page: Schema.Attribute.Relation<'oneToOne', 'api::page.page'>;
+  };
+}
+
 export interface MetaSocial extends Struct.ComponentSchema {
   collectionName: 'components_meta_socials';
   info: {
@@ -281,12 +291,26 @@ export interface SectionsHero extends Struct.ComponentSchema {
   };
   attributes: {
     alias: Schema.Attribute.String;
-    align: Schema.Attribute.Enumeration<['bottom-left', 'centered']> &
+    align: Schema.Attribute.Enumeration<['bottom-left', 'centered', 'post']> &
       Schema.Attribute.DefaultTo<'bottom-left'>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
     text: Schema.Attribute.Blocks;
     title: Schema.Attribute.String;
     titleHeading: Schema.Attribute.Enumeration<['h1', 'h2', 'h3', 'h4', 'p']>;
+  };
+}
+
+export interface SectionsMasonry extends Struct.ComponentSchema {
+  collectionName: 'components_sections_masonries';
+  info: {
+    description: '';
+    displayName: 'Masonry';
+  };
+  attributes: {
+    pages: Schema.Attribute.Component<'meta.pages', true>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+    subtitle: Schema.Attribute.String;
+    title: Schema.Attribute.String;
   };
 }
 
@@ -300,7 +324,13 @@ export interface SectionsMenu extends Struct.ComponentSchema {
     alias: Schema.Attribute.String;
     menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
     preset: Schema.Attribute.Enumeration<
-      ['default', 'tags-cloud', 'marquee', 'navigation-arrows']
+      [
+        'default',
+        'tags-cloud',
+        'marquee',
+        'navigation-arrows',
+        'title-sections',
+      ]
     > &
       Schema.Attribute.DefaultTo<'default'>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
@@ -337,10 +367,23 @@ export interface SectionsSlider extends Struct.ComponentSchema {
     intervalMilliseconds: Schema.Attribute.Integer &
       Schema.Attribute.DefaultTo<8000>;
     menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
-    preset: Schema.Attribute.Enumeration<['one', 'three']>;
+    preset: Schema.Attribute.Enumeration<
+      ['one', 'three', 'services', 'three-black']
+    >;
     styles: Schema.Attribute.Component<'meta.styles', false>;
     subTitle: Schema.Attribute.String;
     title: Schema.Attribute.String;
+  };
+}
+
+export interface SectionsTimeline extends Struct.ComponentSchema {
+  collectionName: 'components_sections_timelines';
+  info: {
+    displayName: 'Timeline';
+  };
+  attributes: {
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+    url: Schema.Attribute.String;
   };
 }
 
@@ -356,6 +399,7 @@ declare module '@strapi/strapi' {
       'meta.column-content': MetaColumnContent;
       'meta.link': MetaLink;
       'meta.metadata': MetaMetadata;
+      'meta.pages': MetaPages;
       'meta.social': MetaSocial;
       'meta.styles': MetaStyles;
       'meta.subscription-form': MetaSubscriptionForm;
@@ -365,9 +409,11 @@ declare module '@strapi/strapi' {
       'sections.capabilities': SectionsCapabilities;
       'sections.columns': SectionsColumns;
       'sections.hero': SectionsHero;
+      'sections.masonry': SectionsMasonry;
       'sections.menu': SectionsMenu;
       'sections.scroller': SectionsScroller;
       'sections.slider': SectionsSlider;
+      'sections.timeline': SectionsTimeline;
     }
   }
 }
