@@ -132,10 +132,12 @@ export interface MetaLink extends Struct.ComponentSchema {
 export interface MetaMetadata extends Struct.ComponentSchema {
   collectionName: 'components_meta_metadata';
   info: {
+    description: '';
     displayName: 'metadata';
   };
   attributes: {
     metaDescription: Schema.Attribute.Text;
+    metaDescriptionShort: Schema.Attribute.String;
     metaTitle: Schema.Attribute.String;
     noIndex: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     shareImage: Schema.Attribute.Media<'images' | 'files'>;
