@@ -281,6 +281,9 @@ export default factories.createCoreController(
                   },
                 },
               },
+              "sections.timeline": {
+                populate: true
+              }
             },
           },
         },
