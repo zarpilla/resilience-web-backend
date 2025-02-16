@@ -282,7 +282,14 @@ export default factories.createCoreController(
                 },
               },
               "sections.timeline": {
-                populate: true
+                populate: {                  
+                  styles: {
+                    populate: {
+                      backgroundImage: true,
+                      backgroundImage2: true,
+                    },
+                  },
+                },
               }
             },
           },
