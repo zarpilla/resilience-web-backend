@@ -125,6 +125,14 @@
         }
       },
       "type": "string"
+    },
+    "readTime": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
     }
   }
 }

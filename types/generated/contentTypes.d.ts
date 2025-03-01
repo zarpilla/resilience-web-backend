@@ -860,6 +860,12 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         };
       }>;
     publishedAt: Schema.Attribute.DateTime;
+    readTime: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     sections: Schema.Attribute.DynamicZone<
       [
         'sections.hero',
