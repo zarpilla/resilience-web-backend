@@ -133,6 +133,29 @@
         }
       },
       "type": "string"
+    },
+    "scopes": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::scope.scope"
+    },
+    "typology": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::typology.typology"
+    },
+    "year": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::year.year"
+    },
+    "author": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
     }
   }
 }

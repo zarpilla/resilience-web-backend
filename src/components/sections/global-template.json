@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_sections_global_templates",
+  "info": {
+    "displayName": "GlobalTemplate"
+  },
+  "options": {},
+  "attributes": {
+    "template": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::template.template"
+    }
+  }
+}

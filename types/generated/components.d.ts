@@ -285,6 +285,16 @@ export interface SectionsColumns extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsGlobalTemplate extends Struct.ComponentSchema {
+  collectionName: 'components_sections_global_templates';
+  info: {
+    displayName: 'GlobalTemplate';
+  };
+  attributes: {
+    template: Schema.Attribute.Relation<'oneToOne', 'api::template.template'>;
+  };
+}
+
 export interface SectionsHero extends Struct.ComponentSchema {
   collectionName: 'components_sections_heroes';
   info: {
@@ -410,6 +420,7 @@ declare module '@strapi/strapi' {
       'sections.blurbs': SectionsBlurbs;
       'sections.capabilities': SectionsCapabilities;
       'sections.columns': SectionsColumns;
+      'sections.global-template': SectionsGlobalTemplate;
       'sections.hero': SectionsHero;
       'sections.masonry': SectionsMasonry;
       'sections.menu': SectionsMenu;

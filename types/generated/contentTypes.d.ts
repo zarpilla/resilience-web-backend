@@ -816,6 +816,12 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
     };
   };
   attributes: {
+    author: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     client: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
@@ -866,6 +872,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
           localized: true;
         };
       }>;
+    scopes: Schema.Attribute.Relation<'oneToMany', 'api::scope.scope'>;
     sections: Schema.Attribute.DynamicZone<
       [
         'sections.hero',
@@ -911,9 +918,11 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         };
       }> &
       Schema.Attribute.DefaultTo<'page'>;
+    typology: Schema.Attribute.Relation<'oneToOne', 'api::typology.typology'>;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    year: Schema.Attribute.Relation<'oneToOne', 'api::year.year'>;
   };
 }
 
@@ -1010,6 +1019,64 @@ export interface ApiTagTag extends Struct.CollectionTypeSchema {
       }>;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'name'> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiTemplateTemplate extends Struct.CollectionTypeSchema {
+  collectionName: 'templates';
+  info: {
+    description: '';
+    displayName: 'Template';
+    pluralName: 'templates';
+    singularName: 'template';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::template.template'
+    >;
+    name: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    publishedAt: Schema.Attribute.DateTime;
+    sections: Schema.Attribute.DynamicZone<
+      [
+        'sections.timeline',
+        'sections.slider',
+        'sections.scroller',
+        'sections.menu',
+        'sections.masonry',
+        'sections.hero',
+        'sections.columns',
+        'sections.capabilities',
+        'sections.blurbs',
+        'sections.blog',
+        'sections.bios',
+      ]
+    > &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
@@ -1648,6 +1715,7 @@ declare module '@strapi/strapi' {
       'api::scope.scope': ApiScopeScope;
       'api::subscription.subscription': ApiSubscriptionSubscription;
       'api::tag.tag': ApiTagTag;
+      'api::template.template': ApiTemplateTemplate;
       'api::text.text': ApiTextText;
       'api::typology.typology': ApiTypologyTypology;
       'api::year.year': ApiYearYear;
