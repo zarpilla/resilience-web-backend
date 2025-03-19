@@ -9,7 +9,7 @@ import { factories } from '@strapi/strapi'
 export default factories.createCoreController('api::subscription.subscription', ({ strapi }) => ({
     async create(ctx) {
         const response = await super.create(ctx);
-        console.log('response', response);
+        // console.log('response', response);
         // const sanitizedEntity = await sanitizeEntity(response, {
         //     model: strapi.models.subscription,
         // });

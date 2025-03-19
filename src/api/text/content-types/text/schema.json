@@ -4,7 +4,8 @@
   "info": {
     "singularName": "text",
     "pluralName": "texts",
-    "displayName": "Text"
+    "displayName": "Text",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -32,6 +33,62 @@
       "type": "string"
     },
     "capabilities": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "articles": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "home0": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "home1": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "home2": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "home3": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "home4": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "home5": {
       "pluginOptions": {
         "i18n": {
           "localized": true
