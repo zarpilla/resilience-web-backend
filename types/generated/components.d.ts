@@ -388,6 +388,17 @@ export interface SectionsSlider extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsTemplate extends Struct.ComponentSchema {
+  collectionName: 'components_sections_templates';
+  info: {
+    displayName: 'Template';
+  };
+  attributes: {
+    alias: Schema.Attribute.String;
+    template: Schema.Attribute.Relation<'oneToOne', 'api::template.template'>;
+  };
+}
+
 export interface SectionsTimeline extends Struct.ComponentSchema {
   collectionName: 'components_sections_timelines';
   info: {
@@ -426,6 +437,7 @@ declare module '@strapi/strapi' {
       'sections.menu': SectionsMenu;
       'sections.scroller': SectionsScroller;
       'sections.slider': SectionsSlider;
+      'sections.template': SectionsTemplate;
       'sections.timeline': SectionsTimeline;
     }
   }

@@ -63,7 +63,8 @@
         "sections.blog",
         "sections.capabilities",
         "sections.timeline",
-        "sections.masonry"
+        "sections.masonry",
+        "sections.template"
       ]
     },
     "type": {

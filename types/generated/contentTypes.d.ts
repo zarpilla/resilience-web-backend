@@ -886,6 +886,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         'sections.capabilities',
         'sections.timeline',
         'sections.masonry',
+        'sections.template',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{

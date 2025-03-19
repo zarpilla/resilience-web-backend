@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_templates",
+  "info": {
+    "displayName": "Template"
+  },
+  "options": {},
+  "attributes": {
+    "alias": {
+      "type": "string"
+    },
+    "template": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::template.template"
+    }
+  }
+}

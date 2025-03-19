@@ -281,9 +281,16 @@ const sectionsPopulate = {
           },
         },
       },
+      "sections.template": {
+        populate: {
+          template: true
+        }
+      },
     },
   },
 };
+
+
 
 export default factories.createCoreController(
   "api::page.page",
@@ -299,6 +306,28 @@ export default factories.createCoreController(
           ...sectionsPopulate,
         },
       });
+
+      const sectionsPopulateWithoutTemplate = { ...sectionsPopulate };
+      delete sectionsPopulateWithoutTemplate.sections["sections.template"];
+
+      for (const section of page.sections) {
+        if (section.__component === "sections.template") {
+          const template = await strapi
+            .documents("api::template.template")
+            .findOne({
+              documentId: section.template.documentId,
+              populate: {
+                localizations: true,
+                ...sectionsPopulateWithoutTemplate,
+              },
+            });
+          // section["thetemplate"] = template;
+
+          for (const section of template.sections) {
+            page.sections.push(section);
+          }
+        }
+      }
 
       ctx.body = page;
     },
