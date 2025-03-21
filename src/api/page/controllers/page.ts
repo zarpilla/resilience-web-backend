@@ -70,6 +70,9 @@ const sectionsPopulate = {
                   metadata: {
                     populate: "shareImage",
                   },
+                  scopes: true,
+                  year: true,
+                  typology: true,
                 },
               },
             },
@@ -91,6 +94,9 @@ const sectionsPopulate = {
                   metadata: {
                     populate: "shareImage",
                   },
+                  scopes: true,
+                  year: true,
+                  typology: true,
                 },
               },
             },
@@ -114,6 +120,9 @@ const sectionsPopulate = {
                       metadata: {
                         populate: "shareImage",
                       },
+                      scopes: true,
+                      year: true,
+                      typology: true,
                     },
                   },
                   submenu: {
@@ -154,6 +163,9 @@ const sectionsPopulate = {
                       metadata: {
                         populate: "shareImage",
                       },
+                      scopes: true,
+                      year: true,
+                      typology: true,
                     },
                   },
                   submenu: {
@@ -165,6 +177,9 @@ const sectionsPopulate = {
                               metadata: {
                                 populate: "shareImage",
                               },
+                              scopes: true,
+                              year: true,
+                              typology: true,
                             },
                           },
                         },
@@ -194,6 +209,9 @@ const sectionsPopulate = {
                       metadata: {
                         populate: "shareImage",
                       },
+                      scopes: true,
+                      year: true,
+                      typology: true,
                     },
                   },
                   submenu: {
@@ -205,6 +223,9 @@ const sectionsPopulate = {
                               metadata: {
                                 populate: "shareImage",
                               },
+                              scopes: true,
+                              year: true,
+                              typology: true,
                             },
                           },
                         },
@@ -259,6 +280,9 @@ const sectionsPopulate = {
                   metadata: {
                     populate: "shareImage",
                   },
+                  scopes: true,
+                  year: true,
+                  typology: true,
                 },
               },
             },
@@ -283,14 +307,12 @@ const sectionsPopulate = {
       },
       "sections.template": {
         populate: {
-          template: true
-        }
+          template: true,
+        },
       },
     },
   },
 };
-
-
 
 export default factories.createCoreController(
   "api::page.page",
