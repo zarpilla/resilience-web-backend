@@ -17,6 +17,8 @@ services:
       ADMIN_JWT_SECRET: ${ADMIN_JWT_SECRET}
       APP_KEYS: ${APP_KEYS}
       NODE_ENV: ${NODE_ENV}
+      LIBRETRANSLATE_API_KEY: ${LIBRETRANSLATE_API_KEY}
+      LIBRETRANSLATE_API_URL: ${LIBRETRANSLATE_API_URL}
     volumes:
       - ./config:/opt/app/config
       - ./src:/opt/app/src
