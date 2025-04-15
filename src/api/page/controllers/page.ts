@@ -320,6 +320,7 @@ export default factories.createCoreController(
     sections: async (ctx, next) => {
       const page = await strapi.documents("api::page.page").findOne({
         documentId: ctx.params.id,
+        locale: ctx.query.locale as string,
         populate: {
           metadata: {
             populate: "shareImage",
@@ -338,6 +339,7 @@ export default factories.createCoreController(
             .documents("api::template.template")
             .findOne({
               documentId: section.template.documentId,
+              locale: ctx.query.locale as string,
               populate: {
                 localizations: true,
                 ...sectionsPopulateWithoutTemplate,
@@ -363,6 +365,7 @@ export default factories.createCoreController(
               $eq: ctx.params.template,
             },
           },
+          locale: ctx.query.locale as string,
           populate: {
             localizations: true,
             ...sectionsPopulate,
