@@ -19,6 +19,7 @@ services:
       NODE_ENV: ${NODE_ENV}
       LIBRETRANSLATE_API_KEY: ${LIBRETRANSLATE_API_KEY}
       LIBRETRANSLATE_API_URL: ${LIBRETRANSLATE_API_URL}
+      LIBRETRANSLATE_API_MAX_RPM: ${LIBRETRANSLATE_API_MAX_RPM}
     volumes:
       - ./config:/opt/app/config
       - ./src:/opt/app/src
