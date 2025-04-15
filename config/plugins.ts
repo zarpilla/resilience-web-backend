@@ -14,7 +14,7 @@ export default () => ({
             // maximum number of requests per minute - optional, default is `undefined` => no limit
             apiMaxRPM: process.env.LIBRETRANSLATE_API_MAX_RPM || 30,
             // maximum number of chars per request - optional, default is `undefined` => no limit
-            apiMaxChars: process.env.LIBRETRANSLATE_API_MAX_CHARS || 5000,
+            apiMaxChars: process.env.LIBRETRANSLATE_API_MAX_CHARS || 'undefined',
             // maximum number of texts per request
             // apiMaxTexts: 55,
             // manually overwrite the Strapi Locale to LibreTranslate Locale mapping.
