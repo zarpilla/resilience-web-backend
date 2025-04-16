@@ -43,7 +43,12 @@
     "styles": {
       "type": "component",
       "repeatable": false,
-      "component": "meta.styles"
+      "component": "meta.styles",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     }
   }
 }

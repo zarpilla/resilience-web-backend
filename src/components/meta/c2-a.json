@@ -26,7 +26,12 @@
     },
     "cssClass": {
       "type": "string",
-      "default": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100"
+      "default": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     }
   }
 }

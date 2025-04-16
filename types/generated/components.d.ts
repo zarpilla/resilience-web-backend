@@ -46,6 +46,11 @@ export interface MetaC2A extends Struct.ComponentSchema {
   };
   attributes: {
     cssClass: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }> &
       Schema.Attribute.DefaultTo<'btn mt-4 btn-with-arrow-right zbtn-dark zw-100'>;
     href: Schema.Attribute.String;
     page: Schema.Attribute.Relation<'oneToOne', 'api::page.page'>;
@@ -92,7 +97,12 @@ export interface MetaColumn extends Struct.ComponentSchema {
     alias: Schema.Attribute.String;
     c2a: Schema.Attribute.Component<'meta.c2-a', false>;
     media: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     text: Schema.Attribute.Blocks;
     title: Schema.Attribute.String;
     titleHeading: Schema.Attribute.Enumeration<
@@ -219,7 +229,12 @@ export interface SectionsBios extends Struct.ComponentSchema {
     c2aText: Schema.Attribute.String;
     preset: Schema.Attribute.Enumeration<['grid', 'list']> &
       Schema.Attribute.DefaultTo<'grid'>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     subtitle: Schema.Attribute.String;
     title: Schema.Attribute.String;
     titleHeading: Schema.Attribute.Enumeration<
@@ -236,7 +251,12 @@ export interface SectionsBlog extends Struct.ComponentSchema {
   };
   attributes: {
     blogPage: Schema.Attribute.Component<'meta.blog-page', true>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
   };
 }
 
@@ -248,7 +268,12 @@ export interface SectionsBlurbs extends Struct.ComponentSchema {
   };
   attributes: {
     blurbs: Schema.Attribute.Component<'meta.blurb', true>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     title: Schema.Attribute.String;
   };
 }
@@ -266,7 +291,12 @@ export interface SectionsCapabilities extends Struct.ComponentSchema {
       'api::capability.capability'
     >;
     description: Schema.Attribute.Blocks;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     subtitle: Schema.Attribute.String;
     title: Schema.Attribute.String;
   };
@@ -305,7 +335,12 @@ export interface SectionsHero extends Struct.ComponentSchema {
     alias: Schema.Attribute.String;
     align: Schema.Attribute.Enumeration<['bottom-left', 'centered', 'post']> &
       Schema.Attribute.DefaultTo<'bottom-left'>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     text: Schema.Attribute.Blocks;
     title: Schema.Attribute.String;
     titleHeading: Schema.Attribute.Enumeration<['h1', 'h2', 'h3', 'h4', 'p']>;
@@ -320,7 +355,12 @@ export interface SectionsMasonry extends Struct.ComponentSchema {
   };
   attributes: {
     pages: Schema.Attribute.Component<'meta.pages', true>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     subtitle: Schema.Attribute.String;
     title: Schema.Attribute.String;
   };
@@ -345,7 +385,12 @@ export interface SectionsMenu extends Struct.ComponentSchema {
       ]
     > &
       Schema.Attribute.DefaultTo<'default'>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
   };
 }
 
@@ -360,7 +405,12 @@ export interface SectionsScroller extends Struct.ComponentSchema {
     menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
     preset: Schema.Attribute.Enumeration<['pages', 'images']> &
       Schema.Attribute.DefaultTo<'pages'>;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     subtitle: Schema.Attribute.Text;
     title: Schema.Attribute.String;
   };
@@ -373,7 +423,12 @@ export interface SectionsSlider extends Struct.ComponentSchema {
     displayName: 'Slider';
   };
   attributes: {
-    background: Schema.Attribute.String;
+    background: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     c2a: Schema.Attribute.Component<'meta.c2-a', false>;
     goToText: Schema.Attribute.String;
     intervalMilliseconds: Schema.Attribute.Integer &
@@ -382,7 +437,12 @@ export interface SectionsSlider extends Struct.ComponentSchema {
     preset: Schema.Attribute.Enumeration<
       ['one', 'three', 'services', 'three-black']
     >;
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     subTitle: Schema.Attribute.String;
     title: Schema.Attribute.String;
   };
@@ -391,10 +451,16 @@ export interface SectionsSlider extends Struct.ComponentSchema {
 export interface SectionsTemplate extends Struct.ComponentSchema {
   collectionName: 'components_sections_templates';
   info: {
+    description: '';
     displayName: 'Template';
   };
   attributes: {
-    alias: Schema.Attribute.String;
+    alias: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     template: Schema.Attribute.Relation<'oneToOne', 'api::template.template'>;
   };
 }
@@ -402,10 +468,16 @@ export interface SectionsTemplate extends Struct.ComponentSchema {
 export interface SectionsTimeline extends Struct.ComponentSchema {
   collectionName: 'components_sections_timelines';
   info: {
+    description: '';
     displayName: 'Timeline';
   };
   attributes: {
-    styles: Schema.Attribute.Component<'meta.styles', false>;
+    styles: Schema.Attribute.Component<'meta.styles', false> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     url: Schema.Attribute.String;
   };
 }

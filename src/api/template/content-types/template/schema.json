@@ -20,6 +20,9 @@
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "copy"
         }
       },
       "type": "string"
@@ -28,6 +31,9 @@
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "translate"
         }
       },
       "type": "dynamiczone",

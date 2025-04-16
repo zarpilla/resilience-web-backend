@@ -1061,6 +1061,9 @@ export interface ApiTemplateTemplate extends Struct.CollectionTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'copy';
+        };
       }>;
     publishedAt: Schema.Attribute.DateTime;
     sections: Schema.Attribute.DynamicZone<
@@ -1081,6 +1084,9 @@ export interface ApiTemplateTemplate extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     updatedAt: Schema.Attribute.DateTime;

@@ -1,12 +1,18 @@
 {
   "collectionName": "components_sections_templates",
   "info": {
-    "displayName": "Template"
+    "displayName": "Template",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "alias": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "template": {
       "type": "relation",
