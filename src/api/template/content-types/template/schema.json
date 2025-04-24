@@ -48,7 +48,8 @@
         "sections.capabilities",
         "sections.blurbs",
         "sections.blog",
-        "sections.bios"
+        "sections.bios",
+        "sections.tabs"
       ]
     }
   }

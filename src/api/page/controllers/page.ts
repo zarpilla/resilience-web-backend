@@ -55,6 +55,41 @@ const sectionsPopulate = {
           },
         },
       },
+      "sections.tabs": {
+        populate: {
+          styles: {
+            populate: {
+              backgroundImage: true,
+              backgroundImage2: true,
+            },
+          },
+          tabs: {
+            populate: {
+              media: true,
+              styles: {
+                populate: {
+                  backgroundImage: true,
+                  backgroundImage2: true,
+                },
+              },
+              c2a: {
+                populate: {
+                  page: true,
+                },
+              },
+              verticalScroller: {
+                populate: {
+                  children: {
+                    populate: {
+                      image: true,
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
+      },
       "sections.blog": {
         populate: {
           styles: {

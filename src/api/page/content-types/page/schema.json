@@ -20,6 +20,9 @@
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "translate"
         }
       },
       "type": "string",
@@ -41,6 +44,9 @@
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "translate"
         }
       },
       "component": "meta.metadata"
@@ -49,6 +55,9 @@
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "translate"
         }
       },
       "type": "dynamiczone",
@@ -64,7 +73,8 @@
         "sections.capabilities",
         "sections.timeline",
         "sections.masonry",
-        "sections.template"
+        "sections.template",
+        "sections.tabs"
       ]
     },
     "type": {
@@ -109,12 +119,20 @@
     "tags": {
       "type": "relation",
       "relation": "oneToMany",
-      "target": "api::tag.tag"
+      "target": "api::tag.tag",
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        }
+      }
     },
     "client": {
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "translate"
         }
       },
       "type": "string"
@@ -123,6 +141,9 @@
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "translate"
         }
       },
       "type": "string"
@@ -131,6 +152,9 @@
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "translate"
         }
       },
       "type": "string"
@@ -138,22 +162,40 @@
     "scopes": {
       "type": "relation",
       "relation": "oneToMany",
-      "target": "api::scope.scope"
+      "target": "api::scope.scope",
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        }
+      }
     },
     "typology": {
       "type": "relation",
       "relation": "oneToOne",
-      "target": "api::typology.typology"
+      "target": "api::typology.typology",
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        }
+      }
     },
     "year": {
       "type": "relation",
       "relation": "oneToOne",
-      "target": "api::year.year"
+      "target": "api::year.year",
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        }
+      }
     },
     "author": {
       "pluginOptions": {
         "i18n": {
           "localized": true
+        },
+        "translate": {
+          "translate": "translate"
         }
       },
       "type": "string"

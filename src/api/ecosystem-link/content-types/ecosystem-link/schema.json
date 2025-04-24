@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ecosystem_links",
+  "info": {
+    "singularName": "ecosystem-link",
+    "pluralName": "ecosystem-links",
+    "displayName": "EcosystemLink",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "source": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::ecosystem-node.ecosystem-node"
+    },
+    "target": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::ecosystem-node.ecosystem-node"
+    }
+  }
+}

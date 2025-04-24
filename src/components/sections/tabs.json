@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_sections_tabs",
+  "info": {
+    "displayName": "Tabs",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "alias": {
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    },
+    "tabs": {
+      "type": "component",
+      "repeatable": true,
+      "component": "meta.column"
+    }
+  }
+}

@@ -556,6 +556,74 @@ export interface ApiCapabilityCapability extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiEcosystemLinkEcosystemLink
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'ecosystem_links';
+  info: {
+    description: '';
+    displayName: 'EcosystemLink';
+    pluralName: 'ecosystem-links';
+    singularName: 'ecosystem-link';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::ecosystem-link.ecosystem-link'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    source: Schema.Attribute.Relation<
+      'oneToOne',
+      'api::ecosystem-node.ecosystem-node'
+    >;
+    target: Schema.Attribute.Relation<
+      'oneToOne',
+      'api::ecosystem-node.ecosystem-node'
+    >;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiEcosystemNodeEcosystemNode
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'ecosystem_nodes';
+  info: {
+    description: '';
+    displayName: 'EcosystemNode';
+    pluralName: 'ecosystem-nodes';
+    singularName: 'ecosystem-node';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    group: Schema.Attribute.Integer;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::ecosystem-node.ecosystem-node'
+    > &
+      Schema.Attribute.Private;
+    name: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiFooterFooter extends Struct.SingleTypeSchema {
   collectionName: 'footers';
   info: {
@@ -821,11 +889,17 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     client: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     createdAt: Schema.Attribute.DateTime;
@@ -845,11 +919,17 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     metadata: Schema.Attribute.Component<'meta.metadata', false> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     name: Schema.Attribute.String &
@@ -857,6 +937,9 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     pageCss: Schema.Attribute.String &
@@ -871,8 +954,16 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
-    scopes: Schema.Attribute.Relation<'oneToMany', 'api::scope.scope'>;
+    scopes: Schema.Attribute.Relation<'oneToMany', 'api::scope.scope'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     sections: Schema.Attribute.DynamicZone<
       [
         'sections.hero',
@@ -887,11 +978,15 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         'sections.timeline',
         'sections.masonry',
         'sections.template',
+        'sections.tabs',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     slug: Schema.Attribute.UID<'name'> &
@@ -901,7 +996,12 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
           localized: true;
         };
       }>;
-    tags: Schema.Attribute.Relation<'oneToMany', 'api::tag.tag'>;
+    tags: Schema.Attribute.Relation<'oneToMany', 'api::tag.tag'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     type: Schema.Attribute.Enumeration<
       [
         'page',
@@ -919,11 +1019,21 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         };
       }> &
       Schema.Attribute.DefaultTo<'page'>;
-    typology: Schema.Attribute.Relation<'oneToOne', 'api::typology.typology'>;
+    typology: Schema.Attribute.Relation<'oneToOne', 'api::typology.typology'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
-    year: Schema.Attribute.Relation<'oneToOne', 'api::year.year'>;
+    year: Schema.Attribute.Relation<'oneToOne', 'api::year.year'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
   };
 }
 
@@ -1079,6 +1189,7 @@ export interface ApiTemplateTemplate extends Struct.CollectionTypeSchema {
         'sections.blurbs',
         'sections.blog',
         'sections.bios',
+        'sections.tabs',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{
@@ -1934,6 +2045,8 @@ declare module '@strapi/strapi' {
       'api::author.author': ApiAuthorAuthor;
       'api::bio.bio': ApiBioBio;
       'api::capability.capability': ApiCapabilityCapability;
+      'api::ecosystem-link.ecosystem-link': ApiEcosystemLinkEcosystemLink;
+      'api::ecosystem-node.ecosystem-node': ApiEcosystemNodeEcosystemNode;
       'api::footer.footer': ApiFooterFooter;
       'api::header.header': ApiHeaderHeader;
       'api::menu.menu': ApiMenuMenu;

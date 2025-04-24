@@ -448,6 +448,24 @@ export interface SectionsSlider extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsTabs extends Struct.ComponentSchema {
+  collectionName: 'components_sections_tabs';
+  info: {
+    description: '';
+    displayName: 'Tabs';
+  };
+  attributes: {
+    alias: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+    tabs: Schema.Attribute.Component<'meta.column', true>;
+  };
+}
+
 export interface SectionsTemplate extends Struct.ComponentSchema {
   collectionName: 'components_sections_templates';
   info: {
@@ -509,6 +527,7 @@ declare module '@strapi/strapi' {
       'sections.menu': SectionsMenu;
       'sections.scroller': SectionsScroller;
       'sections.slider': SectionsSlider;
+      'sections.tabs': SectionsTabs;
       'sections.template': SectionsTemplate;
       'sections.timeline': SectionsTimeline;
     }

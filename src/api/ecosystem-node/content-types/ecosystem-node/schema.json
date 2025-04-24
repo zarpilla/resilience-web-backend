@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ecosystem_nodes",
+  "info": {
+    "singularName": "ecosystem-node",
+    "pluralName": "ecosystem-nodes",
+    "displayName": "EcosystemNode",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "group": {
+      "type": "integer"
+    }
+  }
+}
