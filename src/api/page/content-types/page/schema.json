@@ -199,6 +199,19 @@
         }
       },
       "type": "string"
+    },
+    "audio": {
+      "allowedTypes": [
+        "files",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false,
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        }
+      }
     }
   }
 }

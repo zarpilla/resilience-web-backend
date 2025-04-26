@@ -884,6 +884,12 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
     };
   };
   attributes: {
+    audio: Schema.Attribute.Media<'files' | 'audios'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     author: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
