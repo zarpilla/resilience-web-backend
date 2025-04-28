@@ -194,8 +194,8 @@ export interface MetaStyles extends Struct.ComponentSchema {
     height: Schema.Attribute.String;
     margin: Schema.Attribute.String;
     padding: Schema.Attribute.String;
-    paddingBottom: Schema.Attribute.Boolean;
-    paddingTop: Schema.Attribute.Boolean;
+    paddingBottom: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    paddingTop: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
     sectionId: Schema.Attribute.String;
     textColor: Schema.Attribute.Enumeration<['light', 'dark']> &
       Schema.Attribute.DefaultTo<'dark'>;

@@ -67,10 +67,12 @@
       ]
     },
     "paddingTop": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": true
     },
     "paddingBottom": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": true
     }
   }
 }
