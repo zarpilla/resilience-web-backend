@@ -58,12 +58,19 @@
       "type": "string"
     },
     "backgroundImage2": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images",
         "files"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
+    },
+    "paddingTop": {
+      "type": "boolean"
+    },
+    "paddingBottom": {
+      "type": "boolean"
     }
   }
 }
