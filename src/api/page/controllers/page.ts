@@ -380,10 +380,12 @@ export default factories.createCoreController(
                 ...sectionsPopulateWithoutTemplate,
               },
             });
-          // section["thetemplate"] = template;
-
           for (const section of template.sections) {
-            page.sections.push(section);
+            // push at position of the template
+            const index = page.sections.findIndex((s) => s.id === section.id);
+            if (index === -1) {
+              page.sections.splice(index, 0, section);
+            }
           }
         }
       }
