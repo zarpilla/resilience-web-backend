@@ -530,6 +530,7 @@ export interface SectionsVideo extends Struct.ComponentSchema {
       }>;
     styles: Schema.Attribute.Component<'meta.styles', false>;
     title: Schema.Attribute.String;
+    url: Schema.Attribute.String;
   };
 }
 
