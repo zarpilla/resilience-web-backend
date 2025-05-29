@@ -74,7 +74,9 @@
         "sections.timeline",
         "sections.masonry",
         "sections.template",
-        "sections.tabs"
+        "sections.tabs",
+        "sections.video",
+        "sections.ecosystem"
       ]
     },
     "type": {
@@ -201,12 +203,13 @@
       "type": "string"
     },
     "audio": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "files",
         "audios"
       ],
-      "type": "media",
-      "multiple": false,
       "pluginOptions": {
         "translate": {
           "translate": "translate"

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_sections_ecosystems",
+  "info": {
+    "displayName": "Ecosystem",
+    "icon": "manyToMany"
+  },
+  "options": {},
+  "attributes": {
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    }
+  }
+}

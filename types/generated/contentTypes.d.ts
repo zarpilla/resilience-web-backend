@@ -985,6 +985,8 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         'sections.masonry',
         'sections.template',
         'sections.tabs',
+        'sections.video',
+        'sections.ecosystem',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{
@@ -1196,6 +1198,8 @@ export interface ApiTemplateTemplate extends Struct.CollectionTypeSchema {
         'sections.blog',
         'sections.bios',
         'sections.tabs',
+        'sections.video',
+        'sections.ecosystem',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{

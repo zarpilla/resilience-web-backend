@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_sections_videos",
+  "info": {
+    "displayName": "Video",
+    "icon": "play",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "files",
+        "images"
+      ],
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
+    },
+    "embed": {
+      "type": "blocks"
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    }
+  }
+}

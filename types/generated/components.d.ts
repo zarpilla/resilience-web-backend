@@ -317,6 +317,17 @@ export interface SectionsColumns extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsEcosystem extends Struct.ComponentSchema {
+  collectionName: 'components_sections_ecosystems';
+  info: {
+    displayName: 'Ecosystem';
+    icon: 'manyToMany';
+  };
+  attributes: {
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+  };
+}
+
 export interface SectionsGlobalTemplate extends Struct.ComponentSchema {
   collectionName: 'components_sections_global_templates';
   info: {
@@ -502,6 +513,26 @@ export interface SectionsTimeline extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsVideo extends Struct.ComponentSchema {
+  collectionName: 'components_sections_videos';
+  info: {
+    description: '';
+    displayName: 'Video';
+    icon: 'play';
+  };
+  attributes: {
+    embed: Schema.Attribute.Blocks;
+    image: Schema.Attribute.Media<'files' | 'images'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+    title: Schema.Attribute.String;
+  };
+}
+
 declare module '@strapi/strapi' {
   export module Public {
     export interface ComponentSchemas {
@@ -523,6 +554,7 @@ declare module '@strapi/strapi' {
       'sections.blurbs': SectionsBlurbs;
       'sections.capabilities': SectionsCapabilities;
       'sections.columns': SectionsColumns;
+      'sections.ecosystem': SectionsEcosystem;
       'sections.global-template': SectionsGlobalTemplate;
       'sections.hero': SectionsHero;
       'sections.masonry': SectionsMasonry;
@@ -532,6 +564,7 @@ declare module '@strapi/strapi' {
       'sections.tabs': SectionsTabs;
       'sections.template': SectionsTemplate;
       'sections.timeline': SectionsTimeline;
+      'sections.video': SectionsVideo;
     }
   }
 }

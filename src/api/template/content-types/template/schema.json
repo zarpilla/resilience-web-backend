@@ -49,7 +49,9 @@
         "sections.blurbs",
         "sections.blog",
         "sections.bios",
-        "sections.tabs"
+        "sections.tabs",
+        "sections.video",
+        "sections.ecosystem"
       ]
     }
   }
