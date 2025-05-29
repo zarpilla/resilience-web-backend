@@ -345,6 +345,27 @@ const sectionsPopulate = {
           template: true,
         },
       },
+      "sections.video": {
+        populate: {
+          image: true,
+          styles: {
+            populate: {
+              backgroundImage: true,
+              backgroundImage2: true,
+            },
+          },
+        },
+      },
+      "sections.ecosystem": {
+        populate: {
+          styles: {
+            populate: {
+              backgroundImage: true,
+              backgroundImage2: true,
+            },
+          },
+        },
+      },
     },
   },
 };
