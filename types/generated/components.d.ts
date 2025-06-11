@@ -367,6 +367,7 @@ export interface SectionsMasonry extends Struct.ComponentSchema {
     displayName: 'Masonry';
   };
   attributes: {
+    filter: Schema.Attribute.Boolean;
     pages: Schema.Attribute.Component<'meta.pages', true>;
     styles: Schema.Attribute.Component<'meta.styles', false> &
       Schema.Attribute.SetPluginOptions<{
