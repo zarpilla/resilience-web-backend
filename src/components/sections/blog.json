@@ -21,6 +21,9 @@
           "translate": "copy"
         }
       }
+    },
+    "filter": {
+      "type": "boolean"
     }
   }
 }

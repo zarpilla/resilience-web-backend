@@ -253,6 +253,7 @@ export interface SectionsBlog extends Struct.ComponentSchema {
   };
   attributes: {
     blogPage: Schema.Attribute.Component<'meta.blog-page', true>;
+    filter: Schema.Attribute.Boolean;
     styles: Schema.Attribute.Component<'meta.styles', false> &
       Schema.Attribute.SetPluginOptions<{
         translate: {

@@ -1386,6 +1386,12 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
           translate: 'translate';
         };
       }>;
+    loadMore: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     locale: Schema.Attribute.String;
     localizations: Schema.Attribute.Relation<'oneToMany', 'api::text.text'>;
     publishedAt: Schema.Attribute.DateTime;

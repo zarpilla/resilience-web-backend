@@ -296,6 +296,14 @@
           "translate": "translate"
         }
       }
+    },
+    "loadMore": {
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        }
+      }
     }
   }
 }
