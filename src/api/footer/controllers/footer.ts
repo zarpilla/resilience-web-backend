@@ -21,6 +21,12 @@ export default factories.createCoreController(
               hover: true,
             },
           },
+          middle3BLogos: {
+            populate: {
+              icon: true,
+              hover: true,
+            },
+          },
           social: {
             populate: {
               icon: true,
