@@ -188,7 +188,7 @@ export interface MetaStyles extends Struct.ComponentSchema {
     backgroundImage: Schema.Attribute.Media<'images' | 'files'>;
     backgroundImage2: Schema.Attribute.Media<'images' | 'files'>;
     container: Schema.Attribute.Enumeration<
-      ['normal', 'narrow', 'article', 'small', 'xxl']
+      ['normal', 'narrow', 'article', 'small', 'xxl', 'full']
     >;
     cssClass: Schema.Attribute.String;
     height: Schema.Attribute.String;

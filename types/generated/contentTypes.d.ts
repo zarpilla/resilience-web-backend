@@ -651,12 +651,23 @@ export interface ApiFooterFooter extends Struct.SingleTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
-    menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
+    menu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     middle1Text: Schema.Attribute.Text &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     middle1Title: Schema.Attribute.String &
@@ -664,11 +675,17 @@ export interface ApiFooterFooter extends Struct.SingleTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     middle2Text: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     middle3BLogos: Schema.Attribute.Component<'meta.social', true> &
@@ -676,17 +693,32 @@ export interface ApiFooterFooter extends Struct.SingleTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    middle3BTitle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
       }>;
     middle3Logos: Schema.Attribute.Component<'meta.social', true> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     middle3Title: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     primaryLogo: Schema.Attribute.Media<'images' | 'files'> &
@@ -707,11 +739,17 @@ export interface ApiFooterFooter extends Struct.SingleTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     social: Schema.Attribute.Component<'meta.social', true> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     subscriptionForm: Schema.Attribute.Component<
@@ -721,6 +759,9 @@ export interface ApiFooterFooter extends Struct.SingleTypeSchema {
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     updatedAt: Schema.Attribute.DateTime;

@@ -48,7 +48,8 @@
         "narrow",
         "article",
         "small",
-        "xxl"
+        "xxl",
+        "full"
       ]
     },
     "sectionId": {
