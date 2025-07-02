@@ -361,6 +361,17 @@ export interface SectionsHero extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsLeadForm extends Struct.ComponentSchema {
+  collectionName: 'components_sections_lead_forms';
+  info: {
+    displayName: 'LeadForm';
+  };
+  attributes: {
+    name: Schema.Attribute.String;
+    styles: Schema.Attribute.Component<'meta.styles', false>;
+  };
+}
+
 export interface SectionsMasonry extends Struct.ComponentSchema {
   collectionName: 'components_sections_masonries';
   info: {
@@ -560,6 +571,7 @@ declare module '@strapi/strapi' {
       'sections.ecosystem': SectionsEcosystem;
       'sections.global-template': SectionsGlobalTemplate;
       'sections.hero': SectionsHero;
+      'sections.lead-form': SectionsLeadForm;
       'sections.masonry': SectionsMasonry;
       'sections.menu': SectionsMenu;
       'sections.scroller': SectionsScroller;

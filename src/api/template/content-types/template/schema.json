@@ -51,7 +51,8 @@
         "sections.bios",
         "sections.tabs",
         "sections.video",
-        "sections.ecosystem"
+        "sections.ecosystem",
+        "sections.lead-form"
       ]
     }
   }

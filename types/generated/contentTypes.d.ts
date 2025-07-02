@@ -867,6 +867,36 @@ export interface ApiHeaderHeader extends Struct.SingleTypeSchema {
   };
 }
 
+export interface ApiLeadLead extends Struct.CollectionTypeSchema {
+  collectionName: 'leads';
+  info: {
+    displayName: 'Lead';
+    pluralName: 'leads';
+    singularName: 'lead';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    accept: Schema.Attribute.Boolean;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    email: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::lead.lead'> &
+      Schema.Attribute.Private;
+    message: Schema.Attribute.String;
+    name: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    sector: Schema.Attribute.String;
+    subject: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiMenuMenu extends Struct.CollectionTypeSchema {
   collectionName: 'menus';
   info: {
@@ -1028,6 +1058,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         'sections.tabs',
         'sections.video',
         'sections.ecosystem',
+        'sections.lead-form',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{
@@ -1241,6 +1272,7 @@ export interface ApiTemplateTemplate extends Struct.CollectionTypeSchema {
         'sections.tabs',
         'sections.video',
         'sections.ecosystem',
+        'sections.lead-form',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{
@@ -2193,6 +2225,7 @@ declare module '@strapi/strapi' {
       'api::ecosystem-node.ecosystem-node': ApiEcosystemNodeEcosystemNode;
       'api::footer.footer': ApiFooterFooter;
       'api::header.header': ApiHeaderHeader;
+      'api::lead.lead': ApiLeadLead;
       'api::menu.menu': ApiMenuMenu;
       'api::page.page': ApiPagePage;
       'api::scope.scope': ApiScopeScope;

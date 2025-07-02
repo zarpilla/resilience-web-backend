@@ -76,7 +76,8 @@
         "sections.template",
         "sections.tabs",
         "sections.video",
-        "sections.ecosystem"
+        "sections.ecosystem",
+        "sections.lead-form"
       ]
     },
     "type": {

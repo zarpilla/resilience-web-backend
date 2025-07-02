@@ -366,6 +366,16 @@ const sectionsPopulate = {
           },
         },
       },
+      "sections.lead-form": {
+        populate: {
+          styles: {
+            populate: {
+              backgroundImage: true,
+              backgroundImage2: true,
+            },
+          },
+        },
+      },
     },
   },
 };

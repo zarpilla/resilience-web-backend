@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_lead_forms",
+  "info": {
+    "displayName": "LeadForm"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "styles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.styles"
+    }
+  }
+}
