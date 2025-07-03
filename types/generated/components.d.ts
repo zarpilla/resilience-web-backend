@@ -192,6 +192,8 @@ export interface MetaStyles extends Struct.ComponentSchema {
     >;
     cssClass: Schema.Attribute.String;
     height: Schema.Attribute.String;
+    listenAudioAfter: Schema.Attribute.Boolean;
+    listenAudioBefore: Schema.Attribute.Boolean;
     margin: Schema.Attribute.String;
     padding: Schema.Attribute.String;
     paddingBottom: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;

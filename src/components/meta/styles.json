@@ -74,6 +74,12 @@
     "paddingBottom": {
       "type": "boolean",
       "default": true
+    },
+    "listenAudioBefore": {
+      "type": "boolean"
+    },
+    "listenAudioAfter": {
+      "type": "boolean"
     }
   }
 }
