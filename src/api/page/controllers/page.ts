@@ -442,5 +442,56 @@ export default factories.createCoreController(
         });
       ctx.body = template;
     },
+    categories: async (ctx, next) => {
+      const allPages = await strapi.documents("api::page.page").findMany({
+        locale: ctx.query.locale as string,
+        filters: {
+          type: ctx.query.type,
+        },
+        limit: -1,
+        populate: {
+          year: true,
+          typology: true,
+          scopes: true,
+        },
+      });
+      ctx.body = allPages;
+
+      // Example accumulator initialization
+      const count = allPages.reduce(
+        (acc, page) => {
+          if (page.year) {
+            acc.years[page.year.id] = (acc.years[page.year.id] || 0) + 1;
+          }
+          if (page.typology) {
+            acc.typologies[page.typology.id] =
+              (acc.typologies[page.typology.id] || 0) + 1;
+          }
+          if (page.scopes) {
+            page.scopes.forEach((scope) => {
+              acc.scopes[scope.id] = (acc.scopes[scope.id] || 0) + 1;
+            });
+          }
+          return acc;
+        },
+        { years: {}, typologies: {}, scopes: {} }
+      );
+      // Convert the accumulator to an array of objects
+      const countArray = {
+        years: Object.entries(count.years).map(([id, count]) => ({
+          id: parseInt(id, 10),
+          count,
+        })),
+        typologies: Object.entries(count.typologies).map(([id, count]) => ({
+          id: parseInt(id, 10),
+          count,
+        })),
+        scopes: Object.entries(count.scopes).map(([id, count]) => ({
+          id: parseInt(id, 10),
+          count,
+        })),
+      };
+      ctx.body = { countArray };
+    },
   })
 );
