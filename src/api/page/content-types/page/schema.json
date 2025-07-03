@@ -208,12 +208,14 @@
       "multiple": false,
       "required": false,
       "allowedTypes": [
-        "files",
         "audios"
       ],
       "pluginOptions": {
         "translate": {
           "translate": "translate"
+        },
+        "i18n": {
+          "localized": true
         }
       }
     }

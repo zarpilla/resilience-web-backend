@@ -421,10 +421,22 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
     };
   };
   attributes: {
+    audio: Schema.Attribute.Media<'files' | 'audios'> &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     content: Schema.Attribute.Blocks &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     createdAt: Schema.Attribute.DateTime;
@@ -434,6 +446,9 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     largeImage: Schema.Attribute.Media<'images' | 'files'> &
@@ -455,11 +470,17 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     more1: Schema.Attribute.Blocks &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     more2: Schema.Attribute.Blocks &
@@ -467,17 +488,26 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     name: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     position: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     publishedAt: Schema.Attribute.DateTime;
@@ -497,6 +527,9 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     updatedAt: Schema.Attribute.DateTime;
@@ -955,8 +988,11 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
     };
   };
   attributes: {
-    audio: Schema.Attribute.Media<'files' | 'audios'> &
+    audio: Schema.Attribute.Media<'audios'> &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
