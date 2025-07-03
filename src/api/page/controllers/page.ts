@@ -399,7 +399,10 @@ export default factories.createCoreController(
       const sectionsPopulateWithoutTemplate = { ...sectionsPopulate };
       delete sectionsPopulateWithoutTemplate.sections["sections.template"];
 
-      for (const section of page.sections) {
+      // Process templates in reverse order to maintain correct positioning
+      for (let i = page.sections.length - 1; i >= 0; i--) {
+        const section = page.sections[i];
+
         if (section.__component === "sections.template") {
           const template = await strapi
             .documents("api::template.template")
@@ -411,12 +414,10 @@ export default factories.createCoreController(
                 ...sectionsPopulateWithoutTemplate,
               },
             });
-          for (const section of template.sections) {
-            // push at position of the template
-            const index = page.sections.findIndex((s) => s.id === section.id);
-            if (index === -1) {
-              page.sections.splice(index, 0, section);
-            }
+
+          if (template && template.sections) {
+            // Remove the template section and insert template sections at the same position
+            page.sections.splice(i, 1, ...template.sections);
           }
         }
       }
