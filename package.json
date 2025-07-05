@@ -13,6 +13,7 @@
   "dependencies": {
     "@strapi/plugin-cloud": "5.12.4",
     "@strapi/plugin-users-permissions": "5.12.4",
+    "@strapi/provider-email-nodemailer": "^5.12.4",
     "@strapi/strapi": "5.12.4",
     "caniuse-lite": "^1.0.30001726",
     "pg": "8.8.0",
