@@ -657,6 +657,83 @@ export interface ApiEcosystemNodeEcosystemNode
   };
 }
 
+export interface ApiEmailConfigEmailConfig extends Struct.SingleTypeSchema {
+  collectionName: 'email_configs';
+  info: {
+    description: '';
+    displayName: 'EmailConfig';
+    pluralName: 'email-configs';
+    singularName: 'email-config';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    leadEmail1: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    leadEmail1Subject: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    leadEmail1To: Schema.Attribute.String;
+    leadEmail2: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    leadEmail2Subject: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    locale: Schema.Attribute.String;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::email-config.email-config'
+    >;
+    publishedAt: Schema.Attribute.DateTime;
+    subscriptionEmail1: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    subscriptionEmail1Subject: Schema.Attribute.String;
+    subscriptionEmail1To: Schema.Attribute.String;
+    subscriptionEmail2: Schema.Attribute.Text &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    subscriptionEmail2Subject: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiFooterFooter extends Struct.SingleTypeSchema {
   collectionName: 'footers';
   info: {
@@ -1968,104 +2045,6 @@ export interface PluginReviewWorkflowsWorkflowStage
   };
 }
 
-export interface PluginTranslateBatchTranslateJob
-  extends Struct.CollectionTypeSchema {
-  collectionName: 'translate_batch_translate_jobs';
-  info: {
-    description: '';
-    displayName: 'Translate Batch Translate Job';
-    name: 'batch-translate-job';
-    pluralName: 'batch-translate-jobs';
-    singularName: 'batch-translate-job';
-  };
-  options: {
-    comment: '';
-    draftAndPublish: false;
-  };
-  pluginOptions: {
-    'content-manager': {
-      visible: false;
-    };
-    'content-type-builder': {
-      visible: false;
-    };
-  };
-  attributes: {
-    autoPublish: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
-    contentType: Schema.Attribute.String & Schema.Attribute.Required;
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    entityIds: Schema.Attribute.JSON;
-    failureReason: Schema.Attribute.JSON;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'plugin::translate.batch-translate-job'
-    > &
-      Schema.Attribute.Private;
-    progress: Schema.Attribute.Float & Schema.Attribute.DefaultTo<0>;
-    publishedAt: Schema.Attribute.DateTime;
-    sourceLocale: Schema.Attribute.String & Schema.Attribute.Required;
-    status: Schema.Attribute.Enumeration<
-      [
-        'created',
-        'setup',
-        'running',
-        'paused',
-        'finished',
-        'cancelled',
-        'failed',
-      ]
-    > &
-      Schema.Attribute.DefaultTo<'created'>;
-    targetLocale: Schema.Attribute.String & Schema.Attribute.Required;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-  };
-}
-
-export interface PluginTranslateUpdatedEntry
-  extends Struct.CollectionTypeSchema {
-  collectionName: 'translate_updated_entries';
-  info: {
-    displayName: 'Translate updated Entry';
-    pluralName: 'updated-entries';
-    singularName: 'updated-entry';
-  };
-  options: {
-    comment: '';
-    draftAndPublish: false;
-  };
-  pluginOptions: {
-    'content-manager': {
-      visible: false;
-    };
-    'content-type-builder': {
-      visible: false;
-    };
-  };
-  attributes: {
-    contentType: Schema.Attribute.String;
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    groupID: Schema.Attribute.String;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localesWithUpdates: Schema.Attribute.JSON;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'plugin::translate.updated-entry'
-    > &
-      Schema.Attribute.Private;
-    publishedAt: Schema.Attribute.DateTime;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-  };
-}
-
 export interface PluginUploadFile extends Struct.CollectionTypeSchema {
   collectionName: 'files';
   info: {
@@ -2343,6 +2322,7 @@ declare module '@strapi/strapi' {
       'api::capability.capability': ApiCapabilityCapability;
       'api::ecosystem-link.ecosystem-link': ApiEcosystemLinkEcosystemLink;
       'api::ecosystem-node.ecosystem-node': ApiEcosystemNodeEcosystemNode;
+      'api::email-config.email-config': ApiEmailConfigEmailConfig;
       'api::footer.footer': ApiFooterFooter;
       'api::header.header': ApiHeaderHeader;
       'api::lead.lead': ApiLeadLead;
@@ -2360,8 +2340,6 @@ declare module '@strapi/strapi' {
       'plugin::i18n.locale': PluginI18NLocale;
       'plugin::review-workflows.workflow': PluginReviewWorkflowsWorkflow;
       'plugin::review-workflows.workflow-stage': PluginReviewWorkflowsWorkflowStage;
-      'plugin::translate.batch-translate-job': PluginTranslateBatchTranslateJob;
-      'plugin::translate.updated-entry': PluginTranslateUpdatedEntry;
       'plugin::upload.file': PluginUploadFile;
       'plugin::upload.folder': PluginUploadFolder;
       'plugin::users-permissions.permission': PluginUsersPermissionsPermission;

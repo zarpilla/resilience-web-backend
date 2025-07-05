@@ -1,0 +1,85 @@
+{
+  "kind": "singleType",
+  "collectionName": "email_configs",
+  "info": {
+    "singularName": "email-config",
+    "pluralName": "email-configs",
+    "displayName": "EmailConfig",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "subscriptionEmail1To": {
+      "type": "string"
+    },
+    "subscriptionEmail1": {
+      "type": "text",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "subscriptionEmail2": {
+      "type": "text",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "leadEmail1To": {
+      "type": "string"
+    },
+    "leadEmail1": {
+      "type": "text",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "leadEmail2": {
+      "type": "text",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "subscriptionEmail1Subject": {
+      "type": "string"
+    },
+    "leadEmail1Subject": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "subscriptionEmail2Subject": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "leadEmail2Subject": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}

@@ -26,4 +26,31 @@ export default () => ({
           // other options ...
         },
       },
+      email: {
+        enabled: true,
+        config: {
+          provider: '@strapi/provider-email-nodemailer',
+          providerOptions: {
+            host: process.env.SMTP_HOST || 'localhost',
+            port: process.env.SMTP_PORT || 587,
+            auth: {
+              user: process.env.SMTP_USERNAME,
+              pass: process.env.SMTP_PASSWORD,
+            },
+            secure: process.env.SMTP_SECURE === 'true', // true for 465, false for other ports
+            // Additional options for different providers
+            ...(process.env.SMTP_HOST?.includes('gmail') && {
+              service: 'gmail',
+            }),
+            ...(process.env.SMTP_HOST?.includes('sendgrid') && {
+              host: 'smtp.sendgrid.net',
+              port: 587,
+            }),
+          },
+          settings: {
+            defaultFrom: process.env.SMTP_DEFAULT_FROM || 'noreply@example.com',
+            defaultReplyTo: process.env.SMTP_DEFAULT_REPLY_TO || 'noreply@example.com',
+          },
+        },
+      }
 });
