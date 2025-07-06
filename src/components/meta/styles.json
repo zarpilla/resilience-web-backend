@@ -7,7 +7,12 @@
   "options": {},
   "attributes": {
     "cssClass": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "backgroundImage": {
       "type": "media",
@@ -16,10 +21,20 @@
       "allowedTypes": [
         "images",
         "files"
-      ]
+      ],
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "height": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "textColor": {
       "type": "enumeration",
@@ -30,16 +45,36 @@
       "default": "dark"
     },
     "margin": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "padding": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "background": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "width": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "container": {
       "type": "enumeration",
@@ -53,10 +88,20 @@
       ]
     },
     "sectionId": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "backgroundColor": {
-      "type": "string"
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "backgroundImage2": {
       "type": "media",
@@ -65,7 +110,12 @@
       "allowedTypes": [
         "images",
         "files"
-      ]
+      ],
+      "pluginOptions": {
+        "translate": {
+          "translate": "copy"
+        }
+      }
     },
     "paddingTop": {
       "type": "boolean",

@@ -183,25 +183,75 @@ export interface MetaStyles extends Struct.ComponentSchema {
     displayName: 'styles';
   };
   attributes: {
-    background: Schema.Attribute.String;
-    backgroundColor: Schema.Attribute.String;
-    backgroundImage: Schema.Attribute.Media<'images' | 'files'>;
-    backgroundImage2: Schema.Attribute.Media<'images' | 'files'>;
+    background: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
+    backgroundColor: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
+    backgroundImage: Schema.Attribute.Media<'images' | 'files'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
+    backgroundImage2: Schema.Attribute.Media<'images' | 'files'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     container: Schema.Attribute.Enumeration<
       ['normal', 'narrow', 'article', 'small', 'xxl', 'full']
     >;
-    cssClass: Schema.Attribute.String;
-    height: Schema.Attribute.String;
+    cssClass: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
+    height: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     listenAudioAfter: Schema.Attribute.Boolean;
     listenAudioBefore: Schema.Attribute.Boolean;
-    margin: Schema.Attribute.String;
-    padding: Schema.Attribute.String;
+    margin: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
+    padding: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     paddingBottom: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
     paddingTop: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    sectionId: Schema.Attribute.String;
+    sectionId: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
     textColor: Schema.Attribute.Enumeration<['light', 'dark']> &
       Schema.Attribute.DefaultTo<'dark'>;
-    width: Schema.Attribute.String;
+    width: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'copy';
+        };
+      }>;
   };
 }
 
