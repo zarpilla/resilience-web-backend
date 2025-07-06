@@ -1,7 +1,7 @@
 export default () => ({
 
     translate: {
-        enabled: true,
+        enabled: false,
         config: {
           // Choose one of the available providers
           provider: 'libretranslate',
