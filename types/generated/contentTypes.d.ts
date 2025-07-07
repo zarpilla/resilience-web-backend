@@ -492,6 +492,15 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
           translate: 'translate';
         };
       }>;
+    more3: Schema.Attribute.Blocks &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     name: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {

@@ -157,12 +157,24 @@
       "type": "blocks"
     },
     "audio": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "files",
         "audios"
       ],
-      "type": "media",
-      "multiple": false,
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        },
+        "translate": {
+          "translate": "translate"
+        }
+      }
+    },
+    "more3": {
+      "type": "blocks",
       "pluginOptions": {
         "i18n": {
           "localized": true
