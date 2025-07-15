@@ -70,6 +70,7 @@ export default factories.createCoreController(
           },
           logoDark: true,
           favicon: true,
+          error404Image: true,
         },
       });
       ctx.body = header[0];

@@ -911,6 +911,9 @@ export interface ApiHeaderHeader extends Struct.SingleTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
@@ -919,6 +922,9 @@ export interface ApiHeaderHeader extends Struct.SingleTypeSchema {
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     email: Schema.Attribute.String &
@@ -931,6 +937,15 @@ export interface ApiHeaderHeader extends Struct.SingleTypeSchema {
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    error404Image: Schema.Attribute.Media<'images'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
         };
       }>;
     favicon: Schema.Attribute.Media<'images'> &
@@ -952,26 +967,48 @@ export interface ApiHeaderHeader extends Struct.SingleTypeSchema {
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
     logoLink: Schema.Attribute.Component<'meta.link', false> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
         };
+        translate: {
+          translate: 'translate';
+        };
       }>;
-    mainMenu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
+    mainMenu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     publishedAt: Schema.Attribute.DateTime;
-    secondaryMenu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'>;
+    secondaryMenu: Schema.Attribute.Relation<'oneToOne', 'api::menu.menu'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     seoTitleSufix: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     social: Schema.Attribute.Component<'meta.social', true> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;
+        };
+        translate: {
+          translate: 'translate';
         };
       }>;
     type: Schema.Attribute.Enumeration<['page', 'scope', 'resource']> &
@@ -1485,6 +1522,24 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
           translate: 'translate';
         };
       }>;
+    error404Button: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    error404Text: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    error404Tiitle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     errorMessage: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         translate: {
@@ -1626,6 +1681,12 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
         };
       }>;
     name: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    noResults: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         translate: {
           translate: 'translate';

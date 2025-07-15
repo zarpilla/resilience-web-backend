@@ -112,6 +112,7 @@ const sectionsPopulate = {
               },
             },
           },
+          noResultsImage: true,
         },
       },
       "sections.masonry": {

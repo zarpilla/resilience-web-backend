@@ -306,6 +306,7 @@ export interface SectionsBlog extends Struct.ComponentSchema {
   attributes: {
     blogPage: Schema.Attribute.Component<'meta.blog-page', true>;
     filter: Schema.Attribute.Boolean;
+    noResultsImage: Schema.Attribute.Media<'images'>;
     styles: Schema.Attribute.Component<'meta.styles', false> &
       Schema.Attribute.SetPluginOptions<{
         translate: {
