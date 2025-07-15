@@ -30,6 +30,14 @@
     },
     "filter": {
       "type": "boolean"
+    },
+    "noResultsImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": false
     }
   }
 }

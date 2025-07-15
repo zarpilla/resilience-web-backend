@@ -137,6 +137,7 @@ const sectionsPopulate = {
               },
             },
           },
+          noResultsImage: true,
         },
       },
       "sections.menu": {

@@ -433,6 +433,7 @@ export interface SectionsMasonry extends Struct.ComponentSchema {
   };
   attributes: {
     filter: Schema.Attribute.Boolean;
+    noResultsImage: Schema.Attribute.Media<'images'>;
     pages: Schema.Attribute.Component<'meta.pages', true>;
     styles: Schema.Attribute.Component<'meta.styles', false> &
       Schema.Attribute.SetPluginOptions<{
