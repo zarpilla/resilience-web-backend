@@ -1467,6 +1467,9 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
   attributes: {
     acceptTerms: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
@@ -1518,36 +1521,54 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
       }>;
     email: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     error404Button: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     error404Text: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     error404Tiitle: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     errorMessage: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     errorTitle: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
@@ -1662,6 +1683,9 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
       }>;
     loadMore: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
@@ -1670,24 +1694,36 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
     localizations: Schema.Attribute.Relation<'oneToMany', 'api::text.text'>;
     message: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     messageReceived: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     name: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     noResults: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
@@ -1704,6 +1740,9 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
       }>;
     resources: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
@@ -1734,24 +1773,36 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
       }>;
     sector: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     sendAnother: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     sending: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
       }>;
     sendMessage: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
@@ -1767,6 +1818,9 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
       }>;
     subject: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
@@ -1782,6 +1836,9 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
       }>;
     thankYou: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
@@ -1797,6 +1854,9 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
       }>;
     tryAgain: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
         translate: {
           translate: 'translate';
         };
