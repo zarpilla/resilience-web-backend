@@ -1546,7 +1546,7 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
           translate: 'translate';
         };
       }>;
-    error404Tiitle: Schema.Attribute.String &
+    error404Title: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
           localized: true;

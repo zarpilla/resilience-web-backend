@@ -498,7 +498,7 @@
         }
       }
     },
-    "error404Tiitle": {
+    "error404Title": {
       "type": "string",
       "pluginOptions": {
         "translate": {
