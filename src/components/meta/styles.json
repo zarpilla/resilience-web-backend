@@ -130,6 +130,13 @@
     },
     "listenAudioAfter": {
       "type": "boolean"
+    },
+    "backgroundVideo": {
+      "allowedTypes": [
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

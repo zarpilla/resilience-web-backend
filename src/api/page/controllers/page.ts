@@ -15,6 +15,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
         },
@@ -25,6 +26,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
           // 'columns': true
@@ -35,6 +37,7 @@ const sectionsPopulate = {
                 populate: {
                   backgroundImage: true,
                   backgroundImage2: true,
+                  backgroundVideo: true,
                 },
               },
               c2a: {
@@ -61,6 +64,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
           tabs: {
@@ -70,6 +74,7 @@ const sectionsPopulate = {
                 populate: {
                   backgroundImage: true,
                   backgroundImage2: true,
+                  backgroundVideo: true,
                 },
               },
               c2a: {
@@ -96,6 +101,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
           blogPage: {
@@ -121,6 +127,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
           pages: {
@@ -146,6 +153,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
           menu: {
@@ -184,6 +192,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
           c2a: {
@@ -235,6 +244,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
           menu: {
@@ -282,6 +292,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
           blurbs: {
@@ -303,6 +314,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
         },
@@ -328,6 +340,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
         },
@@ -338,6 +351,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
         },
@@ -354,6 +368,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
         },
@@ -364,6 +379,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
         },
@@ -374,6 +390,7 @@ const sectionsPopulate = {
             populate: {
               backgroundImage: true,
               backgroundImage2: true,
+              backgroundVideo: true,
             },
           },
         },
