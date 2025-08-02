@@ -208,6 +208,7 @@ export interface MetaStyles extends Struct.ComponentSchema {
         };
       }>;
     backgroundVideo: Schema.Attribute.Media<'videos'>;
+    backgroundVideoMobile: Schema.Attribute.Media<'videos'>;
     container: Schema.Attribute.Enumeration<
       ['normal', 'narrow', 'article', 'small', 'xxl', 'full']
     >;

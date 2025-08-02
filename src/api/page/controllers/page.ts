@@ -16,6 +16,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
         },
@@ -27,6 +28,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
           // 'columns': true
@@ -38,6 +40,7 @@ const sectionsPopulate = {
                   backgroundImage: true,
                   backgroundImage2: true,
                   backgroundVideo: true,
+                  backgroundVideoMobile: true,
                 },
               },
               c2a: {
@@ -65,6 +68,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
           tabs: {
@@ -75,6 +79,7 @@ const sectionsPopulate = {
                   backgroundImage: true,
                   backgroundImage2: true,
                   backgroundVideo: true,
+                  backgroundVideoMobile: true,
                 },
               },
               c2a: {
@@ -102,6 +107,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
           blogPage: {
@@ -128,6 +134,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
           pages: {
@@ -154,6 +161,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
           menu: {
@@ -193,6 +201,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
           c2a: {
@@ -245,6 +254,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
           menu: {
@@ -293,6 +303,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
           blurbs: {
@@ -315,6 +326,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
         },
@@ -341,6 +353,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
         },
@@ -352,6 +365,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
         },
@@ -369,6 +383,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
         },
@@ -380,6 +395,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
         },
@@ -391,6 +407,7 @@ const sectionsPopulate = {
               backgroundImage: true,
               backgroundImage2: true,
               backgroundVideo: true,
+              backgroundVideoMobile: true,
             },
           },
         },
