@@ -508,6 +508,17 @@
           "localized": true
         }
       }
+    },
+    "timelineTitle": {
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        },
+        "i18n": {
+          "localized": true
+        }
+      }
     }
   }
 }

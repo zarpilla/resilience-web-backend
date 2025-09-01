@@ -1844,6 +1844,15 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
           translate: 'translate';
         };
       }>;
+    timelineTitle: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     tipology: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
