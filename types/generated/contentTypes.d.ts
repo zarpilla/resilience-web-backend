@@ -1236,6 +1236,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
           localized: true;
         };
       }>;
+    sortDate: Schema.Attribute.DateTime;
     tags: Schema.Attribute.Relation<'oneToMany', 'api::tag.tag'> &
       Schema.Attribute.SetPluginOptions<{
         translate: {
