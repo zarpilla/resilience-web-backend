@@ -186,6 +186,24 @@
     },
     "weight": {
       "type": "integer"
+    },
+    "scopes": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::scope.scope",
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        }
+      }
+    },
+    "member": {
+      "type": "string",
+      "pluginOptions": {
+        "translate": {
+          "translate": "translate"
+        }
+      }
     }
   }
 }

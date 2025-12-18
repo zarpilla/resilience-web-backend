@@ -465,6 +465,12 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
           localized: false;
         };
       }>;
+    member: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     metadata: Schema.Attribute.Component<'meta.metadata', true> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
@@ -520,6 +526,12 @@ export interface ApiBioBio extends Struct.CollectionTypeSchema {
         };
       }>;
     publishedAt: Schema.Attribute.DateTime;
+    scopes: Schema.Attribute.Relation<'oneToMany', 'api::scope.scope'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     signature: Schema.Attribute.Media<'images'> &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
