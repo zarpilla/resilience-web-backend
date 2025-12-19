@@ -1,9 +1,8 @@
 version: "3"
 services:
-  strapi:
-    container_name: strapi
-    build: .
-    image: strapi:latest
+  re_web_back:
+    container_name: re_web_back
+    image: ${DOCKERHUB_USERNAME}/re-web-backend:latest
     restart: unless-stopped
     env_file: .env
     environment:
@@ -29,7 +28,7 @@ services:
       - ./.env:/opt/app/.env
       - ./public/uploads:/opt/app/public/uploads
     ports:
-      - "1350:1350"
+      - "${PORT}:1350"
     networks:
       - strapi
     depends_on:

@@ -11,7 +11,8 @@ RUN npm config set fetch-retry-maxtimeout 600000 -g && npm install --only=produc
 ENV PATH=/opt/node_modules/.bin:$PATH
 WORKDIR /opt/app
 COPY . .
-RUN npm run build
+# Don't build here - build at runtime to use environment variables
+# RUN npm run build
 
 # Creating final production image
 FROM node:18-alpine
@@ -24,11 +25,14 @@ WORKDIR /opt/app
 COPY --from=build /opt/app ./
 ENV PATH=/opt/node_modules/.bin:$PATH
 
+# Copy and setup entrypoint script
+COPY docker-entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+
 RUN chown -R node:node /opt/app
 USER node
 EXPOSE 1337
-CMD ["npm", "run", "start"]
-
+CMD ["/entrypoint.sh"]
 
 # build for production
 
