@@ -1686,6 +1686,30 @@ export interface ApiTextText extends Struct.SingleTypeSchema {
           translate: 'translate';
         };
       }>;
+    home6: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    home7: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    home8: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    home9: Schema.Attribute.String &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
     listen: Schema.Attribute.String &
       Schema.Attribute.SetPluginOptions<{
         i18n: {
