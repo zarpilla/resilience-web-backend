@@ -477,6 +477,39 @@ export interface SectionsMenu extends Struct.ComponentSchema {
   };
 }
 
+export interface SectionsModal extends Struct.ComponentSchema {
+  collectionName: 'components_sections_modals';
+  info: {
+    description: '';
+    displayName: 'Modal';
+    icon: 'expand';
+  };
+  attributes: {
+    href: Schema.Attribute.String;
+    image: Schema.Attribute.Media<'images' | 'videos'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    imageMobile: Schema.Attribute.Media<'images' | 'videos'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    imageTablet: Schema.Attribute.Media<'images' | 'videos'> &
+      Schema.Attribute.SetPluginOptions<{
+        translate: {
+          translate: 'translate';
+        };
+      }>;
+    name: Schema.Attribute.String;
+    size: Schema.Attribute.Enumeration<['small', 'medium', 'large']> &
+      Schema.Attribute.DefaultTo<'medium'>;
+  };
+}
+
 export interface SectionsScroller extends Struct.ComponentSchema {
   collectionName: 'components_sections_scrollers';
   info: {
@@ -631,6 +664,7 @@ declare module '@strapi/strapi' {
       'sections.lead-form': SectionsLeadForm;
       'sections.masonry': SectionsMasonry;
       'sections.menu': SectionsMenu;
+      'sections.modal': SectionsModal;
       'sections.scroller': SectionsScroller;
       'sections.slider': SectionsSlider;
       'sections.tabs': SectionsTabs;

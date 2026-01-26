@@ -1231,6 +1231,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         'sections.video',
         'sections.ecosystem',
         'sections.lead-form',
+        'sections.modal',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{
@@ -1446,6 +1447,7 @@ export interface ApiTemplateTemplate extends Struct.CollectionTypeSchema {
         'sections.video',
         'sections.ecosystem',
         'sections.lead-form',
+        'sections.modal',
       ]
     > &
       Schema.Attribute.SetPluginOptions<{

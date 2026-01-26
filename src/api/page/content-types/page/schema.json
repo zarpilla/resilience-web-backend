@@ -77,7 +77,8 @@
         "sections.tabs",
         "sections.video",
         "sections.ecosystem",
-        "sections.lead-form"
+        "sections.lead-form",
+        "sections.modal"
       ]
     },
     "type": {

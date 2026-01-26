@@ -412,6 +412,13 @@ const sectionsPopulate = {
           },
         },
       },
+      "sections.modal": {
+        populate: {
+          image: true,
+          imageTablet: true,
+          imageMobile: true          
+        },
+      },
     },
   },
 };
