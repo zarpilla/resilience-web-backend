@@ -61,6 +61,16 @@
         }
       }
     },
+    "displayFrequency": {
+      "type": "enumeration",
+      "enum": [
+        "once",
+        "once_per_day",
+        "every_reload"
+      ],
+      "default": "once",
+      "required": false
+    },
     "href": {
       "type": "string"
     }

@@ -485,6 +485,10 @@ export interface SectionsModal extends Struct.ComponentSchema {
     icon: 'expand';
   };
   attributes: {
+    displayFrequency: Schema.Attribute.Enumeration<
+      ['once', 'once_per_day', 'every_reload']
+    > &
+      Schema.Attribute.DefaultTo<'once'>;
     href: Schema.Attribute.String;
     image: Schema.Attribute.Media<'images' | 'videos'> &
       Schema.Attribute.SetPluginOptions<{
