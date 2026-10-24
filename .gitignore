@@ -137,3 +137,5 @@ build
 ############################
 
 database-data
+# content tool backups (may contain unpublished content)
+rw-backups/
