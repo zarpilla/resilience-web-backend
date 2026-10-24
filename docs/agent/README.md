@@ -13,8 +13,9 @@ expliquis amb les teves paraules.
    fitxers `docs/agent/AGENT.md` i `tools/content-cli/rw-content.mjs`.
 2. **Un token d'API** per poder escriure, que et donarà la persona tècnica. Tracta'l com una
    contrasenya: no el publiquis enlloc.
-3. Opcionalment, **una còpia de proves** de la web (la persona tècnica la pot tenir en marxa)
-   perquè l'agent provi els canvis abans de fer-los a la web real.
+3. **L'entorn de test** https://w.resilience.earth (una còpia de la web protegida amb contrasenya),
+   amb el seu propi token: l'agent hi fa els canvis primer perquè els pugueu revisar abans de
+   passar-los a la web real.
 
 ## Com començar una conversa
 

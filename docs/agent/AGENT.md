@@ -42,7 +42,8 @@ reference for *how you operate*.
 | Environment | API base URL | Admin | Notes |
 |---|---|---|---|
 | Production | `https://api-w.resilience.earth` | `/admin` | Public site: `https://resilience.earth` |
-| Development (if available) | e.g. `http://localhost:1337` | `/admin` | Front end e.g. `http://localhost:3000`. Copy of production data. |
+| **Test** (default for trying changes) | `https://w.resilience.earth` | `/admin` | Front end https://w.resilience.earth (basic auth). Copy of production data, branch `develop`. See [test-environment.md](test-environment.md). |
+| Local development (optional) | e.g. `http://localhost:1337` | `/admin` | See [dev-environment.md](dev-environment.md). |
 
 - **Reading** (pages, menus, published content) needs no token.
 - **Writing** needs an API token (`RW_API_TOKEN`) created by the developer in Strapi
@@ -50,8 +51,9 @@ reference for *how you operate*.
   and `upload` permissions). Never print the token, never commit it.
 - **Templates** cannot be read by the public role: use the token, or the public custom
   route `GET /api/pages/templates/<name>?locale=xx` (read-only, already populated).
-- If a dev environment exists, **do every change there first**, check it visually, then
-  repeat on production. How to refresh dev from production: [dev-environment.md](dev-environment.md).
+- **Do every change on test first**, let the person check it on https://w.resilience.earth,
+  then repeat it on production. Test and production use **different tokens**. If test data is
+  stale, ask the developer to run `refresh-db.sh` ([test-environment.md](test-environment.md)).
 - If you have no dev environment, explain the change precisely, get approval, apply it to
   production, verify immediately, and keep the backup path handy to revert.
 
