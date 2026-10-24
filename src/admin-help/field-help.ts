@@ -353,5 +353,19 @@ export const FIELD_HELP: HelpMap = {
     mainMenu: { description: "Menú principal (pantalla completa)." },
     secondaryMenu: { description: "Enllaços petits a la part inferior del menú." },
     contact: { description: "Text de contacte del menú (accepta HTML)." },
+    gtmId: {
+      description:
+        "Codi de Google Tag Manager (ex: GTM-ABC1234). Buit = la web no carrega cap analítica ni mostra el bàner de galetes. Si s'omple, apareix el bàner i Tag Manager només es carrega quan el visitant accepta. És el mateix per a tots els idiomes.",
+      placeholder: "GTM-XXXXXXX",
+    },
+    cookieText: {
+      description:
+        "Text del bàner de galetes (accepta HTML, ex: un enllaç a la política de privacitat). Buit = text per defecte. Només es mostra si hi ha codi GTM.",
+    },
+    cookieAccept: { description: "Botó «Acceptar» del bàner de galetes. Buit = text per defecte." },
+    cookieReject: { description: "Botó «Rebutjar» del bàner de galetes. Buit = text per defecte." },
+    cookieSettings: {
+      description: "Enllaç del peu de pàgina per tornar a obrir el bàner i canviar l'elecció. Buit = «Configuració de galetes».",
+    },
   },
 };

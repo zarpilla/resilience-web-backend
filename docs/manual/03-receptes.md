@@ -12,6 +12,7 @@
 - [H. Despublicar o esborrar](#h-despublicar-o-esborrar)
 - [I. Crear una pàgina general nova](#i-crear-una-pàgina-general-nova)
 - [J. Posar i treure persones de l'equip (Qui som)](#j-posar-i-treure-persones-de-lequip-qui-som)
+- [K. Activar Google Analytics (Tag Manager) i el bàner de galetes](#k-activar-google-analytics-tag-manager-i-el-bàner-de-galetes)
 
 ---
 
@@ -318,5 +319,33 @@ persones d'aquell àmbit (preset `list`).
   de la plantilla `bio` i dels àmbits on surti → **Save** (+ **Publish** a les pàgines).
 - **Que no surti enlloc:** obre la Bio → **…** al costat de *Publish* → **Unpublish** (en cada idioma).
   Desapareix de totes les llistes i la seva fitxa deixa d'existir.
+
+## K. Activar Google Analytics (Tag Manager) i el bàner de galetes
+
+Per defecte la web **no fa servir galetes**: no hi ha analítica ni bàner. Els vídeos de YouTube
+es carreguen des de `youtube-nocookie.com`, que no posa galetes de seguiment.
+
+Per activar l'analítica:
+
+1. **Header** → camp **gtmId** → escriu el codi que et donin (format `GTM-XXXXXXX`) → **Save**.
+   El camp és el mateix per a tots els idiomes.
+2. A partir d'aquest moment surt un **bàner de galetes** a la part de baix de la web, amb els
+   botons «Rebutjar» i «Acceptar», i al peu de pàgina apareix l'enllaç **«Configuració de
+   galetes»** per canviar l'elecció.
+3. Tag Manager (i per tant Google Analytics) **només es carrega si el visitant accepta**. Si
+   rebutja, la web continua sense galetes. L'elecció es recorda 12 mesos.
+4. Textos del bàner (opcionals, per idioma): **cookieText** (accepta HTML; pots escriure
+   `{policy}` com a adreça de l'enllaç a la política de privacitat), **cookieAccept**,
+   **cookieReject** i **cookieSettings** (l'enllaç del peu). Si els deixes buits, es fan servir
+   textos per defecte en català, castellà i anglès.
+5. Actualitza la **Política de privacitat** (apartat de galetes) abans d'activar-ho: ha de dir que
+   es fa servir Google Analytics, quines galetes posa i quant duren.
+
+Per desactivar-ho, buida el camp **gtmId**.
+
+> Qui configuri el contenidor de Tag Manager: la web ja envia el consentiment (Consent Mode v2)
+> amb `analytics_storage` concedit i la publicitat (`ad_storage`, `ad_user_data`,
+> `ad_personalization`) denegada. La web és una SPA: la pàgina vista de GA4 s'ha de comptar
+> també en els canvis d'URL (mesura millorada de GA4 o un activador *History Change*).
 
 [← Strapi bàsic](02-strapi-basic.md) · [Següent: Blocs →](04-blocs.md)

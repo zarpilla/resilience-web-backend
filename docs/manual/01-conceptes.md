@@ -122,7 +122,7 @@ A la columna esquerra de l'administrador (*Content Manager*) hi ha altres tipus 
 | **Bio** | Fitxes de persones (equip). Tenen pàgina pròpia a `/bio/nom`. |
 | **Capability** | Capabilitats (llista desplegable de la pàgina «Com treballem»). |
 | **Scope**, **Tag**, **Typology**, **Year** | Llistes per classificar articles i recursos (s'usen als filtres). |
-| **Header** | Logo, menú principal, xarxes socials, CSS global. |
+| **Header** | Logo, menú principal, xarxes socials, CSS global, codi de Google Tag Manager i textos del bàner de galetes. |
 | **Footer** | Peu de pàgina. |
 | **Text** | Textos fixos de la web: animació de la Home, etiquetes dels filtres, formulari de contacte... |
 | **EmailConfig** | Correus automàtics del formulari de contacte i de la subscripció. |
