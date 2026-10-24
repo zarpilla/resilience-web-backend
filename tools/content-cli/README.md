@@ -27,7 +27,10 @@ node tools/content-cli/rw-content.mjs help
 | `template <name>` | Show a template. |
 | `template-export <name> --out f.json`, `template-push f.json --name <name>` | Edit a template (live on every page using it). Needs token. |
 | `media "<text>"` | Search the media library (needs token). |
-| `upload <file> [--alt …]` | Upload a file, prints its id. |
+| `upload <file> [--alt …] [--replace <id>]` | Upload (type from the extension) or replace a file keeping its id. |
+| `taxonomies` | Scopes, typologies, years and tags with their documentIds. |
+| `bios`, `bio-export <slug>`, `bio-push f.json --new\|--document <id>` | Team members. |
+| `team-add <bio>`, `team-remove <bio>` | Add/remove a person in BOTH team lists ("Qui som" page and template `bio`). Live. |
 | `restore <backup.json>` | Put back a backup written by a previous command. |
 
 Common options: `--locale ca|es|en` (default `ca`), `--status draft|published` (reads,

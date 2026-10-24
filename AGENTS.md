@@ -3,7 +3,8 @@
 This repo is the Strapi 5 backend (CMS) of https://resilience.earth. The Nuxt front end lives
 in the sibling repo `resilience-web-frontend`.
 
-- **Editing website content** (pages, articles, sliders, menus...) on behalf of a person:
+- **Editing website content** (pages, articles, sliders, menus...) on behalf of a person
+  (Claude Code skill: `.claude/skills/resilience-content`):
   follow [docs/agent/AGENT.md](docs/agent/AGENT.md). Use the CLI in
   [tools/content-cli/](tools/content-cli/README.md). Never write to production without explicit approval.
 - **How the site works for editors** (Catalan, screenshots): [docs/manual/](docs/manual/README.md).

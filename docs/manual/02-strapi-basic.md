@@ -131,8 +131,9 @@ Icona de la imatge a la barra de l'esquerra. Aquí hi ha totes les imatges, víd
 - **Add new assets** per pujar fitxers (arrossegant-los o des de l'ordinador).
 - Posa noms de fitxer entenedors i omple el *Alternative text* (descripció per a persones cegues i per a Google).
 - Mides recomanades:
-  - **Imatge de compartir d'un article** (Caos Creatiu): **vertical 4:5**, 1080 × 1350 px.
+  - **Imatge de compartir d'un article** (Caos Creatiu): **vertical 4:5**, 1080 × 1350 px. ⚠️ Al mosaic es retalla pels costats: deixa el text i les cares a un 15% de distància de les vores esquerra i dreta.
   - **Imatge de compartir d'un recurs** (Eines disruptives): **horitzontal 4:3**, 1024 × 768 px.
+  - **Foto d'una persona (Bio, `mainImage`)**: retrat gairebé quadrat, en blanc i negre com les altres.
   - **Imatges de fons de capçalera (Hero)**: horitzontal, mínim 1920 px d'ample.
   - Pes: millor per sota de 500 KB (jpg o webp). Les imatges molt pesades fan la web lenta.
 - **Vídeos de fons**: mp4, curts (10–30 s) i lleugers (< 10 MB). Es reprodueixen sense so i en bucle.

@@ -69,8 +69,8 @@ A dependency-free Node ≥18 script: `tools/content-cli/rw-content.mjs` in the b
 developer for this single file. Docs: [tools/content-cli/README.md](../../tools/content-cli/README.md).
 
 ```bash
-export RW_API_URL=https://api-w.resilience.earth   # or the dev URL
-export RW_API_TOKEN=...                            # only for writes
+export RW_API_URL=https://w.resilience.earth       # TEST (default). Production: https://api-w.resilience.earth
+export RW_API_TOKEN=...                            # token of THAT environment (never print it)
 node rw-content.mjs help
 node rw-content.mjs list --type article            # newest first
 node rw-content.mjs show <slug>                    # human summary of a page (blocks, styles)
@@ -84,7 +84,10 @@ node rw-content.mjs menu-remove "<menu>" --index N
 node rw-content.mjs menu-move "<menu>" --from N --to M
 node rw-content.mjs template <name> | template-export <name> --out t.json | template-push t.json --name <name>
 node rw-content.mjs media "<part of file name>"
-node rw-content.mjs upload ./image.jpg --alt "description"
+node rw-content.mjs upload ./image.jpg --alt "description"   # file type from the extension; --replace <id> keeps the id
+node rw-content.mjs taxonomies                     # scopes, typologies, years, tags with their documentIds
+node rw-content.mjs bios | bio-export <slug> --out b.json | bio-push b.json --new|--document <id> --publish
+node rw-content.mjs team-add <bio-slug> | team-remove <bio-slug>   # "Qui som" page AND template "bio"
 ```
 
 All commands take `--locale ca|es|en` (default `ca`). Writes to a non-localhost URL require
@@ -103,6 +106,8 @@ Strapi 5 REST rules that matter here:
   Use `status=published` to publish in the same call.
 - `POST /api/pages?locale=ca&status=draft` `{ "data": { ... } }` — create.
 - `PUT /api/menus/<documentId>?locale=ca` / `PUT /api/templates/<documentId>?locale=ca` — no drafts.
+- With `curl`, use `-g` (URLs contain `[` `]`) and, for uploads, set the type:
+  `-F "files=@photo.jpg;type=image/jpeg"`.
 - `POST /api/upload` (multipart `files`) → returns file `id`.
 - **Payload rules:** a dynamic zone (`sections`) or repeatable component (`columns`,
   `children`) is **replaced entirely** — always send the full array. **Do not send
@@ -234,7 +239,18 @@ Menu child (`meta.children`): `title`, `page` (relation, preferred), `href`, `su
 (main menu only), `image` (marquee logos). Fill `title` with the page name even in sliders:
 it is not displayed there but labels the row in the admin.
 
-### 3.7 Pages most edited
+### 3.7 How cards crop images
+
+| Where | Image | Visible area (width / height) |
+|---|---|---|
+| Caos Creatiu / Home mosaic | article `shareImage` (portrait 4:5) | ~0.65 → the sides are cut: keep text/faces 15% away from left and right edges |
+| Sliders (`three`) | page `shareImage` | ~1.37 (landscape) |
+| Eines disruptives list | resource `shareImage` (4:3) | ~1.22 |
+| Team grid | Bio `mainImage` | ~1:1 (existing portraits are black & white, on a light background) |
+
+The mosaic fills its columns right to left: the newest article appears top-right.
+
+### 3.8 Pages most edited
 
 - Caos Creatiu: `/caos-creatiu` (Hero + Masonry) — content comes from article pages.
 - Eines disruptives: `/eines-disruptives` (Hero + Blog filter=true + Caos Creatiu slider).
@@ -255,14 +271,26 @@ it is not displayed there but labels the row in the admin.
      anything you'd need new CSS/JS for) → step 9.
 4. **Plan** in plain language for the person: what will change, where, which languages,
    whether it is live immediately (published page/menu/template) or a draft.
-5. **Dev first** (if available): apply, then check the page in the dev front end
-   (screenshot if you can) and compare with production for unintended changes.
+5. **Test first**: apply on test, then run the checklist below on the test front end and
+   send the person the test links.
 6. **Ask for approval** for production, then apply with `--yes`. New pages: create as draft,
    show the admin link, publish only after approval.
 7. **Verify** on the live site (fetch the URL / take a screenshot; for lists check the
    Caos Creatiu / Eines pages). Check all affected languages.
 8. **Report** in plain language: what changed, links to the pages, where the backup is, and
    anything left to do (e.g. translations).
+
+### Checklist after every change (on test, then again on production)
+
+- Open the page (and its es/en versions if touched). If you can, take a screenshot.
+- Every image loads: in a browser `document.images` all have `naturalWidth > 0`. An image
+  stored as `application/octet-stream` is not shown by the site (`upload` sets the right type;
+  if one is wrong, `upload <file> --replace <id>`).
+- The lists that should show it: Caos Creatiu mosaic and Home mosaic (articles), Eines
+  disruptives list (resources), the slider you added it to, "Qui som" and a `/bio/...` page
+  (people). Check on a phone-sized viewport too (390 px).
+- Nothing copied from the original page is left (description, share image, author, tags,
+  scopes, audio, texts) — `clone` copies all of it.
 
 ### Reverting
 
@@ -285,7 +313,7 @@ relations → `{ "set": [ { "documentId": … } ] }`.
 3. `export <new-slug> --out a.json`; edit: Hero `title`/`text`/`styles.backgroundImage`
    (image id), columns texts and media, `metadata.metaDescription(Short)`,
    `metadata.shareImage` (portrait 4:5), `author`, `scopes`, `tags`, `year`, `audio`
-   (remove if not provided). Upload new images with `upload`.
+   (remove if not provided). Upload new images with `upload`. Use `taxonomies` for ids.
 4. `push a.json --document <id>` → review in admin/dev → `publish <new-slug>`.
 5. Optional: `menu-add "Caos Creatiu" --page <new-slug> --at 0 --title "<title>"`.
 6. Optional translations: `export <slug> --out a.json`, translate only the human texts
@@ -299,6 +327,8 @@ relations → `{ "set": [ { "documentId": … } ] }`.
 Same as 5.1 with `--type resource`; shareImage landscape 4:3; download buttons are column
 `c2a` with `href` to an uploaded PDF URL and `target: "_blank"`; section #3 must stay a
 Columns block. Optional slider menu: "Recursos per catalitzar les teves iniciatives".
+A PDF uploaded on test has a test URL (`https://w.resilience.earth/uploads/...`): on production
+upload it again and use the production URL (`https://api-w.resilience.earth/uploads/...`).
 The list is ordered by `sortDate` (newest first): set it to choose the position.
 
 ### 5.3 Slider cards
@@ -320,9 +350,17 @@ People are `api::bio.bio` documents (draft & publish, i18n). The "Totes les que 
 grid exists in TWO independent places that must be kept in sync: the `sections.bios` block of
 page `qui-som` (es `quienes-somos`, en `who-we-are`) and the `sections.bios` block of template
 `bio` (appended to every `/bio/<slug>` page). Scope pages have their own `sections.bios` (preset
-`list`). Order is the Bio `weight` (ascending, missing = 100). Add/remove = edit the `bios`
-relation (`{ "set": [...] }`, documentIds) in each place and locale; a Bio must be published
-(and exist in that locale) to be shown. Unpublishing a Bio hides it everywhere.
+`list`). Order is the Bio `weight` (ascending, missing = 100). A Bio must be published (and
+exist in that locale) to be shown. Unpublishing a Bio hides it everywhere.
+
+1. `bios` → pick a similar person → `bio-export <slug> --out b.json`.
+2. Edit `name`, `slug`, `position`, `title` (the quote), `excerpt`, `content`, `more1..3` (keep the
+   formatting of the copied Bio), `mainImage` (square-ish portrait, black & white like the others),
+   `largeImage` (landscape), `weight`, `scopes`; drop `audio`, `signature` and `metadata` values
+   that belong to the other person.
+3. `bio-push b.json --new --publish` → `team-add <new-slug>` (adds it to the "Qui som" page and to
+   the template `bio`; idempotent). `team-remove` does the opposite.
+4. Repeat per locale (`--locale es/en`: translated Bio, then `team-add --locale es/en`).
 
 ## 6. Things that are NOT possible without code (send to step 9)
 

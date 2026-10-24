@@ -201,6 +201,33 @@ async function findTemplate(name, { loc = locale } = {}) {
   return res.data[0];
 }
 
+const MIME = { jpg: "image/jpeg", jpeg: "image/jpeg", png: "image/png", gif: "image/gif", webp: "image/webp", svg: "image/svg+xml", pdf: "application/pdf", mp4: "video/mp4", webm: "video/webm", mp3: "audio/mpeg", m4a: "audio/mp4", wav: "audio/wav" };
+const mimeOf = (file) => MIME[path.extname(file).slice(1).toLowerCase()] || "application/octet-stream";
+
+async function printMenu(ref) {
+  const m = await findMenu(ref, { st: "published" });
+  (m.children || []).forEach((c, i) =>
+    out(`  [${i}] ${c.page ? `page:${c.page.slug} (${c.page.type})` : ""}${c.title ? ` title="${c.title}"` : ""}${c.href ? ` href=${c.href}` : ""}`)
+  );
+}
+
+// Bios (team members). The "Totes les que hi participem" grid lives in TWO places:
+// the Bios block of the "Qui som" page and the Bios block of the template "bio".
+const TEAM_PAGE = process.env.RW_TEAM_PAGE || "gse69ujgm38z247nh15idw5c"; // qui-som / quienes-somos / who-we-are
+const bioPopulate = { mainImage: true, largeImage: true, signature: true, audio: true, scopes: true, metadata: { populate: "*" } };
+async function findBio(ref, { loc = locale, st = status } = {}) {
+  const filters = looksLikeDocId(ref) ? { documentId: { $eq: ref } } : { slug: { $eq: ref } };
+  const res = await http("GET", `/api/bios?${qs({ locale: loc, status: st, filters, populate: bioPopulate })}`);
+  if (!res.data.length) die(`Bio "${ref}" not found (locale=${loc}, status=${st}).`);
+  return res.data[0];
+}
+async function teamLists() {
+  const page = (await http("GET", `/api/pages?${qs({ locale, status: "draft", filters: { documentId: { $eq: TEAM_PAGE } }, populate: pagePopulate })}`)).data[0];
+  const tpl = await findTemplate("bio");
+  return { page, tpl };
+}
+const biosBlock = (doc) => (doc?.sections || []).find((s) => s.__component === "sections.bios");
+
 // ---------------------------------------------------------------------------
 // convert a fetched document into a payload accepted by PUT/POST
 // ---------------------------------------------------------------------------
@@ -231,7 +258,8 @@ function toWritable(value, { top = true } = {}) {
   if (Array.isArray(value)) {
     if (value.length && value.every(isMedia)) return value.map((m) => m.id);
     if (value.length && value.every(isEntityRef))
-      return { set: value.map((r) => ({ documentId: r.documentId })) };
+      // documents with draft & publish (e.g. Bio) can come back twice: deduplicate
+      return { set: [...new Set(value.map((r) => r.documentId))].map((documentId) => ({ documentId })) };
     return value.map((v) => toWritable(v, { top: false }));
   }
   if (value && typeof value === "object") {
@@ -306,6 +334,7 @@ function summarizeSections(sections) {
     if (s.text) lines.push(`     text: ${plain(s.text).slice(0, 160)}`);
     if (s.menu) lines.push(`     menu: "${s.menu.title}" (${s.menu.documentId})`);
     if (s.template) lines.push(`     template: "${s.template.name}"`);
+    if (Array.isArray(s.bios)) lines.push(`     bios: ${[...new Set(s.bios.map((b) => b.name))].join(", ") || "-"}`);
     for (const [j, c] of (s.columns || s.tabs || []).entries()) {
       lines.push(
         `     col${j}${c.title ? ` "${c.title}"` : ""}${stylesSummary(c.styles)}${c.media ? ` media=${c.media.name}` : ""}${c.c2a ? ` c2a="${c.c2a.text}"` : ""}`
@@ -348,8 +377,12 @@ WRITE (needs RW_API_TOKEN; drafts by default; --yes required for non-local API)
         (menus have no draft: these changes are LIVE immediately)
   publish <slug|documentId> [--locale ca]                          publish a page draft
   template-push <file.json> --name <template name> [--locale ca]  replace a template's blocks (LIVE on every page using it)
+  bios [--locale ca]                                               team members (+ who is in the team lists)
+  bio-export <slug> --out f.json | bio-push f.json --new|--document <id> [--publish]
+  team-add <bio slug> / team-remove <bio slug> [--locale ca]       "Qui som" page AND template "bio" (LIVE)
+  taxonomies [--locale ca]                                         scopes, typologies, years, tags (documentIds)
+  upload <file> [--alt "text"] [--replace <id>]                    (sets the file type from the extension)
   restore <backup.json>                                            put back a backup written by any write command
-  upload <file> [--alt "text"]                                     upload an image/file, prints its id
 
 NOTES
   - The site shows published pages only: push drafts, review in the admin, then publish.
@@ -470,6 +503,7 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     const d = res.data;
     out(`created DRAFT page "${d.name}" documentId=${d.documentId} slug=${d.slug} locale=${d.locale}`);
     out(`copied from: ${src.slug}. Now change texts/images, then publish.`);
+    out(`REVIEW (copied from the original): metadata (description, shareImage), author, typology, year, scopes, tags, audio, every block's texts and images.`);
     out(`admin: ${adminUrl("page", d.documentId, d.locale)}`);
   },
 
@@ -522,9 +556,9 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     item.title = typeof opt.title === "string" ? opt.title : page.name;
     const at = opt.at === undefined ? 0 : Number(opt.at);
     children.splice(at, 0, item);
-    await http("PUT", `/api/menus/${m.documentId}?locale=${locale}&status=${statusParam()}`, { data: { children } });
-    out(`added "${page.name}" to menu "${m.title}" at position ${at} (${statusParam()})`);
-    await commands.menu();
+    await http("PUT", `/api/menus/${m.documentId}?locale=${locale}`, { data: { children } });
+    out(`added "${page.name}" to menu "${m.title}" at position ${at} — LIVE (menus have no draft)`);
+    await printMenu(m.documentId);
   },
 
   async "menu-remove"() {
@@ -534,9 +568,9 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     const children = toWritable(m.children || [], { top: false });
     const [removed] = children.splice(Number(opt.index), 1);
     if (!removed) die("no item at that index");
-    await http("PUT", `/api/menus/${m.documentId}?locale=${locale}&status=${statusParam()}`, { data: { children } });
-    out(`removed item ${opt.index} from "${m.title}" (${statusParam()})`);
-    await commands.menu();
+    await http("PUT", `/api/menus/${m.documentId}?locale=${locale}`, { data: { children } });
+    out(`removed item ${opt.index} from "${m.title}" — LIVE (menus have no draft)`);
+    await printMenu(m.documentId);
   },
 
   async "menu-move"() {
@@ -547,9 +581,74 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     const [it] = children.splice(Number(opt.from), 1);
     if (!it) die("no item at --from");
     children.splice(Number(opt.to), 0, it);
-    await http("PUT", `/api/menus/${m.documentId}?locale=${locale}&status=${statusParam()}`, { data: { children } });
-    out(`moved item ${opt.from} -> ${opt.to} in "${m.title}" (${statusParam()})`);
-    await commands.menu();
+    await http("PUT", `/api/menus/${m.documentId}?locale=${locale}`, { data: { children } });
+    out(`moved item ${opt.from} -> ${opt.to} in "${m.title}" — LIVE (menus have no draft)`);
+    await printMenu(m.documentId);
+  },
+
+  async bios() {
+    const q = qs({ locale, status: opt.status || "published", fields: ["name", "slug", "position", "weight"], sort: "weight:asc", pagination: { pageSize: 200 } });
+    const res = await http("GET", `/api/bios?${q}`);
+    for (const b of res.data) console.log(`${b.documentId}  w=${String(b.weight ?? "-").padEnd(4)} ${b.slug}  — ${b.name} (${b.position ?? ""})`);
+    const { page, tpl } = await teamLists();
+    const names = (blk) => [...new Set((blk?.bios || []).map((b) => b.slug))].join(", ");
+    out(`\nteam on page "${page?.slug}": ${names(biosBlock(page))}`);
+    out(`team on template "bio":   ${names(biosBlock(tpl))}`);
+  },
+
+  async "bio-export"() {
+    const b = await findBio(pos[0]);
+    const json = JSON.stringify({ data: toWritable(b) }, null, 2);
+    if (opt.out) { fs.writeFileSync(opt.out, json); console.error(`written ${opt.out} (bio ${b.documentId}, ${b.locale})`); }
+    else out(json);
+  },
+
+  async "bio-push"() {
+    assertWritable();
+    const body = JSON.parse(fs.readFileSync(pos[0], "utf8"));
+    const data = body.data ?? body;
+    if (opt.new) {
+      const res = await http("POST", `/api/bios?locale=${locale}&status=${statusParam()}`, { data });
+      out(`created bio ${res.data.documentId} slug=${res.data.slug} (${statusParam()}) — /bio/${res.data.slug}`);
+      return;
+    }
+    if (!opt.document) die("--document <documentId> (or --new) is required");
+    try { backup("bio", await findBio(opt.document, { st: "draft" })); } catch {}
+    const res = await http("PUT", `/api/bios/${opt.document}?locale=${locale}&status=${statusParam()}`, { data });
+    out(`updated bio ${res.data.documentId} (${locale}) -> ${statusParam()}`);
+  },
+
+  async "team-add"() { await commands._team(true); },
+  async "team-remove"() { await commands._team(false); },
+  async _team(add) {
+    assertWritable();
+    const bio = await findBio(pos[0], { st: "published" }).catch(() => die(`bio "${pos[0]}" is not published in ${locale}: publish it first`));
+    const { page, tpl } = await teamLists();
+    for (const [kind, doc] of [["page", page], ["template", tpl]]) {
+      const data = toWritable(doc);
+      const blk = biosBlock(data);
+      if (!blk) die(`no Bios block in ${kind}`);
+      let ids = (blk.bios?.set || []).map((r) => r.documentId);
+      const had = ids.includes(bio.documentId);
+      ids = ids.filter((i) => i !== bio.documentId);
+      if (add) ids.push(bio.documentId); // display order comes from each Bio's weight
+      blk.bios = { set: ids.map((documentId) => ({ documentId })) };
+      if (had === add) { out(`${kind}: already ${add ? "there" : "absent"}`); continue; }
+      backup(kind, doc);
+      if (kind === "page") {
+        delete data.sortDate;
+        await http("PUT", `/api/pages/${doc.documentId}?locale=${locale}&status=published`, { data });
+      } else await http("PUT", `/api/templates/${doc.documentId}?locale=${locale}`, { data });
+      out(`${kind} ${kind === "page" ? doc.slug : "bio"}: ${add ? "added" : "removed"} ${bio.name} (${locale}) — LIVE`);
+    }
+  },
+
+  async taxonomies() {
+    for (const [api, label] of [["scopes", "scopes (àmbits)"], ["typologies", "typology"], ["years", "year"], ["tags", "tags"]]) {
+      const q = qs({ locale, fields: ["name"], sort: "name:asc", pagination: { pageSize: 200 } });
+      const res = await http("GET", `/api/${api}?${q}`).catch(() => ({ data: [] }));
+      out(`${label}: ` + res.data.map((t) => `${t.name} [${t.documentId}]`).join(" · "));
+    }
   },
 
   async publish() {
@@ -566,7 +665,7 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     const file = pos[0];
     const doc = JSON.parse(fs.readFileSync(file, "utf8"));
     const kind = path.basename(file).split("_")[1]; // <stamp>_<kind>_<documentId>_<locale>.json
-    if (!["page", "menu", "template"].includes(kind) || !doc.documentId || !doc.locale)
+    if (!["page", "menu", "template", "bio"].includes(kind) || !doc.documentId || !doc.locale)
       die("not a rw-content backup file");
     const data = toWritable(doc);
     const st = kind === "page" ? (opt.publish ? "&status=published" : "&status=draft") : "";
@@ -579,16 +678,21 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     const file = pos[0];
     if (!file || !fs.existsSync(file)) die("file not found");
     const form = new FormData();
-    form.append("files", new Blob([fs.readFileSync(file)]), path.basename(file));
+    // without an explicit type Strapi stores application/octet-stream and the site doesn't show the image
+    form.append("files", new Blob([fs.readFileSync(file)], { type: mimeOf(file) }), path.basename(file));
     if (opt.alt) form.append("fileInfo", JSON.stringify({ alternativeText: opt.alt, name: path.basename(file) }));
-    const res = await fetch(`${API}/api/upload`, {
+    const target = opt.replace ? `${API}/api/upload?id=${opt.replace}` : `${API}/api/upload`;
+    const res = await fetch(target, {
       method: "POST",
       headers: { Authorization: `Bearer ${TOKEN}` },
       body: form,
     });
     const json = await res.json();
     if (!res.ok) die(JSON.stringify(json));
-    for (const f of json) out(`uploaded id=${f.id} ${f.name} ${API}${f.url}`);
+    for (const f of [].concat(json)) {
+      out(`${opt.replace ? "replaced" : "uploaded"} id=${f.id} ${f.mime} ${f.width ?? "-"}x${f.height ?? "-"} ${f.name} ${API}${f.url}`);
+      if (f.mime === "application/octet-stream") console.error("WARNING: stored as octet-stream: the site will not show it as an image");
+    }
   },
 };
 

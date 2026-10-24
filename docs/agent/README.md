@@ -16,7 +16,12 @@ expliquis amb les teves paraules.
    amb el seu propi token: l'agent hi fa els canvis primer perquè els pugueu revisar abans de
    passar-los a la web real.
 
-## Com començar una conversa
+## Amb Claude Code
+
+Si obriu el repositori `resilience-web-backend` amb Claude Code, n'hi ha prou de demanar el canvi:
+l'*skill* `resilience-content` s'activa sola i carrega aquestes instruccions.
+
+## Com començar una conversa (altres agents)
 
 Copia aquest missatge al principi i adapta l'última línia:
 
