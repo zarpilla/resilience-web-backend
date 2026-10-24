@@ -24,9 +24,24 @@
       "relation": "oneToOne",
       "target": "api::page.page"
     },
+    "style": {
+      "type": "enumeration",
+      "enum": [
+        "normal",
+        "negre",
+        "fosc_vora_blanca",
+        "fosc_blanc",
+        "negre_crema",
+        "fletxa_avall"
+      ],
+      "default": "normal"
+    },
+    "fullWidth": {
+      "type": "boolean",
+      "default": false
+    },
     "cssClass": {
       "type": "string",
-      "default": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
       "pluginOptions": {
         "translate": {
           "translate": "copy"

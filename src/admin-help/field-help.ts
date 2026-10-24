@@ -275,9 +275,14 @@ export const FIELD_HELP: HelpMap = {
     page: { description: "Pàgina interna de destí (recomanat). Si s'omple, té prioritat sobre href." },
     href: { description: "Adreça externa (https://...) o ancla (#serveis). Només si no hi ha page." },
     target: { description: "_blank = obre en una pestanya nova (només amb href)." },
+    style: {
+      description:
+        "Aspecte del botó. normal = blanc amb vora negra i fletxa · negre · fosc_vora_blanca = negre amb vora blanca (sobre fons fosc) · fosc_blanc = blanc (sobre fons fosc) · negre_crema = negre que es torna crema amb el ratolí · fletxa_avall = blanc amb fletxa cap avall.",
+    },
+    fullWidth: { description: "Botó d'amplada completa (ocupa tota la columna)." },
     cssClass: {
       description:
-        "Aspecte del botó. Per defecte: btn mt-4 btn-with-arrow-right. Fosc: afegeix btn-dark. Per a fons fosc: btn-dark-border-white. Amplada completa: w-100.",
+        "Avançat, normalment buit. Classes CSS extra que s'afegeixen a l'estil triat. (Botons antics sense «style»: aquí hi ha tot l'aspecte del botó.)",
     },
   },
   "meta.children": {
