@@ -1,5 +1,19 @@
 # Pla de desplegament — octubre 2026
 
+> ✅ **Executat el 24/10/2026.** Còpia prèvia de la BD a `~/backups-rw/` (servidor). Còpies de
+> cada document modificat a `_stuff/rw-backups-prod/` (màquina de desenvolupament). Token de
+> contingut actiu: `content-fixes-2026-10-b` (caduca el 23/11/2026; fitxer
+> `resilience-web/.secrets/prod-content-token.txt`). Token `frontend` revocat: el frontend ja no
+> en fa servir cap. Per desplegar NO s'han fet servir `deploy-re-web-*.sh` (fan `git reset --hard`,
+> que esborra els canvis locals de `docker-compose.yml`, i `docker system prune -a`, interactiu):
+>
+> ```bash
+> # backend
+> cd /var/www/resilience-web/resilience-web-backend && git pull --ff-only origin main && docker compose pull && docker compose up -d
+> # frontend
+> cd /var/www/resilience-web/resilience-web-frontend && git pull --ff-only origin main && docker compose up -d --build
+> ```
+
 Canvis de codi (sense commit encara) + correccions de contingut. L'**ordre importa**: amb la
 tasca 001 la web passa a mostrar la versió *publicada*, i hi ha esborranys pendents que cal
 publicar abans.

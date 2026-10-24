@@ -1,6 +1,6 @@
 # 007 — Pàgines en castellà i anglès desactualitzades respecte al català
 
-- **Estat:** correccions preparades i provades en local; **pendent d'aplicar a producció**
+- **Estat:** ✅ feta i desplegada el 24/10/2026.
 - **Prioritat:** alta
 - **Data:** 2026-10-24 · **Tipus:** contingut
 

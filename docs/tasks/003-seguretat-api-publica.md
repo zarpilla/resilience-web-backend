@@ -1,6 +1,6 @@
 # 003 — Esborranys llegibles per l'API pública i token al navegador
 
-- **Estat:** implementada (pendent de desplegar + **rotar el token**)
+- **Estat:** ✅ feta i desplegada el 24/10/2026.
 - **Prioritat:** mitjana
 - **Data:** 2026-10-24 · **Tipus:** seguretat
 

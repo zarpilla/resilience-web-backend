@@ -1,6 +1,6 @@
 # 002 — Sliders buits i classes CSS traduïdes en castellà i anglès
 
-- **Estat:** proposada (script preparat i provat en una còpia local)
+- **Estat:** ✅ aplicada a producció el 24/10/2026 (14 canvis)
 - **Prioritat:** alta — és visible a producció
 - **Data:** 2026-10-24 · **Tipus:** contingut
 

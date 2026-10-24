@@ -1,6 +1,6 @@
 # 005 — Petits bugs i camps sense efecte (frontend)
 
-- **Estat:** majoritàriament feta (pendent de desplegar). Fetes: 1, 2, 3, 5, 6, 12, 13, 14 (llistes numerades i enllaços dins de llistes). Pendents: 4, 7, 8, 9, 10, 11 (canvien l'aspecte o l'esquema: cal decidir).
+- **Estat:** majoritàriament feta (desplegada el 24/10/2026). Fetes: 1, 2, 3, 5, 6, 12, 13, 14 (llistes numerades i enllaços dins de llistes). Pendents: 4, 7, 8, 9, 10, 11 (canvien l'aspecte o l'esquema: cal decidir).
 - **Prioritat:** baixa
 - **Data:** 2026-10-24 · **Tipus:** bug
 
