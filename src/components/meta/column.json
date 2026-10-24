@@ -20,6 +20,21 @@
         "audios"
       ]
     },
+    "width": {
+      "type": "integer",
+      "min": 1,
+      "max": 12
+    },
+    "offsetLeft": {
+      "type": "integer",
+      "min": 0,
+      "max": 11
+    },
+    "widthLarge": {
+      "type": "integer",
+      "min": 1,
+      "max": 12
+    },
     "styles": {
       "type": "component",
       "repeatable": false,

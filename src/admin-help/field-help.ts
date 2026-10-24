@@ -31,8 +31,8 @@ export const FIELD_HELP: HelpMap = {
   "meta.styles": {
     cssClass: {
       description:
-        "Classes separades per espais. En un BLOC: pt-0 / pb-0 (sense espai dalt/baix), blog-black, slider-three-black... En una COLUMNA defineix l'amplada en una graella de 12: col-12 col-md-6 (meitat), col-12 col-md-4 (un terç), col-12 col-md-8 offset-md-4 (2/3 a la dreta). Llista completa al manual.",
-      placeholder: "ex: col-12 col-md-6",
+        "Avançat. Classes separades per espais (ex: media-border-radius, blog-black, slider-three-black). L'espai de dalt/baix d'un bloc es tria a spaceTop/spaceBottom, i l'amplada d'una columna als camps width/offsetLeft/widthLarge de la columna. Llista completa al manual.",
+      placeholder: "ex: media-border-radius",
     },
     backgroundImage: {
       description: "Imatge de fons del bloc. En una columna, imatge de fons de la columna.",
@@ -79,10 +79,18 @@ export const FIELD_HELP: HelpMap = {
       placeholder: "ex: #F2EEEA",
     },
     paddingTop: {
-      description: "FALSE treu l'espai superior del bloc (equival a la classe pt-0).",
+      description: "Antic: fes servir spaceTop. (FALSE treu l'espai superior del bloc; només compta si spaceTop és buit.)",
     },
     paddingBottom: {
-      description: "FALSE treu l'espai inferior del bloc (equival a la classe pb-0).",
+      description: "Antic: fes servir spaceBottom. (FALSE treu l'espai inferior del bloc; només compta si spaceBottom és buit.)",
+    },
+    spaceTop: {
+      description:
+        "Espai a dalt del BLOC: cap (0) · petit (24px) · mitja (48px) · normal / buit (120px; 50px en mòbil). En una columna no té efecte.",
+    },
+    spaceBottom: {
+      description:
+        "Espai a baix del BLOC: cap (0) · petit (24px) · mitja (48px) · normal / buit (120px; 50px en mòbil). En una columna no té efecte.",
     },
     listenAudioBefore: { description: "Sense efecte. No cal tocar-ho." },
     listenAudioAfter: { description: "Sense efecte. No cal tocar-ho." },
@@ -96,6 +104,19 @@ export const FIELD_HELP: HelpMap = {
 
   // ---------------------------------------------------------------- columns
   "meta.column": {
+    width: {
+      description:
+        "Amplada de la columna a partir de tauleta (768px), en dotzens de la fila: 12 = tota, 6 = meitat, 4 = un terç, 8 = dos terços. Buit = les columnes es reparteixen la fila a parts iguals. En mòbil sempre ocupa tota l'amplada.",
+      placeholder: "1 a 12",
+    },
+    offsetLeft: {
+      description: "Espai buit a l'esquerra de la columna (a partir de tauleta), en dotzens. Ex: width 8 + offsetLeft 2 = columna centrada.",
+      placeholder: "0 a 11",
+    },
+    widthLarge: {
+      description: "Opcional: amplada diferent a partir de pantalla gran (992px), en dotzens. Buit = la mateixa que width.",
+      placeholder: "1 a 12",
+    },
     title: {
       description: "Títol de la columna. Accepta <br> per partir línia. Cal triar titleHeading perquè es vegi.",
     },
