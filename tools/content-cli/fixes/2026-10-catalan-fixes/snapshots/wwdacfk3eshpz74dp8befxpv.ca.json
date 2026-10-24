@@ -1,0 +1,785 @@
+{
+  "data": {
+    "name": "Bioregionalització",
+    "slug": "bioregionalitzacio",
+    "type": "capability",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Bioregionalització",
+      "metaDescription": null,
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1237
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Bioregionalització",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "30vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1237,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columns",
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Com pot una societat evolucionar, si no escolta els ritmes naturals del territori que habita?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Adaptació al territori",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La bioregionalització és un enfocament holístic i adaptatiu per a la gestió del territori que posa èmfasi en la comprensió profunda de les interconnexions ecològiques, socials i culturals d’una regió. Aquest model promou una transformació estructural dels sistemes humans, passant d’un esquema centralitzat a una organització més equitativa del poder i la gestió dels recursos a nivell local. L'objectiu principal és construir sistemes socials i ecològics més resilients i sostenibles.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En lloc de proposar noves delimitacions administratives, la bioregionalització busca trencar amb la lògica de la fragmentació i la divisió territorial, prioritzant una col·laboració basada en els punts en comú que faciliten una integració coherent. Així, mentre que el centralisme representa una organització jeràrquica i extractiva del territori, la bioregionalització aposta per un model de governança distribuïda, adaptada a les dinàmiques i coherències naturals de cada regió. Aquest enfocament afavoreix una connexió més profunda de les comunitats amb els ecosistemes dels quals depenen, establint relacions equilibrades i sostenibles amb el seu entorn.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El procés de bioregionalització pot entendre’s com un pas evolutiu dins de la gestió territorial, iniciant-se en el centralisme, avançant cap a la descentralització i culminant amb un sistema de governança plenament adaptatiu i alineat amb les dinàmiques naturals. Cada bioregió, definida per la seva identitat ecològica, cultural i natural, necessita solucions específiques que responguin a les seves particularitats. D’aquesta manera, la bioregionalització no es limita a canvis administratius, sinó que transforma les estructures de governança en models més orgànics i flexibles, incrementant l’autonomia i la sostenibilitat del territori.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest enfocament no només reforça la capacitat de les comunitats per afrontar reptes globals com el canvi climàtic o la degradació ambiental, sinó que també potencia la regeneració ecològica i social. Mitjançant una gestió territorial integrada, es maximitza l’ús regeneratiu dels recursos locals i es respecten els ritmes naturals dels ecosistemes. Així, els territoris no només esdevenen més autogestionats i resilients, sinó que també construeixen una relació sinèrgica amb la natura, on les necessitats humanes i ambientals es troben en equilibri. La bioregionalització esdevé, doncs, una eina clau per avançar cap a una governança més justa, coherent i sostenible, que permeti als territoris regenerar-se i evolucionar davant els desafiaments del futur.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“He treballat amb Resilience Earth durant molts anys i els considero líders internacionals en aquest nou i creixent camp de la pràctica bioregional. Resilience.Earth té la peça del trencaclosques del canvi sistèmic relacionada amb la governança descentralitzada, de manera que els ciutadans tinguin un paper actiu en la presa de decisions i l'assignació de recursos als seus propis territoris. A més d'això, organitzen aquest tipus d'esdeveniments que fan que qualsevol se senti feliç de viure.”<cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Isabel Carlisle, membre fundacional del Bioregional Learing Center (UK), i referent internacional en Bioregionalització.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-10 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imatge",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 444,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columns",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Observació bioregionalitzadora",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El concepte de bioregió va ser introduït als anys 70 per Peter Berg i Raymond Dasmann, que es van inspirar en el coneixement indígena del territori. Van definir les bioregions com unitats geogràfiques amb característiques naturals i culturals compartides, posant èmfasi en la relació intrínseca entre el territori, les seves característiques físiques i les cultures locals. Aquesta visió inicial va establir les bases per a la bioregionalització com una eina per adaptar les comunitats als cicles naturals, promovent una gestió del territori més sostenible i connectada amb les dinàmiques ecològiques i socials.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Donella Meadows va ampliar aquesta idea incorporant una visió sistèmica i pràctica mitjançant la proposta de crear observatoris bioregionals per estudiar les interaccions entre els ecosistemes i les dinàmiques socials. Segons Meadows, aquests observatoris són crucials per entendre els processos i fluxos d’una bioregió, permetent dissenyar solucions adaptades a les seves necessitats específiques. Aquesta perspectiva va assentar les bases teòriques i metodològiques per fer de la bioregionalització una eina per a la sostenibilitat i la gestió integrada del territori.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Posteriorment, autors com Isabel Carlisle, Daniel Wahl, Stwart Cowen i John Thackara van desenvolupar aquesta visió, centrant-se en la seva aplicació pràctica. Carlisle, des del Bioregional Learning Centre, va destacar l’aprenentatge local i la participació comunitària com a fonaments per enfortir els vincles entre comunitats i territoris. Wahl, a Designing Regenerative Cultures, va integrar la bioregionalització en un marc regeneratiu, destacant l’autosuficiència i la connexió amb els cicles naturals. Cowan va aportar reflexions sobre la resiliència de les estructures socials i econòmiques en el marc de la bioregionalització, mentre que Thackara va posar l’èmfasi en el redisseny dels sistemes territorials per maximitzar la sostenibilitat i l’eficàcia locals, consolidant aquest model com una eina clau per afrontar els reptes globals des d’una perspectiva local i integrada.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pt-0 pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“Estic profundament impressionat pel treball de Resilience.Earth i el seu enfocament profundament pràctic i eficaç per donar suport a les xarxes micèliques, les narratives de lloc i els processos de governança que són tan crucials per a la regeneració bioregional.\"<cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Dr. Daniel Christian Wahl, autor de 'Designing Regenerative Cultures",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-10 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imatge",
+        "styles": null,
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": "Imatge",
+            "media": 446,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columns",
+        "styles": {
+          "cssClass": "pt-0 pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Unitats de paisatge",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El treball de Joan Nogué i l’Observatori del Paisatge de Catalunya ha estat essencial per entendre el territori com un sistema coherent, cultural i ecològicament integrat. Les Unitats del Paisatge, definides en els seus Catàlegs, són àrees que comparteixen característiques naturals, socials i culturals, i que es poden entendre com unitats bioregionals. Aquest enfocament, que identifica els centres de coherència territorial i històrica, permet una gestió del paisatge adaptada a les particularitats locals, afavorint una governança basada en la integració de valors ecològics i culturals. Aquesta metodologia és fonamental per a la planificació territorial i la regeneració dels territoris.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A Resilience Earth, adoptem la bioregionalització com un marc essencial per al disseny i la implementació de solucions regeneratives. Ens inspirem en la teoria de centres de Christopher Alexander, que concep el territori com una xarxa interconnectada on cada centre té un rol específic dins de l’ecosistema bioregional. Aquest model policèntric, alineat amb la resiliència territorial, promou estructures de governança descentralitzades que respecten les dinàmiques locals, distribuint el poder i la presa de decisions de manera equitativa. Aquesta perspectiva facilita una relació més estreta entre les comunitats i els seus territoris, garantint solucions adaptades a les necessitats específiques de cada bioregió.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La integració del treball de l’Observatori del Paisatge amb la teoria de centres i el llenguatge de patrons d’Alexander reforça l’aplicació pràctica de la bioregionalització. Aquesta visió ens permet desenvolupar estructures de governança amb coherència territorial i històrica, que responen als reptes globals mitjançant solucions locals adaptades. A través de la nostra experiència i col·laboració amb actors locals i internacionals, promovem models bioregionals que entenen el territori com un sistema viu i dinàmic, capaç de regenerar-se i evolucionar.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“Les unitats de paisatge no només fan emergir la diversitat paisatgística d'un país, sinó que representen una nova manera d'organitzar el territori i la seva governança basada en el sentit del lloc i les profundes interaccions de la gent amb el seu entorn. Són les noves bioregions i encaixen perfectament amb la teoria i la pràctica de Resilience Earth.\"<cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Joan Nogué, Ex-Director de l'Observatori del Paisatge de Catalunya",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-10 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "navigation-arrows",
+        "alias": "Explora altres capabilitats",
+        "styles": null,
+        "menu": {
+          "set": [
+            {
+              "documentId": "bggm5vusi6vt5nll3u8srceh"
+            }
+          ]
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

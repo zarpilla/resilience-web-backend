@@ -1,0 +1,634 @@
+{
+ "data": {
+  "name": "Facilitació Sistèmica",
+  "slug": "facilitacio-sistemica",
+  "type": "capability",
+  "pageCss": null,
+  "headerColorMode": "dark",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Facilitació Sistèmica",
+   "metaDescription": null,
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1238
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Facilitació Sistèmica",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "40vh",
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1238,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "Quan una organització es converteix en un sistema viu, com sabem si estem treballant per desbloquejar el seu potencial o simplement observant-lo despertar?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Dinàmiques invisibles",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La facilitació sistèmica és una metodologia poderosa que busca comprendre i transformar les dinàmiques internes dels sistemes socials, organitzatius i comunitaris. Basant-se en la teoria sistèmica, aquest enfocament reconeix que els sistemes no són només la suma de les seves parts, sinó xarxes complexes d'interconnexions on les relacions entre els elements defineixen el comportament global. La facilitació sistèmica se centra en observar aquestes connexions per identificar tensions, bloqueigs i patrons subjacents, amb l'objectiu d’activar canvis sostenibles i significatius.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Aquest enfocament es diferencia de les metodologies tradicionals, ja que no es limita a abordar problemes superficials, sinó que busca entendre les causes profundes que dificulten el funcionament d’un sistema. Inspirant-se en el treball de figures com Bert Hellinger i Bugui Garcia, de l'escola de facilitació sistèmica aplica eines com les constel·lacions sistèmiques per revelar les dinàmiques invisibles que influeixen en el desenvolupament de grups i organitzacions. Aquestes tècniques ajuden a comprendre com els patrons heretats o les relacions disfuncionals poden afectar la capacitat del sistema per evolucionar.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A més, la facilitació sistèmica reconeix la importància de la memòria col·lectiva dins dels grups. Com destaca Bugui Garcia, cada organització o comunitat porta amb si una història col·lectiva que influeix en les seves decisions i comportaments. Aquest bagatge, si no es reconeix, pot esdevenir un obstacle per al canvi. La facilitació sistèmica ofereix un espai segur per abordar aquestes memòries i promoure processos transformadors que respectin la història i alhora fomentin un futur regeneratiu.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "columna 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "<cite>“La tasca de Resilience Earth és un clar exemple de com portar la Facilitació Sistèmica més enllà de les persones, els equips i les organitzacions, cap a la dimensió Bioregional. La seva experiència ens permet observar com crear un pont entre els marcs teòrics regeneratius i les pràctiques, acompanyant les persones a encarnar i actuar des de la veu del territori, per al territori.”</cite>",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "- Santiago Scheele de l'Escola de Facilitació Sistèmica.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-10 offset-md-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imatge",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 434,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "columns",
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Patrons ocults",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La facilitació sistèmica té les seves arrels en la teoria sistèmica i en les constel·lacions desenvolupades per Bert Hellinger, que revelen patrons ocults en les relacions humanes i organitzatives. Aquesta metodologia és fonamental per abordar conflictes i tensions dins dels sistemes socials, ja que permet entendre les dinàmiques de poder, les jerarquies ocultes i les connexions interpersonals que sovint queden fora de la vista. Franz Ruppert va ampliar aquest treball aplicant les constel·lacions a l’àmbit organitzatiu, explorant com els patrons culturals i històrics influeixen en la salut dels sistemes col·lectius.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Insa Sparrer, amb les seves innovacions en l’aplicació de les constel·lacions, ha demostrat com aquesta tècnica pot fer visible el que és invisible dins d’una organització. Segons Sparrer, els sistemes humans estan influïts per dinàmiques complexes que sovint romanen ocultes, però que poden ser desentranyades mitjançant eines com les constel·lacions sistèmiques. Això permet desbloquejar potencials latents i crear un camí cap a la col·laboració genuïna i l’harmonia interna.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En l'àmbit acadèmic, la facilitació sistèmica també es basa en la idea de la “consciència sistèmica”, un concepte central per comprendre com els sistemes poden evolucionar de manera saludable. Aquesta consciència implica una mirada holística que integra les relacions personals, els valors culturals i les dinàmiques estructurals per generar solucions sostenibles. Així, la facilitació sistèmica s’ha consolidat com una eina crítica per a la transformació organitzativa i comunitària en contextos complexos i canviants.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "column 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": false,
+     "paddingBottom": true,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "<cite>“Resilience té professionals formades en eines sistèmiques per acompanyar organitzacions i persones amb l’objectiu de desenvolupar-se per a arribar a llocs més sans.”</cite>",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "- Espai sistèmic i Humanista",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Imatge",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 638,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "columns",
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Visió compartida",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A Resilience Earth, la facilitació sistèmica és una capabilitat clau que ens permet entendre les dinàmiques complexes dels grups i crear espais transformadors per abordar-les. En el nostre paper de facilitadores, no proporcionem solucions predefinides, sinó que dissenyem entorns segurs i inclusius perquè els membres d’una organització o comunitat puguin explorar les seves pròpies dinàmiques i desbloquejar les tensions que limiten el seu potencial. Treballem per posar en relleu les connexions invisibles que defineixen els sistemes i per fer-les accessibles mitjançant eines visuals, narratives i pedagògiques que enriqueixin els processos col·lectius.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Mitjançant metodologies com les constel·lacions sistèmiques, ajudem els grups a identificar patrons latents, reconèixer tensions internes i explorar noves maneres de col·laborar. Aquestes tècniques ens permeten facilitar processos on les veus individuals es connecten amb el propòsit col·lectiu, promovent l’harmonia dins del sistema. El nostre objectiu és que les organitzacions i comunitats desenvolupin una visió compartida que no només afronti els reptes actuals, sinó que també generi solucions adaptades i alineades amb els seus valors.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "L’aplicació pràctica de la facilitació sistèmica a Resilience Earth es basa en crear espais per al diàleg i la reflexió, on cada veu tingui un lloc significatiu. Ens enfoquem en fer accessibles marcs conceptuals i metodologies innovadores a través de narratives visuals i relats que connecten les persones amb el seu context únic. Això permet que les organitzacions i comunitats no només comprenguin les seves pròpies dinàmiques, sinó que també co-creïn respostes adaptatives i regeneratives que integrin els seus valors, històries i necessitats en un futur compartit.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.menu",
+    "preset": "navigation-arrows",
+    "alias": "Explora altres capabilitats",
+    "styles": null,
+    "menu": {
+     "set": [
+      {
+       "documentId": "bggm5vusi6vt5nll3u8srceh"
+      }
+     ]
+    }
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

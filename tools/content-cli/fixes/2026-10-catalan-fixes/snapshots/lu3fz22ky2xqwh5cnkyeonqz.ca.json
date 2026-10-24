@@ -1,0 +1,418 @@
+{
+  "data": {
+    "name": "Ciutadania o Barbàrie (= Ruralitats) Apunts d’Oscar Gussinyer des del Parlament Rural Europeu, Escòcia",
+    "slug": "ciutadania-o-barbarie-ruralitats-apunts-d-oscar-gussinyer-des-del-parlament-rural-europeu-escocia",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Òscar Gussinyer",
+    "sortDate": "2025-11-10T07:00:00.000Z",
+    "metadata": {
+      "metaTitle": "Ciutadania o Barbàrie (= Ruralitats) Apunts d’Oscar Gussinyer des del Parlament Rural Europeu, Escòcia",
+      "metaDescription": "L’article reivindica que les ruralitats no són remotes, sinó el cor viu de llengua, memòria i coneixement ecosistèmic. Davant un sistema centralista i un mercat que precaritza, les comunitats rurals emergeixen com a custòdies del que sosté la vida. El futur, diu, passa per una regeneració policèntrica basada en l’autodeterminació, la interdependència i la cura del comú.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1162
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Ciutadania o Barbàrie (= Ruralitats)",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite> Apunts d’Oscar Gussinyer des del Parlament Rural Europeu, Escòcia</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1162,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "A Escòcia, durant el Parlament Rural Europeu, la Theona Morrison de Scottish Rural Action, una persona que viu i treballa a Uist, una de les poques illes on encara es parla gaèlic, reivindicava que les ruralitats no som remotes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "De cop, la meva ment va començar a navegar en el sentit d’aquesta paraula. Remot és un adjectiu relatiu: pressuposa un centre. I aquest centre —sigui capital, metròpoli o mercat global— sempre queda lluny de la majoria de les ruralitats.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "És curiós: Roma és més lluny de Barcelona que Beget, i, tanmateix, ningú de Barcelona diria que Roma és remota. La remotesa, doncs, no és una qüestió de distància, sinó de jerarquia; una geografia moral del poder que organitza el món per capes de centralitat: de Nova York a París, de Madrid a Barcelona, fins a les capitals de comarca, que sovint es creuen ciutat mentre algú, només uns quilòmetres més enllà, ja les considera perifèria",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.duitglobal.com/",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Vaig fer un exercici mental: què passaria si poséssim les ruralitats al centre i les ciutats al marge? Em va sobtar la idea que, en realitat, les ciutats són les que s’han tornat remotes respecte a la natura i als seus ritmes. És una remotesa interior: desconnexió de la matriu que sosté la vida.",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "El Fluvià és molt més que una línia d’aigua: és un organisme viu que connecta muntanya i mar, volcans i aiguamolls, memòria i futur. Però durant dècades l’hem tractat com un límit, no com un vincle. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La Theona ho expressava amb senzillesa: som les que mantenim viu l’origen de les nostres societats. Les llengües que ens van donar nom, com el gaèlic o el català, els coneixements acumulats sobre les plantes, els animals, el clima, el ritme dels ecosistemes. Som la memòria viva del que encara sosté la vida. I, per un moment, vaig entendre que potser el futur depèn d’això: de continuar sent custòdies d’un coneixement que no s’aprèn, sinó que s’habita.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Mentre la Theona continuava parlant del fet que les ruralitats tenim un valor per estar lluny del poder central , vaig recordar haver vist escrit: ruralitat o barbàrie. Em va fer reflexionar. ¿No són, en realitat, el mateix? La barbàrie ha estat sovint el nom que l’imperi posa al que no pot domesticar. Potser el que tenim en comú les ruralitats del planeta és ser la part menys domesticada de la nostra societat, aquella que recorda que la vida no s’administra, es cultiva.",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Perquè regenerar no vol dir només restaurant la natura, sinó reparar la relació. I això comença amb un acte simple: tornar a mirar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La consciència de lloc ens manté arrelades mentre les ciutats es dissolen en abstracció i volatilitat. Qui defineix què és “cívic”, i sota quins criteris? ¿No és això, també, un procés de normalització?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Els mercats globals ens roben l’habitatge, s’intensifica l’exili juvenil i se’ns imposen indústries que ens precaritzen, realitats econòmiques que comencen a assemblar-se a un tecno-feudalisme. Els governs centrals ens prenen els recursos i els gestionen sense escoltar la veu de l’experiència; es menysprea que siguem la vella guàrdia que custodia la cultura i la llengua.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Després de diversos tallers i ponències, vaig continuar rumiant: per què més d’un centenar de persones d’organitzacions de tot Europa hem vingut fins aquí? Quin és el propòsit real d’aquest esdeveniment? Crec que és un moviment d’autoreconeixement. Si el sistema encara funciona, no és per la seva capacitat de fabricar productes que ningú necessita, ni per la seva destresa a burocratitzar processos senzills, sinó per la resiliència acumulada durant mil·lennis de coevolució entre les comunitats i els ecosistemes dels quals formem part.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Quan el govern institucionalitza la conservació, talla un llegat de memòria i de relat, i desapodera la comunitat. Quan el territori s’ordena des de la capital, s’imposen paradigmes urbans sobre una realitat rural que no pot ser traduïda en termes de rendiment ni de control. És una microcolonització quotidiana. Potser som aquí per això: perquè no volem reviure processos de feudalisme ni de colonització. Venim a fer-nos preguntes legítimes: per què el govern no regula el mercat, en lloc de regular-nos a nosaltres? Estem segures que és el civisme la solució i no el diàleg? O potser hem oblidat que la convivència no s’aconsegueix amb normes, sinó amb relació.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Quan passejo pels nostres pobles i muntanyes, sovint em pregunto per què no són les mateixes alcaldies les que fan saltar la porta dels edificis buits perquè hi entrin les noves generacions, siguin del color que siguin.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per què posem preu al nostre llegat? Com pot ser que les cases que abans custodiaven el territori i sostenien la sobirania alimentària s’hagin convertit, a tot Europa, en moneda de canvi, en commodities on els milionaris inverteixen privilegis?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Com podem permetre que les indústries globals internalitzin la nostra custòdia territorial en forma de beneficis i externalitzin la pobresa, els nitrats i el CO₂ com si fossin residus inevitables del progrés? Quan la terra es tracta com un actiu, tot el que és viu passa a ser una dada comptable. Per què la Responsabilitat Social Empresarial és opcional i serveix sobretot per fer greenwashing? Com pot ser que encara no hàgim gosat qüestionar la propietat privada, aquest pilar invisible que converteix la cura en domini? En quin moment vam deixar d’entendre que l’herència no és individual sinó col·lectiva, que el territori no ens pertany sinó que ens confia la seva continuïtat?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No és evident que la precarietat del territori afecta tota la comunitat, per més murs que aixequem? Les persones que arriben a peu o en pastera són, al cap i a la fi, marges com nosaltres, empeses pel mateix sistema que buida els nostres pobles i concentra la riquesa als centres. Els reptes de la superpoblació i de les migracions massives, en un món en crisi climàtica, són reals i no desapareixeran tancant portes. La solidaritat no és una opció moral: és una llei natural de la vida compartida. Quin sentit té voler “arreglar Catalunya” ignorant el destí del planeta, com si poguéssim respirar un aire diferent o menjar d’un altre sòl? Cap comunitat pot salvar-se sola en un món que s’ofega. Les ruralitats ho sabem bé: la interdependència no és una teoria, és una experiència quotidiana.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Volem estar a l’altura d’aquest moment històric, acollir, reconciliar i sostenir la vida sense perdre el sentit de qui som, ja que aquest sentit ens permet fer-ho millor, per tant, aquesta responsabilitat no pot justificar la pèrdua de la nostra llengua ni de la nostra cultura. Cap de les dues ha estat mai estàtica: han crescut com creix la natura, per interacció i metamorfosi, teixint relacions noves sense trair l’arrel. I, tanmateix, entre els que volen tancar fronteres i els que tracten la cultura com si fos un residu folklòric, hem oblidat que la vida no evoluciona ni través de la puresa ni de la indiferència, sinó del canvi, la diversitat i la mescla.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El que necessitem no és més control central ni més rigidesa institucional, ni tampoc la por dels qui confonen l’amor per la terra amb el replegament. El que necessitem és autodeterminació, competències, resiliència i flexibilitat per regenerar-nos des de dins. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Només així podrem demostrar que la nostra llengua i la nostra cultura no són fronteres que separen, sinó fonts vives que connecten, que aporten sentit en un món desorientat i que poden recordar a tothom, també a les ciutats, que cuidar el que és propi és l’única manera sincera de cuidar el comú.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per això sentim una afinitat immediata amb altres ruralitats del planeta. Quan una comunitat aprèn a sostenir a través de les seves singularitats, reconeix en les altres la mateixa sensibilitat. Compartim un mateix fil de dependència amb la terra i amb la vida, una manera d’habitar el món que encara sap reconèixer el límit i la reciprocitat. Tenim més en comú amb qui sembra arròs a Mali o amb qui cuida ramats a Islàndia que amb qui administra la ciutat com si fos un algoritme. I això no és un desprestigi: és una constatació senzilla de pertinença compartida. En la nostra generació, estem cultivant una nova manera de pensar urbana i global, sí, però podria, aquesta manera de pensar, sobreviure sola?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No poso en dubte que la tecnologia i les urbanitats aportin valor; el que em pregunto és si, en el fons, no s’han cregut capaces de deixar-nos enrere, com si les ruralitats fóssim una etapa anterior de la seva pròpia història. Potser les ruralitats no estem obsoletes: potser són les urbanitats les que han oblidat d’on provenen i què les sosté. Potser no són el següent nivell evolutiu, sinó el reflex d’un pensament tancat en si mateix, que no pregunta perquè creu tenir totes les respostes, que no escolta perquè tem el silenci, i que no s’autocritica perquè confon el progrés amb la perfecció.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Ara se’ns diu que el problema principal és el creixement de la ultradreta, i que a més brolla de les ruralitats. Ens ha de fer por això, o més aviat el sistema de partits mateix, que fa dècades que l’alimenta? Potser la qüestió no és qui ocupa el poder, sinó quin tipus de pensament el sosté. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "No és la frustració, l’enuig i la sensació d’impotència el que empeny tantes persones dels nostres territoris cap a propostes reaccionàries? Potser la ultradreta no és una anomalia, sinó la descomposició visible d’un sistema que ja no sap regenerar-se, un cos polític esgotat que continua funcionant per inèrcia, com un organisme que confon moviment amb vida.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Quan un sistema s’estanca, el que emergeix no és el seu contrari, sinó la seva ombra. I aquesta ombra adopta la forma d’un poder autoritari que promet ordre on només hi ha desordre. Però el problema no és el monstre: és l’ecosistema que el fa possible.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hi ha dos patrons que sostenen aquesta decadència: l’estructura centralista, que perpetua la desigualtat i el privilegi, i la incompetència dels qui lideren, incapaces de posar-se al servei. Tots dos s’alimenten mútuament: un sistema que concentra poder només pot produir lideratges fràgils; i uns lideratges fràgils només poden sobreviure mantenint la concentració de poder. És un cercle tancat, autoreferencial, que expulsa la diversitat i castiga la iniciativa. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Potser el repte més gran és que la solució està en mans del problema.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per sisena vegada, més d’un centenar d’organitzacions i administracions públiques, de Grècia fins a Islàndia, ens hem trobat per reconèixer-nos com les veus dels marges. I en aquest reconeixement, els marges evolucionen cap a una distribució territorial policèntrica, viva i plural, feta de relacions complementàries, no de dominis.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": 1164,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

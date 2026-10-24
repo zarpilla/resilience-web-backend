@@ -1,0 +1,350 @@
+{
+  "data": {
+    "name": "El que vam salvar quan va tancar el Mcdonald's d'Olot - Albert Brosa",
+    "slug": "el-que-vam-salvar-quan-va-tancar-el-mcdonald-s-d-olot-albert-brosa",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Albert Brosa",
+    "sortDate": "2025-12-02T07:00:00.000Z",
+    "metadata": {
+      "metaTitle": "El que vam salvar quan va tancar el Mcdonald's d'Olot ",
+      "metaDescription": "El tancament del McDonald’s va fer visible un ecosistema local sòlid, basat en productors, artesans i una cultura alimentària pròpia.\nLa proximitat activa una economia circular real que manté viu el paisatge i sosté les famílies del territori.\nLa regeneració de la Garrotxa depèn de la constància quotidiana: comprar local, donar valor als oficis i decidir quin futur volem.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1205
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Vint anys després, el tancament del McDonald’s d’Olot ens recorda la força d’un territori que defensa la seva manera de viure i alimentar-se. ",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Una reflexió d'Albert Brosa</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1205,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "“La proximitat no és una nova bandera, és una manera de viure.”",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fa vint anys, a Olot, el tancament del McDonald’s no va passar inadvertit. Va ser un episodi sonat, intens i profundament viscut per una part de la ciutadania. Hi va haver botifarrades populars, concentrations, pancartes, debats i una mobilització que va transcendir l’entorn comarcal. Aquell enfrontament no tenia tant a veure amb l’arribada d’una hamburgueseria, que també, com amb la defensa d’un model propi, una manera d’entendre el menjar, la terra i el territori que no era compatible amb un format industrial i globalitzat. Darerre l'humor de les protestes hi havia convicció i amb els anys hem descobert que també hi havia una intuïció encertada: ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "la Garrotxa disposava d’un ecosistema propi prou sòlid per qüestionar un model que no arrelava. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.duitglobal.com/",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquell episodi va recordar que el territori tenia, i continua tenint, una estructura econòmica i alimentària arrelada al paisatge. Un model basat en productors locals, explotacions familiars, elaboradors artesans i establiments que, més que vendre menjar, ofereixen una continuïtat cultural. La proximitat no és una nova bandera, és una manera de viure que molts territoris han practicat amb naturalitat durant dècades. El consum de proximitat activa un cercle virtuós econòmic, social i ambiental que cada vegada és més necessari, diria que imprescindible. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "El Fluvià és molt més que una línia d’aigua: és un organisme viu que connecta muntanya i mar, volcans i aiguamolls, memòria i futur. Però durant dècades l’hem tractat com un límit, no com un vincle. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest model no és anecdòtic. A Catalunya hi ha unes 56.000 explotacions agràries inscrites al Registre d’Explotacions Agràries, i milers d’aquestes treballen sota criteris de proximitat o dins dels circuits curts d’alimentació regulats pel Govern. El creixement de la venda directa i de la venda amb un sol intermediari, emparades pel decret de venda de proximitat ha consolidat un sistema més traçable, més just i més connectat amb el consumidor. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Quan comprem producte local, no només comprem qualitat sinó que contribuïm a mantenir l’activitat econòmica al territori, perquè els ingressos que hi destinem tendeixen a quedar-s’hi. ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "El pagès contracta persones i serveis locals, aquests generen feina, els treballadors tornen a consumir a prop… és una economia circular real, no retòrica.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Aquesta aposta és especialment important en un context en què el món rural català viu una transformació profunda. En les últimes tres dècades, Catalunya ha perdut més del 40% de les explotacions agràries familiars; el 52% de la pagesia supera els 55 anys i només un 6% té menys de 35 anys i set de cada deu explotacions no tenen relleu generacional assegurat. ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "A la Garrotxa, les dades segueixen una tendència molt similar, amb explotacions cada vegada més grans però menys nombroses, i amb una dependència creixent de mercats externs, a menys que es produeixi un canvi de consum local que garanteixi la viabilitat del sector. Aquest escenari evidencia que defensar el producte de proximitat no és només una opció gastronòmica, és una necessitat estructural. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Apostar pel territori vol dir entendre que cada compra és un gest econòmic i polític. Quan alimentem grans multinacionals del menjar ràpid que operen amb matèries primeres de procedència sovint llunyana, processos industrialitzats i salaris baixos, el territori no en rep cap retorn. Els beneficis marxen i no generen cap activitat econòmica local. En canvi, quan comprem a pagesos, ramaders, elaboradors o petits comerços de proximitat, contribuïm a sostenir famílies, oficis i una economia que manté viu el paisatge. És una diferència que massa sovint passa desapercebuda en la quotidianitat. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Vist amb perspectiva, el tancament del McDonalds ja no és només la crònica d’un desacord comercial o cultural. És un recordatori de què passa quan un territori decideix què vol ser. La proximitat no pot convertir-se en folklore gastronòmic que només invoquem quan hi ha un conflicte o quan recordem una victòria simbòlica. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Si volem preservar un territori viu, productiu i coherent amb ell mateix, cal defensar-lo cada dia: comprant al costat de casa, valorant les persones que fan possible la producció alimentària, reconeixent que el menjar és identitat i que la identitat també s’ha de protegir. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fa vint anys, Olot i la Garrotxa van alçar la veu, i aquell clam l’hem de fer ressonar més. El millor homenatge que podem fer no és idealitzar aquell moment, sinó donar-li continuïtat. No cal esperar un altre conflicte per defensar els productors locals. La regeneració del territori depèn de la constància, no de les batalles puntuals. I és aquesta constància -una tria diària, discreta i persistent- és la que pot assegurar que el futur de la Garrotxa i de qualsevol comarca continuï sent un futur arrelat, viu i digne. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una reflexió d'Albert Brosa de Resilience.Earth, Olot, desembre 2025.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "c08tdtsyie83shcl9wcizppg"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

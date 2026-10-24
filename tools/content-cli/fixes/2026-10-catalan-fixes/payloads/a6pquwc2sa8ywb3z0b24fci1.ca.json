@@ -1,0 +1,535 @@
+{
+ "data": {
+  "name": "Governança dinàmica",
+  "slug": "governanca-dinamica",
+  "type": "capability",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Governança dinàmica",
+   "metaDescription": "En un entorn global cada cop més volàtil i complex, les organitzacions necessiten estructures de governança que no només s’adaptin al canvi, sinó que el converteixin en una força transformadora. ",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1241
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Governança dinàmica",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "40vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1241,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "Com pot una organització ser resilient si no permet que la seva estructura evolucioni?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Evolució Organitzacional",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En un entorn global cada cop més volàtil i complex, les organitzacions necessiten estructures de governança que no només s’adaptin al canvi, sinó que el converteixin en una força transformadora. Sociocràcia 3.0 (S3), creada per James Priest i Lili David, és un marc altament reconegut per la seva capacitat de combinar flexibilitat i rigor, oferint eines pràctiques per a l’autoregulació i l’aprenentatge continu dins d’organitzacions de qualsevol mida. Amb més de 70 patrons que aborden aspectes clau com la presa de decisions, la col·laboració i l’estructuració, S3 permet a les organitzacions dissenyar processos personalitzats que responen a les seves necessitats específiques.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "El potencial de S3 rau en la seva capacitat per integrar les dinàmiques humanes amb els objectius organitzatius. Estudis independents i ressenyes d’usuaris d’arreu del món destaquen la seva eficàcia per reduir conflictes, augmentar l’eficiència operativa i fomentar una cultura de confiança i transparència. A diferència d’altres metodologies de governança, S3 no és un sistema imposat, sinó un conjunt de patrons que poden ser adoptats progressivament i ajustats segons el context, garantint així una evolució constant. Aquesta flexibilitat ha fet que S3 sigui aplicat amb èxit en sectors tan diversos com l’educació, les empreses socials, la salut i el desenvolupament territorial.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La presa de decisions per consentiment, un dels fonaments clau de S3, no busca un consens absolut, sinó acords que permetin avançar sense bloquejar el progrés, mentre s’incorporen preocupacions legítimes. Aquesta metodologia facilita un equilibri entre l’autonomia individual i la responsabilitat col·lectiva, creant un entorn on les tensions són abordades de manera constructiva i es converteixen en motors de millora contínua.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "columna 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imatge",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 645,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "columns",
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Patrons modulars",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Els patrons de Sociocràcia 3.0 són el cor d’aquesta metodologia, oferint estructures pràctiques per abordar reptes de governança, dinàmiques de grup i presa de decisions. Cada patró està dissenyat per ser modular i integrable, permetent a les organitzacions adaptar-se progressivament sense necessitat de transformar-se completament de cop. Això fa que S3 sigui especialment valuós per a organitzacions que necessiten flexibilitat i pragmatisme per evolucionar en entorns canviants.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Un dels elements destacats de S3 és la seva aproximació a la gestió de tensions. Les tensions, sovint vistes com a problemàtiques en altres enfocaments, són considerades aquí com a senyals de desajustos que indiquen oportunitats de millora. Patrons com \"Retre Comptes\", \"Establir Polítiques Temporals\" i \"Avaluar Decisions\" permeten canalitzar aquestes tensions de manera estructurada, transformant-les en solucions pràctiques i regeneratives que beneficien l’organització en el seu conjunt.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A més, S3 posa un fort èmfasi en la col·laboració i l’autogestió, assegurant que les veus de tots els membres d’una organització siguin escoltades i respectades. Els patrons fomenten la creació d’equips semiautònoms que poden respondre ràpidament a canvis i necessitats emergents, mantenint una connexió constant amb els objectius globals de l’organització. Aquesta estructura distribuïda no només millora l’eficiència, sinó que també augmenta la motivació i l’implicació dels membres.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "column 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": {
+     "cssClass": "pt-0 pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "<cite>\"La tasca que fa Resilience Earth per ajudar cooperatives, administracions locals i comunitats rurals a desenvolupar la intel·ligència col·lectiva, utilitzar els recursos amb saviesa i fomentar la responsabilitat compartida és essencial per a la resiliència i el benestar de les generacions presents i futures.\"</cite>",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "- James Priest i Lili David, fundadores de Sociocracy 3.0 ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-10 offset-md-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Columns",
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Marcs col·laboratius",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A Resilience Earth, hem integrat Sociocràcia 3.0 com una eina clau per transformar la governança en comunitats rurals i organitzacions de base. Treballem en entorns caracteritzats per la diversitat cultural, la complexitat territorial i reptes que sovint excedeixen la capacitat individual de les institucions locals. S3 ens permet acompanyar processos on les comunitats dissenyen estructures de governança adaptades a les seves realitats, creant un marc col·laboratiu que fomenta la participació i l’eficiència.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "El nostre treball se centra en facilitar que municipis, cooperatives i organitzacions trobin maneres de col·laborar més efectivament per afrontar reptes compartits. S3 proporciona principis i eines per construir una governança més transparent i inclusiva, promovent una cultura de confiança i corresponsabilitat. Això ha estat essencial per generar dinàmiques de cooperació intermunicipal, xarxes d’ecosistemes col·laboratius i espais que integren la veu de tots els actors implicats.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A més, l’aplicació de S3 ens ajuda a reforçar la capacitat d’adaptació i resiliència de les organitzacions amb les quals treballem. Treballem per establir sistemes flexibles que integren el canvi com un element natural del procés de creixement i evolució. Això no només permet abordar problemes actuals, sinó que també prepara les organitzacions per respondre de manera efectiva a futurs reptes, garantint solucions sostenibles i impactes positius a llarg termini.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.menu",
+    "preset": "navigation-arrows",
+    "alias": "Explora altres capabilitats",
+    "styles": null,
+    "menu": {
+     "set": [
+      {
+       "documentId": "bggm5vusi6vt5nll3u8srceh"
+      }
+     ]
+    }
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

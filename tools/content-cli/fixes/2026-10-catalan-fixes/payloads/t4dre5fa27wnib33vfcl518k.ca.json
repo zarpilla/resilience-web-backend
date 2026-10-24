@@ -1,0 +1,515 @@
+{
+ "data": {
+  "name": "Resiliència",
+  "slug": "resiliencia",
+  "type": "capability",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Resiliència",
+   "metaDescription": "La resiliència no només ens permet afrontar les crisis, sinó transformar-les en oportunitats per regenerar els nostres sistemes socials i territorials.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1250
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Resiliència",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "60vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1250,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "Què necessitem per deixar d'evitar les crisis i començar a habitar-les?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Policrisi",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En un món marcat per crisis interconnectades com el canvi climàtic, les desigualtats socials i l’explotació dels recursos naturals, la resiliència es presenta com una resposta clau per adaptar-se, recuperar-se i transformar-se davant l’adversitat. Més enllà d’una qualitat passiva de resistència, la resiliència implica una capacitat activa de regeneració que permet als sistemes evolucionar de manera significativa. Aquesta visió sistèmica integra les dimensions ecològiques, socials i organitzacionals, ajudant-nos a construir societats més adaptatives i sostenibles.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Referents com Johan Rockström han desenvolupat el concepte de resiliència ecològica, destacant la necessitat de mantenir els límits planetaris per evitar col·lapses ambientals. Alhora, estudioses com Lorenzo Chelleri i Ann Masten han ampliat aquesta visió a entorns urbans i socials, demostrant com les comunitats poden transformar-se a través de la cooperació i les xarxes de suport. Aquesta comprensió multidimensional ens ajuda a veure la resiliència no només com una resposta a les crisis, sinó com una oportunitat per crear noves realitats més justes i regeneratives.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "columna 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "<cite>“Resilience.Earth és un catalitzador vital per al canvi en aquesta/regió, incubant i donant suport a molta de la transformació que necessitem veure ara mateix. Implica't i dona suport a la seva feina.”</cite>",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "- Rob Hopkins, activista, escriptor i fundador  del moviment Transition.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-10 offset-md-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imatge",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 530,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "columns",
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Resiliència adaptativa",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Acadèmicament, la resiliència s’ha convertit en un concepte clau per entendre com els sistemes humans i ecològics poden afrontar el canvi. Johan Rockström i Crawford S. Holling han destacat la importància de l’adaptabilitat i la transformació com a elements essencials per mantenir l’equilibri en sistemes complexos. Holling, en particular, va introduir la idea de resiliència adaptativa, que es centra en la capacitat dels sistemes per evolucionar i millorar davant les alteracions.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "D’altra banda, Lorenzo Chelleri ha explorat com les ciutats poden esdevenir laboratoris de resiliència urbana, combinant la regeneració ecològica amb la creativitat col·lectiva. Aquesta visió es complementa amb la perspectiva social d’Ann Masten, que subratlla la importància de les xarxes socials i culturals com a base per a la resiliència comunitària. A més, Fikret Berkes posa de manifest com els coneixements tradicionals de les comunitats indígenes poden oferir valuoses lliçons per dissenyar sistemes resilients, tant a nivell local com global.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Aquestes perspectives reforcen la necessitat d’una comprensió integral de la resiliència, que integri els elements ecològics, socials i culturals per afrontar els reptes globals des d’una òptica transformadora.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "column 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Imatge",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 643,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Columns",
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Ull de l'huracà",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Estem d'una època de canvis a un canvi d'època. Ens trobem enmig d’una policrisi global que redefineix les nostres estructures socials, econòmiques i ecològiques. Aquest moment històric ens desafia profundament, però també ens ofereix l’oportunitat única de construir un món més just, equitatiu i regeneratiu. A Resilience Earth, creiem que la clau per navegar aquest canvi és la resiliència: no com una simple capacitat d'emmotllar-nos als canvis, sinó com una força activa que ens permet adaptar-nos, transformar-nos i florir enmig de la incertesa.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Des de la nostra fundació, abans que la resiliència es convertís en una paraula de moda, hem dedicat el nostre treball a aprofundir en aquest concepte. La resiliència és la nostra capabilitat fundacional, desenvolupada a través d’anys de recerca, formació i pràctica en universitats i comunitats. Hem creat marcs d’estudi i eines aplicables que han estat implementades en les ruralitats catalanes i arreu, ajudant territoris i col·lectius a enfortir la seva capacitat per respondre als reptes globals i locals. Entenem que habitar l’ull de l’huracà, amb serenitat i claredat, és essencial per convertir les crisis en matrius de transformació.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Afrontem un món immers en una transició profunda cap a un futur incert. Tot i això, apostem per ser corresponsables d’aquest procés, impulsant una humanitat que trobi el seu lloc en una nova homeòstasi planetària. A Resilience Earth, treballem per aconseguir que aquest moment sigui recordat com aquell en què vam transcendir els límits del passat i vam assolir un nou llindar d’equilibri, on les persones i els territoris expressin plenament el seu potencial. Aquesta visió ens guia a desenvolupar solucions que integrin creativitat, adaptabilitat i regeneració, convertint els desafiaments d’avui en les bases d’un demà més resilient i just.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.menu",
+    "preset": "navigation-arrows",
+    "alias": "Explora altres capabilitats",
+    "styles": null,
+    "menu": {
+     "set": [
+      {
+       "documentId": "bggm5vusi6vt5nll3u8srceh"
+      }
+     ]
+    }
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

@@ -3,7 +3,7 @@
  * One-off (task 004, October 2026): Eines disruptives is now ordered by `sortDate`
  * (newest first) instead of "last modified". All resources had the same sortDate
  * (filled in at startup), so this gives each one a distinct sortDate that keeps the
- * order the site showed on 2026-10-24. New resources get today's date and go on top.
+ * order visitors saw on 2026-10-24. New resources get today's date and go on top.
  *
  * Pages with unpublished changes are skipped (publishing would expose them).
  *
@@ -14,18 +14,20 @@ const TOKEN = process.env.RW_API_TOKEN;
 const APPLY = process.argv.includes("--apply");
 if (!TOKEN) throw new Error("RW_API_TOKEN required");
 
-// order shown on 2026-10-24 (ca; es/en identical, without the first one)
+// Order VISIBLE on 2026-10-24. Because of a client-side bug (useI18n() in store getters) the
+// automatic list never replaced the manual `blogPage` list of the Eines disruptives page, so
+// visitors saw that manual order. es/en show the same relative order.
 const ORDER = [
-  "v7scy9eltnymhq7sdu2aoayt", // De xarxes a ecosistemes cooperatius
   "tzdw5rvurp63kwte2wxtqa5l", // Marcs sistèmics
-  "p8pdeqe0fc89ed3m8jlev43e", // Guia per una cultura de pau
-  "qzmelpvoo2u7nss9dj5rfkas", // Eines per al jovent ecoactivista
-  "pl0dlk1idfewo1dumou4rptm", // Futurs (im)possibles
-  "srniqyhwrqudmoxg6oqjm1ix", // L'altre món rural
-  "nhl7mg0d20t46dim7kfened6", // Patrons internacionals
   "wj328lrl9x1zws0d2xkj3qxh", // Community Catalysts Toolkit
-  "rwfr1xdalav1n2yywvwhcpmf", // El Sismògraf
+  "nhl7mg0d20t46dim7kfened6", // Patrons internacionals
+  "srniqyhwrqudmoxg6oqjm1ix", // L'altre món rural
+  "pl0dlk1idfewo1dumou4rptm", // Futurs (im)possibles
+  "qzmelpvoo2u7nss9dj5rfkas", // Eines per al jovent ecoactivista
   "u6ufp55tw7e1ox36n52dt95m", // Community Climate Coaches
+  "p8pdeqe0fc89ed3m8jlev43e", // Guia per una cultura de pau
+  "rwfr1xdalav1n2yywvwhcpmf", // El Sismògraf
+  "v7scy9eltnymhq7sdu2aoayt", // De xarxes a ecosistemes cooperatius
 ];
 const BASE = Date.parse("2025-11-07T18:30:00.000Z");
 const DAY = 24 * 3600 * 1000;

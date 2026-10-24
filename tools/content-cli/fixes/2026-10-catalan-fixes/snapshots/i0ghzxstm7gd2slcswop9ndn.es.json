@@ -1,0 +1,486 @@
+{
+  "data": {
+    "name": "Regeneración",
+    "slug": "regeneracio",
+    "type": "capability",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Regeneración",
+      "metaDescription": "Regenerar no es sólo restaurar lo que se ha perdido, sino activar el potencial latente de nuestras comunidades para crear un futuro más justo, resiliente y equilibrado.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1240
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Regeneración",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "40vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1240,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "¿Qué pasa con nuestro poder de transformar el cambio cuando dejamos de esforzarnos por controlarlo?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Activar capacidades inherentes",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La regeneración es una perspectiva fundamental que trasciende la simple sostenibilidad para ofrecer una respuesta transformadora a los retos globales que definen el siglo XXI, como el cambio climático, las desigualdades sociales y las crisis económicas. Mientras que la sostenibilidad se limita a mantener los sistemas existentes, la regeneración busca restaurar y mejorar esos sistemas, creando nuevas condiciones para que puedan evolucionar y prosperar. Esta visión implica comprender que los sistemas humanos y naturales son dinámicos e interdependientes, y que requieren un enfoque integrador y adaptativo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Carol Sanford, una de las principales voces en este ámbito, define la regeneración como un proceso que activa las capacidades inherentes de los sistemas humanos y organizativos para generar transformaciones profundas. En su libro The Regenerative Business, Sanford defiende que las organizaciones pueden convertirse en agentes regenerativos si adoptan principios inspirados en la naturaleza, centrados en la colaboración, la creatividad y la interconexión. Este enfoque no solo mejora los resultados económicos, sino que también enriquece a las personas y a los ecosistemas implicados.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El Regenesis Group, un colectivo pionero en este campo, amplía esta idea en el contexto de los territorios. Para ellos, la regeneración no es solo una intervención física en la ecología, sino un proceso holístico que integra el desarrollo humano con la restauración de los ecosistemas. Este enfoque destaca que el bienestar sostenible solo puede alcanzarse cuando se transforman las dinámicas sociales, culturales y económicas que sustentan la interacción entre las personas y el territorio.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“Resilience Earth ha explorado con éxito cómo las personas deben evolucionar las formas en que se gobiernan a sí mismas en una era de cambio acelerado. Al arraigarse en las profundas fuentes ecológicas, históricas y espirituales de La Garrotxa, Resilience Earth ayuda a reconectar a la ciudadanía con un sentido de propósito compartido y, al hacerlo, reconcilia múltiples formas de polarización social.”<cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Ben Haggard, co-fundador de Regenesis Group.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "cita ben",
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imagen",
+        "styles": {
+          "cssClass": "pb-0 media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 527,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columnas",
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Respuesta integral",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Académicamente, la regeneración se ha consolidado como una respuesta integral a la crisis sistémica global. Carol Sanford y el Regenesis Group han desarrollado metodologías para aplicar los principios regenerativos en una amplia variedad de contextos, desde comunidades locales hasta grandes organizaciones. Sanford, en particular, señala que la regeneración requiere un cambio de mentalidad: dejar atrás los enfoques fragmentados para adoptar una visión sistémica que reconozca las conexiones entre las personas, los procesos y el territorio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Beatrice Ungard y Sidney Cano, especialistas en regeneración empresarial, subrayan que este enfoque implica transformar las organizaciones en actores proactivos que crean valor social y ambiental. Sus trabajos destacan que la regeneración no consiste únicamente en implementar prácticas sostenibles, sino en transformar las relaciones internas y externas de una organización para que se convierta en un sistema vivo y adaptativo. Esta transformación afecta tanto a las estructuras de poder como a las prácticas cotidianas, promoviendo una cultura empresarial más justa y colaborativa.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A nivel comunitario, la regeneración también se vincula con la idea de restaurar las conexiones entre las personas y su entorno. Según el Regenesis Group, esta restauración no es solo física, sino también cultural y espiritual. Implica reconocer y valorar los saberes locales y ancestrales como elementos fundamentales para regenerar tanto los ecosistemas como las dinámicas sociales. Este enfoque interdisciplinario ha sido clave para desarrollar proyectos que no solo resuelven problemas inmediatos, sino que también establecen bases para un futuro más equilibrado y resiliente.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Imagen",
+        "styles": {
+          "cssClass": "pb-0 media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 641,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Columnas",
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Nos impregna.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En Resilience Earth, la regeneración es una capacidad central que impregna todas nuestras prácticas. Nuestro trabajo no se limita a implementar soluciones puntuales, sino a crear las condiciones para que comunidades y organizaciones descubran y activen su propio potencial regenerativo. Esto implica generar espacios de diálogo en los que se reconozcan las necesidades y valores únicos de cada grupo, promoviendo una transformación que nazca de la singularidad de las personas y del territorio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Nuestra metodología se basa en hacer accesibles los marcos conceptuales y las herramientas regenerativas mediante relatos, visuales y procesos pedagógicos adaptados a cada contexto. A través de este enfoque, no solo ayudamos a las comunidades a comprender los principios regenerativos, sino que las capacitamos para aplicarlos en su realidad local. Esto incluye desde la revitalización de ecosistemas hasta la transformación de las relaciones internas dentro de una organización, siempre poniendo el acento en la autosuficiencia y la co-creación.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Nuestro enfoque técnico está orientado a activar los recursos internos, a menudo invisibles o desaprovechados, dentro de los sistemas humanos y naturales. Esto permite no solo abordar los retos inmediatos, sino también establecer bases sólidas para un futuro compartido y regenerativo. Al trabajar desde esta mirada, Resilience Earth no solo contribuye a la regeneración del territorio y de las organizaciones, sino que también fomenta la capacidad colectiva de adaptarse y evolucionar, creando un impacto positivo y duradero.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "navigation-arrows",
+        "alias": "Explore otras habilidades",
+        "styles": null,
+        "menu": {
+          "set": [
+            {
+              "documentId": "bggm5vusi6vt5nll3u8srceh"
+            }
+          ]
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

@@ -1,0 +1,581 @@
+{
+  "data": {
+    "name": "Forest management, fire prevention and local economy",
+    "slug": "forest-management-fire-prevention-and-local-economy-aplec-iltir",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Albert Brosa",
+    "sortDate": "2025-10-19T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Forest management, fire prevention and local economy",
+      "metaDescription": "What do we want the forest to be, and for whom? And, from there, what are we willing to do so that this forest – our landscape, our territory – becomes a living, resilient and regenerative ecosystem?",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1144
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Forest management, fire prevention and local economy",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Regenerating does not only mean restoring Nature, but repairing our relationship with it. And that begins with a very simple act: looking at the forest again.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "85vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1144,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "We revisit the dialogue \"Forest management, fire prevention and local economy\", held at the Aplec Iltir in the Collsacabra in October 2025 and led by Albert Brosa, who moderated it.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The dialogue could be summed up in a question that is often hinted at but that we rarely stop to truly ask ourselves: What do we want the forest to be, and for whom? And, from there, what are we willing to do so that this forest – our landscape, our territory – becomes a living, resilient and regenerative ecosystem?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "At Resilience.Earth we believe that transforming territories does not start with infrastructure or subsidies, but with conversation, with culture, with recovering the rootedness and the capacity of communities to be agents of change. And that is exactly what we did in the Collsacabra: we brought together livestock farmers, forest owners, fire technicians, public administration, rural agents and local people to look at the forest – not just as “biomass” or “risk” – but as texture, as life, as a web of relationships.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "One of the key contributions of the dialogue is that forest management cannot be isolated. It is not just the forest, but extensive livestock farming, fire prevention, tourism, local produce, access for local residents, the city–countryside perspective. In plain words: it is not enough to plant trees or carry out fellings; a whole environment has to be activated so that the forest has meaning and vitality. As Just Serra, president of Boscat, explained, “If we want to conserve the forests… what we have to do is give them an economy. Not tell the people of the territory what to do. We already know what we have to do.” He speaks from the simple certainty that those who walk the forest every day are in the best position to understand it, and that their action must be not only technical but also economic and cultural.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Another idea we put forward in the debate is to move from seeing the forest as an object of risk (fires, drought, abandonment) to seeing it as a subject of care. As Quim Dalmau, head of the Rural Agents of Osona, pointed out, “we always do everything very much in relation to fire risk… It seems that here we have to live on subsidies, that nothing should be paid for”. This highlights two things: the dependence on a reactive, subsidy-based model, and the need to build a model in which forest management is understood as an opportunity, not just an obligation.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "And, as Anna Sanitjas, of the Technical Office for Fire Prevention of the Diputació de Barcelona, put it, “our forests are dying. From drought, from fires… and we must invest in this territory: in innovation, in new products that improve forest management, in businesses, in education and in rooting these people in the territory”. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Here our vision appears once again: regenerating is not only stopping the emergency but creating the conditions for there to be life – and a dignified life – in the territory. This holistic view, which is economic, social and environmental, is what allows the territory not only to “survive” but to flourish.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.video",
+        "title": "If trees could talk, we would look at the world differently",
+        "embed": null,
+        "url": "https://www.youtube.com/watch?v=SNWqNuXne5U",
+        "image": 1136,
+        "styles": null
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-lg-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "An essential element of the debate was the question of rootedness and of the emerging generation. Edgar Nebot, deputy inspector of the GRAF, put it very pointedly: “The challenge is how young people can live and work in a territory and earn a decent living, so that the territory keeps its people”. Without this real possibility, the forest is left in the hands of a few or becomes a second-rate space, removed from everyday life. When that happens, management weakens, and so does the connection.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "David Meya, deputy director general of Forests of the Generalitat, pointed to the cultural disconnection from the natural environment: “People tend to see the forest as a static landscape, and the lived experience is not there”. This “living the forest” is fundamental: city dwellers, young people, those who are not owners should also have a relationship with it. As Sanitjas stressed, “people in Barcelona who live in small flats must be able to access the forest”. It is an invitation for the forest to be communal, not private.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "It is true that there are shortcomings. Too much forest, too little quality management, too much dependence on subsidies… Toni Arimany, forest manager and CEO of Aricoforest, made it clear: “We have a lot of forest mass, but we do not have quality forest, because no work has been done and it has not been managed”. This criticism is not meant to blame but to mobilise. To open up a way of looking that lets us care for the forest, and lets the communities living there be active and creative agents, not passive recipients. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "And for this to happen, we need to apply a regenerative approach: restoring flows, activating the local economy, creating public access, promoting environmental education and strengthening local governance. It is an ambitious vision, but also a tangible one. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "So the dialogue in the Collsacabra was a good opportunity to look at what we do and how we do it. But the real work starts now. And from Resilience.Earth we propose a few pointers:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Show the forest as a living space.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Give a leading role to those who live in, work and care for the territory, and give them the tools to do so with dignity.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Develop circular, local economies that link forest management with extensive livestock farming, sustainable local tourism and local produce.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Make the forest accessible to everyone, urban and rural, and encourage a direct relationship with it.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Commit to innovation – not only technological but also social and in governance – so that communities can see themselves as agents of change and not only as beneficiaries.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusion",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusion",
+            "titleHeading": "h1",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In short, the forest is a space for the future if we look at it with the eyes of the present. And at Resilience.Earth we are committed to accompanying this path, giving it shape, meaning and possibility, so that the territory stops being a backdrop and becomes a living fabric in which we all take part.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Written by Albert Brosa, October 2025. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Taking part in the dialogue were Just Serra, president of BOSCAT, livestock farmer and veterinarian; Josep Anglada, mayor of Vidrà and president of the ADF Osona; David Meya, deputy director general of Forests and Environmental Management of the Department of Agriculture; Anna Sanitjas, head of the Technical Office for Municipal Forest Fire Prevention and Agricultural Development; Edgar Nebot, deputy inspector of the GRAF; Toni Arimany, of Aricoforest; Francesc Subiranes, of Mas Subiranes in Tavertet, 7th-generation custodian of 1,000 hectares of forest in the Collsacabra and Les Guilleries; and Quim Dalmau, head of the Rural Agents of Osona and Lluçanès and board member of the Associació de Propietaris Forestals Serra de Bellmunt-Collsacabra. Moderated by Albert Brosa, of Resilience.Earth, and Dolors Dorca, of small forest owners with a flock of sheep in L’Esquirol.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "mey6tctw82qgxp75dst19y3f"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

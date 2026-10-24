@@ -1,0 +1,319 @@
+{
+  "data": {
+    "name": "Reflexions de la facilitació del Consell dels Infants d’Olot 2025-2026",
+    "slug": "reflexions-de-la-facilitacio-del-consell-dels-infants-d-olot-2025-2026",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Mario Gutierrez, Sunna-Miwa Anderson, Jan Pol Tarruell",
+    "sortDate": "2025-11-23T07:00:00.000Z",
+    "metadata": {
+      "metaTitle": "Reflexions de la facilitació del Consell dels Infants d’Olot 2025-2026",
+      "metaDescription": "Què passa quan escoltem la veu dels infants i els incloem en la participació política?",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1277
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Reflexions de la facilitació del Consell dels Infants d’Olot 2025-2026",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite> Què passa quan escoltem la veu dels infants i els incloem en la participació política?</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1277,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Els infants tenen la mirada desperta i atenta. Curiosos, es pregunten el perquè de la realitat en què viuen, i ha quedat clar que són ciutadans i ciutadanes amb moltes idees, sovint, originals i creatives. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Els infants habiten les ciutats i pobles on viuen. Hi transiten cada dia, sovint a peu, en patinet o en bicicleta, per a anar i tornar de l’escola, participar d’activitats extraescolars i gaudir dels espais públics. Tot i que els adults tendim a pensar que cada cop es juga menys al carrer que abans, nens i nenes omplen cada tarda places i parcs, que continuen sent espai de trobada i de joc. Participen de les activitats culturals, festives i de cultura popular (potser fins i tot més que molts adults) i gaudeixen dels entorns naturals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Potser el fet d’haver viscut pocs anys i de viure el present amb una intensitat que molts adults hem perdut, els permet realment habitar i experienciar el lloc on viuen d’una manera única.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I és aquest habitar el que els dona el dret, la legitimitat i la plena capacitat de poder participar també en la vida política i democràtica del lloc on viuen.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No es tracta només d’escoltar els infants perquè són el futur, sinó perquè ja formen part del present de la ciutat. La viuen, la recorren, la pateixen, la gaudeixen i la imaginen. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La primera condició per a participar és voler fer-ho, i dinamitzant el Consell dels Infants ens ha quedat clar que les nenes i els nens en tenen ganes. ",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Partint d’aquest context, hem volgut oferir un espai de participació real per als infants d’Olot que permeti copsar aquesta mirada quotidiana dels nens i nenes i acompanyar-los a convertir-la en una aportació col·lectiva a la millora i transformació de la ciutat. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El Consell dels Infants 2025-2026 ha comptat amb la participació de set escoles de la ciutat d’Olot, formades per tretze grups de 5è de primària i al voltant de tres-cents alumnes, vint-i-sis dels quals han estat els representants dels seus centres. Durant el procés s’han realitzat tres sessions amb cada grup, amb un total de trenta-nou sessions, i tres sessions amb els representants. S’ha treballat al voltant dels temes de: medi ambient, espai públic i lleure, cultura i comunitat, i a partir del diàleg i la priorització s’han acabat desenvolupant tretze propostes concretes que es van presentar al Ple Municipal Extraordinari de l’Ajuntament d’Olot del passat 4 de juny.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Al llarg de les sessions, tant a les aules com amb els representants de cada escola, hem pogut obrir un espai de sensibilitat, d’exposició, debat i reflexió. Hem procurat en tot moment posar l’enfocament a la veu i les idees dels nens i nenes que han sentit aquesta possibilitat de millorar el seu entorn. A partir d’aquesta confiança, hem pogut anar aprofundint en les temàtiques que els impliquen. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Ha estat interessant acompanyar-los en el viatge d’anar a buscar l’arrel més profunda dels problemes, i veure com ràpidament s’adonaven que moltes de les problemàtiques que podem observar a la nostra ciutat (com la brutícia als carrers o la contaminació del riu), tenen a veure amb els comportaments, les relacions, i les estructures més profundes. Per aquesta raó, per a posar-hi remei, cal dissenyar solucions dirigides a aquestes capes menys superficials i inherents i no aquelles que es veuen en primera instància.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Tanmateix, durant el procés ens hem trobat amb algunes preocupacions. En un inici, les primeres idees i propostes dels infants per a fer front a les problemàtiques i necessitats que identificaven, eren molt punitives, prohibitives i coercitives: videovigilància, multes… Tot i això, quan se’ls feia reflexionar sobre què els movia i els motivava a ells i elles per fer les coses, s’adonaven que el càstig no els agrada i els genera frustració, tristesa i malestar. En canvi, les propostes constructives en positiu són les que generen motivació, esperança i ganes de fer les coses.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "També hem pogut veure com qüestions com la pobresa, els robatoris, l’habitatge, la necessitat d’espais segurs i el medi ambient han estat eixos de debat, d’intercanvi d’idees i, en alguns moments, de sorpresa. Alhora, ens han permès detectar discursos que sovint no neixen dels mateixos infants, sinó d’un context social cada vegada més polaritzat.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Ens preocupa que aquest discurs sigui reproduït pels infants. Potser sempre ha sigut així, com també sempre la infància ha sigut un moment en què tot és possible i l’educació té la capacitat de formar generacions que creguin i actuïn amb valors de cooperació, agència personal i pensament crític. Aquest acompanyament ens ha mostrat la necessitat de responsabilitat per fomentar el diàleg, l’escolta i l’alegria més enllà de la por.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per a nosaltres, com a persones joves d’Olot i la Garrotxa, vinculades al Núria Social, aquesta ha estat una oportunitat única que ens ha brindat Pegàs de Foc, que ens ha permès desenvolupar les nostres capacitats per a facilitar processos de participació democràtica i desenvolupament comunitari i implicar-nos des d’un rol d’acompanyament, en la millora i la transformació del lloc on vivim, des de l’escolta activa i la sensibilitat per a incorporar totes les veus.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El repte, a partir d’ara, és que aquest procés no acabi aquí. Les propostes presentades pels infants necessiten un retorn clar, honest i comprensible: quines es podran tirar endavant, quines requeriran més temps, quines dependran d’altres agents i quines, potser, no seran possibles tal com han estat formulades. Sense aquest retorn, el risc és que la participació quedi reduïda a un exercici simbòlic. En canvi, quan els nens i nenes poden veure que allò que han pensat, debatut i proposat té conseqüències reals, aquest procés es converteix en una experiència positiva de participació democràtica col·lectiva, que podran replicar i reclamar en un futur. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest és també un aprenentatge per als adults. Escoltar els infants no vol dir només donar-los la paraula en moments puntuals, sinó incorporar la seva mirada en la manera com pensem la ciutat, els barris, els espais públics, la cultura, el lleure i la convivència. La participació democràtica s'aprèn practicant-la; i per això cal generar espais estables, cuidats i reconeguts on els infants puguin expressar-se, deliberar i incidir.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per aquest motiu, pensem que cal donar continuïtat al Consell dels Infants com a òrgan de participació i consolidar-lo més enllà d’una experiència educativa puntual. Alhora, seria interessant explorar com escalar aquest espai a una dimensió territorial i com vincular-lo amb altres espais de participació existents, com els consells de poble o altres òrgans comunitaris. ",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Si volem una democràcia més viva, més propera i més inclusiva, hem d’assumir que la veu dels infants no és només un complement, sinó una part imprescindible de la conversa col·lectiva sobre el present i el futur del lloc on vivim. ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

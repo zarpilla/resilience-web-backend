@@ -1,0 +1,1261 @@
+{
+  "data": {
+    "name": "Tierra de aves, oro y memorias: un viaje regenerativo a la subcuenca de Aguaclara",
+    "slug": "tierra-de-aves-oro-y-memorias-un-viaje-regenerativo-a-la-subcuenca-de-aguaclara",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Oscar Gussinyer Erika Zarate",
+    "sortDate": "2025-12-17T17:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Tierra de aves, oro y memorias: un viaje regenerativo a la subcuenca de Aguaclara",
+      "metaDescription": "Aguaclara es un territorio que recuerda: en el suelo vive una antigua memoria y, en ella, una comunidad que ha decidido escuchar el lugar.\nUna levadura crítica de personas restablece bosques, relaciones y economías arraigados, transformando el conflicto en posibilidad.\nCuando el territorio vuelve a ser centro, la vida es reorganizada y un futuro regenerativo comienza a tomar forma.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1220
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Tierra de aves, oro y memorias: ",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "Un viaje regenerativo a la subcuenca de Aguaclara. Una reflexión conjunta de Òscar Gussinyer y Erika Zárate. ",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "85vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1220,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": true,
+          "paddingBottom": false,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "1. Volver a Colombia veinte años después",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Volver a Colombia después de dos décadas es como abrir un libro que ya habías leído, pero donde alguien, en silencio, ha escrito capítulos nuevos entre líneas, a lápiz, con una caligrafía que no te resulta del todo desconocida.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hace veinte años caminábamos este país como escudos humanos de las Brigadas Internacionales de Paz. Eran tiempos de fogatas encendidas en los caminos, de símbolos paramilitares en las veredas, de nombres prohibidos y miradas bajas. Acompañábamos a personas defensoras de derechos humanos, como Iván Cepeda, entonces un hombre perseguido por su obstinación en buscar verdad donde otros buscaban olvido. Hoy, Cepeda es candidato presidencial y una de las voces que pueden reabrir ventanas por donde entre aire limpio en una democracia que aún lidia con sus cicatrices.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Ahora regresamos a un país presidido por Gustavo Petro, con la extraña sensación de que la historia no avanza en línea recta: hay avances, retrocesos, ventanas de oportunidad y puertas blindadas. En algunas regiones la paz es un brote tierno; en otras, el conflicto persiste como una raíz que se empeña en no dejarse arrancar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Y en este contexto tan complejo, Melina Ángel, de Colombia Regenerativa, nos invita a un territorio que contiene en sí mismo todos los capítulos de Colombia: esplendor, destrucción, supervivencia y renacimiento.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": null,
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": "article",
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imágenes",
+        "styles": {
+          "cssClass": "articleRight",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1212,
+            "styles": {
+              "cssClass": "mb-5",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1217,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": false,
+          "paddingBottom": false,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "2. La fuerza de un territorio que se recuerda: relato del lugar en el Valle del Cauca",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Antes de cualquier taller, metodología o conversación técnica, Resilience Earth y Colombia regenerativa, empiezan por un principio sagrado del trabajo regenerativo: escuchar el lugar. No es un ritual; es una postura. Es reconocer que el territorio es sujeto, no objeto; maestra, no recurso.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esta parte del Valle del Cauca, la subcuenca de Aguaclara, junto al Parque Nacional Natural Las Hermosas, es un territorio que guarda historias como sedimentos de un río antiguo: capas de vida que no desaparecen del todo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2.1. Los Malagana: un capítulo que se abre bajo tierra",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hay territorios que hablan en voz alta y otros que hablan desde el subsuelo. En este, bajo los campos que hoy parecen modestos, descansan los vestigios de la Cultura Malagana.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hace siglos, los Malagana trabajaban el oro con precisión y sensibilidad, como si el metal fuera un recuerdo líquido de alguna historia antigua. También eran ceramistas, comerciantes, guardianes de un sistema hídrico natural donde el Valle del Cauca era un inmenso mosaico de marismas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En aquel tiempo, aves migratorias cruzaban el cielo como ejércitos silenciosos, y los caminos humanos se entrelazaban con los caminos alados. Pueblos inca, maya y azteca pasaban por aquí para intercambiar metales, resinas, semillas, historias. Era un lugar de abundancia y encrucijadas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Escuchar esto de boca de las personas mayores, de historiadoras locales, de antropólogas populares que han hecho de la memoria su oficio involuntario, nos recuerda que este territorio no es periférico: es un antiguo centro que aún sabe cómo serlo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2.2. De abundancia al abismo, y del abismo al desconcierto",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La conquista hizo lo que acostumbra: romper huesos, quemar saberes, imponer silencios. Los Malagana vieron deshacerse su mundo en un periodo absurdamente corto.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Más tarde, hace apenas 150 años, comenzaron a llegar nuevas oleadas de colonización interna: criollos, migrantes rurales, pueblos indígenas desplazados. Muchos llegaban empujados por la necesidad, y el resultado fue una deforestación intensa de árboles milenarios que rozaban el cielo, lo que empobreció los ríos y secó manantiales.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Y después, como una tormenta que llega cuando ya nadie la espera, llegó el conflicto armado. En la zona operaron grupos paramilitares, que establecieron centros de detención y tortura. Cuando decimos “fosa común con cerca de dos mil cuerpos”, las palabras tiemblan: no existe lenguaje suficiente para sostener ese peso.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Pero el territorio, como si guardara jaulas de resistencia dentro de sí, no perdió del todo la memoria de la vida.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "3. Los humanos que dijeron “basta”: el nacimiento de una levadura crítica",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La idea de “masa crítica” es conocida. Pero aquí no apareció una masa: apareció una levadura crítica.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "3.1. La levadura crítica explicada para quien nunca ha oído hablar de ella",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No es una metáfora bonita. Es una forma radicalmente distinta de entender la transformación social.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La levadura crítica es ese pequeño grupo de personas que tiene la combinación exacta de credibilidad, compromiso y conexiones para que, cuando se mueve, transforme el entorno. No son líderes autoritarios ni asambleas masivas; son personas que se conocen, se respetan y comparten una intuición profunda: el territorio puede renacer.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esta levadura crítica se llama a sí misma “La bandada de pájaros”, un nombre que no es solo poético, sino que preciso. El proceso está profundamente inspirado en la observación del territorio, principalmente de las aves, de las cuales están aprendiendo a bioregionalizar: cada una cumple una función ecológica y, juntas, custodian la biodiversidad.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "4. Historias que regeneran: cuando la vida humana se pone al servicio de la vida más grande",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En Aguaclara, cada persona de esta bandada tiene una historia que podría ser una novela corta. Lo que hacen no son “proyectos”: son actos de restauración vital.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.1. Baudelino: el restaurador de bosques",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Baudelino no esperó millones de pesos ni una convocatoria ministerial. Un día preguntó a las personas mayores: “¿Qué árboles había aquí?” Y empezó a sembrar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esquivando grupos armados en medio del bosque, caminó por senderos semiborrados buscando semillas de lauráceas, árboles capaces de vivir hasta 1.500 años, como si quisiera sembrar tiempo en lugar de plantas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Vio regresar insectos que nadie recordaba. Escuchó cantos de aves que jamás había oído. Y hoy, gracias a esa obstinación discreta, más de 200 especies de aves han vuelto al territorio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Por eso existe el Festival Comunitario de Aves: no es turismo; es la celebración de una victoria ecológica y espiritual.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.2. Alexander y Janet: café que se cultiva como una oración",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Su finca es un puente entre el pasado y el futuro.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Con técnicas como el pan coger, una práctica tradicional para generar abundancia y comunidad, y el consejo de los Mamos Arhuacos, han entendido que el café no es un producto: es un órgano del territorio. Las hormigas son aliadas que oxigenan la tierra, los fertilizantes surgen de las piedras y los plátanos alimentan a las aves.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Mantienen la mitad de la producción para la biodiversidad; no por caridad, sino porque la montaña es quien les sostiene.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Han integrado permacultura, agroforestería y agricultura sintrópica: tecnologías modernas que dialogan con cosmologías ancestrales. Es lo que ocurre cuando la modernidad se pone al servicio de la vida y no del extractivismo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.3. Idalia y Jolmer: la permacultura como hospital de montaña",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En su casa todo crece: bananos, papayas, frutas que maduran en un silencio espeso. Su jacuzzi ecológico, alimentado por agua de manantial, es casi una metáfora: la vida sana cuando fluye sin canales artificiales.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Quieren convertir su hogar en un centro de liderazgo regenerativo: encuentros de personas que quieran repensar el futuro rural desde el territorio, no desde oficinas urbanas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Mientras tanto, acogen a quienes visitan la región no como turistas, sino como aliadas y aprendices.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.4. Gloria: una economía de proximidad que sana la historia",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cuando regresó al territorio tras más de dos décadas desplazada, despertó a un grupo de mujeres que hoy son casi 50, tejiendo el nuevo paradigma. Lo hacen a través del arte y el diálogo, dibujando imaginarios y sanando comunidad.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Su café, Madre Tierra, es un lugar donde la gente entra a tomar algo y sale con una conversación, un recuerdo o un objeto hecho por manos vecinas. El café sabe a bosque; el chocolate, a esperanza. Pero en el fondo, cualquier bebida es solo excusa para una gran conversación.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Es un espacio donde lo económico y lo comunitario no se oponen: son lo mismo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.5. Karent y Kevin: una fundación que fundo esperanza",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Su historia comienza cuando eran adolescentes y Palmira quiso convertir su subcuenca en un vertedero. Tenían dieciséis años, ningún poder formal y mucha más dignidad que miedo. Reunieron compañeras del colegio, hicieron asambleas bajo los árboles y dijeron lo que nadie decía: este territorio no es un basurero; es nuestro hogar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "De esa rebeldía nació una fundación que, quince años después, ha implicado a cientos de jóvenes en la restauración de quebradas. Lo que antes eran riachuelos muertos ahora vuelve a sonar, y brotan plantas desaparecidas. Han creado, casi sin proponérselo, la primera generación de jóvenes que no quiere irse: quiere arraigar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.6. Stefanny y Sergio: una escuela para las herederas de la tierra",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Stefanny volvió al territorio de su abuela hace pocos años, guiada por un amor profundo por las aves y por la subcuenca que la vio crecer. Abrió una pequeña escuela de música que hoy acompaña a más de 200 niñas y niños. Pero no es solo música: es aprender a escuchar el territorio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Las criaturas aprenden ritmos, pero también a reconocer aves, a leer el bosque, a sentirse parte de lo que vive. Stefanny conversa con las aves con una habilidad particular para imitarlas. Esa relación íntima es el corazón de su pedagogía: formar custodias y custodios del territorio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hace un año se sumó Sergio, biólogo, aportando rigor ecológico y puentes entre música y ciencia. Juntos han creado una escuela que no forma artistas, sino herederas del territorio, infancia que crece sabiendo que cuidar la tierra también es una forma de cantar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.7. En honor a todas las demás manos que sostienen el proceso",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En todo este camino por Aguaclara hay rostros que apenas hemos visto, manos que se han asomado un instante para abrirnos una puerta o señalar un árbol, voces que hemos escuchado desde un patio o desde una cocina. Personas a las que no hemos podido conocer a fondo, pero sin las cuales nada de esto sería posible.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Son campesinas que han cuidado semillas sin esperar reconocimiento, juventud que ha limpiado quebradas sin que nadie los filmara, madres que han preparado comida para sostener reuniones largas, personas mayores que han compartido memoria como quien ofrece agua fresca, artesanas que han mantenido viva una estética ancestral, maestras que han sembrado conciencia en silencio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Este proceso no lo hace solo la bandada visible: lo hace también la bandada invisible, esas personas que aportan tiempo, palabra, esperanza, infraestructura o simplemente presencia. Son el tejido fino que no aparece en la fotografía, pero que impide que todo se deshilache.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Este punto es para esas personas: para quienes sostienen el territorio, mientras el resto aprendemos a escucharlo. Sin ese apoyo discreto, pero radical, Aguaclara no sería un proyecto, sino un recuerdo. Y hoy, gracias a todas esas manos anónimas, es futuro.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": "normal",
+              "paddingTop": false,
+              "paddingBottom": false,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": "0 0 0 auto",
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1218,
+            "styles": {
+              "cssClass": "mb-5",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1216,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imágenes",
+        "styles": {
+          "cssClass": "align-left",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": false,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "5. Nuestros talleres: gobernanza regenerativa y bioregionalización",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "5.1. En la Universidad Nacional de Bogotá",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Allí abrimos conversaciones sobre gobernanza regenerativa y nuevos modelos económicos. No fuimos a dar lecciones, sino a deshacer malentendidos: no hay gobernanza regenerativa sin consciencia, sin lugar, sin relación.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El taller fue diseñado junto al grupo de investigación Economía, Ambiente y Alternativas al Desarrollo, liderado por Alexander Rincón, con quien compartimos amistades decrecentistas en Barcelona.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "5.2. En Aguaclara: 20 personas, un plan y un futuro posible",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En la sala comunal de Aguaclara, una sala sencilla, con paredes que han escuchado más historias que muchas bibliotecas, nos sentamos con más de 20 lideresas comunitarias. No venían a “recibir una formación”: venían a pensar el futuro de su territorio con la misma seriedad con que se piensa una casa, un hijo o una cosecha.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Durante horas, fuimos dibujando un plan estratégico que no nacía de manuales, sino de conversaciones profundas, silencios respetados y miradas que buscaban sentido. De aquel proceso emergieron cuatro ejes claros, como cuatro raíces que sostienen un árbol que apenas empieza a crecer:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Pedagogía comunitaria: contarse a sí mismas el territorio, recuperar la historia de los Malagana, volver a hacer circular la memoria del agua, de las aves y de las heridas que aún condicionan la vida.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Articulación ecosistémica: restaurar ríos y quebradas, proteger nacimientos, conectar bosques fragmentados y recuperar hábitats para que las aves vuelvan a vivir en ellos.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Economía arraigada: impulsar modelos que nazcan del lugar, como el café regenerativo, el turismo comunitario, la artesanía y la transformación de alimentos; economías pequeñas pero profundas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gestión territorial: una gobernanza dinámica y distribuida, que combine claridad en los roles con flexibilidad en la acción, un sistema que evoluciona con las personas y no al revés.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A medida que avanzaba la conversación, las ideas volaban como aves que regresan a su rumbo natural. Apareció el proyecto de crear un vivero comunitario para Baudelino, para que pueda multiplicar la restauración que ya ha empezado. Surgió la posibilidad de una cooperativa de café regenerativo para Alexander y Janet, que podría servir de ejemplo a otras veredas. Se propuso una brigada juvenil de restauración ecosistémica, vinculada al colegio agropecuario. Y también residencias de liderazgo regenerativo en casa de Idalia y Jolmer, para arraigar nuevas visiones en proyectos reales.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En otros territorios, esto se llamaría lluvia de ideas; aquí era planificación vital. No hablábamos de “sueños” ni de “buenos deseos”: hablábamos de prototipos, de pasos concretos, de responsabilidades repartidas. Cada idea tenía rostro, tenía nombre, tenía lugar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cuando terminó la sesión, no había euforia; había determinación. Un futuro posible había sido dibujado con la misma precisión con la que Baudelino siembra una semilla: sin prisa, pero con toda la intención de verla crecer.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "6. Bioregionalización: la reconciliación que nace de la tierra",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La idea es simple y radical:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cuando el lugar vuelve a ser centro, las personas vuelven a relacionarse. Cuando vuelve la relación, vuelve la reconciliación. Y cuando vuelve la reconciliación, incluso un territorio marcado por la guerra puede volver a respirar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Eso es la bioregionalización: poner el territorio, con su memoria, en el centro de las decisiones.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Es una fuerza pospolítica: no necesita proclamas ni campañas, solo que las personas escuchen la misma montaña. Cuando eso ocurre, incluso viejos enemigos pueden verse como partes de un mismo ecosistema.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Por eso Abya Yala, América Latina en lengua Guna, con sus cosmovisiones vivas, tiene el potencial de convertirse en líder mundial del nuevo paradigma regenerativo. No por tener tecnología más moderna, sino por tener memoria más antigua.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "7. Aguaclara como caja de resonancia",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "De las conversaciones con la comunidad energía que cuando algo sucede en Colombia, Aguaclara lo amplifica. Es como un tambor: resuena con lo bueno y con lo malo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Si este territorio decide regenerarse, otros lo escucharán. No como un modelo impuesto, sino como una historia viva que invita, inspira y contagia.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Por eso el 4º Festival de Aves Comunitarias no será solo una celebración: será una declaración. La vida ha vuelto, y no piensa irse.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "8. Epílogo: la bandada despega",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "De regreso al aeropuerto, con barro en las botas y plenitud en la piel, entendemos que Aguaclara no es solo un lugar: es una demostración.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La demostración de que un territorio puede renacer cuando quienes lo habitan deciden escucharse y escucharlo. De que la regeneración no es teoría: es práctica, cultura, memoria en movimiento. De que Colombia, a pesar de todo y por encima de todo, sigue siendo una tierra de posibilidades inmensas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Y la bandada de pájaros… ya vuela.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Erika Zárate y Òscar Gussinyer, co-fundadores de Resilience.Earth.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1213,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": "margin-right 0",
+              "padding": null,
+              "background": null,
+              "width": "72ch",
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": "article",
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "mey6tctw82qgxp75dst19y3f"
+        },
+        {
+          "documentId": "umf4zx5r0sh07vh3tpsl3vyx"
+        },
+        {
+          "documentId": "oavxdj6fnwx08zr4meh1wse2"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

@@ -59,19 +59,23 @@ Vegeu l'ordre complet a [DESPLEGAMENT-2026-10.md](DESPLEGAMENT-2026-10.md). L'sc
 - diu `ALREADY APPLIED` si ja està feta (es pot tornar a executar);
 - fa còpia de seguretat abans de cada escriptura i publica la versió ES/EN.
 
-## No fet: cal decisió sobre el català
+## Correccions del català (fetes, 24/10/2026, amb l'acord de la propietat)
 
-Hi ha casos on el problema és (probablement) **el text català**, no la traducció:
+Script: `tools/content-cli/fixes/2026-10-catalan-fixes/apply.mjs` (33 versions; executar després
+de les traduccions). Provat en local.
 
-| Pàgina | Dubte |
+| Pàgina | Correcció (ca i, en paral·lel, es/en) |
 |---|---|
-| *Terra d'aus, or i memòries* (Aguaclara) | ES/EN tenen els apartats «2.1 Los Malagana» i «2.2 De la abundancia al abismo» que el català no té, però el català encara hi fa referència més avall. Potser es van esborrar del català per error. |
-| *Gestió forestal… Aplec Iltir* | El català té enganxats paràgrafs sobre Achille Mbembe que semblen d'un altre article. |
-| *Reflexions… Consell dels Infants d'Olot* | El català conté frases de l'article d'Òscar Gussinyer (restes de duplicar-lo). Traduccions ES/EN preparades a `out/hold/` (fora del repo), pendents de saber si cal netejar el català. |
-| *El que vam salvar… McDonald's d'Olot* i *Ciutadania o barbàrie* | Les dues tenen la mateixa frase «El Fluvià és molt més que una línia d'aigua…», que no lliga amb el tema. (A *Ciutadania* s'ha traduït tal com és al català.) |
-| *De la dictadura a aprendre a decidir juntes* | El català usa una imatge nova («Espiral … CAT»); no hi ha versió ES/EN de la imatge. |
-| *El Collsacabra…* | Les preguntes 11–15 es repeteixen com a 16–20 amb respostes diferents (també al català). |
-| Diverses | Cometes `<cite>` mal tancades al català (`<cite>` en lloc de `</cite>`) a la cooperació, facilitació cocreativa i sistèmica. |
+| *Terra d'aus, or i memòries* (Aguaclara) | Recuperats en català els apartats «2.1 Els Malagana…» i «2.2 De l'abundància a l'abisme…» (retraduïts de l'es/en); es: 5.2 completat; en: signatura. Revisar l'expressió «gàbies de resistència» (traducció literal). |
+| *Gestió forestal… Aplec Iltir* | Tret el text de Mbembe enganxat; es/en: dades que faltaven i errors de traducció. |
+| *Consell dels Infants d'Olot* | Tret el text copiat de l'article de Gussinyer; creades les versions es/en. |
+| *McDonald's d'Olot*, *Ciutadania o barbàrie* | Treta la frase del Fluvià enganxada. |
+| *El Collsacabra…* | Eliminades les preguntes 16–20 (duplicat d'un esborrany antic de les 11–15). L'única informació perduda és una menció a l'ajuda d'«Arca». |
+| 7 pàgines (cooperació i capabilitats) | Etiquetes `<cite>` mal tancades. |
+
+Pendent de confirmar: a *Gestió forestal* el català diu «…com a agents del canvi i només com a
+beneficiàries»; segurament ha de ser «i no només». No s'ha tocat.
+*De la dictadura…*: la imatge nova és en català i no té versió ES/EN (cal dissenyar-la).
 
 ## Altres decisions preses (revisables)
 

@@ -1,0 +1,535 @@
+{
+ "data": {
+  "name": "Gobernanza dinámica",
+  "slug": "gobernanza-dinamica",
+  "type": "capability",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Gobernanza dinámica",
+   "metaDescription": "En un entorno global cada vez más volátil y complejo, las organizaciones necesitan estructuras de gobernanza que no solo se adapten al cambio, sino que lo conviertan en una fuerza transformadora.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1241
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Gobernanza dinámica",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "40vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1241,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "¿Cómo puede una organización ser resiliente si no permite que su estructura evolucione?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Evolución Organizacional",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En un entorno global cada vez más volátil y complejo, las organizaciones necesitan estructuras de gobernanza que no solo se adapten al cambio, sino que lo conviertan en una fuerza transformadora. Sociocracia 3.0 (S3), creada por James Priest y Lili David, es un marco ampliamente reconocido por su capacidad de combinar flexibilidad y rigor, ofreciendo herramientas prácticas para la autorregulación y el aprendizaje continuo dentro de organizaciones de cualquier tamaño. Con más de 70 patrones que abordan aspectos clave como la toma de decisiones, la colaboración y la estructuración, S3 permite a las organizaciones diseñar procesos personalizados que respondan a sus necesidades específicas.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "El potencial de S3 radica en su capacidad para integrar las dinámicas humanas con los objetivos organizativos. Estudios independientes y valoraciones de usuarios de todo el mundo destacan su eficacia para reducir conflictos, aumentar la eficiencia operativa y fomentar una cultura de confianza y transparencia. A diferencia de otras metodologías de gobernanza, S3 no es un sistema impuesto, sino un conjunto de patrones que pueden adoptarse progresivamente y ajustarse según el contexto, garantizando así una evolución constante. Esta flexibilidad ha hecho que S3 se aplique con éxito en sectores tan diversos como la educación, las empresas sociales, la salud y el desarrollo territorial.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La toma de decisiones por consentimiento, uno de los pilares fundamentales de S3, no busca un consenso absoluto, sino acuerdos que permitan avanzar sin bloquear el progreso, incorporando al mismo tiempo preocupaciones legítimas. Esta metodología facilita un equilibrio entre la autonomía individual y la responsabilidad colectiva, creando un entorno en el que las tensiones se abordan de manera constructiva y se convierten en motores de mejora continua.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "columna 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imagen",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 645,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "columnas",
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Patrones modulares",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Los patrones de Sociocracia 3.0 son el corazón de esta metodología, ofreciendo estructuras prácticas para abordar retos de gobernanza, dinámicas de grupo y toma de decisiones. Cada patrón está diseñado para ser modular e integrable, lo que permite a las organizaciones adaptarse de manera progresiva sin necesidad de transformarse por completo de golpe. Esto convierte a S3 en un recurso especialmente valioso para organizaciones que necesitan flexibilidad y pragmatismo para evolucionar en entornos cambiantes.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Uno de los aspectos destacados de S3 es su enfoque en la gestión de tensiones. Las tensiones, a menudo vistas como problemáticas en otros enfoques, se consideran aquí señales de desajustes que apuntan a oportunidades de mejora. Patrones como “Rendir Cuentas”, “Establecer Políticas Temporales” y “Evaluar Decisiones” permiten canalizar esas tensiones de manera estructurada, transformándolas en soluciones prácticas y regenerativas que benefician a la organización en su conjunto.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Además, S3 pone un fuerte énfasis en la colaboración y la autogestión, asegurando que las voces de todos los miembros de una organización sean escuchadas y respetadas. Los patrones fomentan la creación de equipos semiautónomos capaces de responder rápidamente a cambios y necesidades emergentes, manteniendo siempre una conexión con los objetivos globales de la organización. Esta estructura distribuida no solo mejora la eficiencia, sino que también incrementa la motivación y la implicación de sus miembros.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "columna 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": {
+     "cssClass": "pt-0 pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "<cite>\"El trabajo que realiza Resilience Earth para ayudar a cooperativas, administraciones locales y comunidades rurales a desarrollar la inteligencia colectiva, utilizar los recursos con sabiduría y fomentar la responsabilidad compartida es esencial para la resiliencia y el bienestar de las generaciones presentes y futuras.\"</cite>",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "- James Priest y Lili David, fundadores de la Sociocracia 3.0 ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-10 offset-md-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Columnas",
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Marcos colaborativos",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En Resilience Earth, hemos integrado Sociocracia 3.0 como una herramienta clave para transformar la gobernanza en comunidades rurales y organizaciones de base. Trabajamos en entornos caracterizados por la diversidad cultural, la complejidad territorial y retos que a menudo exceden la capacidad individual de las instituciones locales. S3 nos permite acompañar procesos en los que las comunidades diseñan estructuras de gobernanza adaptadas a sus realidades, creando un marco colaborativo que fomenta la participación y la eficiencia.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Nuestro trabajo se centra en facilitar que municipios, cooperativas y organizaciones encuentren maneras de colaborar de forma más efectiva para afrontar desafíos compartidos. S3 ofrece principios y herramientas para construir una gobernanza más transparente e inclusiva, promoviendo una cultura de confianza y corresponsabilidad. Esto ha sido esencial para generar dinámicas de cooperación intermunicipal, redes de ecosistemas colaborativos y espacios que integran la voz de todos los actores implicados.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Además, la aplicación de S3 nos ayuda a reforzar la capacidad de adaptación y resiliencia de las organizaciones con las que trabajamos. Nos enfocamos en establecer sistemas flexibles que integren el cambio como un elemento natural del proceso de crecimiento y evolución. Esto no solo permite abordar problemas actuales, sino que también prepara a las organizaciones para responder de manera efectiva a retos futuros, garantizando soluciones sostenibles e impactos positivos a largo plazo.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.menu",
+    "preset": "navigation-arrows",
+    "alias": "Explore otras habilidades",
+    "styles": null,
+    "menu": {
+     "set": [
+      {
+       "documentId": "bggm5vusi6vt5nll3u8srceh"
+      }
+     ]
+    }
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

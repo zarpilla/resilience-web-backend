@@ -1,0 +1,586 @@
+{
+  "data": {
+    "name": "Gestió forestal, prevenció d'incendis i economia local",
+    "slug": "gestio-forestal-prevencio-incendis-economia-local-aplec-iltir",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Albert Brosa",
+    "sortDate": "2025-10-19T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Gestió forestal, prevenció d'incendis i economia local",
+      "metaDescription": "Què volem que sigui el bosc i per a quí? I, a partir d’aquest punt, què estem disposats a fer perquè aquest bosc -el nostre paisatge, el nostre territori-, esdevingui un ecosistema viu, resilient i regeneratiu.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1138
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Gestió forestal, prevenció d'incendis i economia local",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Regenerar no vol dir només restaurar la Natura, sinó reparar-ne la relació que hi tenim. I això comença amb un acte ben simple: tornar a mirar el bosc.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "85vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1138,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Revisitem el diàleg \"Gestió forestal, prevenció d’incendis i economia local\" celebrat a l'Aplec Iltir del Collsacabra l'octubre de 2025 de la mà d'Albert Brosa, qui en va ser el moderador.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El diàleg podria resumir-se en una pregunta que sovint s’insinua però que rarament ens aturem a fer-nos de veritat: Què volem que sigui el bosc i per a quí? I, a partir d’aquest punt, què estem disposats a fer perquè aquest bosc -el nostre paisatge, el nostre territori-, esdevingui un ecosistema viu, resilient i regeneratiu.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A Resilience.Earth creiem que transformar territoris no comença per la infraestructura o la subvenció, sinó per la conversa, per la cultura, per recuperar l’arrelament i la capacitat de les comunitats de ser agents del canvi. I això és exactament el què vàrem fer al Collsacabra: reunir ramaders, propietaris forestals, tècnics d’incendis, administració, agents rurals i gent del territori per mirar el bosc -no només com a “massa” o “risc”- sinó com a textura, com a vida, com conjunt de relacions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una de les aportacions clau del diàleg és que la gestió forestal no pot ser aïllada. No és només el bosc,sinó la ramaderia extensiva, la prevenció d’incendis, el turisme, el producte local, l’accés veïnal, la mirada de ciutat-ruralitat. Amb paraules clares: no n’hi ha prou amb plantar abres o fer tales sinó que cal activar tot un entorn perquè el bosc tingui sentit i vitalitat. Com explicava en Just Serra, president de Boscat, “Si volem conservar els boscos… el que hem de fer és donar-li economia. No dir-li a la gent del territori el que ha de fer. Ja sabem el que hem de fer”. Ell parla des de la simple certesa que qui trepitja el bosc cada dia està en la millor posició per entendre’l, i que la seva acció no ha de ser només tècnica sinó també econòmica i cultural.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una altra visió que proposàvem al debat és passar de veure el bosc com un objecte de risc (incendis, sequera, abandonament) a veure’l com un subjecte de cura. Com apuntava Quim Dalmau, cap dels Agents Rurals d’Osona, “sempre tot ho fem molt relacionat amb el risc d’incendi… Sembla que aquí haguem de viure de subvencions, que res hagi de ser pagat”. Això posa de manifest dues coses: la dependència d’un model de subvencions i reactiu i la necessitat de construir un model on la gestió forestal s’entengui com una oportunitat, no només com una obligació.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I, com deia Anna Sanitjas, de l’Oficina Tècnica de Prevenció d'Incendis de la Diputació de Barcelona, “els boscos se’ns moren. Per la sequera, pels incendis… i hem d’invertir en aquest territori en innovació, nous productes que millorin aquesta gestió forestal, en empreses, en educació i en arrelar aquesta gent al territori”. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquí torna a aparèixer la nostra visió: regenerar no és només aturar l’emergència sinó crear les condicions perquè hi hagi vida -i vida digna- al territori. Aquesta mirada integral, que és econòmica, social i ambiental, és la que permet que el territori no només “sobrevisqui” sinó que floreixi.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.video",
+        "title": "Si poguessin parlar els arbres ens miraríem el món d’una altra manera",
+        "embed": null,
+        "url": "https://www.youtube.com/watch?v=SNWqNuXne5U",
+        "image": 1136,
+        "styles": null
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-lg-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Un element essencial del debat va ser la qüestió de l’arrelament i de la generació emergent. Edgar Nebot, sotsinspector del GRAF, ho va dir de manera molt punyent: “El repte està en com la gent jove pot viure i treballar en un territori i guanyar-se la vida dignament per poder mantenir la gent del territori”. Sense aquesta possibilitat real, el bosc queda en mans d’uns pocs o esdevé un espai de segona, allunyat de la vida quotidiana. Quan això passa, la gestió es debilita i la connexió també.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "David Meya, subdirector general de Boscos de la Generalitat, apuntava a la desconnexió cultural amb el medi: “La gent té tendència a veure el bosc com un paisatge estàtic i la vivència no hi és”. Aquest “viure el bosc” és fonamental. Que l’urbà, el jove, el que no és propietari, també hi tingui una relació. Com subratllava Sanitjas, “les persones de Barcelona que viuen en pisos petits han de poder accedir al bosc”. És una invitació perquè el bosc sigui comunitari, no privat.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "És cert, hi ha mancances. Massa bosc, poca gestió de qualitat, massa dependència de les subvencions…. Toni Arimany, gestor forestal i CEO d’Aricoforest, ho deixava clar: “Tenim molta massa boscosa però de bosc de qualitat no en tenim, perquè no s’han fet treballs ni s’ha gestionat”. Aquesta crítica no va adreçada a culpabilitzar, va dirigida a mobilitzar. A obrir la mirada que ens permet tractar el bosc i les comunitats que hi viuen siguin agents actius i creatius, no receptors passius. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I perquè això passi, hem d’aplicar un enfocament regeneratiu: recuperar els fluxos, activar l’economia local, generar accés ciutadà, fomentar educació ambiental i reforçar la governança local. És una visió ambiciosa, però també tangible. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Per tant, el diàleg al Collsacabra ha estat una bona oportunitat per mirar què fem i com ho fem. Però el veritable treball comença ara. I des de Resilience.Earth proposem algunes pistes:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Mostrar el bosc com a espai viu.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "level": 4,
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Donar protagonisme a qui viu, treballa i cuida el territori i dotar-los de les eines per fer-ho amb dignitat.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Desenvolupar economies circulars i locals que vinculin la gestió forestal amb la ramaderia extensiva, el turisme sostenible de proximitat i el producte local.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Facilitar l’accés al bosc per a totes les persones, urbans i rurals, i fomentar la relació directa.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Apostar per la innovació, no només tecnològica sinó social i de governança, perquè les comunitats puguin reconèixer com a agents del canvi i només com a beneficiàries.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images ",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusió",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusió",
+            "titleHeading": "h1",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "En definitiva, el bosc és un espai de futur si el mirem amb els ulls del present. I a Resilience.Earth estem compromeses a acompanyar aquest camí, donant-hi forma, sentit i possibilitat, perquè el territori deixi de ser un fons i esdevingui un teixit viu amb el qual tots hi participem.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Un escrit d'Albert Brosa, octubre de 2025. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Al diàleg hi van participar Just Serra. President de BOSCAT, ramader i veterinari, Josep Anglada, alcalde de Vidrà i president de l’ADF Osona, David Meya, Subdirector General de Boscos i Gestió de Medi del Departament d’Agricultura, Anna Sanitjas. Cap d’Oficina Tècnica de Prevenció Municipal d’Incendis Forestals i Desenvolupament Agrari, Edgar Nebot, sots inspector del GRAF, Toni Arimany, d’Aricoforest, Francesc Subiranes del Mas Subiranes de Tavertet, custòdi de 7ª generació de 1000 hectàrerees de boscos al Collsacabra i Les Guilleries i Quim Dalmau, Cap dels Agents Rurals d’Osona i Lluçanès i membre de la junta de l’Associació de Propietaris Forestals Serra de Bellmunt-Collsacabra. Moderat per Albert Brosa, de Resilience.Earth i Dolors Dorca, de petits propietaris forestals amb escamot oví de l’Esquirol.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "mey6tctw82qgxp75dst19y3f"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

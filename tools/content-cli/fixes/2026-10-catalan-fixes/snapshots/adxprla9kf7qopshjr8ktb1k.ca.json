@@ -1,0 +1,1241 @@
+{
+  "data": {
+    "name": "Terra d’aus, or i memòries: un viatge regeneratiu a la subconca d’Aguaclara",
+    "slug": "terra-d-aus-or-i-memories-un-viatge-regeneratiu-a-la-subconca-d-aguaclara",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Òscar Gussinyer Erika Zàrate",
+    "sortDate": "2025-12-17T17:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Terra d’aus, or i memòries: un viatge regeneratiu a la subconca d’Aguaclara",
+      "metaDescription": "Aguaclara és un territori que recorda: sota la terra hi viu una memòria antiga i, sobre ella, una comunitat que ha decidit escoltar el lloc.\nUn llevat crític de persones restaura boscos, relacions i economies arrelades, transformant el conflicte en possibilitat.\nQuan el territori torna a ser centre, la vida es reorganitza i un futur regeneratiu comença a prendre forma.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1215
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Terra d’aus, or i memòries: ",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite> Un viatge regeneratiu a la subconca d’Aguaclara. Una reflexió conjunta de Òscar Gussinyer i Erika Zárate. </cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "85vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1215,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": true,
+          "paddingBottom": false,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "1. Tornar a Colòmbia vint anys més tard",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Tornar a Colòmbia després de dues dècades és com obrir un llibre que ja havies llegit, però on algú, en silenci, hi ha escrit capítols nous entre ratlles, a llapis, amb una cal·ligrafia que no és del tot desconeguda.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fa vint anys caminàvem aquest país com a escuts humans de les Brigades Internacionals de Pau. Eren temps de fogueres obertes, de símbols paramilitars a la vora dels camins rurals, de noms prohibits i mirades baixes. Acompanyàvem defensores de drets humans, com Iván Cepeda, en aquells anys un home perseguit per la seva obstinació a buscar veritat on d’altres buscaven oblit. Avui, Cepeda és candidat presidencial i una de les veus que poden reobrir finestres per on entri aire net en una democràcia que encara brega amb les seves cicatrius.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Ara hi tornem amb un país presidit per Gustavo Petro, amb la sensació estranya que la història no va en línia recta: hi ha avenços, retrocessos, finestres d’oportunitat i portes blindades. En algunes regions la pau és un brot tendre; en d’altres, el conflicte continua com una arrel que s’entesta a no deixar-se arrencar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I en aquest context tan complex, Melina Ángel, de Colòmbia Regenerativa, ens convida a un territori que porta en si mateix tots els capítols de Colòmbia: esplendor, destrucció, supervivència, renaixement.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": null,
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": "article",
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images",
+        "styles": {
+          "cssClass": "articleRight",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1212,
+            "styles": {
+              "cssClass": "mb-5",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1217,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": false,
+          "paddingBottom": false,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "2. La força d’un territori que es recorda: relat del lloc al Valle del Cauca",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Abans de qualsevol taller, metodologia o conversa tècnica, Resilience Earth i Colòmbia Regenerativa, comencen per un principi sagrat en el treball regeneratiu: escoltar el lloc. No és un ritual; és una postura. És assumir que el territori és subjecte, no objecte; mestra, no recurs.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquesta part del Valle del Cauca, la subconca d’Aguaclara, a tocar del Parc Nacional Natural Las Hermosas, és un territori que guarda històries com si fossin sediments d’un riu antic: capes de vida que no desapareixen del tot.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "\n3. Els humans que van dir “prou”: el naixement d’un llevat crític",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "És bastant coneguda la idea de “massa crítica”. Però aquí no va aparèixer una massa: va aparèixer un llevat crític.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "3.1. El llevat crític explicat per a qui mai n’ha sentit a parlar",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No és una metàfora bonica. És una manera radicalment diferent d’entendre la transformació social.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El llevat crític és aquell petit grup de persones que té la combinació exacta de credibilitat, compromís i connexions perquè, quan es mou, transforma l’entorn. No són líders autoritaris ni assemblees massives; són persones que es coneixen, que es respecten, que comparteixen una intuïció profunda: el territori pot renéixer.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest llevat crític es fa dir “La bandada de pájaros”: un nom que no només és poètic, sinó precís. El procés de llevat crític està profundament inspirat en l’observació del seu territori i principalment, de les aus, de les quals estan aprenent a bioregionalitzar. Cadascuna té una funció ecològica i entre totes custodien la biodiversitat.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "4. Històries que regeneren: quan la vida humana es posa al servei de la vida més gran",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A Aguaclara, cada persona d’aquesta bandada té una història que podria ser una novel·la curta. El que fan no són “projectes”: són actes de restauració vital.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.1. Baudelino: el restaurador de boscos",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Baudelino no va esperar mil milions de pesos ni cap convocatòria ministerial. Un dia va preguntar als ancians: “Quins arbres hi havia aquí?” I va començar a sembrar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esquivant grups armats al mig del bosc, va caminar per senders mig esborrats buscant llavors de lauràcies, arbres que poden viure fins a mil cinc-cents anys, com si volgués sembrar temps en lloc de plantes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Va veure tornar insectes que ningú recordava. Va sentir cants d’ocells que no havia sentit mai. I avui, gràcies a aquesta obstinació discreta, més de 200 espècies d’aus han tornat al territori.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "És per això que existeix el Festival Comunitari d’Aus: no és turisme, és celebració d’una victòria ecològica i espiritual.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.2. Alexander i Janet: cafè que es cultiva com una pregària",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La seva finca és un pont entre el passat i el futur.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Amb tècniques com el pan-coger, una tecnologia tradicional de generar abundància i comunitat, i amb consell dels Mamos Arhuacos, han entès que el cafè no és només un producte: és un òrgan del territori. I que les formigues són les seves aliades, oxigenant la terra. Els fertilitzants surten de les pedres i els plàtans alimenten els ocells. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La meitat de la producció queda per a la diversitat de flora i fauna. No per caritat, sinó perquè la muntanya és la que els sustenta. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hi han introduït permacultura, agroforesteria, agricultura sintròpica: tecnologies modernes que dialoguen amb cosmologies ancestrals. És el que passa quan la modernitat es posa al servei de la vida i no de l’extractivisme.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.3. Idalia i Jolmer: la permacultura com a hospital de muntanya",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A casa seva tot creix: bananos, papaies, fruites que maduren en un silenci gros. El seu jacuzzi ecològic, alimentat per aigua de deu, és gairebé una metàfora: la vida cura quan flueix sense canals artificials.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Volen convertir casa seva en un centre de lideratge regeneratiu: trobades de persones que vulguin repensar el futur rural i fer-ho des del territori, no des de despatxos urbans.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I en el mentrestant, acullen a aquelles persones que volen visitar la regió no com a turistes, sinó com a aliades i aprenents. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.4. Gloria: una economia de proximitat que sana la història",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Quan va tornar al territori després de més de dues dècades desplaçada fora del país, va despertar un grup de dones que ara són gairebé 50 dones que teixeixen el nou paradigma. Ho fan a través de l’art i el diàleg, dibuixant nous imaginaris i sanant comunitat. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El seu cafè “Madre Tierra” és un lloc on la comunitat entra per prendre un cafè i acaba sortint amb una inspiració, un record o un objecte fet per mans veïnes. El cafè té gust de bosc i la xocolata, té gust d’esperança. Però al fons, qualsevol cosa que prenguis és tan sols el que acompanya una gran conversa.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "És un espai on l'econòmic i el comunitari no són contraris, sinó el mateix.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.5. Karent i Kevin: una fundació que va fundar esperança",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La història de la Karent i en Kevin comença quan encara eren adolescents i Palmira volia convertir la seva subconca en una deixalleria. Tenien setze anys, zero poder formal i molta més dignitat que por. Van mobilitzar companyes d’institut, van fer assemblees sota els arbres i van dir el que ningú més gosava: aquest territori no és un abocador; és casa nostra.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "D’aquella rebel·lia juvenil va néixer una fundació que, quinze anys després, ha implicat centenars d’infants i joves en la restauració de les quebrades locals. El que abans eren rieres mortes ara tornen a sonar, i hi creixen plantes que havien desaparegut. Han fet de la defensa territorial una escola de vida. I, gairebé sense adonar-se'n, han creat la primera generació de joves que no vol marxar: vol arrelar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.6. Stefanny i Sergio: una escola per les hereves de la terra",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La Stefanny va tornar al territori de la seva iaia fa pocs anys, empesa per una estima profunda per les aus i la subconca que la va veure créixer. Va començar una petita escola de música i avui ja acompanya més de 200 infants. Però no és només música: és aprendre a escoltar el territori. Les criatures aprenen ritmes, però també a reconèixer ocells, a llegir el bosc i a sentir-se part del que viuen.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La Stefanny conversa amb els ocells amb una particular habilitat per imitar-los. Aquesta relació íntima amb el lloc és el centre de la seva pedagogia: formar futures custodiadores del territori.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fa un any s’hi va sumar Sergio, biòleg, que hi aporta rigor ecològic i nous ponts entre música i ciència. Junts han creat una escola que no prepara artistes, sinó hereves del territori, infants que creixen sabent que cuidar la terra és també una forma de cantar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4.7. En honor a totes les altres mans que sostenen el procés ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En tot aquest camí per Aguaclara, hi ha rostres que només hem vist de passada, mans que han aparegut un moment per obrir-nos una porta o per assenyalar-nos un arbre, veus que hem sentit des de l’altra banda d’un pati o d’una cuina. Persones que no hem pogut conèixer amb profunditat, però sense les quals res d’això seria possible.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Són pageses que han cuidat llavors sense esperar reconeixement, joventut que ha netejat rieres sense que ningú els gravés, mares que han preparat àpats per sostenir reunions llargues, persones majors que han compartit memòria com qui ofereix aigua fresca, artesanes que han mantingut viva una estètica ancestral, mestres que han sembrat consciència en silenci.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest procés no el fa només la bandada visible: el fa també la bandada invisible, aquelles persones que aporten temps, paraula, esperança, infraestructura, o simplement presència. Són el teixit fi que no surt a la fotografia, però que impedeix que tot s’esfilagarsi.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest punt és per aquestes persones: per la gent que sosté el territori mentre la resta aprenem a escoltar-lo. Sense aquest suport discret, però radical, Aguaclara no seria un projecte, sinó un record. I avui, gràcies a totes aquestes mans anònimes, és futur.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": "normal",
+              "paddingTop": false,
+              "paddingBottom": false,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": "0 0 0 auto",
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1218,
+            "styles": {
+              "cssClass": "mb-5",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1216,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images ",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": false,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "5. Els nostres tallers: governança regenerativa i bioregionalització",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "5.1. A la Universitat Nacional de Bogotà",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Allà vàrem obrir converses sobre governança regenerativa i nous models econòmics. No vam anar a donar lliçons: vam anar a desfer malentesos. Perquè no hi ha governança regenerativa sense consciència, sense lloc, sense relació. Un taller dissenyat pel grup de recerca “Economia, Ambiente y Alternativas al Desarrollo”, liderat per Alexander Rincón, amb qui compartíem amics decreixentistes a Barcelona.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "5.2. A Aguaclara: 20 persones, un pla i un futur possible",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A la sala comunal d’Aguaclara, una sala senzilla, amb parets que han sentit més històries que moltes biblioteques, ens vam asseure amb més de 20 lideresses comunitàries. No venien a “rebre una formació”: venien a pensar el futur del seu territori amb la mateixa serietat amb què es pensa una casa, un fill o una collita.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Durant hores, vàrem anar dibuixant un pla estratègic que no naixia de manuals, sinó de converses profundes, silencis respectats i mirades que buscaven sentit. D’aquell procés van emergir quatre eixos clars, com quatre arrels que sostenen un arbre que tot just comença a créixer:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Pedagogia comunitària — explicar-se a si mateixes el territori, recuperar la història dels Malagana, tornar a fer circular la memòria de l’aigua, dels ocells i de les ferides que encara condicionen la vida.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Articulació ecosistèmica — restaurar rius i quebrades, protegir fonts, connectar boscos fragmentats i recuperar hàbitats perquè les aus hi tornin a viure.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Economia arrelada — impulsar models que neixin del lloc, com el cafè regeneratiu, el turisme comunitari, l’artesania i la transformació d’aliments; economies petites però profundes.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Gestió territorial — una governança dinàmica i distribuïda, que combini claredat en els rols amb flexibilitat en l’acció, un sistema que evoluciona amb les persones i no al revés.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A mesura que avançava la conversa, les idees volaven com aus que tornen al seu rumb natural. Va aparèixer el projecte de crear un viver comunitari per a Baudelino, perquè pugui multiplicar la restauració que ja ha començat. Va sorgir la possibilitat d’una cooperativa de cafè regeneratiu per a Alexander i Janet, que podria donar exemple a altres veredas. Es va proposar una brigada juvenil de restauració ecosistèmica, vinculada al col·legi agropecuari. I també residències de lideratge regeneratiu a casa d’Idalia i Jolmer, per arrelar noves visions en projectes reals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En altres territoris, això s’anomenaria pluja d'idees; aquí, era planificació vital. No parlàvem de “somnis” ni de “bons desitjos”: parlàvem de prototips, de passos concrets, de responsabilitats repartides. Cada idea tenia rostre, tenia nom, tenia lloc.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Quan es va acabar la sessió, no hi havia eufòria; hi havia determinació.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": " Un futur possible havia estat dibuixat amb la mateixa precisió amb què Baudelino sembra una llavor: sense pressa, però amb tota la intenció de veure-la créixer.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "6. Bioregionalització: la reconciliació que neix de la terra",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La idea és simple i radical:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Quan el lloc torna a ser centre, les persones tornen a tenir relació. Quan torna la relació, torna la reconciliació. I quan torna la reconciliació, fins i tot un territori marcat per un conflicte tan bèl·lic, pot tornar a respirar i resplendir.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Això és bioregionalització: posar el territori, amb la seva memòria, al centre de la presa de decisions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "És una força post-política: no necessita proclames, ni campanyes, ni polaritzacions. Només necessita que les persones escoltin la mateixa muntanya. Quan això passa, fins i tot enemics antics poden veure’s com a parts d’un mateix ecosistema.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Això és el que fa que Abya Yala, Llatinoamèrica en la llengua Guna, amb les seves cosmovisions vives, tingui el potencial d’esdevenir líder mundial del nou paradigma regeneratiu.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No perquè tingui tecnologia més moderna, sinó perquè té memòria més antiga.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "7. Aguaclara com a caixa de ressonància",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Amb converses amb la comunitat va emergir que quan passa alguna cosa a Colòmbia, Aguaclara ho amplifica. És com un tambor: ressona amb el bo i el dolent.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Si aquest territori decideix regenerar-se, altres territoris ho sentiran. No com un model imposat, sinó com una història viva que convida, inspira i contagia.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per això el “4t Festival de Aves Comunitarias” no serà només una celebració. Serà una declaració: la vida ha tornat, i no té intenció de marxar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "8. Epíleg: la bandada s’enlaira",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Quan tornem cap a l’aeroport, carregats de fang a les botes i plenitud a la pell, ens adonem que Aguaclara no és només un lloc: és una demostració.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La demostració que un territori pot renéixer quan les persones que l’habiten decideixen escoltar-se i escoltar-lo. La demostració que la regeneració no és teoria: és pràctica, és cultura, és memòria posada en moviment. La demostració que Colòmbia, malgrat tot i per damunt de tot, continua sent una terra de possibilitats immenses.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I la bandada de pájaros… ja vola.\n\n",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Erika Zárate i Òscar Gussinyer, co-fundadors de Resilience.Earth.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1213,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": "margin-right 0",
+              "padding": null,
+              "background": null,
+              "width": "72ch",
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": "normal",
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "mey6tctw82qgxp75dst19y3f"
+        },
+        {
+          "documentId": "umf4zx5r0sh07vh3tpsl3vyx"
+        },
+        {
+          "documentId": "oavxdj6fnwx08zr4meh1wse2"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

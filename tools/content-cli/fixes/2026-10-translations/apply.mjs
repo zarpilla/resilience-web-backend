@@ -177,7 +177,11 @@ for (const f of files) {
     }
   }
   const changed = [];
-  if (fs.existsSync(snapCa) && canon(writable(curCa)) !== canon(read(snapCa))) changed.push("ca");
+  // ca may also already be the corrected Catalan of this same batch (payloads/<id>.ca.json)
+  const payCa = path.join(DIR, "payloads", `${id}.ca.json`);
+  const okCa = (cur) =>
+    canon(cur) === canon(read(snapCa)) || (fs.existsSync(payCa) && canon(cur) === canon(read(payCa)));
+  if (locale !== "ca" && fs.existsSync(snapCa) && !okCa(writable(curCa))) changed.push("ca");
   if (fs.existsSync(snapLoc) ? !curLoc || canon(writable(curLoc)) !== canon(read(snapLoc)) : !!curLoc)
     changed.push(locale);
   if (changed.length) {

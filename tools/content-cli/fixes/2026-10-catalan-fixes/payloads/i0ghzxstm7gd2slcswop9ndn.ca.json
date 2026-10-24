@@ -1,0 +1,495 @@
+{
+ "data": {
+  "name": "Regeneració",
+  "slug": "regeneracio",
+  "type": "capability",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Regeneració",
+   "metaDescription": "Regenerar no és només restaurar el que es perd, sinó activar el potencial latent de les nostres comunitats per crear un futur més just, resilient i equilibrat.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1240
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Regeneració",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "40vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1240,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "Quan deixem d’esforçar-nos per controlar el canvi, què passa amb el nostre poder de transformar-lo?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Activar capacitats inherents",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La regeneració és una perspectiva fonamental que transcendeix la simple sostenibilitat per oferir una resposta transformadora als reptes globals que defineixen el segle XXI, com el canvi climàtic, les desigualtats socials i les crisis econòmiques. Mentre que la sostenibilitat es limita a mantenir els sistemes existents, la regeneració busca restaurar i millorar aquests sistemes, creant noves condicions perquè puguin evolucionar i prosperar. Aquesta visió implica entendre que els sistemes humans i naturals són dinàmics i interdependents, requerint un enfocament integrador i adaptatiu.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Carol Sanford, una de les principals veus en aquest àmbit, defineix la regeneració com un procés que activa les capacitats inherents dels sistemes humans i organitzatius per generar transformacions profundes. En el seu llibre The Regenerative Business, Sanford defensa que les organitzacions poden esdevenir agents regeneratius si adopten principis inspirats en la natura, centrats en la col·laboració, la creativitat i la interconnexió. Aquest enfocament no només millora els resultats econòmics, sinó que també enriqueix les persones i els ecosistemes implicats.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "El Regenesis Group, un col·lectiu pioner en aquest camp, amplia aquesta idea en el context dels territoris. Per a ells, la regeneració no és només una intervenció física en l'ecologia, sinó un procés holístic que integra el desenvolupament humà amb la restauració dels ecosistemes. Aquest enfocament destaca que el benestar sostenible només es pot aconseguir quan es transformen les dinàmiques socials, culturals i econòmiques que sustenten la interacció entre les persones i el territori.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "columna 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "cita Ben",
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "<cite>“Resilience.Earth ha explorat amb èxit com les persones han d’evolucionar les maneres com s’autogovernen en una era de canvi accelerat. Arrelant-se en les profundes fonts ecològiques, històriques i espirituals de la Garrotxa, ajuden a reconnectar la població amb un sentit de propòsit compartit i, en fer-ho, reconcilia múltiples formes de polarització social.”</cite>",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "- Ben Haggard, co-fundador de Regenesis Group.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imatge",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 527,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "columns",
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Resposta integral",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Acadèmicament, la regeneració s'ha consolidat com una resposta integral a la crisi sistèmica global. Carol Sanford i el Regenesis Group han desenvolupat metodologies per aplicar els principis regeneratius a una àmplia varietat de contextos, des de comunitats locals fins a grans organitzacions. Sanford, en particular, assenyala que la regeneració requereix un canvi de mentalitat: deixar enrere enfocaments fragmentats per adoptar una visió sistèmica que reconegui les connexions entre les persones, els processos i el territori.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Beatrice Ungard i Sidney Cano, especialistes en regeneració empresarial, subratllen que aquest enfocament implica transformar les organitzacions en actors proactius que creen valor social i ambiental. Els seus treballs destaquen que la regeneració no només és una qüestió d'implementar pràctiques sostenibles, sinó de transformar les relacions internes i externes d'una organització perquè es converteixi en un sistema viu i adaptatiu. Aquesta transformació afecta tant les estructures de poder com les pràctiques quotidianes, promovent una cultura empresarial més justa i col·laborativa.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A nivell comunitari, la regeneració també es vincula amb la idea de restaurar les connexions entre les persones i el seu entorn. Segons el Regenesis Group, aquesta restauració no és només física, sinó també cultural i espiritual. Això implica reconèixer i valorar els sabers locals i ancestrals com a elements fonamentals per regenerar tant els ecosistemes com les dinàmiques socials. Aquest enfocament interdisciplinari ha estat fonamental per desenvolupar projectes que no només resolen problemes immediats, sinó que també estableixen bases per a un futur més equilibrat i resilient.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "column 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Imatge",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 641,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Columns",
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Ens impregna",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A Resilience Earth, la regeneració és una capabilitat central que impregna totes les nostres pràctiques. La nostra tasca no es limita a implementar solucions puntuals, sinó a crear condicions perquè les comunitats i les organitzacions descobreixin i activin el seu propi potencial regeneratiu. Això implica generar espais de diàleg on es reconeguin les necessitats i els valors únics de cada grup, promovent una transformació que neixi de la singularitat de les persones i del territori.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La nostra metodologia es basa en fer accessibles marcs conceptuals i eines regeneratives mitjançant relats, visuals i processos pedagògics adaptats a cada context. A través d’aquesta aproximació, no només ajudem les comunitats a comprendre els principis regeneratius, sinó que les capacitem per aplicar-los en la seva realitat local. Això inclou des de la revitalització d'ecosistemes fins a la transformació de les relacions internes dins d’una organització, sempre posant l’accent en l’autosuficiència i la co-creació.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "El nostre enfocament tècnic està orientat a activar els recursos interns, sovint invisibles o desaprofitats, dins dels sistemes humans i naturals. Això permet no només abordar els reptes immediats, sinó també establir bases sòlides per a un futur compartit i regeneratiu. En treballar des d’aquesta mirada, Resilience Earth no només contribueix a la regeneració del territori i les organitzacions, sinó que també fomenta la capacitat col·lectiva d’adaptar-se i evolucionar, creant un impacte positiu i durador.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.menu",
+    "preset": "navigation-arrows",
+    "alias": "Explora altres capabilitats",
+    "styles": null,
+    "menu": {
+     "set": [
+      {
+       "documentId": "bggm5vusi6vt5nll3u8srceh"
+      }
+     ]
+    }
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

@@ -29,10 +29,18 @@ done
 # 1c. Tasca 007: traduccions desactualitzades (salta el que s'hagi editat des del 24/10)
 node tools/content-cli/fixes/2026-10-translations/apply.mjs            # revisar SKIP/WOULD WRITE
 node tools/content-cli/fixes/2026-10-translations/apply.mjs --apply
+
+# 1d. Correccions del text català (i les seves traduccions). SEMPRE després de 1c.
+node tools/content-cli/fixes/2026-10-catalan-fixes/apply.mjs
+node tools/content-cli/fixes/2026-10-catalan-fixes/apply.mjs --apply
+
+# 1e. Tasca 004: sortDate dels recursos = ordre visible avui (després de 1c i 1d)
+node tools/content-cli/fixes/2026-10-resource-sortdate.mjs
+node tools/content-cli/fixes/2026-10-resource-sortdate.mjs --apply
 ```
 
-1d. **Decidir les Bios mai publicades** (taula a la tasca 001): publicar-les a l'admin si han
-de continuar sortint.
+Bios mai publicades: decidit **deixar-les sense publicar** (deixaran de sortir).
+Tornar a executar qualsevol d'aquests scripts és segur (`ALREADY APPLIED` / `ok`).
 
 ## 2. Codi
 
@@ -61,7 +69,9 @@ Desplegar com sempre (push a `main` → CI → `deploy-re-web-*.sh`).
   → ha de tornar `data: []`.
 - **Rotar el token del frontend** (tasca 003): nou token *Read-only* (o cap) a `.env` com a
   `API_TOKEN`, treure `NUXT_PUBLIC_API_TOKEN`, reconstruir el frontend, revocar el vell.
-- Revocar el token d'escriptura del pas 0 si no s'ha de fer servir més.
+- Revocar el token d'escriptura del pas 0 si no s'ha de fer servir més, i els dos tokens
+  `content-fixes-2026-10` creats per error el 24/10 (la seva clau es va perdre: inservibles,
+  però s'han d'esborrar). Admin → Settings → API Tokens.
 
 ## Desfer
 

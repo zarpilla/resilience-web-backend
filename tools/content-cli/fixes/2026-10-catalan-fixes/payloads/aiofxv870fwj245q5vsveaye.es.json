@@ -1,0 +1,581 @@
+{
+  "data": {
+    "name": "Gestión forestal, prevención de incendios y economía local",
+    "slug": "gestion-forestal-prevencion-de-incendios-y-economia-local",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Albert Brosa",
+    "sortDate": "2025-10-19T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Gestión forestal, prevención de incendios y economía local",
+      "metaDescription": "¿Qué queremos que sea el bosque y para quién? Y, a partir de ahí, ¿qué estamos dispuestos a hacer para que este bosque —nuestro paisaje, nuestro territorio— se convierta en un ecosistema vivo, resiliente y regenerativo?",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1142
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Gestión forestal, prevención de incendios y economía local",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Regenerar no significa solo restaurar la Naturaleza, sino reparar la relación que tenemos con ella. Y eso empieza con un acto muy simple: volver a mirar el bosque.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "85vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1142,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "texto 2 columnas",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Revisitamos el diálogo \"Gestión forestal, prevención de incendios y economía local\", celebrado en el Aplec Iltir del Collsacabra en octubre de 2025 de la mano de Albert Brosa, que fue su moderador.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El diálogo podría resumirse en una pregunta que a menudo se insinúa pero que rara vez nos detenemos a plantearnos de verdad: ¿Qué queremos que sea el bosque y para quién? Y, a partir de ahí, ¿qué estamos dispuestos a hacer para que este bosque —nuestro paisaje, nuestro territorio— se convierta en un ecosistema vivo, resiliente y regenerativo?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En Resilience.Earth creemos que transformar territorios no empieza por la infraestructura o la subvención, sino por la conversación, por la cultura, por recuperar el arraigo y la capacidad de las comunidades de ser agentes del cambio. Y eso es exactamente lo que hicimos en el Collsacabra: reunir a ganaderos, propietarios forestales, técnicos de incendios, administración, agentes rurales y gente del territorio para mirar el bosque —no solo como “masa” o “riesgo”— sino como textura, como vida, como conjunto de relaciones.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una de las aportaciones clave del diálogo es que la gestión forestal no puede ser aislada. No es solo el bosque, sino la ganadería extensiva, la prevención de incendios, el turismo, el producto local, el acceso vecinal, la mirada ciudad-ruralidad. Dicho claramente: no basta con plantar árboles o hacer talas, sino que hay que activar todo un entorno para que el bosque tenga sentido y vitalidad. Como explicaba Just Serra, presidente de Boscat, “Si queremos conservar los bosques… lo que tenemos que hacer es darles economía. No decirle a la gente del territorio lo que tiene que hacer. Ya sabemos lo que tenemos que hacer”. Él habla desde la simple certeza de que quien pisa el bosque cada día está en la mejor posición para entenderlo, y de que su acción no debe ser solo técnica sino también económica y cultural.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Otra visión que proponíamos en el debate es pasar de ver el bosque como un objeto de riesgo (incendios, sequía, abandono) a verlo como un sujeto de cuidado. Como apuntaba Quim Dalmau, jefe de los Agentes Rurales de Osona, “siempre lo hacemos todo muy relacionado con el riesgo de incendio… Parece que aquí tengamos que vivir de subvenciones, que nada tenga que ser pagado”. Esto pone de manifiesto dos cosas: la dependencia de un modelo subvencionado y reactivo, y la necesidad de construir un modelo en el que la gestión forestal se entienda como una oportunidad, no solo como una obligación.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Y, como decía Anna Sanitjas, de la Oficina Técnica de Prevención de Incendios de la Diputación de Barcelona, “los bosques se nos mueren. Por la sequía, por los incendios… y tenemos que invertir en este territorio en innovación, en nuevos productos que mejoren esta gestión forestal, en empresas, en educación y en arraigar a esta gente al territorio”. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquí vuelve a aparecer nuestra visión: regenerar no es solo detener la emergencia, sino crear las condiciones para que haya vida —y vida digna— en el territorio. Esta mirada integral, que es económica, social y ambiental, es la que permite que el territorio no solo “sobreviva”, sino que florezca.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Texto",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.video",
+        "title": "Si los árboles pudieran hablar, miraríamos el mundo de otra manera",
+        "embed": null,
+        "url": "https://www.youtube.com/watch?v=SNWqNuXne5U",
+        "image": 1136,
+        "styles": null
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "texto 2 columnas",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-lg-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Un elemento esencial del debate fue la cuestión del arraigo y de la generación emergente. Edgar Nebot, subinspector del GRAF, lo dijo de forma muy contundente: “El reto está en cómo la gente joven puede vivir y trabajar en un territorio y ganarse la vida dignamente para poder mantener a la gente del territorio”. Sin esta posibilidad real, el bosque queda en manos de unos pocos o se convierte en un espacio de segunda, alejado de la vida cotidiana. Cuando eso pasa, la gestión se debilita y la conexión también.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "David Meya, subdirector general de Bosques de la Generalitat, apuntaba a la desconexión cultural con el medio: “La gente tiende a ver el bosque como un paisaje estático y la vivencia no está”. Este “vivir el bosque” es fundamental. Que el urbanita, el joven, el que no es propietario, también tenga una relación con él. Como subrayaba Sanitjas, “las personas de Barcelona que viven en pisos pequeños tienen que poder acceder al bosque”. Es una invitación a que el bosque sea comunitario, no privado.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Es cierto, hay carencias. Demasiado bosque, poca gestión de calidad, demasiada dependencia de las subvenciones… Toni Arimany, gestor forestal y CEO de Aricoforest, lo dejaba claro: “Tenemos mucha masa boscosa, pero bosque de calidad no tenemos, porque no se han hecho trabajos ni se ha gestionado”. Esta crítica no va dirigida a culpabilizar, sino a movilizar. A abrir la mirada que nos permite tratar el bosque, y que las comunidades que viven en él sean agentes activos y creativos, no receptores pasivos. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Y para que esto pase, tenemos que aplicar un enfoque regenerativo: recuperar los flujos, activar la economía local, generar acceso ciudadano, fomentar la educación ambiental y reforzar la gobernanza local. Es una visión ambiciosa, pero también tangible. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Por lo tanto, el diálogo en el Collsacabra ha sido una buena oportunidad para mirar qué hacemos y cómo lo hacemos. Pero el verdadero trabajo empieza ahora. Y desde Resilience.Earth proponemos algunas pistas:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Mostrar el bosque como espacio vivo.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Dar protagonismo a quien vive, trabaja y cuida el territorio, y dotarle de las herramientas para hacerlo con dignidad.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Desarrollar economías circulares y locales que vinculen la gestión forestal con la ganadería extensiva, el turismo sostenible de proximidad y el producto local.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Facilitar el acceso al bosque a todas las personas, urbanas y rurales, y fomentar la relación directa.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "format": "unordered",
+                "children": [
+                  {
+                    "type": "list-item",
+                    "children": [
+                      {
+                        "text": "Apostar por la innovación, no solo tecnológica sino también social y de gobernanza, para que las comunidades puedan reconocerse como agentes del cambio y no solo como beneficiarias.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imágenes",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusión",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusión",
+            "titleHeading": "h1",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En definitiva, el bosque es un espacio de futuro si lo miramos con los ojos del presente. Y en Resilience.Earth estamos comprometidas a acompañar este camino, dándole forma, sentido y posibilidad, para que el territorio deje de ser un fondo y se convierta en un tejido vivo en el que todos participamos.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Un escrito de Albert Brosa, octubre de 2025. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En el diálogo participaron Just Serra, presidente de BOSCAT, ganadero y veterinario; Josep Anglada, alcalde de Vidrà y presidente de la ADF Osona; David Meya, subdirector general de Bosques y Gestión del Medio del Departamento de Agricultura; Anna Sanitjas, jefa de la Oficina Técnica de Prevención Municipal de Incendios Forestales y Desarrollo Agrario; Edgar Nebot, subinspector del GRAF; Toni Arimany, de Aricoforest; Francesc Subiranes, del Mas Subiranes de Tavertet, custodio de 7.ª generación de 1000 hectáreas de bosques en el Collsacabra y Les Guilleries, y Quim Dalmau, jefe de los Agentes Rurales de Osona y Lluçanès y miembro de la junta de la Asociación de Propietarios Forestales Serra de Bellmunt-Collsacabra. Moderado por Albert Brosa, de Resilience.Earth, y Dolors Dorca, de pequeños propietarios forestales con rebaño ovino de L’Esquirol.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "mey6tctw82qgxp75dst19y3f"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}
