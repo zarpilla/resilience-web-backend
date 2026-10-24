@@ -311,6 +311,16 @@ person that the change is visible right away.
 
 ---
 
+### 5.5 Team members (Bios)
+
+People are `api::bio.bio` documents (draft & publish, i18n). The "Totes les que hi participem"
+grid exists in TWO independent places that must be kept in sync: the `sections.bios` block of
+page `qui-som` (es `quienes-somos`, en `who-we-are`) and the `sections.bios` block of template
+`bio` (appended to every `/bio/<slug>` page). Scope pages have their own `sections.bios` (preset
+`list`). Order is the Bio `weight` (ascending, missing = 100). Add/remove = edit the `bios`
+relation (`{ "set": [...] }`, documentIds) in each place and locale; a Bio must be published
+(and exist in that locale) to be shown. Unpublishing a Bio hides it everywhere.
+
 ## 6. Things that are NOT possible without code (send to step 9)
 
 - New block types, new presets, new animations, new card designs, new fonts.

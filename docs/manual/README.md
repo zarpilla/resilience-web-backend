@@ -16,6 +16,7 @@ No cal saber programar. Només cal tenir un usuari a l'administrador de contingu
 | Publicar un **nou recurs a Eines disruptives** | [Receptes › Nou recurs](03-receptes.md#b-publicar-un-nou-recurs-a-eines-disruptives) |
 | **Afegir, treure o reordenar targetes d'un slider** (Home, articles, recursos...) | [Receptes › Sliders](03-receptes.md#c-afegir-treure-o-reordenar-targetes-dun-slider) |
 | Afegir una entrada a un **menú** | [Receptes › Menús](03-receptes.md#d-afegir-una-entrada-a-un-menú) |
+| **Posar o treure persones** de l'equip (Qui som) | [Receptes › Persones](03-receptes.md#j-posar-i-treure-persones-de-lequip-qui-som) |
 | Canviar un text o una imatge d'una pàgina | [Strapi bàsic › Editar](02-strapi-basic.md#5-editar-una-pàgina) |
 | Entendre què és cada **bloc** (Hero, Columns, Slider...) | [Blocs](04-blocs.md) |
 | Entendre **columnes, marges, espais, colors i classes CSS** | [Estils i maquetació](05-estils.md) |

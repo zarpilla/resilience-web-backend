@@ -30,7 +30,7 @@ Si existeix una plantilla que es diu **exactament igual que un tipus de pàgina*
 | `scope` | totes les pàgines d'àmbit | Títol «Àmbit d'acció», núvol d'àmbits, slider de Serveis, bloc «Abordem», slider de recursos |
 | `service` | tots els serveis | Slider de Serveis i bloc «Abordem» |
 | `capability` | totes les capabilitats | «Vols desenvolupar les teves capabilitats?», silueta, cel·lula, slider Caos creatiu |
-| `bio` | totes les fitxes de persona (`/bio/...`) | Graella «Totes les que hi participem» |
+| `bio` | totes les fitxes de persona (`/bio/...`) | Graella «Totes les que hi participem» — ⚠️ és una llista diferent de la de la pàgina *Qui som*: cal mantenir-les totes dues ([recepta J](03-receptes.md#j-posar-i-treure-persones-de-lequip-qui-som)) |
 | `all` | **totes** les pàgines (excepte bios) | *(no existeix ara mateix)* |
 
 Exemple: una pàgina d'àmbit. Els blocs 1–6 (fins al Timeline) són de la pàgina; els següents els afegeix automàticament la plantilla `scope`:

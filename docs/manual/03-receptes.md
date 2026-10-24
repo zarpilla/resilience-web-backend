@@ -11,6 +11,7 @@
 - [G. Traduir una pàgina](#g-traduir-una-pàgina)
 - [H. Despublicar o esborrar](#h-despublicar-o-esborrar)
 - [I. Crear una pàgina general nova](#i-crear-una-pàgina-general-nova)
+- [J. Posar i treure persones de l'equip (Qui som)](#j-posar-i-treure-persones-de-lequip-qui-som)
 
 ---
 
@@ -245,5 +246,77 @@ Per a una pàgina tipus «Qui som» o «Contacte»:
 2. Canvia `name`, `slug`, metadades i blocs.
 3. **Save** + **Publish**. L'adreça serà `https://resilience.earth/<slug>`.
 4. Afegeix-la al menú que toqui ([recepta D](#d-afegir-una-entrada-a-un-menú)) perquè la gent la pugui trobar.
+
+---
+
+## J. Posar i treure persones de l'equip (Qui som)
+
+Cada persona és una **Bio** (Content Manager → **Bio**): una fitxa amb foto, càrrec, cita i text,
+que té pàgina pròpia a `resilience.earth/bio/<slug>`.
+
+![Fitxa d'una persona a la web: les parts de dalt surten de la Bio; el bloc 7 és la plantilla «bio»](img/web-bio-xray.jpg)
+
+⚠️ **La llista «Totes les que hi participem» és a dos llocs diferents** i s'han d'editar tots dos:
+
+| On es veu | Què s'edita |
+|---|---|
+| Pàgina [Qui som](https://resilience.earth/qui-som) | Page **qui-som** → bloc **Bios «Totes les que hi participem»** → camp `bios` |
+| Al final de **cada fitxa de persona** (`/bio/...`) | Template **bio** → bloc **Bios «Totes les que hi participem»** → camp `bios` |
+
+![La llista a la web](img/block-bios-quisom.jpg)
+
+A més, les pàgines d'**àmbit** (Agroalimentació, Cultura...) tenen el seu propi bloc Bios amb les
+persones d'aquell àmbit (preset `list`).
+
+### Afegir una persona
+
+1. **Crear la Bio.** Content Manager → **Bio** → idioma **CAT** → duplica una persona existent
+   (**…** → *Duplicate*) o *Create new entry*.
+
+   ![Llista de persones](img/adm-bio-list.jpg)
+
+2. Omple els camps:
+
+   | Camp | Què és |
+   |---|---|
+   | `name` | Nom i cognoms. |
+   | `slug` | Adreça de la fitxa (`/bio/<slug>`): clica ⟳. |
+   | `position` | Càrrec o rol (surt sota el nom). |
+   | `title` | La cita destacada (surt gran, amb cometes). |
+   | `excerpt` | Frase destacada de la fitxa. |
+   | `mainImage` | **Foto principal** (retrat; surt a les targetes i a la capçalera). |
+   | `largeImage` | Foto gran horitzontal dins la fitxa. |
+   | `content`, `more1`, `more2`, `more3` | Textos de la fitxa (presentació, trajectòria, publicacions...). |
+   | `audio` | Àudio opcional (botó «Escolta»). |
+   | `weight` | **Ordre a les llistes**: número més petit = surt abans (sense número = 100). |
+
+   ![Fitxa d'una Bio a Strapi](img/adm-bio-edit.jpg)
+
+3. **Save** i **Publish**. ⚠️ Una Bio sense publicar **no surt enlloc**.
+4. **Afegir-la a «Qui som»:** Content Manager → Page → **Qui som** → baixa fins al bloc
+   **Bios - Totes les que hi participem** → al camp **bios**, *Add relation* → escriu el nom i
+   tria-la → **Save** + **Publish**.
+
+   ![Bloc Bios de la pàgina Qui som](img/adm-quisom-bios.jpg)
+
+5. **Afegir-la a la plantilla de les fitxes:** Content Manager → **Template** → **bio** → mateix
+   bloc → camp **bios** → *Add relation* → **Save** (les plantilles no tenen *Publish*: el canvi és
+   immediat).
+
+   ![Plantilla bio](img/adm-template-bio.jpg)
+
+6. Si treballa en algun àmbit, afegeix-la també al bloc Bios de la pàgina d'aquell àmbit.
+7. Repeteix-ho als idiomes **ESP** i **ENG**: tradueix la Bio (selector d'idioma de la fitxa) i
+   afegeix-la a la pàgina «Quiénes somos» / «Who we are» i a la plantilla `bio` d'aquell idioma.
+
+> L'ordre de les targetes **no** és el de la llista de l'admin: el decideix el camp `weight` de
+> cada Bio. La llista de l'admin mostra només unes quantes persones: clica *Load More* per veure-les totes.
+
+### Treure una persona
+
+- **Que no surti a les llistes però mantenir la fitxa:** treu-la (✕) del camp `bios` de *Qui som*,
+  de la plantilla `bio` i dels àmbits on surti → **Save** (+ **Publish** a les pàgines).
+- **Que no surti enlloc:** obre la Bio → **…** al costat de *Publish* → **Unpublish** (en cada idioma).
+  Desapareix de totes les llistes i la seva fitxa deixa d'existir.
 
 [← Strapi bàsic](02-strapi-basic.md) · [Següent: Blocs →](04-blocs.md)
