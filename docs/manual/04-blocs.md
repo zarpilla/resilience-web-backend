@@ -143,7 +143,7 @@ La llista de **Eines disruptives**.
 ![Blog amb estil blog-black](img/block-blog.jpg)
 
 Té dos modes segons el camp `filter`:
-- **`filter` = TRUE** (el que s'usa): llista **automàtica de tots els recursos publicats** (`type` = `resource`), amb filtres i «Carregar més». Ordenats per **última modificació**.
+- **`filter` = TRUE** (el que s'usa): llista **automàtica de tots els recursos publicats** (`type` = `resource`), amb filtres i «Carregar més». Ordenats per **`sortDate`** (el més recent primer).
 - **`filter` = FALSE**: llista **manual** del camp `blogPage`. Cada element té `page` i `width` (`onethird` = 1/3, `twothirds` = 2/3, `threethirds` = fila sencera).
 
 Classe `blog-black` a `cssClass`: targetes fosques.

@@ -124,7 +124,7 @@ Collection `api::page.page` (draft & publish, i18n ca/es/en). Key fields: `name`
 |---|---|---|
 | page | `/slug` · `/es/slug` · `/en/slug` (slug `home` = `/`) | — |
 | article | `/article/` · `/es/articulo/` · `/en/article/` | Masonry (Caos Creatiu page + Home), newest `sortDate` first |
-| resource | `/recurs/` · `/es/recurso/` · `/en/resource/` | Blog with `filter=true` (Eines disruptives), newest **`updatedAt`** first |
+| resource | `/recurs/` · `/es/recurso/` · `/en/resource/` | Blog with `filter=true` (Eines disruptives), newest `sortDate` first |
 | scope | `/ambit/` · `/es/ambito/` · `/en/scope/` | — |
 | service | `/servei/` · `/es/servicio/` · `/en/service/` | — |
 | capability | `/capabilitat/` · `/es/capabilidad/` · `/en/capability/` | — |
@@ -296,7 +296,7 @@ relations → `{ "set": [ { "documentId": … } ] }`.
 Same as 5.1 with `--type resource`; shareImage landscape 4:3; download buttons are column
 `c2a` with `href` to an uploaded PDF URL and `target: "_blank"`; section #3 must stay a
 Columns block. Optional slider menu: "Recursos per catalitzar les teves iniciatives".
-Note the list is ordered by last modification.
+The list is ordered by `sortDate` (newest first): set it to choose the position.
 
 ### 5.3 Slider cards
 
@@ -324,7 +324,7 @@ person that the change is visible right away.
 
 ## 7. Known issues (do not "fix" silently)
 
-See `../tasks/`. In particular: Blog order by `updatedAt` (task 004), translation audit (task 007).
+See `../tasks/`. In particular: translation audit (task 007).
 
 ---
 

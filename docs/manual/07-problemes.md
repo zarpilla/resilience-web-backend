@@ -51,7 +51,7 @@ Les imatges s'usen per referència: esborrar-la la treu de totes les pàgines. T
 Coses que **no es poden fer des de Strapi** sense canviar codi:
 
 - Crear un **tipus de bloc nou** o canviar el disseny d'un bloc existent (tipus de lletra, animacions, mida de les targetes...).
-- Canviar l'ordre de la llista d'**Eines disruptives** (ara és per última modificació) o del mosaic de **Caos Creatiu** (per `sortDate`) d'una altra manera.
+- Ordenar el mosaic de **Caos Creatiu** o la llista d'**Eines disruptives** amb un criteri diferent de `sortDate`.
 - Duplicar un sol bloc (només es pot duplicar la pàgina sencera).
 - Canviar l'animació de la Home de manera diferent als textos `home2`…`home9`.
 - Obrir en una pestanya nova els enllaços dels menús.

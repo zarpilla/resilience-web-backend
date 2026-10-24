@@ -77,7 +77,7 @@ Com Caos Creatiu, la pàgina [Eines disruptives](https://resilience.earth/eines-
 
 ![Eines disruptives: Hero, Blog i Slider](img/web-eines-disruptives-xray.jpg)
 
-⚠️ L'ordre és **per data de l'última modificació**: el recurs editat més recentment surt primer. (Si edites un recurs antic, pujarà a dalt de tot.)
+L'ordre el decideix el camp **`sortDate`** de cada recurs (el més recent primer), igual que a Caos Creatiu. Un recurs nou agafa la data del dia i surt a dalt; per moure'n un, canvia-li el `sortDate`.
 
 ### Com és un recurs per dins
 

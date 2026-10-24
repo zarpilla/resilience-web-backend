@@ -1,6 +1,6 @@
 # 004 — Ordre de la llista d'Eines disruptives
 
-- **Estat:** parcialment feta — «Carregar més» ja manté l'ordre (`SectionsBlog.vue`). Pendent de decidir: ordenar per `sortDate`.
+- **Estat:** feta (pendent de desplegar) — `SectionsBlog.vue` ordena per `sortDate` (+ `createdAt`), també a «Carregar més». Com que tots els recursos tenien el mateix `sortDate`, `tools/content-cli/fixes/2026-10-resource-sortdate.mjs` els en dona un de diferent que conserva l'ordre visible el 24/10/2026.
 - **Prioritat:** baixa
 - **Data:** 2026-10-24 · **Tipus:** canvi de bloc existent
 
