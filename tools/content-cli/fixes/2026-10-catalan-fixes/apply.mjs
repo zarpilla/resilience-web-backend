@@ -104,8 +104,11 @@ function writable(v, top = true) {
   return v;
 }
 // order-insensitive comparison of relation sets
+// sortDate is ignored: it is read with a different timezone offset on each server, and these
+// fixes never change it (the value on the target server is always kept, see below).
 const canon = (v) =>
   JSON.stringify(v, (k, x) =>
+    k === "sortDate" ? undefined :
     x && typeof x === "object" && Array.isArray(x.set)
       ? x.set.length
         ? { set: [...new Set(x.set.map((s) => s.documentId))].sort() }
@@ -191,6 +194,12 @@ for (const f of files) {
   }
   const dropped = [];
   await pruneRelations(payload, locale, dropped);
+  // keep the sortDate stored on the target server (new translations take the Catalan one)
+  if (kind === "page") {
+    const keep = curLoc?.sortDate ?? curCa?.sortDate;
+    if (keep) payload.sortDate = keep;
+    else delete payload.sortDate;
+  }
   const label = `${f} (${payload.name ?? key}) ${curLoc ? "update" : "NEW translation"}${dropped.length ? ` [not in ${locale}, left out: ${dropped.join(" ")}]` : ""}`;
   if (!APPLY) { console.log(`WOULD WRITE ${label}`); done++; continue; }
   if (curLoc) console.log("   backup:", backup(kind, curLoc));
