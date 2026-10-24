@@ -1,0 +1,313 @@
+{
+  "data": {
+    "name": "Why are reciprocity and self-management understood as a revolution? Òscar Gussinyer from the European Rural Parliament",
+    "slug": "why-are-reciprocity-and-self-management-understood-as-a-revolution-oscar-gussinyer-from-the-european-rural-parliament",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Oscar Gussinyer",
+    "sortDate": "2025-11-23T07:00:00.000Z",
+    "metadata": {
+      "metaTitle": "Why are reciprocity and self-management understood as a revolution? Òscar Gussinyer from the European Rural Parliament",
+      "metaDescription": "This article explores how real resilience is born from communities and not governments. Through examples from Estonia, Latvia, Scotland and Catalonia, she reflects on reciprocity, self-management and care as essential cultural infrastructures to face crises. An invitation to recover community memory and evolve together towards ethical and collective resilience.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1180
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Why are reciprocity and self-management understood as a revolution? ",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "Òscar Gussinyer's reflections on the European Rural Parliament, Scotland",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1180,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In the ruralities of Estonia and Latvia, the murmur of the past fractures a peace that only holds thanks to the poorly defined alliance of the Old Continent. Behind every forest echoes the shadow of an empire all too familiar. The uniqueness of rural territories is that we have always been alone in the face of challenges, and that —sometimes harshly— has made us resilient.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "During the sixth edition of the European Rural Parliament, held in Scotland, Anneli Kana from Estonia’s Kodukant Village Movement reflected with the calmness of someone who knows that the future is not defended but cultivated:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "“Together, we will be able to overcome the multiple crises ahead.”",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "And she didn't say it like someone repeating a slogan; she said it like someone stating a natural law. Resilience does not emerge from public policies; it is woven within the community. Public policies only need to allow it. Money runs out, grants fluctuate, institutions come and go… but trust, reciprocity and mutual care have deeper roots than any budget. Even though globalisation and the Anthropocene have weakened them, they are experiential learnings —like riding a bicycle: you never forget. And now is the time to remember.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In a workshop on community resilience, a Scottish participant stated:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "“An emergency is when nature reminds us that we are nature.”",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Crises break rhythm and destroy routine, but they also awaken the ancient memory of what we are capable of doing together. When a storm cuts the power, what ends up illuminating us is solidarity, memory and collective instinct. And if we rely on the response of a central government, we might face a “Valencia Dana”, where the responsible person prioritises personal interests or simply lacks the competencies to respond properly.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Every time a community organises to face the unexpected, it also learns to live more integrally. Emergency plans become daily practices; care networks become a living form of community education; village councils become governance spaces that remind us that order does not come from hierarchy, but from relationship.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Meanwhile, every time public administrations exclude us from emergency plans, they treat us with the paternalism of those who “restore order” and remind us that our role is to produce.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In many territories such as Estonia, Latvia, Scotland or Catalonia —or anywhere that centralism tries to arrange the territory as if it were a model— the relationship with government resembles that of a daughter with an absent father. Power arrives to collect, regulate and extract, but rarely to accompany, repair or listen. In truth, perhaps the problem is ours: we have forgotten that, instead of being the daughter, we are the grandmother.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "This is the moment when communities recover memory and recall cultural pillars such as co-responsibility, mutualism and reciprocity. Power is no longer something exercised from outside, but an energy flowing among neighbours. ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "Or, put differently: how do we turn chaos into complexity? How do we adapt ruralities to a changing context? How do we recover the rhythm of life? How do we weave resilience?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "When the people of a village learn to generate their own energy, manage their water, prevent floods, use locally repairable technology or cultivate food sovereignty, they are transforming vulnerability into autonomy. And when we raise an analog radio to communicate during a blackout, we are not just preventing a crisis: we are building community muscle —a voice of our own. Every crisis is an opportunity to evolve culture, build identity and strengthen relationships.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "But just like our eastern neighbours, some crises do not arrive with water or fire, but with fear and authoritarianism. The United States has repeatedly shown that placing a gun in every home only escalates violence, and reminds us that resilience cannot be merely logistical: it must be ethical. What would happen if our communities practised active non-violence, learning to respond without reproducing destruction? Perhaps we could shift from the passivity born of fear to the creativity and reconciliation of those who know that the real enemy is not the other, but disconnection.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A widespread misunderstanding persists: we think preparing for systemic crisis means defending ourselves from nature and protecting ourselves from the future —like millionaires building bunkers, unaware that they are investing their privileges in a luxurious hell. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "In reality, preparing ourselves means coevolving with nature and redefining the future.",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Every system imagined for emergencies —care networks, cooperation plans, communication protocols, appropriate technology— is also a school of community life. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Preparing means sowing the values we want to harvest: care, reciprocity, autonomy and trust. It means turning pain into design, precarity into creativity, and uncertainty into meaning. ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "And accepting that central government already has enough work trying to give itself purpose, let alone attending to the consequences of the systematic destruction of rooted culture in our territory.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "When a community takes responsibility and prepares, it stops merely surviving and gains the ability to respond —the true essence of resilience. Why are they so afraid of us not being dependent? If revolution means evolving again, perhaps that is what we need now. The systems that sustain this society have clearly become obsolete; perhaps our next social consensus should not be static, but a dialogue in constant (R)evolution.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Òscar Gussinyer from Resilience Earth",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1182,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

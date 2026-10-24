@@ -1,0 +1,50 @@
+{
+  "data": {
+    "name": "MAPS",
+    "slug": "maps",
+    "type": "page",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": null,
+    "sections": [
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "code": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

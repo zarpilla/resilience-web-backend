@@ -1,0 +1,480 @@
+{
+ "data": {
+  "name": "Resignificar la Tierra desde el pensamiento vivo de Achille Mbembe",
+  "slug": "resignificar-achille-mbembe",
+  "type": "article",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": "Alba Danés",
+  "sortDate": "2024-12-22T17:30:00.000Z",
+  "metadata": {
+   "metaTitle": "Resignificar la Tierra desde el pensamiento vivo de Achille Mbembe",
+   "metaDescription": "En una conversación íntima y expansiva con Achille Mbembe, pensamos el mundo desde los márgenes, desde el Sur, desde la memoria viva y el dolor transgeneracional. Su pensamiento no llega a ordenar nada. Llega a abrir grietas. Para sacudir. Recordar lo que el colonialismo nos hizo olvidar.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1131
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Resignificar la Tierra desde el pensamiento vivo",
+    "titleHeading": "h1",
+    "text": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "text": "<cite>Descolonizar no es solo derribar estructuras. Es volver a sentir. Es volver a imaginar. Es volver a compartir la Tierra. Presentamos una conversación con Achille Mbembe.</cite>",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "85vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": "none",
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1131,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "texto 2 columnas",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "narrow",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "En una conversación íntima y expansiva con Achille Mbembe, pensamos el mundo desde los márgenes, desde el sur global, desde la memoria viva y el dolor transgeneracional. Su pensamiento no llega a ordenar nada. Llega a abrir grietas. Para sacudir. Recordar lo que el colonialismo nos hizo olvidar.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Joseph-Achille Mbembe, conocido como Achille Mbembe (nacido en 1957), es un filósofo camerunés, teórico político e intelectual. En abril de 2024 lo conocimos en Girona, invitado por la Cátedra Ferrater Mora de Pensamiento Contemporáneo, y tuvimos la oportunidad de conversar con él sobre aspectos como el decolonialismo, las formas de gobernanza, las violencias estructurales y la espiritualidad. Presentamos la conversación que mantuvimos con él, introducida por Alba Danés Boix, socia de Resilience.Earth, en el marco de la comunidad de aprendizaje Balkar.Earth.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "Texto",
+      "media": null,
+      "styles": {
+       "cssClass": "pb-0",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.video",
+    "title": "\"El archivo de la conquista está agotado. Necesitamos buscar nuevas energías para multiplicar la vida.\"",
+    "embed": null,
+    "url": "https://youtu.be/9LgdPdn9gxo",
+    "image": 1128,
+    "styles": null
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "texto 2 columnas",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-lg-4",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Decolonizar es aprender a existir",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La descolonización no es un acto simbólico o institucional. Es una tarea colectiva e íntima que requiere desenmascarar las cicatrices del colonialismo: racismo estructural, explotación, negación de la dignidad. Mbembe nos habla de la descolonización psíquica, cultural y espiritual. Reapropiarnos de nuestro imaginario, nuestro cuerpo, nuestro sentido del mundo.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Reimaginar la gobernanza: del control a lo común",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "¿Qué significa gobernar sin dominar? Mbembe nos invita a repensar la gobernanza como una práctica de responsabilidad mutua, como una forma de cuidado, para no controlar. Escuchad voces olvidadas, aquellos que han construido formas de vivir sin jerarquías, sin centro, sin imperio. La verdadera soberanía puede no estar en el poder, sino en la capacidad de sostener la vida en común.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "bold": true,
+          "text": "La violencia que no se ve, pero que atraviesa todo",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La violencia estructural no llama. No se rompe. Pero lo erosiona todo. Mbembe denuncia las formas silenciosas de opresión: hambre, precariedad, racismo institucional, pérdida de futuro. Romper con esta violencia implica más que reformarla: implica imaginar estructuras completamente nuevas.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Espiritualidad y archivos vivos",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Mbembe nos sacude con una propuesta radical: reabrir los archivos del mundo. El pensamiento occidental ha hecho del planeta un objeto. Ha cortado los lazos entre lo que está vivo. Pero hay otros archivos. Los archivos de las primeras naciones, de los pueblos arraigados, de silencios cargados de sabiduría. Resonar con el cosmos, regenerar la Tierra y compartirla como un bien común.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imágenes",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Conclusión",
+    "styles": {
+     "cssClass": "pt-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "Conclusión",
+      "titleHeading": "h1",
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-3",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "¿Y ahora qué?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Este diálogo no es una conclusión. Es una interpelación. Un grito que pide pausa, escucha, reconfiguración. Mbembe no nos da recetas. Nos ofrece caminos. Y, quizá, lo más radical de todo es esto: volver a cuidar, radicalmente, la vida.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-8 offset-md-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": {
+   "set": [
+    {
+     "documentId": "mey6tctw82qgxp75dst19y3f"
+    }
+   ]
+  },
+  "scopes": {
+   "set": [
+    {
+     "documentId": "o56mrvcrzudmlhbshs18uu3x"
+    },
+    {
+     "documentId": "sth66s3s5cbbag5wo0iw5vde"
+    }
+   ]
+  },
+  "typology": {
+   "set": [
+    {
+     "documentId": "fuidh03xk62s96r8jt30xzdh"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

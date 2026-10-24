@@ -1,0 +1,341 @@
+{
+  "data": {
+    "name": "¿Por qué la reciprocidad y la autogestión se entienden como una revolución? Oscar Gussinyer des del Parlamento Europeo Rural",
+    "slug": "por-que-la-reciprocidad-y-la-autogestion-se-entienden-como-una-revolucion-oscar-gussinyer-des-del-parlamento-europeo-rural",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Oscar Gussinyer",
+    "sortDate": "2025-11-23T07:00:00.000Z",
+    "metadata": {
+      "metaTitle": "¿Por qué la reciprocidad y la autogestión se entienden como una revolución? Oscar Gussinyer des del Parlamento Europeo Rural",
+      "metaDescription": "Este artículo explora cómo la verdadera resiliencia nace de las comunidades y no de los gobiernos. A través de ejemplos de Estonia, Letonia, Escocia y Cataluña, reflexiona sobre la reciprocidad, la autogestión y la atención como infraestructuras culturales esenciales para enfrentar crisis. Una invitación a recuperar la memoria comunitaria y evolucionar juntos hacia la resiliencia ética y colectiva.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1181
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "¿Por qué la reciprocidad y la autogestión se entienden como una revolución?",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "Reflexiones de Òscar Gussinyer des del Parlamento Europeo Rural, Escocia",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1181,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "texto 2 columnas",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En las ruralidades de Estonia y Letonia, el murmullo del pasado quiebra una paz que solo se sostiene gracias a la alianza mal definida del Viejo Continente. Detrás de cada bosque resuena el eco de un imperio demasiado familiar. La singularidad de las ruralidades es que siempre hemos estado solas ante los retos, y eso —a veces con dureza— nos ha hecho resilientes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Durante la sexta edición del Parlamento Rural Europeo, celebrado en Escocia, Anneli Kana, del Movimiento de Pueblos Kodukant de Estonia, reflexionaba con la calma de quien sabe que el futuro no se defiende, sino que se cultiva:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "“Juntas, podremos superar las múltiples crisis que vienen.”",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Y no lo dijo como quien repite un lema; lo dijo como quien constata una ley natural. La resiliencia no nace de las políticas públicas, sino que se teje dentro de la comunidad. Las políticas públicas solo deben permitirlo. El dinero se acaba, las subvenciones fluctúan, las instituciones van y vienen… pero la confianza, la reciprocidad y el cuidado mutuo tienen raíces más profundas que cualquier presupuesto. Aunque la globalización y el Antropoceno las hayan debilitado, son aprendizajes vivenciales, como montar en bicicleta: nunca se olvidan. Y ahora es el momento de recordarlo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En un taller sobre resiliencia comunitaria, una participante escocesa afirmó:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "“Una emergencia es cuando la naturaleza nos recuerda que somos naturaleza.”",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Las crisis rompen el ritmo, destrozan la rutina, pero también despiertan el recuerdo antiguo de lo que somos capaces de hacer juntas. Cuando la tormenta corta la luz, lo que acaba iluminándonos es la solidaridad, la memoria y el instinto colectivo. Y si confiamos en la respuesta de un gobierno central, podemos encontrarnos con una “Dana de Valencia”, donde la persona responsable priorice intereses personales o simplemente no tenga las competencias necesarias para afrontarlo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cada vez que una comunidad se organiza para responder a lo imprevisto, también aprende a vivir de forma más íntegra. Los planes de emergencia se convierten en prácticas cotidianas; las redes de cuidados, en una forma de educación comunitaria viva; los consejos de pueblo, en un espacio de gobernanza que recuerda que el orden no nace de la jerarquía, sino de la relación.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Por otra parte, cada vez que la administración pública nos excluye de esos planes de emergencia, nos trata con el paternalismo de quien “pone orden” y nos recuerda que nuestro rol es producir.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En muchos territorios como Estonia, Letonia, Escocia o Catalunya —o en cualquier lugar donde el centralismo quiere ordenar el territorio como si fuera una maqueta—, la relación con el gobierno es la de una hija con un padre ausente. El poder llega para cobrar, normativizar y extraer, pero rara vez para acompañar, reparar o escuchar. En realidad, quizá el problema lo tenemos nosotras: hemos olvidado que, en lugar de ser la hija, somos la abuela.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Este es el punto donde las comunidades recuperan la memoria y recuerdan pilares culturales como la corresponsabilidad, el mutualismo o la reciprocidad. El poder ya no es algo que se ejerce desde fuera, sino una energía que circula entre vecinas.",
+                    "type": "text"
+                  },
+                  {
+                    "text": " O, dicho de otra manera: ¿cómo convertimos el caos en complejidad? ¿Cómo adaptamos las ruralidades al contexto cambiante? ¿Cómo recuperamos el ritmo de la vida? ¿Cómo tejemos resiliencia?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cuando las personas de un pueblo aprenden a generar su energía, gestionar su agua, prevenir inundaciones, usar tecnología reparable localmente o cultivar su soberanía alimentaria, están convirtiendo la vulnerabilidad en autonomía. Y cuando levantamos una radio analógica para comunicarnos durante un apagón, no solo estamos previniendo una crisis: estamos generando músculo comunitario, una voz propia. Cada crisis es una oportunidad para evolucionar la cultura, construir identidad y fortalecer las relaciones.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Pero, igual que sucede con nuestras vecinas del este, hay crisis que no llegan con agua o fuego, sino con miedo y autoritarismo. Estados Unidos nos ha enseñado, repetidamente, que poner un arma en cada casa solo escala la violencia, y nos recuerda que la resiliencia no puede ser solo logística: debe ser ética. ¿Qué pasaría si nuestras comunidades practicaran la no violencia activa, aprendiendo a responder sin reproducir la destrucción? Tal vez podríamos pasar de la pasividad que nace del miedo a la creatividad y la reconciliación: la sabiduría de quien sabe que el verdadero enemigo no es la otra persona, sino la desconexión.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hay una confusión extendida: pensamos que prepararse para la crisis sistémica es defendernos de la naturaleza y protegernos del futuro, como los millonarios que construyen búnkeres sin notar que están invirtiendo sus privilegios en un infierno de lujo. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "En realidad, prepararnos es coevolucionar con la naturaleza y redefinir el futuro.",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Cada sistema que imaginamos para emergencias —redes de cuidados, planes de cooperación, protocolos de comunicación o tecnología apropiada— es también una escuela de vida comunitaria. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Prepararse es sembrar los valores que queremos cosechar: cuidado, reciprocidad, autonomía y confianza. Es convertir el dolor en diseño, la precariedad en creatividad y la incertidumbre en sentido.",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Y aceptar que el gobierno central ya tiene suficiente trabajo intentando darse sentido a sí mismo, como para prestar atención a las consecuencias de la destrucción sistemática de la cultura arraigada de nuestro territorio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cuando una comunidad asume la responsabilidad y se prepara, deja de sobrevivir para adquirir la habilidad de responder, que es la verdadera esencia de la resiliencia. ¿Por qué les da tanto miedo que no seamos dependientes? Si una revolución significa volver a evolucionar, tal vez es lo que nos toca ahora. Los sistemas que sostienen esta sociedad han quedado claramente obsoletos; quizá el próximo consenso social no deba ser estático, sino un diálogo en constante (R)evolución.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Òscar Gussinyer de Resilience Earth",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Texto",
+            "media": 1182,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

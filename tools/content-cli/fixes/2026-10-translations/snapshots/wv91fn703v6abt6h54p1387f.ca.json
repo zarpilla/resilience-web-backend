@@ -1,0 +1,432 @@
+{
+  "data": {
+    "name": "Teixint futur col·lectiu",
+    "slug": "teixint-futur-col-lectiu",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Laura Comas",
+    "sortDate": "2025-10-05T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Teixint futur col·lectiu",
+      "metaDescription": "Laura Comas Martinez, sòcia de Resilience.Earth SCCL, respon a un parell de preguntes sobre la situació actual del cooperativisme i l'economia social solidària (ESS).",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1088
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Teixint futur col·lectiu ",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Laura Comas, reflexiona sobre la situació actual del cooperativisme i l'economia social solidària al número 500 de la revista Cooperació Catalana. </cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1088,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "content",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "“El cooperativisme i l’ESS són una eina clau per democratitzar i relocalitzar l’economia, arrelant-la al territori i a les comunitats.”",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per commemorar l'especial número 500 de la revista Cooperació Catalana de la Fundació Roca Galès, es van convidar a diverses persones vinculades d'una manera o altra al cooperativisme i a l'ESSS, perquè reflexionin sobre la situació actual del cooperativisme i l'ESS, en aquest primer quart de segle XXI. Convidades també a destacar unaspecte i a mullar-se sobre quin àmbit o sector productiu consideren que caldria estendre's i incidir més en els propers anys, tot seguit recollim les respostes de la sòcia de Resilience Earth Laura Comas Martínez, a la revista número 500 en trobareu moltes més.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "1) Com veus la situació actual del cooperativisme i l'ESS als Països Catalans? Quin aspecte destacaries principalment?",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "&nbsp;",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La situació del cooperativisme i l’economia social i solidària (ESS) principalment a Catalunya es troba en una etapa d'expansió. D’una banda, hi ha una consolidació d’experiències, articulació territorial i projectes cooperatius punters; de l’altra, l’ecosistema encara és fràgil davant de com donar resposta als reptes sistèmics (crisi climàtica, desarrelament territorial, pèrdua de biodiversitat, pobresa cronificada, crisi migratòria, polaritats polítiques, precarietat habitacional, etc.). Si fem un focus al cooperativisme de treball de Catalunya, per exemple, ens trobem:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "• Forta concentració metropolitana del cooperativisme: El Barcelonès concentra una part molt significativa de les cooperatives de treball (30% segons dades del registre de cooperatives i el 45% de cooperatives federades a FCTC), tant per densitat com per població, reproduint una dinàmica fortament centralitzada.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "• En algunes zones, una presència destacable a zones rurals per habitant: Tot i tenir menys cooperatives, territoris com l’Alt Pirineu i Aran, sobretot el Pallars Sobirà, mostren una ràtio elevada de cooperatives per habitant, indicant un arrelament cooperatiu significatiu.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "• Els Ateneus Cooperatius han jugat un punt clau en la descentralització dels serveis de promoció cooperativa, tot i això, hi ha una desigualtat territorial en la cobertura dels Ateneus: hi ha grans diferències en la superfície que cobreix cada Ateneu, amb exemples com Terres Gironines o Ponent Coopera que gestionen amplis territoris, amb molta extensió, molts habitants, municipis i comarques en relació.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Això ens mostra la necessitat d’estratègies diferenciades: els contextos urbans, metropolitans i rurals requereixen enfocaments específics. I ans el contrari, venim d’una tendència centralitzadora, sobretot, des de les institucions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2) En quin àmbit o sector productiu creus que caldria estendre's i incidir més?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "L’expansió que cal consolidar i impulsar amb determinació —malgrat que ja és una tendència global— ha de ser dirigida estratègicament per donar resposta als grans reptes sistèmics. Aquesta expansió ha de centrar-se en quatre eixos clau:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "1. Relocalitzar l’economia per guanyar sobiranies",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "És necessari abandonar la lògica d’escala, basada en el creixement i l’acumulació, i apostar per una lògica de profunditat: més arrelament, més vincles comunitaris i més sentit del lloc. L’articulació territorial del cooperativisme ja està en marxa a través d’iniciatives com els Ateneus Cooperatius, Pols Cooperatius, grups locals de la XES, cooperatives de segon grau o xarxes de cooperatives rurals. Aquest moviment cap a l’arrelament ha de ser reforçat com a estratègia transformadora.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2.  Diversificar l’economia des de l’ESS",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El cooperativisme i l’ESS han d’ampliar la seva presència en sectors diversos per cobrir totes les dimensions de la vida econòmica. Un exemple clar és el monocultiu turístic a les comarques gironines, que provoca pèrdua de biodiversitat, escassetat d’aigua, precarietat laboral i especulació urbanística. En canvi, una economia diversificada genera resiliència comunitària i territorial.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "3. Democratitzar l’economia",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El cooperativisme pot i ha de ser una eina de democratització real. No només pel que fa a la propietat i la gestió, sinó també pel foment de cultures organitzatives més col·lectives, transparents i orientades al bé comú. Cal promoure governances obertes i participatives que facin la ciutadania part activa dels projectes econòmics i socials.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4. Multiplicar l’impacte regeneratiu",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "És fonamental que el cooperativisme i l’ESS no només evitin causar dany, sinó que contribueixin activament a regenerar els sistemes ecològics, socials, econòmics i polítics. En un context on les empreses extractivistes generen fortes externalitats negatives, el cooperativisme pot contribuir en el compromís i la visualització del rendiment de comptes i orientar-se cap a una estratègia clara i ferma per generar impactes positius en el territori i en la vida de les persones.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Col·laboració de Laura Comas al número 500 de Cooperació Catalana, publicat a setembre de 2025.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": {
+              "text": null,
+              "href": null,
+              "target": null,
+              "cssClass": null,
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "un altra foto",
+        "styles": {
+          "cssClass": "pt-0 zpb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1082,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

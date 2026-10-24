@@ -1,0 +1,462 @@
+{
+  "data": {
+    "name": "Política pública",
+    "slug": "politica-publica",
+    "type": "scope",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Política pública",
+      "metaDescription": "Regenerative Governance for Transformative Public Policy",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1203
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Política pública",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "600px",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1203,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Facilitamos procesos participativos para codiseñar y cocrear políticas públicas, y para evaluar su impacto.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "¿Es la participación comunitaria un acto de poder compartido o una ilusión de control democrático?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En Resilience.Earth, colocamos la gobernanza regenerativa en el centro de la evolución democrática, transformando el diseño y la evaluación de las políticas públicas. Con la experiencia adquirida en más de cincuenta municipios, consejos comarcales, diputaciones y direcciones generales, acompañamos a las administraciones en la cocreación de políticas transformadoras, profundamente conectadas con las necesidades del territorio. Trabajamos para facilitar la adaptación de las instituciones hacia espacios que sean catalizadores de cambio sistémico, basados en soluciones arraigadas y adaptadas a las diversidades de nuestra gente, nuestra tierra y nuestras economías.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Desarrollamos procesos deliberativos y corresponsables, diseñando políticas públicas inclusivas y participativas. Acompañamos a las administraciones y a la población para desbloquear su potencial latente y crear valor compartido, alineando las políticas con los principios regenerativos. Así, las políticas públicas se convierten en espacios de transformación donde la población, las instituciones y el territorio trabajan conjuntamente para fortalecer los vínculos y afrontar los retos actuales y futuros.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Evaluamos las políticas públicas con una perspectiva regenerativa, utilizando metodologías que comprenden las dinámicas sociales, económicas y ambientales. Creamos modelos de gobernanza dinámicos que se adaptan a los entornos cambiantes, construyendo una base resiliente para el futuro. Las políticas públicas se convierten así en herramientas vivas que regeneran la relación entre la población y el territorio, estableciendo las bases para un gobierno abierto y transformador.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0 col-12 col-md-7 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": "narrow",
+              "paddingTop": null,
+              "paddingBottom": false,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pt-0 pb-5",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": "h2",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-7 offset-md-5",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.bios",
+        "title": null,
+        "titleHeading": "h2",
+        "preset": "list",
+        "subtitle": "Saber quién trabaja en este campo",
+        "c2aText": "Ver perfil completo",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "bios": {
+          "set": [
+            {
+              "documentId": "anlt26ya0s6011byiim3es5g"
+            },
+            {
+              "documentId": "anlt26ya0s6011byiim3es5g"
+            },
+            {
+              "documentId": "f5zft1r12snxfydadnvlw256"
+            },
+            {
+              "documentId": "f5zft1r12snxfydadnvlw256"
+            },
+            {
+              "documentId": "z5ammaimxxx7vrg87zcquwv5"
+            },
+            {
+              "documentId": "z5ammaimxxx7vrg87zcquwv5"
+            },
+            {
+              "documentId": "xve4wud93ylwvs03lyb40m8p"
+            },
+            {
+              "documentId": "xve4wud93ylwvs03lyb40m8p"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "marquee",
+        "alias": "Marquee logos",
+        "styles": {
+          "cssClass": "img-wb-filter img-height-75 pb-5",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "menu": {
+          "set": [
+            {
+              "documentId": "rtkonlsx5wox96riaexoq6jb"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.timeline",
+        "url": "https://docs.google.com/spreadsheets/d/1JSfBT_JbFXs6pG3mB89Yg5G1-wayw4fk/edit?gid=1422341183#gid=1422341183",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#F2EEEA",
+          "container": null,
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

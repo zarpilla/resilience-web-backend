@@ -1,0 +1,419 @@
+{
+  "data": {
+    "name": "Comunicació",
+    "slug": "comunicacio",
+    "type": "scope",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Comunicació",
+      "metaDescription": "La comunicació és l’art de narrar els relats plurals que donen forma i sentit als territoris",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1183
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Comunicació",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "600px",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1183,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "<cite>Dissenyem i actualitzem els models de relats comunicatius de les comunitats i les organitzacions perquè siguin autogestionats i acompanyin el desenvolupament de les estratègies col·lectives.</cite>",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Pot la comunicació ser tan transformadora com la pròpia experiència que intenta descriure?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La comunicació és l'art de teixir relats plurals que donen forma i sentit als territoris. Més enllà d'explicar històries, es tracta de desvetllar les connexions entre les persones, les seves comunitats i els paisatges que habiten. A Resilience Earth, com a consultores en estratègies comunicatives, cada projecte és una oportunitat per mostrar la singularitat de cada lloc i amplificar les veus locals, creant una narrativa col·lectiva que pot inspirar l’acció i la regeneració. Aquest procés no és una acció puntual, sinó un camí continu que es va desenvolupant, permetent construir una comprensió més profunda i respectuosa de les dinàmiques locals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Treballant amb organitzacions i comunitats, dissenyem estratègies comunicatives que busquen activar una consciència sobre el territori i les seves realitats. Aquestes narratives no només reflecteixen les identitats locals, sinó que també connecten amb els reptes globals, establint ponts entre la tradició i la innovació. Així, la comunicació esdevé una eina per cohesionar comunitats, reconciliar diversitats i polaritzacions, i crear espais per a la transformació col·lectiva.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La comunicació no només descriu la realitat, sinó que també pot influir en ella. Cada història compartida és una oportunitat per reforçar els vincles socials, generar confiança i construir visions compartides. A través de les nostres estratègies comunicatives, fomentem el desenvolupament de comunitats resilients i regeneratives, on les narratives locals ajuden a generar canvi i obren camins per al futur.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": null,
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pt-4 pb-4",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“La creativitat, la sensibilitat i la capacitat d’escolta de Resilience Earth van ser essencials per dissenyar una imatge gràfica plenament alineada amb allò que volíem transmetre”</cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Ariadna Pomar, cofundadora de Arran de Terra i impulsora de La Diligència.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": "h2",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-7 offset-md-5",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.bios",
+        "title": null,
+        "titleHeading": "h2",
+        "preset": "list",
+        "subtitle": "Coneix qui treballa en<br>aquest àmbit",
+        "c2aText": "Veure perfil complet",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "bios": {
+          "set": [
+            {
+              "documentId": "f5zft1r12snxfydadnvlw256"
+            },
+            {
+              "documentId": "z5ammaimxxx7vrg87zcquwv5"
+            },
+            {
+              "documentId": "u3loc7siidsm07fs6wcq1gu0"
+            },
+            {
+              "documentId": "u3loc7siidsm07fs6wcq1gu0"
+            },
+            {
+              "documentId": "f5zft1r12snxfydadnvlw256"
+            },
+            {
+              "documentId": "z5ammaimxxx7vrg87zcquwv5"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "marquee",
+        "alias": "Marquee logos",
+        "styles": {
+          "cssClass": "img-wb-filter img-height-75 pb-5",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "menu": {
+          "set": [
+            {
+              "documentId": "ioi6tgntpsjf91owwexa51lk"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.timeline",
+        "url": "https://docs.google.com/spreadsheets/d/1nDgKIsYU_nVESgAhu3qgWIddc64SWEI9/edit?gid=1739954961#gid=1739954961",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#F2EEEA",
+          "container": null,
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

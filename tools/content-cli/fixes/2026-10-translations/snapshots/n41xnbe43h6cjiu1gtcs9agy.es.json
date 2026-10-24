@@ -1,0 +1,781 @@
+{
+  "data": {
+    "name": "Cómo trabajamos",
+    "slug": "como-trabajamos",
+    "type": "page",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Cómo trabajamos",
+      "metaDescription": null,
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1253
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "¿Cómo trabajamos para abordar las causas de vuestros retos?",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "centered",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "70vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1253,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "we",
+        "styles": {
+          "cssClass": "page-slug-com-treballem-content-scroll",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 134,
+            "styles": {
+              "cssClass": "fixed-when-scroll",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Identificamos las causas profundas",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Conectando narrativas, ecologías y relaciones. Este relato del lugar o del origen nos permite acompañar la creación de respuestas alineadas con la singularidad de la comunidad o de la organización.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Diseñamos soluciones sistémicas",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Cocreando estrategias basadas en una perspectiva resiliente, activando vuestros potenciales latentes para transformar los retos en oportunidades regenerativas con un impacto real y significativo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Capacitamos para la autogestión",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Desbloqueando las capacidades inherentes de las comunidades y organizaciones, a través de estructuras de gobernanza regenerativa que os permitan liderar vuestro cambio y convertiros en sistemas vivos.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": "h2",
+            "alias": "Relatar el lugar y el origen",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-6",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": "50px 0 0 0",
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imagen",
+        "styles": {
+          "cssClass": "columns-with-text-slider pb-0",
+          "height": null,
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "xxl",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": 75,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Nuestra mirada",
+            "titleHeading": "h3",
+            "alias": "nuestra mirada",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-12 col-view",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 133,
+            "styles": {
+              "cssClass": "col-md-12",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": 75,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": "Rural y Disruptiva",
+            "titleHeading": "h1",
+            "alias": "Rural y disruptiva",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-12 text-slider",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": "Regenerativa y Arraigada",
+            "titleHeading": "h1",
+            "alias": "Regenerativa y Arraigada",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-12 text-slider",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": "Reconciliadora y Descolonizada",
+            "titleHeading": "h1",
+            "alias": "Reconciliadora y Descolonizada",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-12 text-slider",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": "Resiliente y Adaptativa",
+            "titleHeading": "h1",
+            "alias": "Resiliente y Adaptativa",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-12 text-slider",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.capabilities",
+        "title": "Capabilidades",
+        "subtitle": "Nuestras capabilidades (capacidades + habilidades) nos hacen singulares.",
+        "description": null,
+        "c2aText": "Saber más",
+        "styles": null,
+        "capabilities": {
+          "set": [
+            {
+              "documentId": "pm228ambwhkapyvgcfok5ro0"
+            },
+            {
+              "documentId": "orzdatot87yn27f5ubo6uw1k"
+            },
+            {
+              "documentId": "lpsiurivj0vgmw8ksep3u1cs"
+            },
+            {
+              "documentId": "eqojlqb56st5n07jmuoda0d6"
+            },
+            {
+              "documentId": "or02zwbp4qezh8a35kelk9ew"
+            },
+            {
+              "documentId": "w43dlnt9akdfo8kopitmn17v"
+            },
+            {
+              "documentId": "qew6zewpy566vxf07fj2dmpq"
+            },
+            {
+              "documentId": "t309kn4wqoy708oxb5wflzax"
+            },
+            {
+              "documentId": "asmx4b75s54quffqtl0bj4uj"
+            },
+            {
+              "documentId": "zaw4u33qtkrsqtsbyn3jhn6s"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.hero",
+        "title": null,
+        "titleHeading": null,
+        "text": null,
+        "align": "bottom-left",
+        "alias": "perfil",
+        "styles": {
+          "cssClass": "bg-cover bg-no-repeat",
+          "height": null,
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 2,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.tabs",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "tabs": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Cultura abierta.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En Resilience.Earth creemos en la cultura abierta. Compartimos nuestros conocimientos a través de nuestras metodologías, investigaciones y herramientas bajo licencias gratuitas para que puedan ser utilizados y mejorados por otras personas y grupos bajo las mismas condiciones que hemos hecho. Encontrará todos los recursos publicados en la sección \"Herramientas Disruptivas\", si tiene alguna pregunta sobre el uso de las herramientas que puede contactar con nosotros en info@resilience.earth",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Apertura",
+            "titleHeading": "h2",
+            "alias": "Overture",
+            "media": null,
+            "styles": null,
+            "c2a": {
+              "text": "Herramientas disruptivas",
+              "href": "https://w.resilience.earth/tools-disruptives",
+              "target": null,
+              "cssClass": "btn btn-dark btn-dark-border-white btn-100 mt-4 zw-100 btn-with-arrow-right",
+              "page": null
+            },
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "El Balanç Social y el MEC.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El ",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://xes.cat/balanc-social",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "Balanç Social",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " es una herramienta de rendición de cuentas y medida de los efectos sociales, ambientales y de buen gobierno impulsados por la Red de Economía Solidaria (XES) de la cual Resilience Earth es parte. Con este equilibrio auditamos y evaluamos sistemáticamente, objetiva y periódicamente el funcionamiento económico y la política de ganancia; perspectiva de género; equidad y democracia interna; sostenibilidad ambiental; compromiso y cooperación social; y calidad del trabajo. ",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://api-w.resilience.earth/uploads/Balanc_social_resilience_earth_2024_849ad8de5a.pdf",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Además, Resilience Earth está comprometida con la transparencia interna con los miembros en todos los asuntos que afectan a la cooperativa, presentando informes generales anuales, informes financieros anuales, presupuestos anuales, planes operacionales anuales y el plan estratégico evolutivo. Para acompañar este proceso hemos creado el Manual de Evolución de la Cooperativa, una herramienta ágil, transparente y coordinada para el trabajo interno.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Transparencia",
+            "titleHeading": "h2",
+            "alias": "La transparencia",
+            "media": null,
+            "styles": null,
+            "c2a": {
+              "text": "Resultados Balance Social 2024",
+              "href": "https://api-w.resilience.earth/uploads/Balanc_social_resilience_earth_2024_849ad8de5a.pdf",
+              "target": null,
+              "cssClass": "btn btn-dark btn-dark-border-white btn-100 mt-4 zw-100 btn-with-arrow-right",
+              "page": null
+            },
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Justicia Social y Equidad.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En Resiliencia. La Tierra comprendemos la justicia social y la equidad como fundamentos esenciales para la transformación ecológica. Trabajamos para regenerar las relaciones entre las personas y el territorio, centrándonos en la curación, la diversidad y la soberanía comunitaria. Nos comprometemos con una mirada interseccional y descolonial que cuestiona privilegios, desmantela la polarización, excluyendo las estructuras de poder y abre espacios para la voz y dirección de grupos históricamente oprimidos. Esto incluye revisar constantemente nuestras prácticas, relaciones y procesos de toma de decisiones. Estamos comprometidos con la equidad real dentro del equipo y en nuestras alianzas: con transparencia en la distribución de recursos, fomentando la descentralización del poder, compartiendo roles y creando espacios de trabajo seguros, accesibles y horizontales.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Trabajamos para una profunda regeneración que no sólo repone nuestro impacto ambiental, sino que repara y sana profundas heridas sociales y culturales, caminando hacia modelos de vida dignos de todas las personas.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Justícia Social y Equidad",
+            "titleHeading": "h2",
+            "alias": "Social Justice and Equity",
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "marquee",
+        "alias": null,
+        "styles": {
+          "cssClass": "img-wb-filter img-height-75 pb-5",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "menu": {
+          "set": [
+            {
+              "documentId": "h2p3dwywj7qxfhnids374xpe"
+            }
+          ]
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

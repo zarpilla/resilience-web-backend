@@ -1,0 +1,420 @@
+{
+  "data": {
+    "name": "Paz y Derechos Humanos",
+    "slug": "paz-y-derechos-humanos",
+    "type": "scope",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Paz y Derechos Humanos",
+      "metaDescription": "La paz, para nosotros, no es un estado pasivo, sino una práctica viviente que desafía la inercia y fomenta la regeneración constante.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1202
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Paz y Derechos Humanos",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "600px",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1202,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "<cite>Acompañamos a las organizaciones nacionales e internacionales de derechos humanos, para que puedan evolucionar hacia organizaciones regenerativas, aumentando su impacto y haciéndolo más duradero.</cite>",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "¿Puede el diálogo dar voz a lo que la violencia silencia?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La Cultura de Paz no es la ausencia de conflicto, sino la capacidad de “conflictualizar” de manera creativa, convirtiendo tensiones en oportunidades para regenerar relaciones y transformar estructuras. Arraigadas en los principios de la noviolencia y el Ahimsa, entendemos el conflicto como un espacio para activar el potencial humano y colectivo, dando voz a la diversidad y abriendo caminos hacia la reconciliación. Este proceso comienza con la escucha activa y el diálogo profundo, creando espacios donde las comunidades puedan confrontar sus diferencias y transformar la violencia estructural y cultural en nuevas dinámicas de justicia, equidad y resiliencia. La Paz, para nosotros, no es un estado pasivo, sino una práctica viva que desafía la inercia y fomenta la regeneración constante.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En Resilience.Earth, acompañamos a comunidades, organizaciones y territorios en procesos que van desde la transformación del conflicto hasta la creación de marcos que fortalezcan la cohesión y la resiliencia social. Mediante herramientas que combinan escucha activa, reconciliación y acción colectiva, diseñamos proyectos como Planes de Ciudadanía y de Igualdad adaptados a cada contexto para garantizar cambios profundos y sostenibles. También acompañamos a las organizaciones del ecosistema de Paz y Derechos Humanos en la creación de planes estratégicos disruptivos y estructuras más autogestionadas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Entendiendo la interseccionalidad como un ariete, hemos desarrollado una profunda experiencia en identificar y trascender la violencia estructural, ayudando a las personas a desarrollar capacidades de reconciliación y resiliencia. Trabajamos para desmantelar las dinámicas de poder que perpetúan la violencia cultural y para construir estructuras capaces de sostener sociedades más justas y regenerativas. Para nosotros, la Paz no solo se imagina, sino que se convierte en acción concreta que da vida a futuros compartidos.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-7 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pt-0 pb-5",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "“Resilience.Earth estimula la creatividad y el pensamiento crítico. Ayuda a explorar nuevas opciones de estructura y cultura organizacional.” ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Kristian Herbolzeimer, director del International Catalan Institute for Peace",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": "h2",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-7 offset-md-5",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.bios",
+        "title": null,
+        "titleHeading": "h2",
+        "preset": "list",
+        "subtitle": "Saber quién trabaja en este campo",
+        "c2aText": "Ver perfil completo",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "bios": {
+          "set": [
+            {
+              "documentId": "f5zft1r12snxfydadnvlw256"
+            },
+            {
+              "documentId": "f5zft1r12snxfydadnvlw256"
+            },
+            {
+              "documentId": "z5ammaimxxx7vrg87zcquwv5"
+            },
+            {
+              "documentId": "z5ammaimxxx7vrg87zcquwv5"
+            },
+            {
+              "documentId": "anlt26ya0s6011byiim3es5g"
+            },
+            {
+              "documentId": "anlt26ya0s6011byiim3es5g"
+            },
+            {
+              "documentId": "d1fsp7ogoqc697shroyf76eh"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "marquee",
+        "alias": "Marquee logos",
+        "styles": {
+          "cssClass": "img-wb-filter img-height-75 pb-5",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "menu": {
+          "set": [
+            {
+              "documentId": "e17c3pw1t8n1kmujehsti83d"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.timeline",
+        "url": "https://docs.google.com/spreadsheets/d/1Gwsluxa7-6Rr_oYculrAjBbPF7-0WYUE/edit?gid=817746722#gid=817746722",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#F2EEEA",
+          "container": null,
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

@@ -1,0 +1,522 @@
+{
+ "data": {
+  "name": "Cocreative Facilitation",
+  "slug": "facilitacio-cocreativa",
+  "type": "capability",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Cocreative Facilitation",
+   "metaDescription": null,
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1236
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Cocreative Facilitation",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "40vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1236,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "When a group becomes the matrix of change, how can we tell whether we are the ones driving the change or the change is driving us?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Creating environments",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Cocreative facilitation is a methodology focused on deep collaboration that allows groups and organizations to discover and activate their collective potential. This practice redefines the role of the facilitator, who ceases to be an external authority and becomes a creator of environments where solutions emerge organically. Jenny McKewn, one of its main proponents, considers facilitation to be a space of possibilities in which communities can explore, reflect and co-create without external impositions. The key is to create conditions for the group to become the \"matrix of change\".",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Cocreative facilitation emphasizes collective intelligence and sense of belonging. McKewn notes that the facilitation process does not consist of giving answers, but to accompany groups in discovering their own capabilities. This implies recognizing the diversity and singularity of each participant, as well as the particular dynamics of each group, and integrating them into a shared process. This approach generates actions that are not only collaborative, but also deeply rooted in the social, cultural and environmental context of the group.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "This methodology is not just a tool for problem solving, but also a transformative process that promotes autonomy and regeneration. As McKewn underlines, cocreative facilitation not only accompanies groups to solve challenges, but also empowers them to design a shared future. Thus, this practice becomes an engine for social innovation and sustainability, encouraging a transformation that connects people with their territory and with themselves.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "column 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": null,
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "<cite>“Resilience are pioneers in complementing the regenerative perspective with process work. This means that, in the processes they accompany, they make it possible for all voices, roles and feelings to be expressed, fostering dialogue, creativity and a sense of community.”<cite>",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "- Anna Espadalé of Fil a l’Agulla.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "image",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 436,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "columns",
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Spaces of possibilities",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Academically, cocreative facilitation is understood as a process that transcends the simple management of group dynamics. Jenny McKewn defines this approach as the ability to \"create spaces of possibilities\" that allow participants to explore their collective potential without external guidelines. This is aligned with the ideas of Joanna Macy and Chris Johnstone on \"active hope\", which highlight the need to face global challenges with a collective commitment based on connection and collaboration.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Macy and Johnstone, with their Work That Reconnects method, offer tools to connect participants with the deep roots of social and ecological change. This work not only helps to face global challenges, but also encourages a shared understanding among members of the group, facilitating the co-creation of significant solutions. This reinforces the impact of cocreative facilitation, not as a technical process, but as a path for collective regeneration.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Figures such as Kirsti Norris and Miren Larrea extend this academic framework with specific approaches. Norris emphasizes sustainability and innovation, highlighting how co-creative facilitation allows building a shared vision of the future that respects the needs of the present. Larrea, on the other hand, emphasizes the importance of collective governance and confidence in territorial development processes, ensuring that groups can lead their own path to durable solutions. This academic framework highlights how co-creative facilitation integrates emotional, cultural and structural dimensions to promote effective transformations.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "column 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Image",
+    "styles": {
+     "cssClass": "pt-0 pb-0 media-border-radius",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 637,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Columns",
+    "styles": null,
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "Singular Capability",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "In Resilience Earth, we understand cocreative facilitation as a capability that defines our role as facilitators of change. This role is not to direct or impose, but to create the conditions for communities and organizations to find their own answers in a dynamic and changing context. Our task is to establish a safe space where all voices can be heard, especially those that have been marginalized or silenced, and where the diversity of experiences can enrich the process of collective transformation.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "We provide conceptual frameworks and innovative methodologies adapted to make them accessible and useful in community and organizational environments. To do so, we use pedagogical tools such as stories, visual posters and narratives that make tangible complex ideas, thus facilitating practical understanding and application. This capacity allows us to translate academic knowledge into concrete and contextualized actions, which respond to the unique challenges of each group and territory.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Our gaze seeks to emphasize co-creation, promoting that solutions do not come externally imposed, but arise from the group's collective intelligence. In our role as facilitators, we act as catalysts for dialogue, helping to establish the basis for genuine collaboration. Cocreative facilitation becomes an essential tool to guide transformation processes that are as diverse as the communities we work with, and as deep as the challenges they face.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "Column 2",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-8 offset-md-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.menu",
+    "preset": "navigation-arrows",
+    "alias": "Explore other skills",
+    "styles": null,
+    "menu": {
+     "set": [
+      {
+       "documentId": "bggm5vusi6vt5nll3u8srceh"
+      }
+     ]
+    }
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

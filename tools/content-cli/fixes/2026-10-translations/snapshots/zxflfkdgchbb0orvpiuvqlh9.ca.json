@@ -1,0 +1,313 @@
+{
+  "data": {
+    "name": "Quan la ciutat recorda que és part del riu",
+    "slug": "quan-la-ciutat-recoda-que-es-part-del-riu",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Albert Brosa",
+    "sortDate": "2025-11-10T07:00:00.000Z",
+    "metadata": {
+      "metaTitle": "Quan la ciutat recorda que és part del riu",
+      "metaDescription": "Una reflexió sobre la desconnexió entre la ciutat d’Olot i el riu Fluvià, i sobre com el festival Lluèrnia ha contribuït a reencendre la relació amb aquest espai oblidat.\nA través de la llum i l’art, el riu torna a ser centre de vida, memòria i comunitat, i inspira el projecte Simbiosi Fluvial, que vol regenerar-lo des d’una mirada viva i col·lectiva.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1141
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Quan la ciutat recorda que és part del riu.",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>El Lluèrnia 2025 il·lumina el Fluvià i ens recorda que hi ha paisatges que, de tan quotidians, han desaparegut de la nostra mirada. Una reflexió d'Albert Brosa.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1141,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Hi és, però no hi és. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El riu Fluvià travessa Olot, discret, silenciós, com si no volgués molestar. Hi passem cada dia per sobre sense mirar-lo. Només el recordem amb la revingudes de les pluges, quan s’asseca per la sequera o quan algú el recorda a través d’una fotografia, d’una publicació a xarxes socials. La resta del temps, és com si no existís. I, tanmateix, és aquí: un ésser que sosté vida, memòria i identitat. Però hem après a conviure amb la seva absència, a acceptar-lo com un element de fons, com un rumor que no escoltem.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El Lluèrnia 2025 ha volgut trencar aquest silenci. El festival de la llum i el foc ha convertit el Fluvià en part de l’escenari i, per unes hores, el riu ha tornat a existir als ulls de la ciutat. La llum hi ha actuat com a revelació: allò que hi era sempre, però no vèiem, s’ha fet present. I amb ell, també la pregunta: què hem fet amb el nostre riu?",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.duitglobal.com/",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Vivim d’esquenes al riu. És un fet tan senzill com contundent. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "El Fluvià és molt més que una línia d’aigua: és un organisme viu que connecta muntanya i mar, volcans i aiguamolls, memòria i futur. Però durant dècades l’hem tractat com un límit, no com un vincle. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Les seves vores han quedat com espais residuals, marginals, sense centralitat urbana ni emocional. El riu hi és, però el nostre vincle amb ell es va esvaint. No l’habitem, no el pensem, només el mirem. I en aquesta absència hi ha part del nostre desarrelament com a comunitat: quan oblidem el riu, també oblidem una part de nosaltres.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquí entra en joc el Lluèrnia. El festival sempre ha volgut mostrar-nos els espais quotidians de manera diferent, il·luminant-los per crear noves mirades. Aquest any, el riu Fluvià n’ha estat, en part, protagonista. En aquest context d’oblit, Lluèrnia actua com una espurna. Allà on hi havia marge, hi ha centre. Allà on hi havia ombra, hi ha llum. Les instal·lacions al riu només il·luminen un espai físic: il·luminen la nostra desconnexió. Aquest gest -artístic, poètic i cívic- és essencialment regeneratiu. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Perquè regenerar no vol dir només restaurant la natura, sinó reparar la relació. I això comença amb un acte simple: tornar a mirar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El Fluvià ha patit, i pateix, la pressió humana, la pèrdua de biodiversitat i l’abandonament emocional. Però el seu cas és excepcional: és l’únic riu de Catalunya sense grans preses, amb un comportament encara natural i amb una sorprenent capacitat de regenerar-se si l’acompanyem bé.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Segons dades de l’Agència Catalunya de l’Aigua, l’estat ecològic de la capçalera es considera dolent, i el tram mitjà, mediocre. L’informe sobre l’estat de la natura a Catalunya (2021) alerta que els ecosistemes d’aigua dolça han perdut més de la meitat de la seva biodiversitat en les darreres dècades. Però potser la paradoxa és aquesta: el riu que hem oblidat és també el que ens pot ensenyar  a regenerar-nos.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "D’aquest reconeixement en neix l’acció. El projecte Simbiosi Fluvial és la resposta col·lectiva a un oblit que ja no ens podem permetre. Impulsat des de la Garrotxa però amb vocació de tota la conca, el projecte reuneix entitats, municipis i  col·lectius que treballen per regenerar el riu des de la seva pròpia essència: sense grans infraestructures, amb respecte pel seu curs natural, amb mirada comunitària. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Simbiosi Fluvial vol que el Fluvià esdevingui un referent europeu de renaturalització, no des d’una lògica de conservació rígida, sinó des d’una visió viva, participativa i regenerativa. És a dir, que el riu torni a ser un espai de convivència, d’aprenentatge i de vida compartida entre persones, fauna i ecosistema.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Regenerar vol dir tornar a mirar. Però també tornar a sentir-nos part del que hem deixat enrere. Quan una escola d’Olot participa en una instal·lació del Lluèrnia a la vora del riu, o quan un veí s’acosta a veure el reflex del foc sobre l’aigua, hi ha una petita reparació simbòlica. El riu deixa de ser marge i esdevé centre. La ciutat i el riu es reconeixen, encara que sigui per un instant. I potser d’aquí neix el canvi: convertir el riu oblidat en un riu compartit. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El Fluvià no ens demana compassió, sinó corresponsabilitat. Ens recorda que l’aigua no és només un recurs, sinó relat. No és només matèria, sinó memòria. Encendre el riu, com fa el Lluèrnia, és encendre una consciència: la d’entendre que la regeneració comença quan deixem de mirar el riu com a cosa externa i acceptem que també som ell. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Potser el riu no havia desaparegut mai. Érem nosaltres els qui hem apagat la mirada. Ara que la llum del Lluèrnia l’ha tornat a encendre, potser és moment d’aprendre a viure-hi de nou, amb ell, i no pas d’esquena.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una reflexió d'Albert Brosa, Olot, novembre 2025.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

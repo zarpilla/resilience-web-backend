@@ -1,0 +1,728 @@
+{
+  "data": {
+    "name": "Governança local amb la vida al centre",
+    "slug": "governanca-local-amb-la-vida-al-centre-melina-angel",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2024-11-10T17:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Governança local amb la vida al centre - Melina Àngel",
+      "metaDescription": "El biorregionalisme i la biomimèsis ens ofereixen una oportunitat per repensar la governança local des d’una perspectiva més harmoniosa i connectada amb la natura. Melina Ángel ens recorda que posar la vida al centre de les decisions és clau per crear models que siguin sostenibles i inclusius, respectant tant les necessitats humanes com les dinàmiques dels ecosistemes. Aquesta transformació no només implica escoltar els territoris sinó també desaprendre les estructures heretades del colonialisme, per avançar cap a una relació més equitativa amb la terra i entre comunitats.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 866
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Governança local amb la vida al centre",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Una conversa amb Melina Àngel sobre la necessitat de prioritzar la vida en totes les decisions i processos de governança.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 866,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Quan posem la vida al centre de la governança, què canvia en les nostres pràctiques socials?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En un món marcat per la crisi climàtica i les desigualtats socials, el concepte de biomimèsis social i biorregionalisme emergeix com una proposta revolucionària per replantejar la governança local. Oscar Gussinyer conversa amb Melina Ángel, experta en biomimèsis aplicada als sistemes socials i membre de l’organització Meraki a Colòmbia, junts exploren com les comunitats indígenes i els ecosistemes poden inspirar models de governança que posin la vida al centre. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "&nbsp;",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.video",
+        "title": "la terra no és un recurs; és un sistema viu amb el qual cal dialogar i harmonitzar-se.",
+        "embed": null,
+        "url": "https://www.youtube.com/watch?v=Cl-iibZnbbw&t=2s",
+        "image": 1024,
+        "styles": null
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-lg-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Escoltar els Territoris, Escoltar la Vida</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Segons Melina, una de les claus per a una governança sostenible és aprendre a escoltar profundament els territoris. A Colòmbia, les comunitats indígenes mantenen una relació directa amb la terra que va més enllà d’una visió extractiva o utilitarista. “Per aquestes comunitats, la terra no és un recurs; és un sistema viu amb el qual cal dialogar i harmonitzar-se”, afirma.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquesta filosofia es reflecteix en les seves pràctiques: abans de construir un pont o un camí, consulten els ecosistemes i realitzen rituals de connexió. Això mostra una manera d’actuar que prioritza la sostenibilitat i el respecte per la natura, creant un model que podría ser adoptat per altres governs locals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>El Repte de Descolonitzar la Governança</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Un altre aspecte destacat de la reflexió de Melina és el reconeixement de com el colonialisme ha marcat la manera com gestionem els territoris. A Europa, per exemple, la història colonial també ha deixat petjades en les estructures de govern. Les comunitats petites, com ara els municipis rurals, sovint reprodueixen models de centralització que no responen a les necessitats reals del territori.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Melina suggereix una pregunta fonamental per canviar aquesta dinàmica: “Com podem posar la vida al centre?” Aquesta perspectiva implica entendre què està viu en un territori, ja siguin les necessitats socials, les tensions culturals o els processos ecològics. Només a través d’aquesta escolta es poden generar respostes autèntiques i inclusives.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Harmonia entre Escales: Del Local al Global</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Un dels desafiaments que Melina destaca és l’obsessió per escalar solucions. La natura ens ensenya que la complexitat emergeix d’interaccions locals: individus, comunitats i les seves relacions. Així com un bosc funciona a partir de l’harmonia entre arbres, plantes i animals, les comunitats humanes també necessiten dinàmiques d’escolta i cooperació per florir.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "“La governança és un acte de sostenir el que és invisible: les connexions, les necessitats compartides, les relacions”, afirma Melina. Aquests processos no es poden imposar des de dalt, sinó que han de sorgir de les dinàmiques pròpies de cada territori.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Biorregiones: Una Nova Manera de Pertànyer</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El biorregionalisme ofereix una nova manera d’entendre els territoris. En lloc de basar-se en fronteres polítiques arbitràries, reconeix els límits naturals definits per la geografia, els ecosistemes i les cultures locals. “Les biorregions es delimiten per si mateixes. Són espais on les comunitats senten que pertanyen, on hi ha una relació intrínseca amb la terra”, explica Melina.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquesta connexió profunda amb el territori no només satisfà les necessitats vitals, sinó que també fomenta la reciprocitat i la regeneració. Per exemple, els rius poden ser vistos no com simples recursos, sinó com part d’un sistema viu que necessita cures per regenerar-se i beneficiar a tota la comunitat.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Una Economia des de la Vida</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Finalment, Melina apunta que cal repensar l’economia. En lloc de basar-se en l’extracció i l’exportació, podem inspirar-nos en la natura, on els fluxos d’energia, recursos i informació s’organitzen per generar abundància local. Això no significa aïllament, sinó relacions sostenibles amb altres biorregions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "“Un bosc és un exemple d’economia viva: acumula recursos no per explotar-los, sinó per sustentar tota la seva xarxa de vida. Aquest és el model que hauríem d’adoptar”, conclou.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Biomimèsis: Un Camí Accessible per a Tothom</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Melina recalca que no cal ser biòleg o tenir una formació acadèmica especialitzada per aplicar la biomimèsis. La vida mateixa ens ensenya. “La clau és escoltar: escoltar la natura, escoltar-nos a nosaltres mateixos i escoltar els altres. La vida està dins nostre i al nostre voltant. Només cal obrir-nos a aquesta connexió”.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest enfocament ens recorda que som part de la biosfera, no pas agents separats. Si aprenem a actuar amb aquesta consciència, podrem construir una governança local més justa, harmònica i alineada amb els processos de la vida.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": null,
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images ",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 385,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusió",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": "Conclusió",
+            "titleHeading": "h1",
+            "alias": "Conclusió",
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El biorregionalisme i la biomimèsis ens ofereixen una oportunitat per repensar la governança local des d’una perspectiva més harmoniosa i connectada amb la natura. Melina Ángel ens recorda que posar la vida al centre de les decisions és clau per crear models que siguin sostenibles i inclusius, respectant tant les necessitats humanes com les dinàmiques dels ecosistemes. Aquesta transformació no només implica escoltar els territoris sinó també desaprendre les estructures heretades del colonialisme, per avançar cap a una relació més equitativa amb la terra i entre comunitats.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": null,
+    "audio": null
+  }
+}

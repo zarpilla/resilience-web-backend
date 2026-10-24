@@ -1,0 +1,272 @@
+{
+ "data": {
+  "name": "La Directa interviews Erika Zárate",
+  "slug": "entrevista-erika-la-directa",
+  "type": "article",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-07-31T15:30:00.000Z",
+  "metadata": {
+   "metaTitle": "La Directa interviews Erika Zárate",
+   "metaDescription": "Berta Camprubí interviews Erika Zárate in the November print edition of El Suplement de La Directa.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1001
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "La Directa interviews Erika Zárate",
+    "titleHeading": "h1",
+    "text": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "text": "<cite>Berta Camprubí interviews Erika Zárate, co-founder of Resilience.Earth, in El Suplement de La Directa. </cite>",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "75vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1001,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "content",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "article",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "[...] I try to ask the questions so that at some point there is some kind of shift in consciousness. It is planting the seed of a majestic tree. I look for every way to speed up this change, but it is a structural, cultural, slow change. Little by little it will grow, and it is already sprouting.\" ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "So says Erika Zárate in her interview with Berta Camprubí in the November 2024 issue of El Suplement de La Directa, a print edition entitled \"Dones entre lluites\" (Women among struggles), which gathers experiences of women defending life and land from all over the world.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Photographs by Carlos Palacios.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         },
+         {
+          "url": "https://www.catalysts.community/toolkit-essentials-en",
+          "type": "link",
+          "children": [
+           {
+            "text": "",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "&nbsp;",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         },
+         {
+          "url": "https://www.catalysts.community/toolkit-essentials-en",
+          "type": "link",
+          "children": [
+           {
+            "text": "",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "&nbsp;",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": {
+       "text": "You can read the full interview and El Suplement here.",
+       "href": "https://directa.cat/hem-destar-als-espais-per-la-nostra-expertesa-no-per-ser-una-quota/",
+       "target": null,
+       "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+       "page": null
+      },
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "un altra foto",
+    "styles": {
+     "cssClass": "pt-0 zpb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "media-border-radius",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": [],
+  "scopes": {
+   "set": [
+    {
+     "documentId": "cvvpj8jb4a4fdeqbjuzckagn"
+    },
+    {
+     "documentId": "sth66s3s5cbbag5wo0iw5vde"
+    },
+    {
+     "documentId": "n5lix41i3004ot4e904rs085"
+    }
+   ]
+  },
+  "typology": {
+   "set": [
+    {
+     "documentId": "fuidh03xk62s96r8jt30xzdh"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

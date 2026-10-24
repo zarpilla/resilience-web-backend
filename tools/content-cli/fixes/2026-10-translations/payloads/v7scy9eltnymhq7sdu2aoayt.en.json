@@ -1,0 +1,556 @@
+{
+  "data": {
+    "name": "From networks to cooperative ecosystems",
+    "slug": "from-networks-to-cooperative-ecosystems",
+    "type": "resource",
+    "pageCss": null,
+    "headerColorMode": "dark",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Laura Comas",
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "From networks to cooperative ecosystems",
+      "metaDescription": null,
+      "noIndex": false,
+      "metaDescriptionShort": "PRINCIPLES OF ECOSYSTEMIC ARTICULATION: when the nodes stop looking to the centre and relate to one another, generating vitality",
+      "shareImage": 1272
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "From networks to cooperative ecosystems",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "centered",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "small",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "image",
+        "styles": {
+          "cssClass": "pt-0 pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "xxl",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1272,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "content",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": false,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Principles of ecosystemic articulation:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " when the nodes",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "stop looking to the centre and relate to one another, generating vitality.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Over the last decade, the Social and Solidarity Economy has developed a great capacity for collective organisation throughout Catalonia. Cooperatives, inter-cooperation networks, local solidarity economy networks, federations of cooperatives, territorial hubs, second-tier cooperatives, cooperative ateneus and various forms of alliance have made it possible to consolidate a rooted, collective economy, responding to eco-social needs and building spaces of cooperation that put life at the centre.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "However, as the social and solidarity economy grows and diversifies, a question is becoming increasingly present in many organisations and territories: how can this whole set of initiatives be articulated as an ecosystem?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This study starts from an observation: building a network is not the same as articulating an ecosystem. Networks make it possible to connect actors, share information, coordinate actions or drive joint projects. But ecosystems work differently: they are living systems of interdependence, where actors do not just cooperate but co-evolve, generate collective capacity and build the conditions for new economic and social possibilities to emerge.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Authors:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Laura Comas, Resilience Earth SCCL",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": {
+              "text": "Catalan guide",
+              "href": "https://api-w.resilience.earth/uploads/Cat_De_Xarxes_a_Ecosistemes_Cooperatius_cc008fb79b.pdf",
+              "target": "_blank",
+              "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "francès",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": false,
+          "paddingBottom": false,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "offset-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": {
+              "text": "French guide",
+              "href": "https://api-w.resilience.earth/uploads/Fr_De_Xarxes_a_Ecosistemes_Cooperatius_0bdb6d965f.pdf",
+              "target": null,
+              "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "anglès",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": false,
+          "paddingBottom": false,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "offset-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": {
+              "text": "English guide",
+              "href": "https://api-w.resilience.earth/uploads/Eng_De_Xarxes_a_Ecosistemes_Cooperatius_a913d8de81.pdf",
+              "target": null,
+              "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "memòria",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": false,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "offset-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": {
+              "text": "Report",
+              "href": "https://api-w.resilience.earth/uploads/MEMORIA_De_xarxes_ecosistemes_cooperatius_7c45a86f5f.pdf",
+              "target": null,
+              "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "un altra foto",
+        "styles": {
+          "cssClass": "media-border-radius all-media-same-height d-none",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 313,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 317,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 336,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": {
+      "set": [
+        {
+          "documentId": "ebtqcyh8rpxfq9hgei45cowq"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "tkvk1pwpukyocaxn3f2ojmt2"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "sdwb1oh7jjb1qj8lnc3ld0y1"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

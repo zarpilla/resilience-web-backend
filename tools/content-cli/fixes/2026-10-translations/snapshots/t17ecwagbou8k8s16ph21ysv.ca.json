@@ -1,0 +1,272 @@
+{
+  "data": {
+    "name": "La Directa entrevista a Erika Zárate",
+    "slug": "entrevista-erika-la-directa",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-07-31T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "La Directa entrevista a Erika Zárate",
+      "metaDescription": "Berta Camprubí entrevista a Erika Zárate a l'edició en paper de novembre de El Suplement de La Directa. ",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1001
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "La Directa entrevista a Erika Zárate",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Berta Camprubí entrevista a Erika Zárate, cofundadora de Resilience.Earth a El Suplement de La Directa. </cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1001,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "content",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "[ ...] intento fer les preguntes perquè en algun moment hi hagi algun tipus de canvi de consciència. És plantar una llavor d’un arbre majestuós. Busco totes les maneres d’accelerar aquest canvi, però és un canvi estructural, cultural, lent. A poc a poc anirà creixent i ja està brotant\". ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Confessa Erika Zárate a l'entrevista amb Berta Camprubí al Suplement de novembre de 2024 de La Directa, una edició en paper que porta el nom de \"Dones entre lluites\" i que recull experiències de defensores de la vida i el territori d'arreu.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fotografies de Carlos Palacios.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "&nbsp;",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "&nbsp;",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": {
+              "text": "Pots llegir l'entrevista completa i El Suplement aquí.",
+              "href": "https://directa.cat/hem-destar-als-espais-per-la-nostra-expertesa-no-per-ser-una-quota/",
+              "target": null,
+              "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "un altra foto",
+        "styles": {
+          "cssClass": "pt-0 zpb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": {
+      "set": [
+        {
+          "documentId": "cvvpj8jb4a4fdeqbjuzckagn"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "n5lix41i3004ot4e904rs085"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

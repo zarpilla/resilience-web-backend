@@ -1,0 +1,599 @@
+{
+  "data": {
+    "name": "Facilitación Sistémica",
+    "slug": "facilitacio-sistemica",
+    "type": "capability",
+    "pageCss": null,
+    "headerColorMode": "dark",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Facilitación Sistémica",
+      "metaDescription": null,
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1238
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Facilitación sistemática",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "40vh",
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1238,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Cuando una organización se convierte en un sistema vivo, ¿cómo sabemos si estamos trabajando para desbloquear su potencial o simplemente observando cómo despierta?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Dinámicas invisibles",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La facilitación sistémica es una metodología poderosa que busca comprender y transformar las dinámicas internas de los sistemas sociales, organizativos y comunitarios. Basada en la teoría sistémica, este enfoque reconoce que los sistemas no son solo la suma de sus partes, sino redes complejas de interconexiones donde las relaciones entre los elementos definen el comportamiento global. La facilitación sistémica se centra en observar estas conexiones para identificar tensiones, bloqueos y patrones subyacentes, con el objetivo de activar cambios sostenibles y significativos.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Este enfoque se diferencia de las metodologías tradicionales porque no se limita a tratar problemas superficiales, sino que busca comprender las causas profundas que dificultan el funcionamiento de un sistema. Inspirándose en el trabajo de figuras como Bert Hellinger y Bugui Garcia, la escuela de facilitación sistémica aplica herramientas como las constelaciones sistémicas para revelar las dinámicas invisibles que influyen en el desarrollo de grupos y organizaciones. Estas técnicas ayudan a entender cómo los patrones heredados o las relaciones disfuncionales pueden afectar la capacidad del sistema para evolucionar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Además, la facilitación sistémica reconoce la importancia de la memoria colectiva dentro de los grupos. Como destaca Bugui Garcia, cada organización o comunidad lleva consigo una historia colectiva que influye en sus decisiones y comportamientos. Este bagaje, si no se reconoce, puede convertirse en un obstáculo para el cambio. La facilitación sistémica ofrece un espacio seguro para abordar estas memorias y promover procesos transformadores que respeten la historia y, al mismo tiempo, fomenten un futuro regenerativo.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "“La labor de Resilience Earth es un claro ejemplo de cómo llevar la Facilitación Sistémica más allá de las personas, los equipos y las organizaciones, hacia la dimensión Bioregional. Su experiencia nos permite observar cómo tender un puente entre los marcos teóricos regenerativos y las prácticas, acompañando a las personas a encarnar y actuar desde la voz del territorio, para el territorio.”",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Santiago Scheele de la Escuela de Facilitación Sistémica.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-10 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imagen",
+        "styles": {
+          "cssClass": "pb-0 media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 434,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columnas",
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Patrones ocultos",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La facilitación sistémica tiene sus raíces en la teoría sistémica y en las constelaciones desarrolladas por Bert Hellinger, que revelan patrones ocultos en las relaciones humanas y organizativas. Esta metodología es fundamental para abordar conflictos y tensiones dentro de los sistemas sociales, ya que permite comprender las dinámicas de poder, las jerarquías invisibles y las conexiones interpersonales que a menudo quedan fuera de la vista. Franz Ruppert amplió este trabajo aplicando las constelaciones al ámbito organizativo, explorando cómo los patrones culturales e históricos influyen en la salud de los sistemas colectivos.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Insa Sparrer, con sus innovaciones en la aplicación de constelaciones, ha demostrado cómo esta técnica puede hacer visible lo invisible dentro de una organización. Según Sparrer, los sistemas humanos están influenciados por dinámicas complejas que a menudo permanecen ocultas, pero que pueden desentrañarse mediante herramientas como las constelaciones sistémicas. Esto permite desbloquear potenciales latentes y abrir el camino hacia la colaboración genuina y la armonía interna.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En el ámbito académico, la facilitación sistémica también se sustenta en la idea de la “conciencia sistémica”, un concepto central para comprender cómo los sistemas pueden evolucionar de manera saludable. Esta conciencia implica una mirada holística que integra las relaciones personales, los valores culturales y las dinámicas estructurales para generar soluciones sostenibles. Así, la facilitación sistémica se ha consolidado como una herramienta clave para la transformación organizativa y comunitaria en contextos complejos y cambiantes.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "“Resilience cuenta con profesionales formadas en herramientas sistémicas para acompañar a organizaciones y personas en su desarrollo hacia lugares más saludables.”",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "– Espacio Sistémico y Humanista",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Imagen",
+        "styles": {
+          "cssClass": "pb-0 media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 638,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columnas",
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Visión compartida",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En Resilience Earth, entendemos la facilitación sistémica como una capacidad clave que nos permite comprender las dinámicas complejas de los grupos y crear espacios transformadores para abordarlas. En nuestro rol como facilitadores, no ofrecemos soluciones predefinidas, sino que diseñamos entornos seguros e inclusivos donde los miembros de una organización o comunidad puedan explorar sus propias dinámicas y desbloquear las tensiones que limitan su potencial. Trabajamos para poner en relieve las conexiones invisibles que definen los sistemas y hacerlas accesibles mediante herramientas visuales, narrativas y pedagógicas que enriquecen los procesos colectivos.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A través de metodologías como las constelaciones sistémicas, ayudamos a los grupos a identificar patrones latentes, reconocer tensiones internas y explorar nuevas formas de colaborar. Estas técnicas nos permiten facilitar procesos en los que las voces individuales se conectan con el propósito colectivo, promoviendo la armonía dentro del sistema. Nuestro objetivo es que las organizaciones y comunidades desarrollen una visión compartida que no solo aborde los retos actuales, sino que también genere soluciones adaptadas y alineadas con sus valores.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La aplicación práctica de la facilitación sistémica en Resilience Earth se centra en crear espacios de diálogo y reflexión, donde cada voz tenga un lugar significativo. Nos enfocamos en hacer accesibles marcos conceptuales y metodologías innovadoras a través de narrativas visuales y relatos que conectan a las personas con su contexto único. Esto permite que las organizaciones y comunidades no solo comprendan sus propias dinámicas, sino que también co-creen respuestas adaptativas y regenerativas que integren sus valores, historias y necesidades en un futuro compartido.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "navigation-arrows",
+        "alias": "Explore otras habilidades",
+        "styles": null,
+        "menu": {
+          "set": [
+            {
+              "documentId": "bggm5vusi6vt5nll3u8srceh"
+            }
+          ]
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

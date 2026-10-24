@@ -1,0 +1,341 @@
+{
+  "data": {
+    "name": "Disseny",
+    "slug": "disseny",
+    "type": "service",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Disseny",
+      "metaDescription": "Integrem intenció, context i relacions, configurant solucions a mida que responen a les necessitats emergents i potencien la col·laboració sistèmica.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1227
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Disseny",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Integrem intenció, context i relacions, configurant solucions a mida que responen a les necessitats emergents i potencien la col·laboració sistèmica.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "centered",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "70vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#9A5567",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1227,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columns",
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Disseny Regeneratiu.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "column 1",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-5 h3-fw-500",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": "0 50px 0 0",
+              "background": "5",
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El disseny regeneratiu és un procés que busca identificar i activar el potencial únic de cada sistema, sigui un territori, una organització o una comunitat. Hem desenvolupat un procés en «Disseny en Permacultura Bioregional», i treballem amb marcs regeneratius que ens permeten explorar la història, dinàmiques i capacitats del lloc, entenent-lo com un organisme viu en evolució. El nostre enfocament integra la participació activa de la comunitat en tots els processos, ajudant-les a esdevenir agents de canvi actius i sostenibles.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Creació de relats regeneratius:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Facilitem el disseny de relats profunds que connecten els valors essencials de la comunitat o organització amb una perspectiva integrativa que treballa des dels sistemes sencers (Whole Systems Design).",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Disseny de sistemes regeneratius:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Acompanyem el disseny d'iniciatives econòmiques, polítiques i estructures de governança que operin des del respecte i la regeneració dels ecosistemes socials i naturals utilitzant el marc de la \"Sociocràcia 3.0\".",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Acompanyament en el desenvolupament de capacitats:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Oferim formació i acompanyament per desenvolupar capacitats internes en les comunitats i organitzacions per gestionar els seus propis processos regeneratius de manera independent i efectiva.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "column 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-7",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Disseny cocreatiu.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 1",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-5 h3-fw-500",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": "0 50px 0 0",
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El disseny cocreatiu que oferim a Resilience.Earth permet a les organitzacions i comunitats dissenyar estratègies i solucions de manera col·laborativa i inclusiva. Utilitzem metodologies innovadores com la \"Facilitació cocreativa de Jenny McKewn\" i el mapatge sistèmic per identificar els punts de canvi clau i activar sinèrgies entre els diversos actors implicats. Acompanyem el disseny d’incubadores i acceleradores de projectes que afavoreixen la transformació social i ambiental, creant espais de co-creació que uneixen cultura, economia i naturalesa per generar un impacte profund i durador.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Facilitació cocreativa:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Dissenyem i facilitem espais participatius i inclusius on els diferents actors poden identificar i co-creer solucions que responguin als seus propòsits i necessitats concretes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Incubadores i acceleradores de projectes:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Ajudem a dissenyar estructures que permetin la gestió de projectes regeneratius, connectant idees amb recursos i coneixements específics per escalar-los i consolidar-los.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Acompanyament en la creació de models Regeneratius:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Guiem els processos de disseny de models econòmics, socials i culturals regeneratius que fomenten la cooperació i el benestar a llarg termini.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-7",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

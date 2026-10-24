@@ -1,0 +1,340 @@
+{
+  "data": {
+    "name": "Economia Regenerativa, una conversa amb Sidney Cano",
+    "slug": "economia-regenerativa-amb-sidney-cano",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Laura Comas",
+    "sortDate": "2025-02-12T07:00:00.000Z",
+    "metadata": {
+      "metaTitle": "Economia Regenerativa, una conversa amb Sidney Cano",
+      "metaDescription": "Sidney Cano ens convida a repensar la manera com entenem la inversió, posant l’accent en el valor social, ambiental i comunitari de cada projecte. ",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1110
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Economia Regenerativa, una conversa amb Sidney Cano",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Experiències reals per a la regeneració d’economies locals, una conversa sobre inversió i economia regenerativa amb Sidney Cano i Laura Comas.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1110,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "De quina manera les inversions transformadores que impulsa Sidney Cano poden inspirar-nos a repensar el paper de l’economia en la regeneració dels nostres territoris?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Laura Comas, sòcia de Resilience.Earth, guia aquesta conversa on ens endinsem en l’experiència i la visió de Sidney Cano, cofundadora del ",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.duitglobal.com/",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "Grupo Duit",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ", una iniciativa pionera en el camp de les inversions transformadores i en la creació de comunitats de desenvolupament per a la regeneració d’economies locals. Cano ens convida a repensar la manera com entenem la inversió, posant l’accent en el valor social, ambiental i comunitari de cada projecte. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A través de la seva trajectòria, descobrim com les economies regeneratives poden esdevenir una alternativa real i sostenible dins del sistema econòmic actual. Amb un enfocament basat en la col·laboració, la cura i la transformació estructural, Sidney Cano comparteix exemples concrets de processos que impulsen el canvi des de baix, connectant empreses, persones i territoris.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquesta entrevista és una invitació a reflexionar sobre com podem invertir per regenerar, i sobre el paper que cadascú de nosaltres pot jugar en la construcció d’un futur econòmic més viu, resilient i arrelat al bé comú.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.video",
+        "title": "El problema de l'economia actualment és com pensem sobre ella",
+        "embed": null,
+        "url": "https://youtu.be/UL3EbazLoSM",
+        "image": 1109,
+        "styles": null
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusió",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": "Conclusió",
+            "titleHeading": "h1",
+            "alias": "Conclusió",
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La conversa amb Sidney Cano ens recorda que l’economia pot ser molt més que una eina de producció o rendiment: pot esdevenir un teixit viu de relacions que connecta persones, territoris i valors compartits. Les seves paraules ens conviden a imaginar una nova manera d’invertir —una que posa la vida al centre, que cuida els processos i que aposta per la regeneració com a principi d’abundància.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A través de la mirada de Laura Comas, aquesta conversa esdevé també un espai de facilitació i escolta, on emergeixen preguntes que ens desafien com a societat cooperativa i com a individus: què vol dir realment generar valor? Com podem fer créixer projectes que nodreixin el comú?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "El diàleg entre Sidney i Laura ens deixa amb una certesa: la regeneració és possible quan l’economia es posa al servei de la vida, i quan la creativitat i la cooperació es converteixen en els veritables motors d’una transformació.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "umf4zx5r0sh07vh3tpsl3vyx"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "name": "Comunidad Catalysts Toolkit",
+    "slug": "community-catalysts-toolkit",
+    "type": "resource",
+    "pageCss": null,
+    "headerColorMode": "dark",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Resiliencia. Tierra",
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Comunidad Catalysts Toolkit",
+      "metaDescription": "Los catalizadores comunitarios para el desarrollo regenerativo impulsan un cambio hacia un nuevo paradigma, donde la resiliencia y la resiliencia se convierten en procesos dinámicos e inclusivos. A través de la gamificación de catalizadores comunitarios, cada persona se convierte en un agente activo de cambio. Este enfoque integra los conocimientos tradicionales e innovadores, desafiando la separación entre las personas y la naturaleza, y promoviendo un desarrollo que celebre la interdependencia y la capacidad regenerativa de las comunidades.",
+      "noIndex": false,
+      "metaDescriptionShort": "Una gamificación del proceso de catalización comunitaria, donde cada persona se convertirá en un agente activo del cambio.",
+      "shareImage": 879
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Comunidad Catalysts Toolkit",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "centered",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "small",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imagen",
+        "styles": {
+          "cssClass": "pt-0 pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "xxl",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 878,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "contenido",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "A gamification of the community catalyzing process",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En un momento en que nuestro planeta está inmerso en un ciclo degenerativo acelerado, causado por el impacto humano, las regiones rurales emergen como un faro de esperanza. Estas comunidades tienen el potencial de conducir un cambio profundo, ya que, gracias a su vínculo directo con la tierra y su papel fundamental en la producción de alimentos, ofrecen terreno fértil para probar alternativas que catalizan y aceleran el cambio social y ecológico. A través de este proceso de gamificación, en el que hemos colaborado con organizaciones rurales de Europa, hemos creado un espacio dinámico para transformar esta realidad.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Comunidad Catalysts for Regenerative Development es un proceso diseñado para activar una nueva visión del mundo, rompiendo patrones tradicionales de separación entre humanos y naturaleza. Inspirado tanto por la sabiduría ancestral como por el conocimiento contemporáneo, este proceso busca generar un cambio de paradigma, que no sólo responde a los desafíos locales, sino que contribuye a la evolución mundial, alineandose con los Objetivos de Desarrollo Sostenible de las Naciones Unidas 2030. A través del juego WeLand y la plataforma Comunidad Catalysts, ofrecemos una metodología accesible y práctica para desarrollar acciones regenerativas a escala local, aportando sentido de lugar y pertenencia.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lo que proponemos con WeLand y la gamificación del proceso de catalización comunitaria es una manera de ver el cambio como un proceso evolutivo que va más allá de la sostenibilidad. En lugar de limitarnos a mantener el estado actual, buscamos generar un impacto que no sólo preserva los recursos, sino que los regenera y los hace más resistentes con el tiempo. A través de WeLand, las comunidades pasan por un viaje de diseño basado en la naturaleza, un proceso que no sólo implica el aprendizaje, sino también la aplicación práctica de nuevas dinámicas. Esta gamificación no es sólo una herramienta de participación, sino una forma de integrar la capacidad de adaptarse y evolucionar como parte del sistema. Los procesos que activamos ayudan a las comunidades a establecer relaciones más profundas con sus recursos, haciéndolos parte de un cambio orgánico sostenido en su capacidad de autoorganizar y evolucionar autónomamente. Así, lo que hacemos es crear un flujo regenerativo donde cada acción contribuya a la evolución continua del sistema, mejorando la cohesión, la resiliencia y la adaptabilidad a largo plazo.",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": {
+              "text": "Accede al kit de herramientas aquí",
+              "href": "https://www.catalysts.community/toolkit-essentials-en",
+              "target": "_blank",
+              "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "otra foto",
+        "styles": {
+          "cssClass": "media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 303,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 155,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 304,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": {
+      "set": [
+        {
+          "documentId": "ebtqcyh8rpxfq9hgei45cowq"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "ixmw7qmxpb9ops78s89jwog5"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

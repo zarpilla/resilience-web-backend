@@ -1,0 +1,667 @@
+{
+  "data": {
+    "name": "Cooperation as a key to resilience",
+    "slug": "la-cooperacio-com-a-clau-de-la-resiliencia",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Oscar Gussinyer",
+    "sortDate": "2025-05-20T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Cooperation as a Key to Resilience - Lynn Margulis",
+      "metaDescription": "Lynn Margulis challenges Darwin's traditional theory of competition-based evolution, arguing that cooperation between organisms is an essential engine of evolution. According to Margulis, symbiosis has been key to the development of life on Earth, including the fusion of different species to create more complex living systems. She proposes that cooperation, rather than competition, is the priority behavior in life, and that species evolve better through interdependence, not just the struggle for survival.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 877
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Cooperation as the Key to Resilience",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "Lynn Margulis challenges Darwin's traditional theory of competition-based evolution, arguing that cooperation between organisms is an essential engine of evolution.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 877,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "According to Margulis' theory, the true impulse of life is in the ability of species to collaborate and establish symbiotic relationships. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "If symbiosis generates diversity and resilience, what does egoism do in a business ecosystem?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lynn Margulis, one of the most prominent 20th-century biologues, challenged the dominant view of evolution as a process based primarily on competition between species. In her book Acquiring Genomes (2002), Margulis argues that cooperation is in fact the fundamental aspect of evolution. This view has profound implications not only for biology, but also for the way we understand and organize our societies and companies. At a time when capitalism and competition seems to be the driving force of social and economic evolution, Margulis' ideas on symbiosis, exchange and collaboration can offer a new way of understanding our future.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Cooperation as an evolutionary engine",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Margulis challenged Darwin's prevailing idea of competition as an engine of evolution. According to her theory, the true impulse of life is in the ability of species to collaborate and establish symbiotic relationships. In dealing with the complexity of our current world, organizations can learn from bees, for example, that not only work for individual survival, but for that of the hive together. Through cooperation, the system works efficiently and stablely.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "For cooperatives and companies, this means reorienting their practices towards collaborative models rather than competitive, seeking mutual benefit and exchange between all actors involved in the business ecosystem.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Symbiosis for Complexity and Resilience",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Margulis explained that the initial simplicity of life gave way to more complex forms through symbiosis, a merger of two entities to create a new way of life. This process not only resulted in the diversity of life we see today, but also in great efficiency and adaptability.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Companies can be inspired by this process and adopt a more integrated vision of their processes. Like bees working together to produce honey, organizations that fuse, collaborate and create synergies can cope with market volatility in a more resilient way. They can also generate more value with less resources, taking advantage of the simplicity and balance inherent in these natural processes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "The process of evolution is not reduced to competition",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "According to Margulis, organisms are not simple passive \"vehicles\" for genes and the environment, as Darwin postulated, but are autonomous and capable of building their own destinies. Her theory of evolution talks about how life transforms through collaborative interactions and not just the struggle for survival.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "This principle can be applied in the way companies and cooperatives develop. Instead of blindly competing for resources or markets, organizations can foster a \"co-creation\" model, where evolution is based on interaction and joint growth, a collaboration between sectors, companies and even competitors to create more robust and sustainable solutions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The ecosystem as an interconnected system",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Another important aspect of Margulis theory is its vision of Earth as an integrated ecosystem and self-regulator. Through the concept of Gaia, she argued that the planet is a living organism and that its parts remain in balance through cooperation.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Cooperatives and companies that recognize their interconnection with the natural and social environment, such as bees in a hive, can create business models that favor the common good. This approach not only encourages efficiency, but also the sustainability and well-being of all parties involved. As the Earth is self-regulated through processes of cooperation between species, organizations can seek to create a positive impact that strengthens the entire community.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Change as a growth opportunity",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Margulis also noted that evolution is a continuous process of change, not a stagnation in competition. When bees are seen in an overcrowding situation inside the hive, they do not expect the situation to be resolved alone; they act immediately to divide and create a new hive. This ability to adapt to changing conditions is one of the great factors of its survival.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Companies that can respond to change not as a threat, but as an opportunity to grow and improve, are more likely to be resilient. As bees adapt to space and available resources, organizations can evolve and transform, not only to overcome obstacles, but also to take advantage of changes to build a more stable and sustainable future.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This latent potential hidden in the site is revealed when we look beyond external solutions and look for natural and social patterns that have allowed the survival and evolution of communities. The ability of a community to regenerate is closely related to the deep knowledge of the site, as this account allows us to identify the conditions, alliances and natural and social resources that have been built over time and have allowed balance within the ecosystem.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Crisis as moments of opportunity",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A fundamental aspect of bioregionalization is the ability to see crises as moments for evolution. Crises should not only be seen as moments of fragility, but as stress points that, when understood correctly, can become catalysts for change. This is done through local collective intelligence, which is able to observe crises from multiple perspectives and generate deeper and holistic solutions. Bioregionalization teaches us to identify these stress points, whether economic, social or ecological, and to take advantage of them to transform them into regeneration opportunities.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Practices observed in contemporary bioregionalism show that, when performed locally with a deep understanding of territorial dynamics, global challenges such as climate change, loss of biodiversity or economic crises can be addressed in an adaptive and integrated way, opening the door to innovative and deeply rooted solutions on the site.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Adaptive and collaborative solutions design",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Local co-creation processes are essential in this approach. Instead of imposing outside solutions, it works from the specific needs of the territory to create transversal and integrative strategies. Creating land labs, active collaboration spaces between various agents, creativity and innovation in the design of regenerative solutions is encouraged. This work not only allows changes to be adapted, but also takes advantage of social, economic and natural resources to build regenerative and adaptive solutions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "These co-creation spaces not only generate solutions for the immediate crisis, but also help communities visualize possible futures and prepare them so that solutions are enduring. This dynamic process of design and adaptation creates territories that are able to evolve over time and have the ability to regenerate through the natural and social dynamics that define them.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 468,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusion",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusion",
+            "titleHeading": "h2",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "\"symbiosis is not an exception, but a rule of nature.\" Lynn Margulis",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lynn Margulis taught us that competition is not the only force that drives evolution; cooperation is, in fact, a fundamental key to long-term survival and success. By applying these principles to human organizations, we can create more resilient workspaces, where collaboration and symbiosis between companies, sectors and nature generate significant and lasting impacts. Cooperation not only allows us to survive, but also to thrive, and this is the way organizations should adopt to advance towards a sustainable future.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Understanding the account of the site, that is, the deep history and dynamics of the territory, allows us to identify possible future. Observation of the interrelationships between natural and social elements leads us to more adaptive and regenerative strategies, helping to face challenges such as climate change and biodiversity loss.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Crisis are not seen as fragilities, but as opportunities for transformation. The account of the site identifies points of tension and balance that allow to create deep and adaptive solutions. As proposed by the Regenesis Group, these solutions are proactive, aimed at regenerating the territory actively.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In addition, this process encourages cultural change in communities, creating a sense of belonging and shared responsibility. Communities become active agents of regeneration, preparing to face future changes with long-term strategies.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This application of bioregionalization increases territorial resilience, allowing the territory to regenerate through its own dynamics. The more we understand the interrelationships of the site, the more capacity we have to face global and local challenges, creating long-term solutions and helping communities to thrive.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In short, bioregionalization is a process of identifying active patterns and regeneration, which allows us to take advantage of the inherent potential of sites. This not only helps to face immediate challenges, but also opens the way to a more adaptive and resilient future. Crisis become opportunities for evolution and prosperity.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "ad0f99738knzua6rtodiv9dv"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

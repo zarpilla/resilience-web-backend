@@ -1,0 +1,489 @@
+{
+ "data": {
+  "name": "Redes, Ecosistemas y Polos Cooperativos- Discurso de Laura Comas",
+  "slug": "redes-ecosistemas-y-polos-cooperativos-discurso-de-laura-comas",
+  "type": "article",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-09-20T15:30:00.000Z",
+  "metadata": {
+   "metaTitle": "Redes, Ecosistemas y Polos Cooperativos- Discurso de Laura Comas",
+   "metaDescription": "Laura Comas, socia de Resilience Earth, analiza los retos y potencialidades del cooperativismo territorial en Cataluña, subrayando la importancia de superar la centralización y promover ecosistemas distribuidos y enraizados. A través de metáforas naturales —el bosque de ribera, los micelios o las cuencas fluviales—, plantea entender el cooperativismo como un ecosistema vivo e interconectado, capaz de autorregularse y regenerar la vida colectiva. Una invitación a repensar la gobernanza y la cooperación desde una mirada bioregional y sistémica.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1085
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Redes, Ecosistemas y Polos Cooperativos. Hacia nuevas articulaciones territoriales.",
+    "titleHeading": "h1",
+    "text": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "text": "<cite> Una reflexión de Laura Comas en clave de mirada territorial de la FCTC, en el marco del Foro Cooperativista celebrado en Girona el 19 de septiembre de 2025. </cite>",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "75vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1085,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "content",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "article",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "“ Las tensiones son reales, sí, pero también son energía. Y si sabemos escucharlas, pueden convertirse en motor de nuevas formas.”",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "1. Concentración y retos del cooperativismo",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Creo que todas las presentes somos conscientes de la concentración del cooperativismo en Barcelona. El 45% de las cooperativas de trabajo federadas se encuentran en el Barcelonès. Y estas palabras, a veces, pueden generar resistencias. Hay que dialogarlas, hay que comprender todas las partes. Las tensiones son reales, sí, pero también son energía. Y si sabemos escucharlas, pueden convertirse en motor de nuevas formas.",
+          "type": "text"
+         },
+         {
+          "url": "https://www.catalysts.community/toolkit-essentials-en",
+          "type": "link",
+          "children": [
+           {
+            "text": "",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Creo firmemente que el cooperativismo y la articulación territorial pueden ser punta de lanza para proponer e impulsar un cambio disruptivo en la tendencia centralizadora de las ciudades. Un cambio que podría ir más allá del cooperativismo, con impacto en muchos otros sectores y ámbitos de la sociedad. De hecho, hoy tenemos las condiciones para generar un escenario con nodos diversos, arraigados y coordinados entre sí.",
+          "type": "text"
+         },
+         {
+          "url": "https://www.catalysts.community/toolkit-essentials-en",
+          "type": "link",
+          "children": [
+           {
+            "text": "",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "&nbsp;",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En este contexto, los Ateneos Cooperativos juegan un papel fundamental. Y hay que tener en cuenta la diversidad de la distribución territorial. Por ejemplo, el Ateneu de Terres Gironines es el que cubre la superficie más grande de Cataluña: 7 comarcas, 208 municipios y casi 5.000 kilómetros cuadrados. Le siguen el Alt Pirineu i Aran, la Catalunya Central, Ponent Coopera y CoopCamp.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Hay que analizar los datos con otras miradas. El Pallars Sobirà, por ejemplo, es la comarca con más cooperativas por habitante, a pesar de tener muy poca población. Esto nos indica que existe un fuerte tejido cooperativo. Y aquí me pregunto: ¿qué papel han tenido los grupos locales de la XES en la activación y expansión de la economía social y solidaria en todo el país?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Para poder atender preguntas como esta, antes de pasar a la acción, os invito a hacer otra: ¿Qué potencial tiene el movimiento cooperativo en Cataluña si, en lugar de seguir la inercia centralizadora, experimenta modelos más distribuidos?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "2. Ecosistemas cooperativos y aprendizajes de la naturaleza",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Nos encontramos en un momento emergente de ecosistemas y polos cooperativos. Y quiero compartir con vosotras un ecosistema cercano, que a mí me inspira y me ayuda a tener las cosas más claras: el bosque de ribera.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A primera vista puede parecer que cada quien va a lo suyo: los patos nadando tranquilos, los peces moviéndose en bancos, los cangrejos de río escondidos bajo las piedras. Incluso los cangrejos americanos, que llegaron de fuera y amenazan a los autóctonos. Ahí están. Les llamamos invasores, sí, pero ¿sabéis qué? La nutria, que había estado en peligro de extinción, ha encontrado en ellos un banquete. Y ahora su población crece.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "No tengo la solución para los coipús de manera inmediata. Pero con estas especies vemos que si una pieza se desequilibra, todo el entorno se resiente. ",
+          "type": "text"
+         },
+         {
+          "bold": true,
+          "text": "No podemos responder desde la misma lógica lineal y centrada en el problema. Necesitamos nuevas miradas que ayuden a la autorregulación del sistema, que aumenten la vitalidad y la diversidad. La naturaleza nos enseña que los desequilibrios no siempre se resuelven con control, sino con nuevas relaciones y conexiones. Como la polémica reintroducción del lobo en Yellowstone hace veinte años, que ha regenerado toda la biodiversidad del parque.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Sigamos en el bosque de ribera. ¿Empezáis a notar la humedad de los helechos? ¿Y cómo cantan los carboneros? Ellos mantienen a raya las plagas y se comen miles de mosquitos. En un bosque de ribera, cada especie ocupa su nicho.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "bold": true,
+          "text": "3. El corazón del bosque y la gobernanza distribuida",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En el corazón de este ecosistema está el alisedo. Los alisos, gigantes con los pies dentro del agua, son refugio de aves, insectos y mamíferos. Cuando ves un bosque de alisos, sabes que el río está sano. Los alisos son bioindicadores: nos muestran si la vida florece o se apaga. A mí me recuerdan a esos polos cooperativos que, en un barrio, pueblo o comarca, dinamizan un ecosistema generando mancomunidad, solidaridad y arraigo.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "bold": true,
+          "text": "Y bajo tierra, ocultos a nuestros ojos, están los micelios. Ellos conectan árboles, plantas y ecosistemas, compartiendo nutrientes, información y equilibrio. No tienen un centro, tienen diferentes nodos, y aun así sostienen el bosque: son una institución distribuida y resiliente. Podemos decir, entonces, que el organismo más grande del planeta funciona desde una gobernanza distribuida.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En este bosque aparentemente caótico hay equilibrio y cooperación, diversidad, interdependencia y orden. Cada especie desarrolla su máximo potencial, no para competir, sino para vivir y regenerar la vida. Todas las especies viven para regenerar la vida.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "bold": true,
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "4. Cuencas, bioregiones y mirada compartida",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Pero si ampliamos la mirada, vemos que el río no es solo el bosque de ribera. El río forma parte de una cuenca hidrográfica. Aquí, en Girona, estamos en la cuenca del Ter: cada gota que cae en el Collsacabra probablemente acaba encontrando su camino hasta Pals.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La cuenca puede percibirse como una bioregión. No hay frontera entre arriba y abajo, entre bosque y ciudad, entre agricultura e industria. Si todo está conectado, ¿dónde empieza la frontera entre lo urbano y lo rural? ¿Cuál es nuestro rol dentro de este ecosistema? ¿Somos patos, coipús, alisos, micelios… o quizá todo a la vez? Imaginemos que nuestros ecosistemas cooperativos se dibujaran siguiendo las cuencas hidrográficas en lugar de las divisiones administrativas. ¿Qué mapa saldría? ¿Cómo cambiarían las alianzas?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "bold": true,
+          "text": "El agua, mientras tanto, tiene una dirección. Siempre va hacia el mar, pero no tiene un solo origen. Recibe afluentes, arroyos, fuentes escondidas. Como aquí en Girona, la ciudad de los cuatro ríos: el Ter, el Onyar, el Güell y el Galligants, todos formando parte de la misma cuenca. ¡Cuánta vida, eh! Muchas entradas, una dirección compartida. Esta es la metáfora perfecta para la jornada de hoy.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Y para acabar, solo me queda agradecer el espacio e invitarnos a pensar desde nuestro potencial, desde nuestro nicho y desde nuestro lugar.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Una reflexión de Laura Comas como representante de la mirada territorial de la FCTC, compartida durante la celebración del Fórum Cooperativista «Redes, ecosistemas y polos cooperativos. Hacia nuevas articulaciones territoriales», celebrado el viernes 19 de septiembre de 2025 en el Centro Cívico de Sant Narcís, Girona. ",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 1080,
+      "styles": null,
+      "c2a": {
+       "text": null,
+       "href": null,
+       "target": null,
+       "cssClass": null,
+       "page": null
+      },
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "un altra foto",
+    "styles": {
+     "cssClass": "pt-0 zpb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 1074,
+      "styles": {
+       "cssClass": "media-border-radius",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": {
+   "set": [
+    {
+     "documentId": "fja5j82cp904cdyyx1u0cduj"
+    }
+   ]
+  },
+  "scopes": {
+   "set": [
+    {
+     "documentId": "sth66s3s5cbbag5wo0iw5vde"
+    },
+    {
+     "documentId": "wdxle0jcaaimiq811ax69yf0"
+    },
+    {
+     "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+    }
+   ]
+  },
+  "typology": {
+   "set": [
+    {
+     "documentId": "fuidh03xk62s96r8jt30xzdh"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

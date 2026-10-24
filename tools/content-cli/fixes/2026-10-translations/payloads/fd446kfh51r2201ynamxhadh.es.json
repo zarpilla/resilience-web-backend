@@ -1,0 +1,434 @@
+{
+ "data": {
+  "name": "De la dependencia a las soberanías locales y compartidas",
+  "slug": "de-la-dependencia-a-las-soberanias-locales-y-compartidas",
+  "type": "article",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": "Laura Comas",
+  "sortDate": "2025-07-06T15:30:00.000Z",
+  "metadata": {
+   "metaTitle": "De la dependencia a las soberanías locales y compartidas",
+   "metaDescription": "Las Comunidades Energéticas Locales (CEL) emergen como una expresión viva de este paradigma: grupos de personas y entidades que comparten infraestructuras para producir y gestionar energía de forma local, colectiva y democrática.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 932
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "De la dependencia a las soberanías locales y compartidas",
+    "titleHeading": "h1",
+    "text": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "text": "<cite>A través de la confianza, la colaboración y la autoorganización, las comunidades se vuelven más fuertes y están más protegidas frente a los intereses de macroproyectos incompatibles con una transición energética justa.</cite>",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "75vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": "none",
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 932,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "text 2 columns",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "narrow",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "Es tan fácil encender la luz y ver, arrancar el coche y desplazarse, que a menudo no nos damos cuenta del valor real de la energía. Pero quien pasa frío en invierno o calor en verano porque no puede pagar la factura sí que la valora, y lo sufre, normalmente, en silencio. ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Vivimos inmersos en un sistema energético altamente centralizado y opaco. El entramado de las grandes empresas es tan complicado que nuestra dependencia pasa demasiado desapercibida. Consumimos energía sin saber de dónde procede: a menudo de origen fósil, con un fuerte impacto ambiental y social, o bien nuclear, que nos hipoteca no solo el futuro, sino también los presentes. Esta realidad nos obliga a hacernos preguntas, a cuestionar el modelo, a imaginar otros nuevos y a llevarlos a la práctica.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Recuperar la soberanía local con herramientas actuales",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "level": 4,
+        "children": [
+         {
+          "text": "En un pasado no muy lejano, nuestras montañas y bosques eran fuente de energía: el carbón. Sin idealizar aquel modelo, podemos reconocer que la tendencia a recuperar la soberanía energética local no es nueva, pero hoy podemos ejercerla de una forma mucho más eficaz, limpia y cooperativa gracias a las tecnologías disponibles y a la fuerza de las iniciativas colectivas.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Más allá de la sostenibilidad: regenerar la vida",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "La transición energética no puede limitarse a reducir daños. Hay que activar procesos que restauren ecosistemas, refuercen los vínculos sociales y culturales y revitalicen las relaciones entre las personas y los entornos naturales. Cada acción, también la forma en que producimos y consumimos energía, debería mejorar la salud del conjunto.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En este contexto, las Comunidades Energéticas Locales (CEL) emergen como una expresión viva de este paradigma: grupos de personas y entidades que comparten infraestructuras para producir y gestionar energía de forma local, colectiva y democrática.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "level": 4,
+        "children": [
+         {
+          "text": "Las CEL no solo generan electricidad renovable. También impulsan modelos de movilidad sostenible, compras colectivas de biomasa y, sobre todo, reconstruyen el tejido social. A través de la confianza, la colaboración y la autoorganización, las comunidades se vuelven más fuertes y están más protegidas frente a los intereses de macroproyectos incompatibles con una transición energética justa. Desde el reconocimiento de nuestra interdependencia, ya estamos tejiendo relaciones basadas en el cuidado y el apoyo mutuo. Estamos generando una soberanía localizada y compartida, en la que cada comunidad se convierte en protagonista activa de su presente y su futuro energético.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Las CEL y Som Energia: complementariedad y alianzas",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Cataluña es pionera en este camino. Hay CEL impulsadas por ayuntamientos, iniciativas público-comunitarias y proyectos cooperativos que abren camino. Paralelamente, Som Energia actúa como agente clave en la transición energética: una cooperativa consolidada que genera y comercializa energía 100 % renovable a escala estatal. Estos dos modelos no son competidores, sino complementarios. Som Energia aporta escala, capacidad de producción e incidencia, mientras que las CEL contribuyen con el arraigo local, la resiliencia comunitaria y la disrupción social desde el aprendizaje más singular de cada lugar.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Extender la transición ecosocial a otros sectores",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "level": 4,
+        "children": [
+         {
+          "text": "Hay que seguir construyendo sinergias para activar el potencial conjunto, no solo en energía, sino también en otros sectores clave que hoy nos resultan deslocalizados y fuera de control: la alimentación, la vivienda o el textil, entre otros. Con una mirada sistémica y cooperativa podremos avanzar hacia una transición ecosocial cada vez más profunda, que ponga la vida en el centro y regenere tanto la tierra como nuestras comunidades.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Según Margulis, los organismos no son simples \"vehículos\" pasivos de los genes y del medio ambiente, como postulaba Darwin, sino que son autónomos y capaces de construir su propio destino. Su teoría de la evolución habla de cómo la vida se transforma a través de interacciones colaborativas y no solo de la lucha por la supervivencia.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Este principio puede aplicarse a la forma en que se desarrollan las empresas y las cooperativas. En lugar de competir ciegamente por recursos o mercados, las organizaciones pueden fomentar un modelo de \"cocreación\", en el que la evolución se basa en la interacción y el crecimiento conjunto: una colaboración entre sectores, empresas e incluso competidores para crear soluciones más robustas y sostenibles.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Autoras: ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Laura Comas, facilitadora y consultora en ecosistemas cooperativos en Resilience.Earth ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Elena Capdevila, impulsora y gestora técnica de la Comunidad Energética Montolivet (Olot) y colaboradora de Resilience.Earth ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Artículo publicado originalmente en jornal.cat en julio de 2025, ",
+          "type": "text"
+         },
+         {
+          "url": "https://www.jornal.cat/opinio/39215/transicio-energetica-resilience",
+          "type": "link",
+          "children": [
+           {
+            "text": "léelo aquí",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": ".",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "Text",
+      "media": null,
+      "styles": {
+       "cssClass": "pb-0",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "images ",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": false,
+     "paddingBottom": true,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 931,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": {
+   "set": [
+    {
+     "documentId": "oavxdj6fnwx08zr4meh1wse2"
+    }
+   ]
+  },
+  "scopes": {
+   "set": [
+    {
+     "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+    },
+    {
+     "documentId": "bkkeb1kjzcagb50zvka532gb"
+    }
+   ]
+  },
+  "typology": {
+   "set": [
+    {
+     "documentId": "qpf7c8h94lgfoueomj35ap7x"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "name": "The other rural world",
+    "slug": "altre-mon-rural",
+    "type": "resource",
+    "pageCss": null,
+    "headerColorMode": "dark",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Rosa Cerarols, Joan Nogué. Erika Zárate and Óscar Gussinyer",
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "The other rural world",
+      "metaDescription": "Oscar Gussinyer and Erika Zárate sign a chapter on rural governances in the book \"The other rural world. Reflections and experiences of the new Catalan rurality\" by Rosa Cerarols and Joan Nogué.",
+      "noIndex": false,
+      "metaDescriptionShort": "Ruralities have ceased to be the past of cities to become the future? Reflections and experiences of the new Catalan ruralities.",
+      "shareImage": 883
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "The other rural world",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "centered",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "small",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "image",
+        "styles": {
+          "cssClass": "pt-0 pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "xxl",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 488,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "content",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "The rural world is how cities remember it or how people evolve it? Have they left, the ruralities, to be the past of the cities to become the future?",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A choral book that presents a hopeful vision of the rural world, giving it its own speech, pointing out the main challenges facing and approaching real and very diverse experiences.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Oscar Gussinyer and Erika Zárate sign a chapter of the new book \"The other rural world. Reflections and experiences of the new Catalan rurality\" by Rosa Cerarols and Joan Nogué. The rural world has changed and changed. It is much more diverse, spontaneous and lives than the stereotypical vision that still persists. This book presents a hopeful view of the rural world that does not face the city but gives it its own speech. The main challenges we face at the same time as we approach real and very diverse experiences that build the rural world of tomorrow.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "While we need to face great first-order challenges that collectively appeal to us, we have the belief that we live especially interesting and encouraging moments. The illusion and expectations that we now detect along and wide in our geographical area exceed the uncertainties we can find. Therefore, we have decided to bring out a significant sample of what is cooked, a selection of experiences that are accompanied by thematic reflections to the care of specialists who share this diagnosis with us.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "With texts by: Enric Mendizàbal, Bernat Lladó, Gemma Estany, Isabel Salamaña, Mireia Baylina, Federica Ravera, Vanesa Freixa, Ricard Espelt, Òscar Gussinyé, Erika Zarate, Oriol Porcel, Sergi Saladié, Jordi de San Eugenio, Oriol Serrà (Associació Micropobles), Laia Batalla (Escola de Pastors i Pastores de Catalunya), Emma Soy and Sergi Nusss (Ramats de Foc), Associació de Dones del Món Rural, Col·lectiu Eixar Luna, Ajuntament de Rupià, Ton Lloret (Repoblem), Marta Llobet (Caçadora de Masies), Leporaandre Romeu (La Conca 5.1), Cinta Farnós",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "It is an effective and inclusive way for community actors to develop strategies and actions for regenerative livelihoods through a nature-based design journey that provides integrity, meaning and sense of belonging while actively contributing to global goals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Regenerative development is designed to go beyond sustainability. While sustainability focuses on current development that protects the development capacity of future generations, the priority of regenerative development is to apply holistic processes to create feedback loops between the physical, natural, economic and social capital that support each other, organize and organize.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": {
+              "text": "You can buy the book here",
+              "href": "https://www.tigredepaper.cat/ca/cataleg/l-altre-mon-rural",
+              "target": "_blank",
+              "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "another photo",
+        "styles": {
+          "cssClass": "media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 323,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 161,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 326,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": {
+      "set": [
+        {
+          "documentId": "x0ucnbt871jucyqqgihmymjb"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

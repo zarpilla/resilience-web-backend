@@ -1,0 +1,140 @@
+{
+ "data": {
+  "name": "template-complexitat",
+  "sections": [
+   {
+    "__component": "sections.columns",
+    "alias": "Nos ocupamos de la complejidad",
+    "styles": {
+     "cssClass": "mb-120px",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Nos acercamos a la complejidad del diseño para destilar soluciones creativas y eficaces que catalizan impactos positivos, profundos y duraderos.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "pb-5 col-12 col-md-5",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": {
+       "text": "Conectemos",
+       "href": null,
+       "target": null,
+       "cssClass": "btn btn-dark mt-4 zw-100 btn-with-arrow-right",
+       "page": {
+        "set": [
+         {
+          "documentId": "rfpj1jgwdqsxeicrt6g1wkm6"
+         }
+        ]
+       }
+      },
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "pb-5 col-12 col-md-7",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": {
+       "set": [
+        {
+         "documentId": "a5d7cndgurve6g9c0f4qx8fq"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

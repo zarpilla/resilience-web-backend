@@ -1,0 +1,371 @@
+{
+  "data": {
+    "name": "L'altre món rural",
+    "slug": "altre-mon-rural",
+    "type": "resource",
+    "pageCss": null,
+    "headerColorMode": "dark",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Rosa Cerarols, Joan Nogué. Erika Zárate i Óscar Gussinyer",
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "L'altre món rural",
+      "metaDescription": "Òscar Gussinyer i Erika Zárate firmen un capítol sobre governances rurals al llibre \"L'altre món rural. Reflexions i experiències de la nova ruralitat catalana\" de Rosa Cerarols i Joan Nogué.",
+      "noIndex": false,
+      "metaDescriptionShort": "Les ruralitats han deixat de ser el passat de les ciutats per esdevenir-ne el futur? Reflexions i experiències de les noves ruralitats catalanes.",
+      "shareImage": 883
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "L'altre món rural",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "centered",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "small",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "image",
+        "styles": {
+          "cssClass": "pt-0 pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "xxl",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 488,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "content",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "El món rural és com les ciutats el recorden o com l'evolucionen les persones que hi viuen? Han deixat, les ruralitats, de ser el passat de les ciutats per esdevenir-ne el futur?",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Un llibre coral que presenta una visió esperançadora del món rural, dotant-lo de discurs propi, assenyalant els principals reptes als que s’enfronta i acostant-nos a experiències reals i molt diverses.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Òscar Gussinyer i Erika Zárate firmen un capítol del nou llibre \"L'altre món rural. Reflexions i experiències de la nova ruralitat catalana\" de Rosa Cerarols i Joan Nogué. El món rural ha canviat i canvia. És molt més divers, espontani i viu que la visió estereotipada que encara en perdura. Aquest llibre presenta una visió esperançadora del món rural que no s’enfronta amb la ciutat sinó que el dota de discurs propi. S’hi assenyalen també els principals reptes a què ens enfrontem al mateix temps que ens acostem a experiències reals i molt diverses que construeixen, en el dia a dia, el món rural del demà.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Si bé ens cal afrontar grans reptes de primer ordre que ens interpel·len col·lectivament, tenim el convenciment que vivim uns moments especialment interessants i encoratjadors. La il·lusió i les expectatives que ara mateix detectem al llarg i ample del nostre àmbit geogràfic superen a bastament les incerteses que hi puguem trobar. Per això ens hem decidit a treure a la llum una significativa mostra del que s’hi cou, una selecció d’experiències que s’acompanyen de reflexions temàtiques a cura d’especialistes que comparteixen amb nosaltres aquesta diagnosi.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Amb textos de: Enric Mendizàbal, Bernat Lladó, Gemma Estany, Isabel Salamaña, Mireia Baylina, Federica Ravera, Vanesa Freixa, Ricard Espelt, Òscar Gussinyé, Erika Zarate, Oriol Porcel, Sergi Saladié, Jordi de San Eugenio, Oriol Serrà (Associació Micropobles), Laia Batalla (Escola de Pastors i Pastores de Catalunya), Emma Soy i Sergi Nuss (Ramats de Foc), Associació de Dones del Món Rural, Col·lectiu Eixarcolant, Ajuntament de Rupià, Ton Lloret (Repoblem), Marta Lloret (Caçadora de Masies), Leandre Romeu (La Conca 5.1), Cinta Farnós i Judit Monclús (Diàspora Ebrenca), Júlia Viejobueno, Roser Oduber i Joan Vendrell (CACiS), Col·lectiu Konvent, Enriqueta Font, Spideralex, Kozzak (Calafou), Saül Garreta (Reviure Solanell), Marina Garcés, Itziar Gonzàlez, Roser Vernet (Centre Quim Soler), Lluís Llobet (CAN), Antoni Luna, Isabel Banal i Sara Boldú.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "És una manera efectiva i inclusiva perquè els actors d'una comunitat desenvolupin estratègies i accions per als mitjans de vida regeneratius mitjançant un viatge de disseny basat en la natura que aporta integritat, significat i sentit de pertinença alhora que contribueix activament als objectius globals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El desenvolupament regeneratiu està dissenyat per anar més enllà de la sostenibilitat. Si bé la sostenibilitat se centra en el desenvolupament actual que protegeix la capacitat de desenvolupament de les generacions futures, la prioritat del desenvolupament regeneratiu és aplicar processos holístics per crear bucles de retroalimentació entre el capital físic, natural, econòmic i social que es recolzen mútuament, s'organitzin i s'autoorganitzin. evolucionant.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": {
+              "text": "Pots comprar el llibre aquí",
+              "href": "https://www.tigredepaper.cat/ca/cataleg/l-altre-mon-rural",
+              "target": "_blank",
+              "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "un altra foto",
+        "styles": {
+          "cssClass": "media-border-radius all-media-same-height",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 323,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 161,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 326,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": {
+      "set": [
+        {
+          "documentId": "x0ucnbt871jucyqqgihmymjb"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

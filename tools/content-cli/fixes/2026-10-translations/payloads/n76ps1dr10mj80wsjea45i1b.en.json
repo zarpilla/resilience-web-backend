@@ -1,0 +1,340 @@
+{
+ "data": {
+  "name": "Regenerative Economy, a conversation with Sidney Cano",
+  "slug": "regenerative-economy-sidney-cano",
+  "type": "article",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": "Laura Comas",
+  "sortDate": "2025-02-12T07:00:00.000Z",
+  "metadata": {
+   "metaTitle": "Regenerative Economy, a conversation with Sidney Cano",
+   "metaDescription": "Sidney Cano invites us to rethink the way we understand investment, placing the emphasis on the social, environmental and community value of each project. ",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1112
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Regenerative Economy, a conversation with Sidney Cano",
+    "titleHeading": "h1",
+    "text": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "text": "<cite>Real experiences for the regeneration of local economies, a conversation about investment and regenerative economics with Sidney Cano and Laura Comas.</cite>",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "75vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": "none",
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1112,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "text 2 columns",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "narrow",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "How can the investments that Sidney Cano proposes us to transform the role of the economy in the regeneration of our territories?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Laura Comas, member of Resilience.Earth, guides this conversation where we enter into the experience and vision of Sidney Cano, co-founder of the ",
+          "type": "text"
+         },
+         {
+          "url": "https://www.duitglobal.com/",
+          "type": "link",
+          "children": [
+           {
+            "text": "Duit Group",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "a pioneering initiative in the area of transformative investment and the creation of development communities for the regeneration of local economies. Cano invites us to rethink the way we understand investment, emphasizing the social, environmental and community value of each project. ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Through its trajectory, we discover how regenerative economies can become a real and sustainable alternative within the current economic system. With emphasis on collaboration, care and structural transformation, Sidney Cano shares concrete examples of processes that drive change from below, connecting companies, people and territories.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "This interview is an invitation to reflect on how we can invest in regenerating, and on the role that each of us can play in building a living, resilient and rooted economic future in the common good.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "Text",
+      "media": null,
+      "styles": {
+       "cssClass": "pb-0",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.video",
+    "title": "The problem with today's economy is how we think about it",
+    "embed": null,
+    "url": "https://youtu.be/UL3EbazLoSM",
+    "image": 1109,
+    "styles": null
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Conclusió",
+    "styles": {
+     "cssClass": "pt-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": "Conclusion",
+      "titleHeading": "h1",
+      "alias": "Conclusió",
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-3",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "The conversation with Sidney Cano reminds us that the economy can be much more than a tool of production or performance: it can become a living fabric of relationships that connects people, territories and shared values. His words invite us to imagine a new way of investing - one that puts life in the center, that takes care of processes and that commits itself to regeneration as a principle of abundance.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Through the eyes of Laura Comas, this conversation becomes a space of facilitation and listening, where questions arise that challenge us as a cooperative society and as individuals: what does it really mean to generate value? How can we grow projects that feed the common?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "bold": true,
+          "text": "The dialogue between Sidney and Laura leaves us with certainty: regeneration is possible when the economy is put in the service of life, and when creativity and cooperation become the true engines of a transformation.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "Text",
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-8 offset-md-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": {
+   "set": [
+    {
+     "documentId": "umf4zx5r0sh07vh3tpsl3vyx"
+    }
+   ]
+  },
+  "scopes": {
+   "set": [
+    {
+     "documentId": "sth66s3s5cbbag5wo0iw5vde"
+    },
+    {
+     "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+    }
+   ]
+  },
+  "typology": {
+   "set": [
+    {
+     "documentId": "fuidh03xk62s96r8jt30xzdh"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

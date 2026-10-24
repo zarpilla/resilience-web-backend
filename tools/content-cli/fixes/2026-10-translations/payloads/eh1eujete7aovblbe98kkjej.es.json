@@ -1,0 +1,341 @@
+{
+  "data": {
+    "name": "Diseño",
+    "slug": "disseny",
+    "type": "service",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Diseño",
+      "metaDescription": "Integramos intención, contexto y relaciones, configurando soluciones a medida que responden a las necesidades emergentes y potencian la colaboración sistémica.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1227
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Diseño",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Integramos intención, contexto y relaciones, dando forma a soluciones a medida que responden a las necesidades emergentes y potencian la colaboración sistémica.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "centered",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "70vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#9A5567",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1227,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columnas",
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Diseño regenerativo.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 1",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-5 h3-fw-500",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": "0 50px 0 0",
+              "background": "5",
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El diseño regenerativo es un proceso que busca identificar y activar el potencial único de cada sistema, ya sea un territorio, una organización o una comunidad. Hemos desarrollado un proceso en «Diseño en Permacultura Bioregional», y trabajamos con marcos regenerativos que nos permiten explorar la historia, dinámicas y capacidades del lugar, entendiéndolo como un organismo vivo en evolución. Nuestro enfoque integra la participación activa de la comunidad en todos los procesos, ayudándolas a convertirse en agentes de cambio activos y sostenibles.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Creación de relatos regenerativos:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Facilitamos el diseño de relatos profundos que conectan los valores esenciales de la comunidad u organización con una perspectiva integradora que trabaja desde los sistemas completos (Whole Systems Design).",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Diseño de sistemas regenerativos:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Acompañamos el diseño de iniciativas económicas, políticas y estructuras de gobernanza que operen desde el respeto y la regeneración de los ecosistemas sociales y naturales, utilizando el marco de la \"Sociocracia 3.0\".",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Acompañamiento en el desarrollo de capacidades: ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "Ofrecemos formación y acompañamiento para fortalecer las capacidades internas de comunidades y organizaciones, de modo que puedan gestionar sus propios procesos regenerativos de manera autónoma y efectiva.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-7",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Diseño cocreativo.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 1",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-5 h3-fw-500",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": "0 50px 0 0",
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El diseño cocreado que ofrecemos en Resilience.Earth permite a las organizaciones y comunidades crear estrategias y soluciones de manera colaborativa e inclusiva. Utilizamos metodologías innovadoras como la \"Facilitación Cocreativa de Jenny McKewn\" y el mapeo sistémico para identificar los puntos clave de cambio y activar sinergias entre los diversos actores implicados. Acompañamos el diseño de incubadoras y aceleradoras de proyectos que impulsan la transformación social y ambiental, generando espacios de co-creación que unen cultura, economía y naturaleza para producir un impacto profundo y duradero.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Facilitación cocreativa: ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "Diseñamos y facilitamos espacios participativos e inclusivos donde los distintos actores pueden identificar y co-crear soluciones que respondan a sus propósitos y necesidades específicas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Incubadoras y aceleradoras de proyectos: ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "Ayudamos a diseñar estructuras que permitan la gestión de proyectos regenerativos, conectando ideas con recursos y conocimientos especializados para escalarlos y consolidarlos.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Acompañamiento en la creación de modelos regenerativos: ",
+                    "type": "text"
+                  },
+                  {
+                    "text": "Guiamos los procesos de diseño de modelos económicos, sociales y culturales regenerativos que fomenten la cooperación y el bienestar a largo plazo.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-7",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

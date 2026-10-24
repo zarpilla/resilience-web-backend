@@ -1,0 +1,475 @@
+{
+  "data": {
+    "name": "Networks, Ecosystems and Cooperative Hubs - Speech by Laura Comas",
+    "slug": "networks-ecosystems-and-cooperative-hubs-speech-by-laura-comas",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-09-20T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Networks, Ecosystems and Cooperative Hubs - Speech by Laura Comas",
+      "metaDescription": "Laura Comas Martinez, partner of Resilience.Earth, explores the challenges and potential of territorial cooperativism in Catalonia, emphasizing the need to move beyond centralization and foster distributed and rooted ecosystems. Through natural metaphors —the riverside forest, mycelium networks, and river basins— she invites us to see cooperativism as a living, interconnected ecosystem capable of self-regulation and regeneration. It’s a call to rethink governance and cooperation from a bioregional and systemic perspective.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1084
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Networks, Ecosystems and Cooperative Hubs. Toward new territorial articulations.",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "A reflection by Laura Comas from the territorial perspective of the FCTC, within the framework of the Cooperativist Forum held in Girona on September 19, 2025.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1084,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "content",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "“The tensions are real, yes, but they are also energy. And if we know how to listen to them, they can become the driving force for new forms.”",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "1. Concentration and challenges of cooperativism",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I believe everyone here is aware of the concentration of cooperativism in Barcelona. 45% of the federated worker cooperatives are located in the Barcelonès area. And these words can sometimes generate resistance. We need to talk about it, to understand all sides. The tensions are real, yes, but they are also energy. And if we know how to listen to them, they can become the driving force for new forms.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I firmly believe that cooperativism and territorial articulation can be a spearhead to propose and drive a disruptive change in the centralizing trend of cities. A change that could go beyond cooperativism, impacting many other sectors and areas of society. In fact, today we have the conditions to create a scenario with diverse, rooted, and interconnected nodes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In this context, the Cooperative Ateneus play a fundamental role. And we must take into account the diversity of territorial distribution. For example, the Terres Gironines Ateneu covers the largest area in Catalonia: 7 counties, 208 municipalities, and nearly 5,000 square kilometers. It is followed by Alt Pirineu i Aran, Central Catalonia, Ponent Coopera, and CoopCamp.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "We must analyze data with different perspectives. Pallars Sobirà, for example, is the county with the highest number of cooperatives per inhabitant, despite having very few residents. This indicates a strong cooperative fabric. And here I ask myself: what role have the local XES groups played in the activation and expansion of the social and solidarity economy across the country?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "To address such questions, before taking action, I invite you to ask another one: What potential does the cooperative movement in Catalonia have if, instead of following a centralizing inertia, it experiments with more distributed models?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "2. Cooperative ecosystems and lessons from nature",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "We are in an emerging moment of ecosystems and cooperative hubs. And I want to share with you a nearby ecosystem that inspires me and helps me see things more clearly: the riverside forest.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "At first glance, it may seem that everyone is on their own: ducks swimming calmly, fish moving in schools, crayfish hiding under rocks. Even the American crayfish, which arrived from elsewhere and threaten native species. There they are. We call them invaders, yes, but you know what? The otter, once endangered, has found in them a feast. And now its population is growing.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I don’t have an immediate solution for the coypus. But with these species we see that when one piece becomes unbalanced, the entire environment suffers. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "We cannot respond from the same linear, problem-centered logic. We need new perspectives that help the system self-regulate, that increase vitality and diversity. Nature teaches us that imbalances are not always solved through control, but through new relationships and connections.",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Like the controversial reintroduction of the wolf in Yellowstone twenty years ago, which regenerated the park’s biodiversity.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Let’s stay in the riverside forest. Do you feel the humidity of the ferns? And how the tits sing? They keep pests in check and eat thousands of mosquitoes. In a riverside forest, each species occupies its own niche.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "3. The heart of the forest and distributed governance",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "At the heart of this ecosystem lies the alder grove. Alders, giants with their feet in the water, are home to birds, insects, and mammals. When you see an alder forest, you know the river is healthy. Alders are bioindicators: they show us whether life is flourishing or fading. They remind me of those cooperative hubs that, in a neighborhood, town, or region, energize an ecosystem by generating shared resources, solidarity, and rootedness.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "And underground, hidden from our eyes, are the mycelia. They connect trees, plants, and ecosystems, sharing nutrients, information, and balance. They have no center; they have different nodes, yet they sustain the forest: they are a distributed and resilient institution. We could say that the largest organism on the planet operates through distributed governance.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In this seemingly chaotic forest, there is balance and cooperation, diversity, interdependence, and order. Each species reaches its fullest potential not to compete, but to live and regenerate life. All species live to regenerate life.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "4. Watersheds, bioregions, and shared vision",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "But if we broaden our view, we see that the river is not just the riverside forest. The river is part of a watershed. Here in Girona, we are in the Ter basin: every drop that falls in Collsacabra probably finds its way to Pals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The basin can be understood as a bioregion. There is no boundary between up and down, between forest and city, between agriculture and industry. If everything is connected, where does the boundary between the urban and the rural begin? What is our role within this ecosystem? Are we ducks, coypus, alders, mycelia… or maybe all of them at once? Let’s imagine that our cooperative ecosystems were drawn according to the river basins instead of administrative divisions. What map would emerge? How would alliances change?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Meanwhile, water has a direction. It always flows to the sea, but it has no single source. It receives tributaries, streams, hidden springs. Like here in Girona, the city of four rivers: the Ter, the Onyar, the Güell, and the Galligants—all part of the same basin. So much life! Many inlets, one shared direction. This is the perfect metaphor for today’s gathering.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "And finally, all that remains is to thank you for this space and invite us to think from our potential, from our niche, and from our place.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Friday, September 19th, 2025 – Sant Narcís Civic Center, Girona",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1080,
+            "styles": null,
+            "c2a": {
+              "text": null,
+              "href": null,
+              "target": null,
+              "cssClass": null,
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "another photo",
+        "styles": {
+          "cssClass": "pt-0 zpb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1074,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

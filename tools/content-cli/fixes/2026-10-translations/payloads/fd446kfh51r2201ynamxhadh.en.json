@@ -1,0 +1,434 @@
+{
+ "data": {
+  "name": "From dependence to local and shared sovereignties",
+  "slug": "from-dependence-to-local-and-shared-sovereignties",
+  "type": "article",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": "Laura Comas",
+  "sortDate": "2025-07-06T15:30:00.000Z",
+  "metadata": {
+   "metaTitle": "From dependence to local and shared sovereignties",
+   "metaDescription": "Local Energy Communities (LECs) are emerging as a living expression of this paradigm: groups of people and organisations that share infrastructure to produce and manage energy locally, collectively and democratically.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 932
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "From dependence to local and shared sovereignties",
+    "titleHeading": "h1",
+    "text": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "text": "<cite>Through trust, collaboration and self-organisation, communities become stronger and better protected against the interests of megaprojects that are incompatible with a just energy transition.</cite>",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "75vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": "none",
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 932,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "text 2 columns",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "narrow",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "It is so easy to switch on the light and see, to start the car and get around, that we often fail to notice the real value of energy. But those who suffer from the cold in winter or the heat in summer because they cannot pay the bill do value it, and they usually suffer in silence. ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "We live immersed in a highly centralised and opaque energy system. The web of large corporations is so complicated that our dependence goes largely unnoticed. We consume energy without knowing where it comes from: often fossil fuels, with a heavy environmental and social impact, or nuclear power, which mortgages not only our future but our present too. This reality forces us to ask questions, to challenge the model, to imagine new ones and to put them into practice.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Recovering local sovereignty with today’s tools",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "level": 4,
+        "children": [
+         {
+          "text": "In the not-so-distant past, our mountains and forests were a source of energy: charcoal. Without idealising that model, we can recognise that the drive to recover local energy sovereignty is not new, but today we can exercise it far more effectively, cleanly and cooperatively thanks to the technologies available and the strength of collective initiatives.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Beyond sustainability: regenerating life",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "The energy transition cannot be limited to reducing harm. We need to set in motion processes that restore ecosystems, strengthen social and cultural ties and revitalise the relationships between people and their natural surroundings. Every action, including the way we produce and consume energy, should improve the health of the whole.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "In this context, Local Energy Communities (LECs) are emerging as a living expression of this paradigm: groups of people and organisations that share infrastructure to produce and manage energy locally, collectively and democratically.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "level": 4,
+        "children": [
+         {
+          "text": "LECs do not only generate renewable electricity. They also promote sustainable mobility models and collective purchases of biomass and, above all, they rebuild the social fabric. Through trust, collaboration and self-organisation, communities become stronger and better protected against the interests of megaprojects that are incompatible with a just energy transition. By recognising our interdependence, we are already weaving relationships based on care and mutual support. We are generating localised, shared sovereignty, in which each community becomes an active protagonist of its own energy present and future.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "LECs and Som Energia: complementarity and alliances",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Catalonia is a pioneer on this path. There are LECs promoted by local councils, public-community initiatives and cooperative projects that are paving the way. At the same time, Som Energia acts as a key player in the energy transition: an established cooperative that generates and sells 100% renewable energy across Spain. These two models are not competitors but complementary. Som Energia brings scale, production capacity and influence, while LECs contribute local roots, community resilience and social disruption, drawing on the unique learning of each place.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Extending the eco-social transition to other sectors",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "level": 4,
+        "children": [
+         {
+          "text": "We must keep building synergies to unlock our joint potential, not only in energy but also in other key sectors that today are offshored and beyond our control: food, housing and textiles, among others. With a systemic and cooperative outlook we will be able to move towards an ever deeper eco-social transition, one that puts life at the centre and regenerates both the land and our communities.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "According to Margulis, organisms are not mere passive \"vehicles\" for genes and the environment, as Darwin postulated, but are autonomous and capable of shaping their own destiny. Her theory of evolution describes how life is transformed through collaborative interactions and not only through the struggle for survival.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "This principle can be applied to the way companies and cooperatives develop. Instead of competing blindly for resources or markets, organisations can foster a model of \"co-creation\", in which evolution is based on interaction and joint growth: collaboration between sectors, companies and even competitors to create more robust and sustainable solutions.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Authors: ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Laura Comas, facilitator and consultant in cooperative ecosystems at Resilience.Earth ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Elena Capdevila, founder and technical manager of the Montolivet Energy Community (Olot) and Resilience.Earth collaborator ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Article originally published in jornal.cat in July 2025, ",
+          "type": "text"
+         },
+         {
+          "url": "https://www.jornal.cat/opinio/39215/transicio-energetica-resilience",
+          "type": "link",
+          "children": [
+           {
+            "text": "read it here",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": ".",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "Text",
+      "media": null,
+      "styles": {
+       "cssClass": "pb-0",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "images ",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": false,
+     "paddingBottom": true,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 931,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": {
+   "set": [
+    {
+     "documentId": "oavxdj6fnwx08zr4meh1wse2"
+    }
+   ]
+  },
+  "scopes": {
+   "set": [
+    {
+     "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+    },
+    {
+     "documentId": "bkkeb1kjzcagb50zvka532gb"
+    }
+   ]
+  },
+  "typology": {
+   "set": [
+    {
+     "documentId": "qpf7c8h94lgfoueomj35ap7x"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

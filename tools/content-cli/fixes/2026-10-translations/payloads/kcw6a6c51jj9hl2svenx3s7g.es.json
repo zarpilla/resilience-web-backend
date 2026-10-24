@@ -1,0 +1,837 @@
+{
+ "data": {
+  "name": "Home",
+  "slug": "home",
+  "type": "page",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Resilience Earth, tejiendo paradigmas emergentes",
+   "metaDescription": null,
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 3
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Consultoría estratégica<br>Resilience Earth<br> ",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "bottom-left",
+    "alias": "Design Consulting",
+    "styles": {
+     "cssClass": "bg-cover bg-no-repeat",
+     "height": "89vh",
+     "textColor": "light",
+     "margin": "0",
+     "padding": "0",
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 899,
+     "backgroundImage2": null,
+     "backgroundVideo": 1057,
+     "backgroundVideoMobile": 1058
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Cómo podemos ayudar",
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": "s-accelerate",
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "¿Qué surge cuando una comunidad se convierte en catalizadora de su propio destino?",
+      "titleHeading": "h2",
+      "alias": "Lo que emerge cuando una comunidad es",
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-8",
+       "height": null,
+       "textColor": null,
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.menu",
+    "preset": "default",
+    "alias": "Enlaces",
+    "styles": {
+     "cssClass": "py-5",
+     "height": null,
+     "textColor": null,
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "menu": {
+     "set": [
+      {
+       "documentId": "vfwo9n2snh7lgaesqc9bqz9y"
+      }
+     ]
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imagen de fondo (filtro)",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "full",
+     "paddingTop": false,
+     "paddingBottom": false,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 2,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Tejer paradigmas emergentes",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "light",
+     "margin": null,
+     "padding": "0 0 150px 0",
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "Tejiendo paradigmas<br>emergentes<br>desde 2015",
+      "titleHeading": "h2",
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "pt-5 me-auto zme-md-5 col-12 col-lg-4",
+       "height": null,
+       "textColor": null,
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-lg-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "En Resilience Earth os acompañamos, a vosotros, a vuestras organizaciones, instituciones y comunidades, a activar el potencial para convertiros en catalizadoras del cambio. Facilitamos la creación de conexiones que transforman retos en posibilidades, ofreciéndoos marcos transformadores y procesos regenerativos que impulsan decisiones alineadas con las características únicas de vuestro territorio, promoviendo una regeneración profunda que respeta vuestra singularidad.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "pt-4 ms-auto zms-md-5 col-12 col-lg-7",
+       "height": null,
+       "textColor": null,
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": {
+       "text": "Conócenos",
+       "href": null,
+       "target": null,
+       "cssClass": "btn btn-dark btn-dark-border-white btn-100 mt-4 zw-100 btn-with-arrow-right",
+       "page": {
+        "set": [
+         {
+          "documentId": "gse69ujgm38z247nh15idw5c"
+         }
+        ]
+       }
+      },
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Esfera de acción",
+    "styles": {
+     "cssClass": "pb-4",
+     "height": null,
+     "textColor": null,
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": "scopes",
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Encuentra el tuyo",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "Ámbitos de acción",
+      "titleHeading": "h2",
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "h3-with-arrow-down h2-mb-2",
+       "height": null,
+       "textColor": null,
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.menu",
+    "preset": "tags-cloud",
+    "alias": "Esferas de acción",
+    "styles": {
+     "cssClass": "pt-4",
+     "height": null,
+     "textColor": null,
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "menu": {
+     "set": [
+      {
+       "documentId": "gn0yvph5vydxg0b28h4dv0vw"
+      }
+     ]
+    }
+   },
+   {
+    "__component": "sections.blurbs",
+    "title": "Nuestra huella transrural",
+    "styles": null,
+    "blurbs": [
+     {
+      "title": "400",
+      "titleHeading": "h3",
+      "text": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Proyectos desarrollados",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "imagePosition": "top",
+      "imageWidth": null,
+      "cssClass": null,
+      "svg": null,
+      "effect": null,
+      "image": 910
+     },
+     {
+      "title": "250",
+      "titleHeading": "h3",
+      "text": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Administraciones y organizaciones acompañadas",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "imagePosition": "top",
+      "imageWidth": null,
+      "cssClass": null,
+      "svg": null,
+      "effect": null,
+      "image": 911
+     },
+     {
+      "title": "3300",
+      "titleHeading": "h3",
+      "text": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Procesos comunitarios facilitados",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "imagePosition": "top",
+      "imageWidth": null,
+      "cssClass": null,
+      "svg": null,
+      "effect": "grow",
+      "image": 912
+     },
+     {
+      "title": "43000 ",
+      "titleHeading": "h3",
+      "text": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Participantes directos",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "imagePosition": "top",
+      "imageWidth": null,
+      "cssClass": null,
+      "svg": null,
+      "effect": "dots",
+      "image": 914
+     },
+     {
+      "title": "10",
+      "titleHeading": "h3",
+      "text": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Años de Resilience.Earth cooperativa",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "imagePosition": "top",
+      "imageWidth": null,
+      "cssClass": null,
+      "svg": null,
+      "effect": null,
+      "image": 913
+     }
+    ]
+   },
+   {
+    "__component": "sections.slider",
+    "subTitle": "Nuestros servicios para organizaciones, instituciones y comunidades",
+    "title": "Servicios",
+    "goToText": null,
+    "background": null,
+    "preset": "services",
+    "intervalMilliseconds": 8000,
+    "styles": {
+     "cssClass": "pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": "#F2EEEA",
+     "width": null,
+     "sectionId": "serveis",
+     "backgroundColor": "#F2EEEA",
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "c2a": null,
+    "menu": {
+     "set": [
+      {
+       "documentId": "feyjadl4gz208kvqqz8rwmo9"
+      }
+     ]
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imagen de fondo (montaña)",
+    "styles": {
+     "cssClass": "width-container-full",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "full",
+     "paddingTop": false,
+     "paddingBottom": false,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 898,
+      "styles": {
+       "cssClass": null,
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": "xxl",
+       "paddingTop": true,
+       "paddingBottom": true,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.masonry",
+    "subtitle": "CAOS CREATIVO",
+    "title": "Propuestas emergentes<br>en Resilience Earth",
+    "filter": false,
+    "pageSize": null,
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": null,
+     "paddingTop": false,
+     "paddingBottom": true,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "pages": [
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "ceokc29k79pxsqxynprlrt4z"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "wv91fn703v6abt6h54p1387f"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "f5c1z14swkiwwdqn4tczell9"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "urp3nanh1q88h4zvteqot6ml"
+        }
+       ]
+      }
+     },
+     {
+      "page": null
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "izijuxrfl59rut560l6u9ren"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "vzrybj1r3oaqqvzcls2twl8r"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "fxd1di2qmywjs14z04e2xmd2"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "h9jt4zwer0ntzzy2d20q8vnk"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "k2lo2arz8nkleqb55mfgsi6b"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "cftrycu0pxjj2rl3o7nefq5z"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "t17ecwagbou8k8s16ph21ysv"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "gtob4zvwx5im6sdfv33i0qhm"
+        }
+       ]
+      }
+     },
+     {
+      "page": {
+       "set": [
+        {
+         "documentId": "u1qjvnmcx5oa0oj2nsfu3qdh"
+        }
+       ]
+      }
+     }
+    ],
+    "noResultsImage": null
+   },
+   {
+    "__component": "sections.slider",
+    "subTitle": "Herramientas disruptivas para tus iniciativas",
+    "title": null,
+    "goToText": null,
+    "background": "#000000",
+    "preset": "three",
+    "intervalMilliseconds": 1000000,
+    "styles": {
+     "cssClass": "py-0 slider-three-black",
+     "height": null,
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": "resources",
+     "backgroundColor": "#000000",
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "c2a": null,
+    "menu": {
+     "set": [
+      {
+       "documentId": "y2aw8oj7bwm51yv8m2u3l9e8"
+      }
+     ]
+    }
+   },
+   {
+    "__component": "sections.template",
+    "alias": "Abordamos la complejidad",
+    "template": {
+     "set": [
+      {
+       "documentId": "hq3588pzbznna8d7f84ieeu5"
+      }
+     ]
+    }
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

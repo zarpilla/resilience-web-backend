@@ -1,0 +1,341 @@
+{
+  "data": {
+    "name": "Design",
+    "slug": "design",
+    "type": "service",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Design",
+      "metaDescription": "We integrate intention, context and relationships, shaping tailored solutions that respond to emerging needs and enhance systemic collaboration.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1227
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Design",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "We integrate intention, context and relationships, shaping tailored solutions that respond to emerging needs and enhance systemic collaboration.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "centered",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "70vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#9A5567",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1227,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columns",
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Regenerative design.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "column 1",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-5 h3-fw-500",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": "0 50px 0 0",
+              "background": "5",
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Regenerative design is a process that seeks to identify and activate the unique potential of each system, whether a territory, an organization or a community. We have developed a process in \"Design in Bioregional Permaculture\", and we work with regenerative frameworks that allow us to explore the history, dynamics and capabilities of the site, understanding it as a living organism in evolution. Our approach integrates the active participation of the community in all processes, helping them become active and sustainable agents of change.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Creation of regenerative stories:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We facilitate the design of deep stories that connect the essential values of the community or organization with an integrative perspective that works from the entire systems (Whole Systems Design).",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Regenerative systems design:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We accompany the design of economic initiatives, policies and governance structures that operate from respect and regeneration of social and natural ecosystems using the framework of the \"Sociocracy 3.0\".",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Support in the development of capabilities:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We offer training and accompaniment to develop internal capabilities in communities and organizations to manage their own regenerative processes independently and effectively.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "column 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-7",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Cocreative design.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "column 1",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-5 h3-fw-500",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": "0 50px 0 0",
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The co-creative design we offer at Resilience.Earth allows organizations and communities to design strategies and solutions in a collaborative and inclusive way. We use innovative methodologies such as Jenny McKewn's \"cocreative facilitation\" and systemic mapping to identify key points of change and activate synergies among the various actors involved. We accompany the design of incubators and accelerators of projects that promote social and environmental transformation, creating co-creation spaces that unite culture, economy and nature to generate a deep and lasting impact.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Cocreative facilitation:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We design and provide participatory and inclusive spaces where different actors can identify and co-create solutions that respond to their specific purposes and needs.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Incubators and project accelerators:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We help to design structures that allow the management of regenerative projects, connecting ideas with specific resources and knowledge to scale and consolidate them.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Accompaniment in the creation of regenerative models:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " We guide the design processes of regenerative economic, social and cultural models that encourage long-term cooperation and well-being.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "column 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-7",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

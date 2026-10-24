@@ -1,0 +1,417 @@
+{
+  "data": {
+    "name": "Gobernanza",
+    "slug": "governanza",
+    "type": "scope",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Gobernanza",
+      "metaDescription": "La gobernanza bioregional es una forma de articular la vida humana y la naturaleza.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1194
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Gobernanza",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "600px",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1194,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "<cite>Acompañamos comunidades y administraciones públicas en la evolución de la democracia, activando sus capacidades inherentes para que sus retos se transformen en oportunidades.</cite>",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": true,
+              "paddingBottom": true,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "¿Qué pasa cuando la voz de las comunidades se integra con la del territorio: qué forma toma el gobierno?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La gobernanza bioregional es una manera de crear una relación armoniosa entre la vida humana y la naturaleza, donde los territorios se ven como ecosistemas vivos que incluyen a las comunidades humanas y sus elementos naturales. Este enfoque trasciende las fronteras políticas y se centra en las dinámicas biológicas y culturales propias de cada territorio, implicando a diversos actores como administraciones públicas, empresas y comunidades en procesos de decisión colectiva. En Resilience.Earth, somos referentes en gobernanza bioregional y resiliencia territorial, trabajando en proyectos de custodia fluvial y en la gestión territorial siguiendo la lógica de las unidades de paisaje, para proteger y regenerar estos ecosistemas mediante la participación ciudadana.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Incorporar los derechos de la naturaleza en este modelo de gobernanza significa reconocer que ríos, bosques y montañas tienen un valor inherente más allá de su utilidad para los humanos. Esta perspectiva permite diseñar soluciones que integran los ecosistemas en la toma de decisiones, creando un enfoque inclusivo y regenerativo para la gestión del territorio. Mediante la gobernanza bioregional, las comunidades pueden adaptarse de manera flexible a las dinámicas naturales, mejorando la resiliencia de los territorios.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Este enfoque también refuerza la democracia local y las redes de cooperación, creando estructuras que no solo protegen los recursos, sino que también los regeneran. La capacidad de adaptarse al proceso bioregional permite a las comunidades afrontar los retos globales de manera local, creando un sistema resiliente y regenerativo que equilibra las necesidades humanas y naturales. Así, los territorios se vuelven más autogestionados y preparados para hacer frente a los cambios de la poli-crisis sistémica.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-7 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pt-0 pb-5",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“Resilience.Earth nos acompañó durante cuatro días maravillosos de planificación estratégica y desarrollo organizacional. Comprendieron las necesidades de una organización diversa y con presencia en múltiples ubicaciones, y ofrecieron un encuentro presencial de equipo muy enriquecedor. Demostraron gran habilidad para crear un entorno seguro, donde equipos diversos pueden abrirse y hablar con confianza sobre cuestiones sensibles que son esenciales para la salud y la cultura a largo plazo de la organización. ”</cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Business & Human Rights Resource Centre",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": "h2",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-7 offset-md-5",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.bios",
+        "title": null,
+        "titleHeading": "h2",
+        "preset": "list",
+        "subtitle": "Saber quién trabaja en este campo",
+        "c2aText": "Ver perfil completo",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "bios": {
+          "set": [
+            {
+              "documentId": "anlt26ya0s6011byiim3es5g"
+            },
+            {
+              "documentId": "anlt26ya0s6011byiim3es5g"
+            },
+            {
+              "documentId": "f5zft1r12snxfydadnvlw256"
+            },
+            {
+              "documentId": "f5zft1r12snxfydadnvlw256"
+            },
+            {
+              "documentId": "z5ammaimxxx7vrg87zcquwv5"
+            },
+            {
+              "documentId": "z5ammaimxxx7vrg87zcquwv5"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "marquee",
+        "alias": "Marquee logos",
+        "styles": {
+          "cssClass": "img-wb-filter img-height-75 pb-5",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "menu": {
+          "set": [
+            {
+              "documentId": "e17c3pw1t8n1kmujehsti83d"
+            }
+          ]
+        }
+      },
+      {
+        "__component": "sections.timeline",
+        "url": "https://docs.google.com/spreadsheets/d/17mZg_vMMOjyvtg_kP8qTv6mqCG0jkMH/edit?gid=1267727993#gid=1267727993",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#F2EEEA",
+          "container": null,
+          "paddingTop": true,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

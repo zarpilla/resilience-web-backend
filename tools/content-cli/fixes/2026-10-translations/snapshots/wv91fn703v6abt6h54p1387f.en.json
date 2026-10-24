@@ -1,0 +1,406 @@
+{
+  "data": {
+    "name": "Weaving a Collective Future - Interview with Laura Comas",
+    "slug": "weaving-a-collective-future-interview-with-laura-comas",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-10-05T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Weaving a Collective Future - Interview with Laura Comas",
+      "metaDescription": "Laura Comas Martinez, partner of Resilience.Earth SCCL, answers a couple of questions about the current situation of cooperativism and the social solidarity economy (ESS).",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1087
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Weaving a Collective Future ",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "Laura Comas Martínez, member of Resilience.Earth SCCL, answers a couple of questions (actually three) about the current state of cooperativism and the social and solidarity economy (SSE).",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1087,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "content",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "“Cooperativism and SSE are key tools to democratize and relocalize the economy, rooting it in territories and communities.”",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "To mark the special 500th issue of the magazine Cooperació Catalana by the Roca Galès Foundation, several people connected in different ways to cooperativism and the SSE were invited to reflect on their current situation in this first quarter of the 21st century. They were also asked to highlight one key aspect and to take a stance on which field or productive sector should be expanded and strengthened in the coming years. Here we present the answers of Resilience Earth member Laura Comas Martínez; in issue 500 you will find many more.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "1) How do you see the current situation of cooperativism and the SSE in the Catalan Countries? What aspect would you highlight most?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The situation of cooperativism and the social and solidarity economy (SSE), mainly in Catalonia, is currently in a stage of expansion. On the one hand, there is a consolidation of experiences, territorial articulation and leading cooperative projects; on the other, the ecosystem remains fragile when it comes to addressing systemic challenges (climate crisis, territorial uprooting, biodiversity loss, entrenched poverty, migration crisis, political polarization, housing precarity, etc.).",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "If we focus on worker cooperatives in Catalonia, for example, we find:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Strong metropolitan concentration of cooperativism: The Barcelonès area concentrates a very significant part of worker cooperatives (30% according to the cooperative register and 45% of federated cooperatives in the FCTC), both in density and population, reproducing a strongly centralized dynamic.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In some areas, a remarkable presence in rural zones per inhabitant: Although fewer in number, territories such as Alt Pirineu and Aran, especially Pallars Sobirà, show a high ratio of cooperatives per inhabitant, indicating significant cooperative rootedness.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Ateneus Cooperatius have played a key role in decentralizing cooperative promotion services, however, there is territorial inequality in their coverage: there are major differences in the area each Ateneu covers, with examples such as Terres Gironines or Ponent Coopera managing vast territories, with large extension, many inhabitants, municipalities and counties in relation.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This shows the need for differentiated strategies: urban, metropolitan and rural contexts require specific approaches. Conversely, we come from a centralizing trend, especially from the institutions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2) In which field or productive sector do you think expansion and stronger focus are most needed?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The expansion that must be consolidated and driven with determination —even if it is already a global trend— should be strategically directed to address major systemic challenges. This expansion should focus on four key axes:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "1. Relocalize the economy to regain sovereignties",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "It is necessary to abandon the logic of scale, based on growth and accumulation, and instead bet on a logic of depth: stronger rootedness, stronger community ties and stronger sense of place. Territorial articulation of cooperativism is already underway through initiatives such as the Ateneus Cooperatius, Cooperative Hubs, local XES groups, second-degree cooperatives, or rural cooperative networks. This movement towards rootedness must be reinforced as a transformative strategy.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2. Diversify the economy through SSE",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cooperativism and SSE must broaden their presence in diverse sectors to cover all dimensions of economic life. A clear example is the tourism monoculture in the Girona counties, which leads to biodiversity loss, water scarcity, job insecurity and urban speculation. By contrast, a diversified economy generates community and territorial resilience.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "3. Democratize the economy",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cooperativism can and must be a tool for real democratization. Not only regarding ownership and management, but also by fostering more collective, transparent, and common-good-oriented organizational cultures. Open and participatory governance must be promoted to make citizens active participants in economic and social projects.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4. Multiply regenerative impact",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "It is essential that cooperativism and SSE not only avoid harm, but actively contribute to regenerating ecological, social, economic and political systems. In a context where extractivist companies generate strong negative externalities, cooperativism can contribute through accountability and a firm commitment to clear strategies for generating positive impacts in territories and in people’s lives.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Laura Comas in collaboration with the number 500 of Cooperació Catalana, published in September 2025",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "another photo",
+        "styles": {
+          "cssClass": "pt-0 zpb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1082,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

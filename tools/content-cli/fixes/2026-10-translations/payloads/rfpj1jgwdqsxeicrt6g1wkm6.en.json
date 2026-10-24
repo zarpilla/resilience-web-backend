@@ -1,0 +1,257 @@
+{
+ "data": {
+  "name": "Cont(r)act us",
+  "slug": "contact",
+  "type": "page",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Cont(r)act us",
+   "metaDescription": "Cont(r)act us",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": null
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Cont(r)act us",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "centered",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "80vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": true,
+     "paddingBottom": true,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1255,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Where you will find us",
+    "styles": {
+     "cssClass": "on-ens-trobaras",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": true,
+     "paddingBottom": true,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "info@resilience.earth",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "+34 623 34 83 50",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "&nbsp;",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Resilience.Earth SCCL",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Coworking space of the Ateneu Núria Social",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "C/ del Carme 8, 1st floor ",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "17800 Olot, Girona.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "You will find us at",
+      "titleHeading": "h1",
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-4",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": true,
+       "paddingBottom": true,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         },
+         {
+          "url": "https://maps.app.goo.gl/bMYcbKhPQ2zvKkMu8",
+          "type": "link",
+          "children": [
+           {
+            "text": "<img data-v-0a0338c5=\"\" data-nuxt-img=\"\" srcset=\"https://api-w.resilience.earth/uploads/Captura_de_pantalla_2025_04_24_a_les_14_08_36_1_f421138261.png 1x, https://api-w.resilience.earth/uploads/Captura_de_pantalla_2025_04_24_a_les_14_08_36_1_f421138261.png 2x\" class=\"img\" src=\"https://api-w.resilience.earth/uploads/Captura_de_pantalla_2025_04_24_a_les_14_08_36_1_f421138261.png\">",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-8",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": true,
+       "paddingBottom": true,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.lead-form",
+    "name": "You can also leave us a message here and we will get back to you very soon",
+    "styles": null
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

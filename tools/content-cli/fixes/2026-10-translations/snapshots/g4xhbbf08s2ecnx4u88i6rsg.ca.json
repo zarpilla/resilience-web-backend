@@ -1,0 +1,480 @@
+{
+  "data": {
+    "name": "Resignificar la Terra des del pensament viu d’Achille Mbembe",
+    "slug": "resignificar-la-terra-achille-mbembe",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Alba Danés",
+    "sortDate": "2024-12-22T17:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Resignificar la Terra des del pensament viu d’Achille Mbembe",
+      "metaDescription": "En una conversa íntima i expansiva amb Achille Mbembe, pensem el món des dels marges, des del Sud, des de la memòria viva i el dolor transgeneracional. El seu pensament no arriba per ordenar res. Arriba per obrir esquerdes. Per sacsejar. Per recordar allò que el colonialisme ens va fer oblidar.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1131
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Resignificar la Terra des del pensament viu",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Decolonitzar no és només tombar estructures. És tornar a sentir. És tornar a imaginar. És tornar a compartir la Terra. Presentem una conversa amb Achille Mbembe.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "85vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1131,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "En una conversa íntima i expansiva amb Achille Mbembe, pensem el món des dels marges, des del sud global, des de la memòria viva i el dolor transgeneracional. El seu pensament no arriba per ordenar res. Arriba per obrir esquerdes. Per sacsejar. Per recordar allò que el colonialisme ens va fer oblidar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Joseph-Achille Mbembe, conegut com a Achille Mbembe (nascut al 1957), és un filòsof camerunés, teòric polític, i intel·lectual. L'abril del 2024 el vàrem conèixer a Girona, convidat per la Càtedra Ferrater Mora de Pensament Contemporani, i vam tenir l'oportunitat de conversar amb ell sobre aspectes com el decolonialisme, les formes de governança, les violències estructurals i l'espiritualitat. Presentem la conversa que vam mantenir amb ell, introduïda per Alba Danés Boix, sòcia de Resilience.Earth i en el marc de la comunitat d'aprenentatge Balkar.Earth.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.video",
+        "title": "\"L’arxiu de la conquesta està esgotat. Cal buscar energies noves per multiplicar la vida.\"",
+        "embed": null,
+        "url": "https://youtu.be/9LgdPdn9gxo",
+        "image": 1128,
+        "styles": null
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-lg-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Descolonitzar és reaprendre a existir",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Descolonitzar no és un acte simbòlic ni només institucional. És una tasca col·lectiva i íntima que requereix desemmascarar les cicatrius del colonialisme: el racisme estructural, l’explotació, la negació de la dignitat. Mbembe ens parla de descolonització psíquica, cultural i espiritual. De reapropiar-nos del nostre imaginari, del nostre cos, del nostre sentit del món.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Reimaginar la governança: del control al comú",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Què vol dir governar sense dominar? Mbembe ens convida a repensar la governança com una pràctica de responsabilitat mútua, com una forma de cuidar, no de controlar. Cal escoltar les veus oblidades, aquelles que han construït maneres de viure sense jerarquies, sense centre, sense imperi. La veritable sobirania potser no està en el poder, sinó en la capacitat de sostenir la vida en comú.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "La violència que no es veu, però que ho travessa tot",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La violència estructural no crida. No esclata. Però ho erosiona tot. Mbembe denuncia les formes silencioses d’opressió: la fam, la precarietat, el racisme institucional, la pèrdua de futur. Trencar amb aquestes violències implica més que reformar-les: implica imaginar estructures completament noves.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Espiritualitat i arxius vius",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Mbembe ens sacseja amb una proposta radical: reobrir els arxius del món. El pensament occidental ha convertit el planeta en un objecte. Ha tallat els vincles entre el que és viu. Però hi ha altres arxius. Els arxius de les primeres nacions, dels pobles arrelats, dels silencis carregats de saviesa. Cal tornar a resonar amb el cosmos, regenerar la Terra i compartir-la com a bé comú.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images ",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusió",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusió",
+            "titleHeading": "h1",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "I ara què?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest diàleg no és una conclusió. És una interpel·lació. Un crit que demana pausa, escolta, reconfiguració. Mbembe no ens dona receptes. Ens ofereix camins. I, potser, el més radical de tots és aquest: tornar a cuidar, radicalment, la vida.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "mey6tctw82qgxp75dst19y3f"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "data": {
+    "name": "Tejiendo futuro colectivo - Entrevista con Laura Comas",
+    "slug": "tejiendo-futuro-colectivo-entrevista-con-laura-comas",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-10-05T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Tejiendo futuro colectivo - Entrevista con Laura Comas",
+      "metaDescription": "Laura Comas Martínez, socia de Resilience.Earth SCCL, responde a un par de preguntas (que son tres) sobre la situación actual del cooperativismo y la economía social y solidaria (ESS).",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1086
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Tejiendo futuro colectivo ",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "Laura Comas Martínez, socia de Resilience.Earth SCCL, responde a un par de preguntas (que son tres) sobre la situación actual del cooperativismo y la economía social y solidaria (ESS).",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1086,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "contenido",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "“El cooperativismo y la ESS son una herramienta clave para democratizar y relocalizar la economía, arraigándola al territorio y a las comunidades. ”",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Con motivo del número especial 500 de la revista Cooperació Catalana de la Fundación Roca Galès, se invitó a diversas personas vinculadas de una u otra manera al cooperativismo y a la ESS a reflexionar sobre la situación actual en este primer cuarto del siglo XXI. También se les pidió destacar un aspecto y posicionarse sobre qué ámbito o sector productivo debería expandirse e incidir más en los próximos años. A continuación recogemos las respuestas de la socia de Resilience Earth, Laura Comas Martínez; en el número 500 encontraréis muchas más.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "1) ¿Cómo ves la situación actual del cooperativismo y la ESS en los Países Catalanes? ¿Qué aspecto destacarías principalmente?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La situación del cooperativismo y de la economía social y solidaria (ESS), principalmente en Cataluña, se encuentra en una etapa de expansión. Por un lado, existe una consolidación de experiencias, articulación territorial y proyectos cooperativos punteros; por otro, el ecosistema sigue siendo frágil frente a cómo dar respuesta a los retos sistémicos (crisis climática, desarraigo territorial, pérdida de biodiversidad, pobreza cronificada, crisis migratoria, polarización política, precariedad habitacional, etc.).",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Si nos centramos en el cooperativismo de trabajo en Cataluña, por ejemplo, encontramos:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fuerte concentración metropolitana del cooperativismo: El Barcelonès concentra una parte muy significativa de las cooperativas de trabajo (30% según datos del registro de cooperativas y el 45% de las cooperativas federadas en la FCTC), tanto por densidad como por población, reproduciendo una dinámica fuertemente centralizada.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En algunas zonas, una presencia destacable en áreas rurales por habitante: Aunque hay menos cooperativas, territorios como el Alt Pirineu y Aran, especialmente el Pallars Sobirà, muestran una alta ratio de cooperativas por habitante, lo que indica un arraigo cooperativo significativo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Los Ateneus Cooperatius han jugado un papel clave en la descentralización de los servicios de promoción cooperativa, sin embargo, existe una desigualdad territorial en su cobertura: hay grandes diferencias en la superficie que cubre cada Ateneu, con ejemplos como Terres Gironines o Ponent Coopera que gestionan amplios territorios, con mucha extensión, muchos habitantes, municipios y comarcas en relación.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esto muestra la necesidad de estrategias diferenciadas: los contextos urbanos, metropolitanos y rurales requieren enfoques específicos. Y, al contrario, venimos de una tendencia centralizadora, sobre todo desde las instituciones.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2) ¿En qué ámbito o sector productivo crees que habría que expandirse e incidir más?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La expansión que hay que consolidar e impulsar con determinación —aunque ya es una tendencia global— debe ser dirigida estratégicamente para dar respuesta a los grandes retos sistémicos. Esta expansión debe centrarse en cuatro ejes clave:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "1. Relocalizar la economía para ganar soberanías",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Es necesario abandonar la lógica de escala, basada en el crecimiento y la acumulación, y apostar por una lógica de profundidad: más arraigo, más vínculos comunitarios y más sentido del lugar. La articulación territorial del cooperativismo ya está en marcha a través de iniciativas como los Ateneus Cooperatius, Polos Cooperativos, grupos locales de la XES, cooperativas de segundo grado o redes de cooperativas rurales. Este movimiento hacia el arraigo debe ser reforzado como estrategia transformadora.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2. Diversificar la economía desde la ESS",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El cooperativismo y la ESS deben ampliar su presencia en sectores diversos para cubrir todas las dimensiones de la vida económica. Un ejemplo claro es el monocultivo turístico en las comarcas gerundenses, que provoca pérdida de biodiversidad, escasez de agua, precariedad laboral y especulación urbanística. En cambio, una economía diversificada genera resiliencia comunitaria y territorial.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "3. Democratizar la economía",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El cooperativismo puede y debe ser una herramienta de democratización real. No solo en lo referente a la propiedad y la gestión, sino también en el fomento de culturas organizativas más colectivas, transparentes y orientadas al bien común. Hay que promover gobernanzas abiertas y participativas que hagan a la ciudadanía parte activa de los proyectos económicos y sociales.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4. Multiplicar el impacto regenerativo",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Es fundamental que el cooperativismo y la ESS no solo eviten causar daño, sino que contribuyan activamente a regenerar los sistemas ecológicos, sociales, económicos y políticos. En un contexto en el que las empresas extractivistas generan fuertes externalidades negativas, el cooperativismo puede contribuir al compromiso y la rendición de cuentas y orientarse hacia una estrategia clara y firme para generar impactos positivos en el territorio y en la vida de las personas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Colaboración de Laura Comas en el número 500 de Cooperació Catalana, publicado en septiembre de 2025",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "otra foto",
+        "styles": {
+          "cssClass": "pt-0 zpb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1082,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

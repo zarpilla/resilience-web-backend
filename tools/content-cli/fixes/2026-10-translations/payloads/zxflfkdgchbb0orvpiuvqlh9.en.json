@@ -1,0 +1,313 @@
+{
+  "data": {
+    "name": "When the city remembers that it is part of the river",
+    "slug": "when-the-city-remembers-that-it-is-part-of-the-river-albert-brosa",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Albert Brosa",
+    "sortDate": "2025-11-10T07:00:00.000Z",
+    "metadata": {
+      "metaTitle": "When the city remembers that it is part of the river",
+      "metaDescription": "A reflection on the disconnection between the city of Olot and the River Fluvià, and how the Lluèrnia Festival has helped rekindle the relationship with this forgotten space.\nThrough light and art, the river becomes again a place of life, memory, and community, inspiring the Simbiosi Fluvial project, which seeks to restore it through a collective and regenerative approach.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1139
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "When the city remembers that it is part of the river",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Lluèrnia 2025 lights up the Fluvià and reminds us that some landscapes, by being too familiar, have vanished from our gaze. A reflection of Albert Brosa</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1139,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "It’s there, yet it isn’t.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Fluvià River runs through Olot—discreet, silent, as if it didn’t want to disturb. We cross it every day without looking. We only remember it when it swells after heavy rains, dries up in drought, or appears in a photograph or a social media post. The rest of the time, it’s as if it didn’t exist. And yet, it’s here: a being that sustains life, memory, and identity. But we’ve learned to live with its absence—to accept it as background noise, a murmur we no longer hear.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lluèrnia 2025 sought to break that silence. The festival of light and fire turned the Fluvià into part of the stage, and for a few hours, the river existed again in the city’s eyes. Light acted as revelation: what had always been there, unseen, became visible. And with it came the question: what have we done to our river?",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.duitglobal.com/",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "We live with our backs to the river. It’s a simple yet forceful truth. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "The Fluvià is far more than a line of water: it is a living organism connecting mountains and sea, volcanoes and wetlands, memory and future. Yet for decades we have treated it as a boundary, not a bond.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Its banks have become residual, marginal spaces—lacking urban or emotional centrality. The river remains, but our bond with it fades. We don’t inhabit it, we don’t think about it—we merely glance at it. And in that absence lies part of our disconnection as a community: when we forget the river, we forget part of ourselves.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Here is where Lluèrnia steps in. The festival has always sought to show us everyday spaces in a new light—literally—inviting fresh ways of seeing. This year, the Fluvià River has taken a central role. In this context of oblivion, Lluèrnia acts as a spark. Where there was margin, there is center. Where there was shadow, there is light. The installations along the river illuminate not only a physical space but our disconnection itself. That gesture—artistic, poetic, and civic—is essentially regenerative. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "Because to regenerate is not only to restore nature but to repair a relationship. And that begins with a simple act: looking again.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Fluvià has suffered, and still suffers, human pressure, loss of biodiversity, and emotional neglect. Yet its case is exceptional: it is the only river in Catalonia without major dams, still behaving naturally, with a surprising capacity to regenerate—if we care for it properly.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "According to the Catalan Water Agency, the ecological state of its headwaters is rated poor, and the middle stretch, mediocre. The 2021 State of Nature in Catalonia report warns that freshwater ecosystems have lost more than half their biodiversity in recent decades. But perhaps the paradox is this: the river we’ve forgotten is also the one that can teach us how to heal.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "From this recognition, action is born. The Fluvial Symbiosis Project is a collective response to an amnesia we can no longer afford. Driven from La Garrotxa but embracing the whole basin, it brings together organizations, municipalities, and citizen groups working to regenerate the river from its own essence: without large infrastructures, respecting its natural flow, with a community mindset.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Fluvial Symbiosis aims for the Fluvià to become a European benchmark for renaturalization—not through rigid conservation, but through a living, participatory, regenerative vision. In other words, to make the river once again a space of coexistence, learning, and shared life among people, wildlife, and ecosystem.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "To regenerate is to look again. But also to feel part of what we left behind. When a school from Olot takes part in a Lluèrnia installation by the river, or when a neighbor stops to watch the fire’s reflection on the water, a small symbolic repair occurs. The river ceases to be the margin and becomes the center. The city and the river recognize each other, even if only for an instant. And perhaps there lies the beginning of change: turning a forgotten river into a shared one.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Fluvià does not ask for compassion, but for co-responsibility. It reminds us that water is not only a resource but a story. Not only matter, but memory. Lighting up the river, as Lluèrnia does, is to ignite awareness: the understanding that regeneration begins when we stop seeing the river as something external and accept that we are part of it.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Perhaps the river never truly disappeared. It was we who dimmed our gaze. Now that Lluèrnia’s light has rekindled it, perhaps it’s time to learn to live with it again—not against it, but alongside it.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A reflection by Albert Brosa, Olot, November 2025.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "o56mrvcrzudmlhbshs18uu3x"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        },
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

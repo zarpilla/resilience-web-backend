@@ -1,0 +1,1041 @@
+{
+  "data": {
+    "name": "Building bridges to the future from the Garrotxa, a dialogue between Rob Hopkins and Erika Zárate.",
+    "slug": "construint-ponts-cap-al-futur-des-de-la-garrotxa-un-dialeg-entre-rob-hopkins-i-erika-zarate",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Erika Zárate",
+    "sortDate": "2025-01-05T17:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Building bridges to the future from Garrotxa.",
+      "metaDescription": "A convere between Erika Zárate and Rob Hopkins reveals that with imagination, cooperation and determined action, it is possible to create a more just and sustainable future.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 871
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Building bridges to the future from Garrotxa.",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "A conversation between Rob Hopkins and Erika Zárate.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 871,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "When the community hears the future, the present transforms. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In December 2024 Resilience Earth was honored to receive its headquarters in Olot, Garrotxa, Rob Hopkins co-founder of the global movement Transition Network and author of key works such as \"From What Is to What If\", where he shared the workshop \"How to fall in love with the future\". In this conversation led by Erika Zárate, Hopkins explores how collective imagination and community action are transforming regions like Garrotxa into models of regeneration and participatory democracy.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "2030: A journey to the future since 2024",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The meeting included a travel exercise in time, a powerful viewing tool that allowed to imagine the jump from 2024 to 2030. Hopkins noted that Garrotxa has become a global benchmark thanks to its revolutionary spirit and mobilisation capacity. “This territory was able to take advantage of the critical moment of 2024 to cure social wounds, regenerate the economy and build bridges between diverse communities,” he remarked. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Cooperative and Regenerative Democracy",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "One of the key aspects of this transformation has been the commitment to cooperativism as a change engine. In 2027, the implementation of the Cooperatives Act in Spain transferred key infrastructures such as the transport system and public services to cooperative models. This not only retained local wealth, but also democratized decision making, making democracy a daily practice. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hopkins also praised the reconfiguration of the educational system and local governance. In schools, students learn deep dialogue skills and co-creation from a young age, which has allowed young leaders to train regeneration with inclusive and sustainable vision. ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "video",
+        "styles": {
+          "cssClass": "py-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-lg-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "An intersectional and inclusive look",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La Garrotxa has also highlighted to integrate an intersectional perspective in all its projects. The recognition of the rights of migrant and racialized communities has been essential to building a more equitable society. As Hopkins said, \"the transition needs everyone and everyone has something to bring.\" The implementation of the European Green New Deal of 2025 prompted initiatives that connected refugees with worthy work and training, promoting climate and social solutions to one. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Celebration and global inspiration",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "In 2030, local festivals such as the \"Festival del Castor\" celebrate the achievements, remembering the stories and collective effort that made this transformation possible. Hopkins emphasized how the stories of Garrotxa have inspired other regions of the world, thanking the courage of this community to act when others only doubted. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Resilience Earth: Incubator of Change",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hopkins concludes by highlighting the role of Resilience Earth as a vital catalyst for this transformation. With accompanying projects and support for local initiatives, Resilience Earth has been a pillar for deep change. \"This territory has not only dedicated to acting, but has done so in a way that inspires the whole world,\" Hopkins said.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "An example that Gorissen highlighted in his interview is that of a care organization in the Netherlands, where the philosophy of \"culture must lead, and structure must follow\". This means that instead of following a bureaucratic and rigid model, the culture of the organization must be the main engine, with the structures adapting to the changing needs of the community and its surroundings. This model has been more effective, with patients who need less care and more satisfied workers, demonstrating that the change to a more regenerative and flexible system can be not only more effective, but also more profitable.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "The Importance of Reconnecting with Nature",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "To Gorissen, connecting with nature is not just an exercise of ecological consciousness, but a fundamental tool for the evolution of human organizations. In his book \"Natural Intelligence\", Gorissen mentions that nature already knows what it works and offers us a model of sustainability and resilience that has exceeded evidence of millennia. As he said in the interview, learning from nature is not a matter of design techniques, but of mentalities and models of thought. For human communities, this means rethinking how we organize ourselves, how we share resources and how we address changes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Natural intelligence, according to Gorissen, can transform our communities and organizations, making them more adaptive, resilient and regenerative. This practical application of biomimetics can provide valuable tools to address global challenges, from climate crisis to social inequality.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Learning the adaptive capacity of the coral",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "One of the most powerful examples that Gorissen uses to explain his conception of natural intelligence is choral. Coral reefs are extraordinary ecosystems that have adapted to drastic changes in temperature, salinity and other environmental conditions. The corals, like other living beings of nature, have survived thanks to their ability to adapt. This mechanism, based on a complex network of interactions, allows corals to remain alive and resilient despite the changing conditions of the environment.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Corals, through exceptional biological processes, have developed mechanisms that allow them to adapt to changing environmental conditions. One of the key elements of this adaptive capacity is its symbiotic relationship with some species of dinoflagellate algae, such as zooxanthellae. These algae live within the coral tissues and use sunlight to perform photosynthesis, generating energy that corals take advantage of. When environmental conditions change, such as when the water temperature rises above its optimum range, corals can \"pel\" these algae. This can cause the phenomenon of color scuring, known as coral bleaching. Although this phenomenon can be lethal if conditions do not improve, corals have the ability to recover under more favorable conditions, favoring new algae that can be better adapted to new conditions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This adaptability is not only limited to environmental conditions, but also to its ability to create new forms of colonies and structures as the environment changes. The corals can modulate the growth of their colonies according to the availability of resources, which allows them to thrive in a changing and often difficult environment. In addition, the evolution of reproductive strategies that combine sexual and asexual reproduction also favors their ability to colonize new areas, especially when the original conditions deteriorate.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gorissen uses this analogy to highlight the importance of flexibility and adaptability in human communities. Communities, such as corals, can develop networks of relationships and mechanisms that allow them to face social, economic and environmental changes in a more resilient way. Instead of resisting changes or trying to control them rigidly, communities can learn to respond to fluctuations in their environment, taking advantage of interconnections and resources dynamically and adaptively. Thus, the ability to adapt corals serves as a model of how human communities can evolve and thrive against the challenges of change, based on cooperation and interdependence to maintain their cohesion and resilience.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Application to human communities",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Human communities can learn from corals by adapting to social, economic and environmental fluctuations through practices of flexibility, cooperation and interdependence. Specifically, they can follow several paths inspired by the way in which the choirs manage changes in their surroundings:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "1. Flexibility to changes: As corals modify their symbiotic relationships to adapt to environmental changes, communities can adapt their practices and strategies based on changing conditions. This involves the ability to adjust policies, working methods and organizational structures to respond efficiently to social or economic challenges, such as a financial crisis, changes in legislation or a health emergency. Communities should be willing to review and adjust their strategies continuously, based on emerging needs.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "2. Learning to cooperate and distribute resources: Chorales not only depend on their symbiosis with algae, but also manage their resources efficiently to ensure their survival. Human communities can follow this model by promoting shared and collaborative resource management, such as water, energy or basic services, so that each member of the community contributes to common sustainability. This includes encouraging collaboration between public, private and civil sectors to ensure equitable access to resources and a coordinated response to challenges.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "3. Developing decentralized networks: Like corals can thrive through the creation of diversified and interconnected colonies, human communities can adopt decentralized organizational models where each local unit has autonomy to make decisions adapted to their specific needs. This decentralization allows a better response to changes and a greater capacity to recover against adverse situations, without losing the overall cohesion of the community. Through a more flexible and less hierarchical organization, communities can increase their resilience, as does a coral reef in the face of water heating.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "4. Reproduction and regeneration through diversity: The corals reproduce sexually and asexually to ensure their survival. Similarly, human communities can use diversity as a tool for regeneration and innovation. This involves promoting cultural, neurodivergent, social and economic diversity, and giving rise to new ideas and solutions from this plurality. Regeneration not only refers to the restoration of the natural environment, but also to the reconstruction of social tissues by including all members of the community and the empowerment of vulnerable or marginal groups.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "5. Adaptation to climate change: How corals change their symbiosis to resist global warming, human communities can adapt to climate crisis by using natural solutions based on local adaptation, conservation of natural ecosystems and the creation of green infrastructure. Instead of resisting climate change, communities can work with nature to build more sustainable and resilient solutions, as corals have adapted to meet changing sea conditions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In short, human communities can learn from the flexibility and adaptation of corals by developing models of cooperation, decentralization and regeneration that promote constant adaptation to changes in the social, economic and environmental context, while maintaining cohesion and resilience to global challenges.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 624,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusion",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusion",
+            "titleHeading": "h2",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "We need to stop looking at each other thinking that it will be the other who will start the change. We need to act!",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The conversation between Rob Hopkins and Erika Zárate highlights the transformative power of community collaboration, collective imagination and commitment to regenerative values. La Garrotxa, with its commitment to participatory democracy, cooperativism and inclusion, has shown that it is possible to build a more sustainable, fair and resilient future. This experience not only serves as a global inspiration, but remembers that change begins when communities listen to their territory and act with courage and vision. Resilience Earth, as a catalyst for this process, remains an example of how to influence the present to imagine and create a better world.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "If human communities follow the example of corals, they can cultivate organizational structures based on decentralization, self-management and flexibility, which encourage diversity and interconnection. This will not only make them more resilient to social, economic and environmental fluctuations, but also promote a new regeneration culture that involves transforming value models to create truly sustainable systems.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This view of an adaptive future, inspired by nature, is hope for human society. Natural intelligence, as presented by Leen Gorissen, offers us a model of the future in which the capacity of change and evolution, such as the corals, becomes the key to facing global challenges. If we know how to learn from nature, we can establish new bases to build a fairer, more equitable and more resilient world for future generations.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This application of bioregionalization increases territorial resilience, allowing the territory to regenerate through its own dynamics. The more we understand the interrelationships of the site, the more capacity we have to face global and local challenges, creating long-term solutions and helping communities to thrive.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In short, bioregionalization is a process of identifying active patterns and regeneration, which allows us to take advantage of the inherent potential of sites. This not only helps to face immediate challenges, but also opens the way to a more adaptive and resilient future. Crisis become opportunities for evolution and prosperity.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "ad0f99738knzua6rtodiv9dv"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

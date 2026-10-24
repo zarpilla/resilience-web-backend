@@ -1,0 +1,858 @@
+{
+  "data": {
+    "name": "Construint ponts cap al futur des de la Garrotxa, un diàleg entre Rob Hopkins i Erika Zárate.",
+    "slug": "construint-ponts-cap-al-futur-des-de-la-garrotxa-un-dialeg-entre-rob-hopkins-i-erika-zarate",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Erika Zárate",
+    "sortDate": "2025-01-05T17:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Construint ponts cap al futur des de la Garrotxa.",
+      "metaDescription": "Una converesa entre Erika Zárate i Rob Hopkins posa de manifest que amb imaginació, cooperació i acció decidida, és possible crear un futur més just i sostenible.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1000
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Construint ponts cap al futur des de la Garrotxa.",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Una conversa entre Rob Hopkins i Erika Zárate.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1000,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Quan la comunitat escolta el futur, el present es transforma",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El desembre de 2024 Resilience Earth va tenir l’honor de rebre a la seva seu a Olot, la Garrotxa, a Rob Hopkins cofundador del moviment global Transition Network i autor d’obres clau com \"From What Is to What If\", on va compartir el taller \"How to fall in love with the future\". En aquesta conversa liderada per Erika Zárate, Hopkins explora com la imaginació col·lectiva i l’acció comunitària estan transformant regions com la Garrotxa en models de regeneració i democràcia participativa.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "2030: Un viatge al futur des del 2024",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La trobada va incloure un exercici de viatge en el temps, una poderosa eina de visualització que va permetre imaginar el salt de 2024 a 2030. Hopkins va destacar que la Garrotxa s’ha convertit en un referent global gràcies al seu esperit revolucionari i la capacitat de mobilització. “Aquest territori va saber aprofitar el moment crític del 2024 per curar ferides socials, regenerar l’economia i construir ponts entre comunitats diverses”, va remarcar.  ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Cooperativisme i democràcia regenerativa",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Un dels aspectes clau d’aquesta transformació ha estat l’aposta pel cooperativisme com a motor de canvi. En 2027, la implementació de l’Acta de Cooperatives a Espanya va transferir infraestructures clau com el sistema de transport i serveis públics a models cooperatius. Això no només va retenir riquesa local, sinó que també va democratitzar la presa de decisions, convertint la democràcia en una pràctica quotidiana.  ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hopkins també va elogiar la reconfiguració del sistema educatiu i de governança local. A les escoles, els estudiants aprenen habilitats de diàleg profund i co-creació des de petits, la qual cosa ha permès formar joves líders que impulsen la regeneració amb visió inclusiva i sostenible.  ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.video",
+        "title": "Cal que deixem de mirar-nos pensant que serà l'altre qui comencarà el canvi. Cal actuar!",
+        "embed": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "url": "https://www.youtube.com/embed/Kloskcg2_JI?si=EvVLZNvVfSAyJ472&autoplay=0",
+        "image": 162,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": false,
+          "paddingBottom": false,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-lg-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Una mirada interseccional i inclusiva</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La Garrotxa també ha destacat per integrar una perspectiva interseccional en tots els seus projectes. El reconeixement dels drets de les comunitats migrants i racialitzades ha estat essencial per construir una societat més equitativa. Com va dir Hopkins, \"la transició necessita de tothom i tothom té alguna cosa a aportar.\" L’aplicació del Green New Deal Europeu de 2025, va impulsar iniciatives que van connectar persones refugiades amb treballs dignes i formació, promovent solucions climàtiques i socials a l’una.  ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Celebració i inspiració global</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "En 2030, festivals locals com el \"Festival del Castor\" celebren les fites aconseguides, recordant les històries i l’esforç col·lectiu que van fer possible aquesta transformació. Hopkins va subratllar com les històries de la Garrotxa han inspirat altres regions del món, agraint la valentia d’aquesta comunitat per actuar quan altres només dubtaven.  ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Resilience Earth: Incubadora de canvi</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hopkins conclou destacant el paper de Resilience Earth com un catalitzador vital per aquesta transformació. Amb projectes d’acompanyament i suport a iniciatives locals, Resilience Earth ha estat un pilar per aconseguir un canvi profund. \"Aquest territori no només ha dedicit actuar, sinó que ho ha fet d’una manera que inspira el món sencer\", va dir Hopkins.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Un exemple que Gorissen va destacar en la seva entrevista és el d'una organització de cura a Països Baixos, on es va aplicar la filosofia de \"la cultura ha de liderar, i l'estructura ha de seguir\". Això significa que, en lloc de seguir un model burocràtic i rígid, la cultura de l'organització ha de ser el motor principal, amb les estructures adaptant-se a les necessitats canviants de la comunitat i el seu entorn. Aquest model s’ha mostrat més eficaç, amb pacients que necessiten menys cura i treballadors més satisfets, demostrant que el canvi cap a un sistema més regeneratiu i flexible pot ser no només més efectiu, sinó també més rendible.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>La Importància de reconnectar amb la Natura</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per Gorissen, connectar amb la natura no és només un exercici de consciència ecològica, sinó una eina fonamental per a l'evolució de les organitzacions humanes. En el seu llibre \"Natural Intelligence\", Gorissen esmenta que la naturalesa ja sap què funciona i ens ofereix un model de sostenibilitat i resiliència que ha superat proves de mil·lennis. Com va dir a l’entrevista, aprendre de la natura no és una qüestió de tècniques de disseny, sinó de mentalitats i models de pensament. Per a les comunitats humanes, això vol dir replantejar com ens organitzem, com compartim recursos i com afrontem els canvis.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La intel·ligència natural, segons Gorissen, pot transformar les nostres comunitats i les nostres organitzacions, fent-les més adaptatives, resilients i regeneratives. Aquesta aplicació pràctica de la biomimètica pot proporcionar eines valuoses per afrontar els reptes globals, des de la crisi climàtica fins a la desigualtat social.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Aprenentatge de la capacitat adaptativa del corall</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Un dels exemples més potents que Gorissen utilitza per explicar la seva concepció de la intel·ligència natural és el coral. Els esculls de corall són ecosistemes extraordinaris que s’han adaptat a canvis dràstics de temperatura, salinitat i altres condicions ambientals. Els corals, com altres éssers vius de la natura, han sobreviscut gràcies a la seva capacitat d’adaptació. Aquest mecanisme, basat en una complexa xarxa d'interaccions, permet als corals mantenir-se vius i resilients tot i les condicions canviants de l'entorn.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Els corals, a través de processos biològics excepcionals, han desenvolupat mecanismes que els permeten adaptar-se a condicions ambientals canviants. Un dels elements clau d’aquesta capacitat adaptativa és la seva relació simbiòtica amb algunes espècies d'algues dinoflagel·lades, com les zooxanthellae. Aquestes algues viuen dins dels teixits dels corals i utilitzen la llum solar per realitzar la fotosíntesi, generant energia que els corals aprofiten. Quan les condicions ambientals canvien, com per exemple quan la temperatura de l'aigua s'eleva per sobre del seu rang òptim, els corals poden \"expulsar\" aquestes algues. Això pot provocar el fenomen de l'escorriment de color, conegut com a blanqueig de corals. Tot i que aquest fenomen pot ser letal si les condicions no milloren, els corals tenen la capacitat de recuperar-se en condicions més favorables, afavorint noves algues que es poden adaptar millor a les noves condicions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquesta adaptabilitat no només es limita a les condicions ambientals, sinó també a la seva capacitat per crear noves formes de colònies i estructures a mesura que l'entorn canvia. Els corals poden modular el creixement de les seves colònies segons la disponibilitat de recursos, la qual cosa els permet prosperar en un ambient canviant i sovint difícil. A més, l'evolució d'estratègies reproductives que combinen reproducció sexual i asexual també afavoreix la seva capacitat per colonitzar noves àrees, especialment quan les condicions originals es deterioren.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gorissen fa servir aquesta analogia per destacar la importància de la flexibilitat i la capacitat d'adaptació en les comunitats humanes. Les comunitats, com els corals, poden desenvolupar xarxes de relacions i mecanismes que els permetin afrontar els canvis socials, econòmics i ambientals de manera més resilient. En lloc de resistir-se als canvis o intentar controlar-los de manera rígida, les comunitats poden aprendre a respondre a les fluctuacions del seu entorn, aprofitant les interconnexions i recursos de manera dinàmica i adaptativa. Així, la capacitat d’adaptació dels corals serveix com un model de com les comunitats humanes poden evolucionar i prosperar davant els reptes del canvi, basant-se en la cooperació i la interdependència per mantenir la seva cohesió i resiliència.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Aplicació a les comunitats humanes</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Les comunitats humanes poden aprendre dels corals adaptant-se a les fluctuacions socials, econòmiques i ambientals mitjançant pràctiques de flexibilitat, cooperació i interdependència. Concretament, poden seguir diversos camins inspirats per la manera en què els corals gestionen els canvis en el seu entorn:",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "1. Flexibilitat davant els canvis: Així com els corals modifiquen les seves relacions simbiòtiques per adaptar-se a canvis ambientals, les comunitats poden adaptar les seves pràctiques i estratègies en funció de les condicions canviants. Això implica la capacitat d’ajustar les polítiques, els mètodes de treball i les estructures organitzatives per respondre de manera eficient als reptes socials o econòmics, com una crisi financera, canvis en la legislació o una emergència sanitària. Les comunitats haurien d’estar disposades a revisar i reajustar les seves estratègies contínuament, basant-se en les necessitats emergents.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "2. Aprendre a cooperar i a distribuir els recursos: Els corals no només depenen de la seva simbiosi amb les algues, sinó que també gestionen els seus recursos de manera eficient per garantir la seva supervivència. Les comunitats humanes poden seguir aquest model promovent una gestió compartida i col·laborativa dels recursos, com l’aigua, l’energia o els serveis bàsics, de manera que cada membre de la comunitat contribueixi a la sostenibilitat comuna. Això inclou fomentar la col·laboració entre sectors públics, privats i la societat civil per garantir un accés equitatiu als recursos i una resposta coordinada als reptes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "3. Desenvolupar xarxes descentralitzades: Igual que els corals poden prosperar mitjançant la creació de colònies diversificades i interconnectades, les comunitats humanes poden adoptar models organitzatius descentralitzats on cada unitat local tingui autonomia per prendre decisions adaptades a les seves necessitats específiques. Aquesta descentralització permet una millor resposta als canvis i una més gran capacitat de recuperació davant situacions adverses, sense perdre la cohesió general de la comunitat. A través d’una organització més flexible i menys jeràrquica, les comunitats poden augmentar la seva resiliència, com ho fa un escull de corall davant l’escalfament de l’aigua.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "4. Reproducció i regeneració a través de la diversitat: Els corals es reprodueixen de manera sexual i asexual per garantir la seva pervivència. De manera similar, les comunitats humanes poden utilitzar la diversitat com una eina de regeneració i innovació. Això implica fomentar la diversitat cultural, neurodivergent, social i econòmica, i donar lloc a noves idees i solucions a partir d’aquesta pluralitat. La regeneració no només es referix a la restauració de l'entorn natural, sinó també a la reconstrucció dels teixits socials mitjançant la inclusió de tots els membres de la comunitat i l'apoderament de grups vulnerables o marginals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "5. Adaptació davant el canvi climàtic: Com els corals canvien la seva simbiosi per resistir l’escalfament global, les comunitats humanes poden adaptar-se a la crisi climàtica mitjançant l’ús de solucions naturals basades en l'adaptació local, la conservació dels ecosistemes naturals i la creació d’infraestructures verdes. En lloc de resistir-se al canvi climàtic, les comunitats poden treballar amb la natura per construir solucions més sostenibles i resilients, tal com els corals s’han adaptat per afrontar les condicions canviants del mar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En resum, les comunitats humanes poden aprendre de la flexibilitat i l'adaptació dels corals desenvolupant models de cooperació, descentralització i regeneració que promoguin l'adaptació constant als canvis del context social, econòmic i ambiental, mantenint alhora la cohesió i la resiliència davant els reptes globals.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images ",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": false,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 624,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusió",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusió",
+            "titleHeading": "h1",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Cal que deixem de mirar-nos pensant que serà l'altre qui començarà el canvi. Cal actuar!",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La conversa entre Rob Hopkins i Erika Zárate posa de manifest el poder transformador de la col·laboració comunitària, la imaginació col·lectiva i el compromís amb valors regeneratius. La Garrotxa, amb la seva aposta per la democràcia participativa, el cooperativisme i la inclusió, ha demostrat que és possible construir un futur més sostenible, just i resilient. Aquesta experiència no només serveix d’inspiració global, sinó que recorda que el canvi comença quan les comunitats escolten el seu territori i actuen amb coratge i visió. Resilience Earth, com a catalitzador d’aquest procés, segueix sent un exemple de com incidir en el present per imaginar i crear un món millor.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Si les comunitats humanes segueixen l'exemple dels corals, poden cultivar estructures organitzatives basades en la descentralització, l'autogestió i la flexibilitat, que fomentin la diversitat i la interconnexió. Això no només les farà més resilients davant les fluctuacions socials, econòmiques i ambientals, sinó que també promourà una nova cultura de regeneració que implica transformar els models de valor per crear sistemes realment sostenibles.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquesta visió d'un futur adaptatiu, inspirat en la natura, és l'esperança per a la societat humana. La intel·ligència natural, tal com ens la presenta Leen Gorissen, ens ofereix un model de futur en què la capacitat de canvi i evolució, com la dels corals, es converteix en la clau per afrontar els reptes globals. Si sabem aprendre de la natura, podrem establir noves bases per construir un món més just, més equitatiu i més resilient per a les generacions futures.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquesta aplicació de la bioregionalització incrementa la resiliència territorial, permetent que el territori es regeneri a través de les seves pròpies dinàmiques. Com més entenem les interrelacions del lloc, més capacitat tenim per afrontar reptes globals i locals, creant solucions de llarg termini i ajudant les comunitats a prosperar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En resum, la bioregionalització és un procés d’identificació de patrons i regeneració activa, que permet aprofitar el potencial inherent dels llocs. Això no només ajuda a afrontar reptes immediats, sinó que també obre el camí cap a un futur més adaptatiu i resilient. Les crisis es converteixen en oportunitats per a l’evolució i la prosperitat.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "umf4zx5r0sh07vh3tpsl3vyx"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

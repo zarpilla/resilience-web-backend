@@ -1,0 +1,371 @@
+{
+ "data": {
+  "name": "The other rural world",
+  "slug": "altre-mon-rural",
+  "type": "resource",
+  "pageCss": null,
+  "headerColorMode": "dark",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": "Rosa Cerarols, Joan Nogué. Erika Zárate and Óscar Gussinyer",
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "The other rural world",
+   "metaDescription": "Òscar Gussinyer and Erika Zárate co-author a chapter on rural governance in the book \"L'altre món rural. Reflexions i experiències de la nova ruralitat catalana\" by Rosa Cerarols and Joan Nogué.",
+   "noIndex": false,
+   "metaDescriptionShort": "Have ruralities stopped being the past of cities and become their future? Reflections and experiences from the new Catalan ruralities.",
+   "shareImage": 883
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "The other rural world",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "centered",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "small",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "image",
+    "styles": {
+     "cssClass": "pt-0 pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "xxl",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 488,
+      "styles": {
+       "cssClass": "media-border-radius",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "content",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Is the rural world the way cities remember it, or the way the people who live there make it evolve? Have ruralities stopped being the past of cities and become their future?",
+          "type": "text",
+          "italic": true
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "A collective book that presents a hopeful vision of the rural world, giving it its own voice, pointing out the main challenges it faces and bringing us closer to real and highly diverse experiences.",
+          "type": "text",
+          "italic": true
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Òscar Gussinyer and Erika Zárate co-author a chapter of the new book \"L'altre món rural. Reflexions i experiències de la nova ruralitat catalana\" by Rosa Cerarols and Joan Nogué. The rural world has changed and keeps changing. It is far more diverse, spontaneous and alive than the stereotyped view that still lingers. This book presents a hopeful vision of the rural world that does not set it against the city but gives it its own voice. It also points out the main challenges we face, while bringing us closer to real and highly diverse experiences that, day by day, are building the rural world of tomorrow.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         },
+         {
+          "url": "https://www.catalysts.community/toolkit-essentials-en",
+          "type": "link",
+          "children": [
+           {
+            "text": "",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Although we must face major challenges that call on us collectively, we are convinced that we are living through particularly interesting and encouraging times. The enthusiasm and expectations we currently see across our whole region far outweigh any uncertainties we may find. That is why we decided to bring to light a significant sample of what is going on, a selection of experiences accompanied by thematic reflections from specialists who share this diagnosis with us.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         },
+         {
+          "url": "https://www.catalysts.community/toolkit-essentials-en",
+          "type": "link",
+          "children": [
+           {
+            "text": "",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "With texts by: Enric Mendizàbal, Bernat Lladó, Gemma Estany, Isabel Salamaña, Mireia Baylina, Federica Ravera, Vanesa Freixa, Ricard Espelt, Òscar Gussinyé, Erika Zarate, Oriol Porcel, Sergi Saladié, Jordi de San Eugenio, Oriol Serrà (Associació Micropobles), Laia Batalla (Escola de Pastors i Pastores de Catalunya), Emma Soy and Sergi Nuss (Ramats de Foc), Associació de Dones del Món Rural, Col·lectiu Eixarcolant, Ajuntament de Rupià, Ton Lloret (Repoblem), Marta Lloret (Caçadora de Masies), Leandre Romeu (La Conca 5.1), Cinta Farnós and Judit Monclús (Diàspora Ebrenca), Júlia Viejobueno, Roser Oduber and Joan Vendrell (CACiS), Col·lectiu Konvent, Enriqueta Font, Spideralex, Kozzak (Calafou), Saül Garreta (Reviure Solanell), Marina Garcés, Itziar Gonzàlez, Roser Vernet (Centre Quim Soler), Lluís Llobet (CAN), Antoni Luna, Isabel Banal and Sara Boldú.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "It is an effective and inclusive way for community actors to develop strategies and actions for regenerative livelihoods through a nature-based design journey that brings integrity, meaning and a sense of belonging while actively contributing to global goals.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Regenerative development is designed to go beyond sustainability. While sustainability focuses on present-day development that protects the development capacity of future generations, the priority of regenerative development is to apply holistic processes to create feedback loops between physical, natural, economic and social capital that support each other, organise and self-organise as they evolve.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": {
+       "text": "You can buy the book here",
+       "href": "https://www.tigredepaper.cat/ca/cataleg/l-altre-mon-rural",
+       "target": "_blank",
+       "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+       "page": null
+      },
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "another photo",
+    "styles": {
+     "cssClass": "media-border-radius all-media-same-height",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 323,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 161,
+      "styles": {
+       "cssClass": "media-border-radius",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 326,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": {
+   "set": [
+    {
+     "documentId": "x0ucnbt871jucyqqgihmymjb"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

@@ -1,0 +1,434 @@
+{
+  "data": {
+    "name": "De la dependència a les sobiranies locals i compartides",
+    "slug": "de-la-dependencia-a-les-sobiranies-locals-i-compartides",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Laura Comas",
+    "sortDate": "2025-07-06T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "De la dependència a les sobiranies locals i compartides",
+      "metaDescription": "Les Comunitats Energètiques Locals (CELs) emergeixen com una expressió viva d’aquest paradigma: grups de persones i entitats que comparteixen infraestructures per produir i gestionar energia de manera local, col·lectiva i democràtica.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 932
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "De la dependència a les sobiranies locals i compartides",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>A través de la confiança, la col·laboració i l’autoorganització, les comunitats es fan més fortes i protegides davant d’interessos de macroprojectes incompatibles amb una transició energètica justa.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 932,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "És tan fàcil encendre la llum i veure-hi, engegar el cotxe i desplaçar-se, que sovint no ens adonem del valor real de l’energia. Però qui pateix fred a l’hivern o calor a l’estiu perquè no pot pagar la factura, sí que la valora —i ho pateix, normalment, en silenci. ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Vivim immersos en un sistema energètic altament centralitzat i opac. L’entramat de les grans empreses és tan complicat que la nostra dependència passa massa desapercebuda. Consumim energia sense saber d’on prové: sovint d’origen fòssil, amb fort impacte ambiental i social, o bé nuclear, que ens hipoteca no només el futur, sinó els presents. Aquesta realitat ens obliga a fer-nos preguntes, a qüestionar el model, a imaginar-ne de nous i dur-los a la pràctica.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Recuperar sobirania local amb eines actuals",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "En un passat tampoc molt llunyà, les nostres muntanyes i boscos eren font d’energia: el carbó. Sense idealitzar aquest model, podem reconèixer que la tendència a recuperar sobirania energètica local no és nova, però avui la podem exercir de manera molt més eficaç, neta i cooperativa gràcies a les tecnologies disponibles i a la força de les iniciatives col·lectives.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Més enlllà de la sostenibilitat: regenerar la vida",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La transició energètica no pot limitar-se a reduir danys. Cal activar processos que restaurin ecosistemes, reforcin vincles socials i culturals i revitalitzin les relacions entre persones i entorns naturals. Cada acció —també la manera com produïm i consumim energia— hauria de millorar la salut del conjunt.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En aquest context, les Comunitats Energètiques Locals (CELs) emergeixen com una expressió viva d’aquest paradigma: grups de persones i entitats que comparteixen infraestructures per produir i gestionar energia de manera local, col·lectiva i democràtica.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Les CELs no només generen electricitat renovable. També impulsen models de mobilitat sostenible, compres col·lectives de biomassa, i sobretot, reconstrueixen el teixit social. A través de la confiança, la col·laboració i l’autoorganització, les comunitats es fan més fortes i protegides davant d’interessos de macroprojectes incompatibles amb una transició energètica justa. Des del reconeixement de la nostra interdependència, ja estem teixint relacions basades en la cura i el suport mutu. Estem generant sobirania localitzada compartida, on cada comunitat esdevé protagonista activa del seu present i futur energètic.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "CELs i Som Energia: complementarietat i aliances",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Catalunya és pionera en aquest camí. Hi ha CELs impulsades per ajuntaments, iniciatives públicocomunitàries i projectes cooperatius que obren camí. En paral·lel, Som Energia actua com a agent clau en la transició energètica: una cooperativa consolidada que genera i comercialitza energia 100% renovable a escala estatal. Aquests dos models no són competidors, sinó complementaris. Som Energia aporta escala, capacitat de producció i incidència, mentre les CELs contribueixen amb l’arrelament local, la resiliència comunitària i la disrupció social des de l'aprenentatge més singular de cada lloc.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Estendre la transició ecosocial a altres sectors",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "S’han de continuar construint sinergies per activar el potencial conjunt, no només en energia, sinó també en altres sectors clau que avui ens són deslocalitzats i fora de control: l’alimentació, l’habitatge, el tèxtil, entre altres. Amb una mirada sistèmica i cooperativa podrem avançar cap a una transició ecosocial en aprofundiment, que posi la vida al centre i regeneri tant la terra com les nostres comunitats.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Segons Margulis, els organismes no són simples \"vehicles\" passius pels gens i el medi ambient, com postulava Darwin, sinó que són autònoms i capaces de construir el seu propi destí. La seva teoria de l’evolució parla de com la vida es transforma a través d’interaccions col·laboratives i no només de la lluita per la supervivència.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest principi pot ser aplicat en la forma en què les empreses i cooperatives es desenvolupen. En lloc de competir cegament per recursos o mercats, les organitzacions poden fomentar un model de \"co-creació\", on l'evolució es basa en la interacció i el creixement conjunt, una col·laboració entre sectors, empreses i fins i tot competidors per a crear solucions més robustes i sostenibles.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "text": "Autores: ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Laura Comas, facilitadora i consultora en ecosistemes cooperatius a Resilience.Earth ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Elena Capdevila, impulsora i gestora tècnica de la Comunitat Energètica Montolivet (Olot) i col·laboradora de Resilience.Earth ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Article originàriament publicat a jornal.cat el juliol de 2025, ",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.jornal.cat/opinio/39215/transicio-energetica-resilience",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "llegeix-lo aquí",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ".",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images ",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": false,
+          "paddingBottom": true,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 931,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "oavxdj6fnwx08zr4meh1wse2"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        },
+        {
+          "documentId": "bkkeb1kjzcagb50zvka532gb"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

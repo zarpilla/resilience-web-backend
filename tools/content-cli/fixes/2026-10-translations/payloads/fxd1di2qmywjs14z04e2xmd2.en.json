@@ -1,0 +1,843 @@
+{
+  "data": {
+    "name": "Novacene, beyond the Anthropocene",
+    "slug": "novace-mes-enlla-de-l-antropoce",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Òscar Gussinyer",
+    "sortDate": "2024-12-15T17:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Novacene, beyond the Anthropocene - James Lovelock",
+      "metaDescription": "James Lovelock proposes that the Anthropocene, the era dominated by human activity, is coming to an end, giving way to the Novacene, a new era in which hyperintelligent artificial intelligences, or cyborgs, will emerge as the predominant forms of life. These entities will be able to think much faster than humans and will depend on the health of the planet for their own survival. Lovelock believes that the relationship between humans and cyborgs will be one not of conflict but of cooperation, working together to maintain the health of Gaia and to protect themselves from global warming.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1047
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Novacene, beyond the Anthropocene",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>James Lovelock explains that the Novacene will be an era dominated by superintelligent cybernetics: humans and machines will work together to maintain the planet's balance, since artificially intelligent beings will depend on the health of Gaia as much as we do.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1047,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "text 2 columns",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "When cyborgs think faster than humans, what do they teach us about our true power?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "James Lovelock is one of the most influential environmental thinkers of our time, and he has challenged traditional views on human impact and the future of the Earth. In his revolutionary work Novacene: The advent of superintelligence (2019), Lovelock proposes a radical shift in our understanding of the planet's trajectory and of our place in it. According to Lovelock, the Novacene marks the end of the Anthropocene —the era defined by human dominance and its environmental crises— and the beginning of a new stage in which intelligent life, both biological and artificial, will collaborate to protect the Earth from the effects of climate change and solar radiation.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lovelock, who formulated the Gaia hypothesis in the 1970s, sees the Earth as a self-regulating organism: a complex system of interconnected beings working to maintain conditions suitable for life. This theory holds that the biosphere, the atmosphere and the oceans cooperate to regulate environmental conditions and ensure the continuity of life. In Novacene, Lovelock expands this idea and predicts that a new form of intelligent life will arise, not through biological evolution but through artificial intelligence.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "These cyborgs will think much faster than humans and will form an essential alliance with us to ensure the survival of the planet.\n",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "The end of the Anthropocene",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lovelock places the beginning of the Anthropocene around 1712, with the invention of Newcomen's atmospheric engine, the precursor of the steam engine that drove the Industrial Revolution. This technological milestone gave humanity access to large amounts of energy, which led to the accelerated growth of civilisation, but also to today's environmental crises: climate change, pollution and the depletion of natural resources.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "According to Lovelock, the Anthropocene has been a necessary phase in the evolutionary journey of life on Earth, driven by human intelligence and its ability to manipulate the environment.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "However, he argues that we have reached a critical point: the impacts of our actions —above all the burning of fossil fuels— are pushing the planet towards points of no return. Lovelock is deeply concerned that the Earth could become too hot for life, as happened on Venus.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "While the Anthropocene has been defined by human innovation and exploitation, the Novacene represents the next evolutionary stage, in which artificial and human intelligence will collaborate to stabilise the climate.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "The Novacene: The Emergence of Cyborgs",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In the Novacene, Lovelock imagines a future in which artificial intelligence —the cyborgs— will play a central role in maintaining the Earth's systems. These beings, able to make decisions 10,000 times faster than we can, will not be malevolent masters but collaborators. While many futurists fear the destructive effects of AI, Lovelock adopts a more optimistic stance. He believes that these hyperintelligent beings will need organic life, including humans, to maintain the planet's delicate systems.\n\nThey will work together with humanity to ensure that the Earth remains habitable. As Lovelock argues, the survival of life on Earth —both organic and artificial— depends on the health of the planet's ecosystems, especially their ability to regulate temperature. These new beings will be as dependent on Gaia's cooling mechanisms as humans are, and therefore both humans and cyborgs will share a common interest in preserving the planet's self-regulating systems.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Cooperation over competition",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "One of the central themes of the Novacene is that cooperation —not competition— will be the driving force of this new era. Lovelock challenges the classic Darwinian view that presents competition as the main force of evolution. Instead, he highlights the role of symbiosis and cooperation, both in the history of life and in the future relationship between humans and AI.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In this new era, humans and cyborgs will have to work together to achieve the common goal of preserving the planet. Lovelock's vision contrasts with the competitive, resource-driven dynamics of the Anthropocene. Just as symbiosis between species has been crucial for life on Earth, the future will depend on the cooperative relationship between humans and artificial life. In this way, the Novacene represents a radical change in our conception of progress, survival and our role within the natural world.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "The role of artificial intelligence in ecological restoration",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "One of the most fascinating aspects of Lovelock's theory is the role AI could play in restoring and maintaining the Earth's ecosystems. In Novacene, he presents AI not as a threat, but as a tool for environmental regeneration. AI systems, powered by advanced computing and deep learning, could monitor and manage the planet's ecological health in real time.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "These systems would be able to identify and respond to environmental threats —pollution, deforestation, climate change— far more quickly and efficiently than human societies.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lovelock imagines a world in which AI is not just a technological tool, but also a key actor in the regeneration of natural systems. This could include managing carbon levels in the atmosphere, monitoring biodiversity and even guiding the rewilding of ecosystems. His optimistic view of AI as an environmental ally challenges the conventional fear of a digital apocalypse, suggesting that it could be fundamental to the planet's survival.\n",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "The challenges and opportunities of the Novacene",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Although Lovelock's vision is one of cooperation and ecological restoration, it is not without challenges. As he sets out in the book, humanity faces several obstacles in the transition from the Anthropocene to the Novacene: the persistent dependence on fossil fuels, the resistance to change of entrenched political and economic interests, and the complex ethical questions raised by the rise of AI.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Even so, Lovelock remains optimistic about the potential for a harmonious future in which humans and cyborgs collaborate to ensure the survival of the planet. In his view, the transition to the Novacene is an opportunity for humanity to evolve into a more regenerative and cooperative species, working side by side with artificial intelligence to safeguard the Earth for future generations.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Symbiosis for Complexity and Resilience",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lynn Margulis explained that the initial simplicity of life gave way to more complex forms through symbiosis: the merging of two entities to create a new way of living. This process gave rise not only to the diversity we see today, but also to great efficiency and adaptability.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Companies can draw inspiration from this process and adopt a more integrated vision. Just as bees work together to produce honey, organisations that cooperate and create synergies can better cope with market volatility and generate more value with fewer resources, making use of the balance inherent in natural processes.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Evolution is not reduced to competition",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "According to Margulis, organisms are not mere passive “vehicles” for genes and the environment, as Darwin postulated, but autonomous beings capable of shaping their own destiny. Her theory of evolution shows that life is transformed through collaborative interactions and not only through the struggle for survival.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This principle applies to the development of companies and cooperatives. Instead of competing blindly and destructively for resources, they can foster models of co-creation based on interaction and shared growth. In this way, even competitors can collaborate to generate more robust and sustainable solutions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "The ecosystem as an interconnected system",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Another key aspect of Margulis's theory is her vision of the Earth as an integrated, self-regulating ecosystem. Through the concept of Gaia, she argued that the planet is a living organism and that its parts maintain their balance through cooperation.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Companies and cooperatives that recognise their interconnection with the natural and social environment can create business models that favour the common good. This approach fosters not only efficiency, but also sustainability and collective well-being.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Change as a growth opportunity",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Margulis also pointed out that evolution is a continuous process of change, not a standstill. When bees find their hive overcrowded, they do not wait for the problem to resolve itself: they act, divide and create a new hive. This capacity for adaptation has been key to their survival.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In the same way, organisations that understand change as an opportunity for improvement and growth are more resilient. They can evolve and transform themselves not only to overcome obstacles, but to make the most of change and build a more stable and sustainable future.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Crisis as moments of opportunity",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A fundamental element of bioregionalisation is seeing crises as moments of evolution. They are not just fragilities, but stress points that, properly understood, can become catalysts for change. Local collective intelligence can observe them from multiple perspectives and generate deeper, more holistic solutions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Bioregionalisation teaches us to identify these points —whether economic, social or ecological— and to turn them into opportunities for regeneration.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Contemporary practice shows that, by working from local reality and with deep knowledge of the territory, global challenges such as climate change or biodiversity loss can be addressed in an adaptive and integrated way.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 4,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Adaptive and collaborative solutions design",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Local co-creation processes are essential in this approach. Instead of imposing external solutions, the work starts from the needs of the territory to create cross-cutting, integrative strategies. Territorial labs and spaces of active collaboration are promoted for the design of regenerative solutions.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "These spaces not only address the immediate crisis, but also help communities to envision possible futures and to prepare for them with lasting strategies. The dynamic process of adaptation and design creates territories capable of evolving and regenerating themselves.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Text",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "images",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": false,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 360,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusion",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusion",
+            "titleHeading": "h1",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "<cite>“The Earth is a living organism, and we are only a part of it, with the responsibility of keeping it healthy.”</cite> ",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- James Lovelock",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "James Lovelock's Novacene offers a provocative vision of the future that challenges the traditional narrative of human dominance and underlines the need for cooperation with artificial intelligence to ensure the survival of the planet.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "His ideas on the role of AI, ecological cooperation and restoration open up a path that requires us humans to recognise our interconnection with the Earth's ecosystems and with the emerging intelligence of machines.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "As we leave the Anthropocene behind, the Novacene presents itself as the opportunity for a new era in which humanity and AI collaborate to protect the Earth, ensuring a more sustainable and resilient future for all forms of life.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Understanding the story of the place —that is, the deep history and dynamics of the territory— allows us to identify possible futures. Observing the interrelationships between natural and social elements leads us towards more adaptive and regenerative strategies that help us face challenges such as climate change and biodiversity loss.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Crises should not be seen merely as fragilities, but as opportunities for transformation. The story of the place reveals points of tension and balance that make it possible to generate deep and adaptive solutions. As the Regenesis Group proposes, these solutions are proactive and aimed at actively regenerating the territory.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In addition, this process fosters cultural change in communities, creating a sense of belonging and shared responsibility. Communities become active agents of regeneration, preparing to face future changes with long-term strategies.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applying bioregionalisation increases territorial resilience, allowing territories to regenerate through their own dynamics. The better we understand the interrelationships of the place, the greater our capacity to face global and local challenges, creating lasting solutions and helping communities to thrive.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In short, bioregionalisation is a process of identifying active patterns of regeneration that allows us to harness the inherent potential of territories. This not only helps to overcome immediate challenges, but also opens the door to a more adaptive and resilient future. Crises become opportunities for evolution and prosperity.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "umf4zx5r0sh07vh3tpsl3vyx"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

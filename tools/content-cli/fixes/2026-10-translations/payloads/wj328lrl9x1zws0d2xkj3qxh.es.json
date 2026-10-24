@@ -1,0 +1,298 @@
+{
+ "data": {
+  "name": "Community Catalysts Toolkit",
+  "slug": "community-catalysts-toolkit",
+  "type": "resource",
+  "pageCss": null,
+  "headerColorMode": "dark",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": "Resilience.Earth",
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Community Catalysts Toolkit",
+   "metaDescription": "Community Catalysts for Regenerative Development impulsa un cambio hacia un nuevo paradigma, donde la resiliencia y la regeneración se convierten en procesos dinámicos e inclusivos. A través de la gamificación de la catalización comunitaria, cada persona se convierte en agente activo del cambio. Este enfoque integra conocimientos tradicionales e innovadores, desafiando la separación entre las personas y la naturaleza, y promoviendo un desarrollo que celebra la interdependencia y la capacidad regenerativa de las comunidades.",
+   "noIndex": false,
+   "metaDescriptionShort": "Una gamificación del proceso de catalización comunitaria, donde cada persona se convertirá en un agente activo del cambio.",
+   "shareImage": 879
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Community Catalysts Toolkit",
+    "titleHeading": "h1",
+    "text": null,
+    "align": "centered",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "small",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imagen",
+    "styles": {
+     "cssClass": "pt-0 pb-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "xxl",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 878,
+      "styles": {
+       "cssClass": "media-border-radius",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "contenido",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Una gamificación del proceso de catalización comunitaria",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En un momento en que nuestro planeta está inmerso en un ciclo degenerativo acelerado, causado por el impacto humano, las regiones rurales emergen como un faro de esperanza. Estas comunidades tienen el potencial de liderar un cambio profundo, ya que, gracias a su vínculo directo con la tierra y su papel fundamental en la producción de alimentos, ofrecen un terreno fértil para probar alternativas que catalicen y aceleren el cambio social y ecológico. A través de este proceso de gamificación, en el que hemos colaborado con organizaciones rurales de Europa, hemos creado un espacio dinámico para transformar esta realidad.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Community Catalysts for Regenerative Development es un proceso diseñado para activar una nueva visión del mundo, rompiendo los patrones tradicionales de separación entre humanos y naturaleza. Inspirado tanto en la sabiduría ancestral como en el conocimiento contemporáneo, este proceso busca generar un cambio de paradigma que no solo responda a los retos locales, sino que contribuya a la evolución global, alineándose con los Objetivos de Desarrollo Sostenible 2030 de las Naciones Unidas. A través del juego WeLand y la plataforma Community Catalysts, ofrecemos una metodología accesible y práctica para desarrollar acciones regenerativas a escala local, aportando sentido de lugar y de pertenencia.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Lo que proponemos con WeLand y la gamificación del proceso de catalización comunitaria es una manera de ver el cambio como un proceso evolutivo que va más allá de la sostenibilidad. En lugar de limitarnos a mantener el estado actual, buscamos generar un impacto que no solo preserve los recursos, sino que los regenere y los haga más resilientes con el tiempo. A través de WeLand, las comunidades pasan por un viaje de diseño basado en la naturaleza, un proceso que no solo implica el aprendizaje, sino también la aplicación práctica de nuevas dinámicas. Esta gamificación no es solo una herramienta de participación, sino una forma de integrar la capacidad de adaptarse y evolucionar como parte del sistema. Los procesos que activamos ayudan a las comunidades a establecer relaciones más profundas con sus recursos, haciéndolas partícipes de un cambio orgánico que se sostiene en su capacidad de autoorganizarse y evolucionar de manera autónoma. Así, lo que hacemos es crear un flujo regenerativo donde cada acción contribuye a la evolución continua del sistema, mejorando la cohesión, la resiliencia y la capacidad de adaptación a largo plazo.",
+          "type": "text"
+         },
+         {
+          "url": "https://www.catalysts.community/toolkit-essentials-en",
+          "type": "link",
+          "children": [
+           {
+            "text": "",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": {
+       "text": "Accede al kit de herramientas aquí",
+       "href": "https://www.catalysts.community/toolkit-essentials-en",
+       "target": "_blank",
+       "cssClass": "btn mt-4 btn-with-arrow-right zbtn-dark zw-100",
+       "page": null
+      },
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "otra foto",
+    "styles": {
+     "cssClass": "media-border-radius all-media-same-height",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 303,
+      "styles": {
+       "cssClass": "media-border-radius",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 155,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 304,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": [],
+  "scopes": {
+   "set": [
+    {
+     "documentId": "ebtqcyh8rpxfq9hgei45cowq"
+    }
+   ]
+  },
+  "typology": {
+   "set": [
+    {
+     "documentId": "ixmw7qmxpb9ops78s89jwog5"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

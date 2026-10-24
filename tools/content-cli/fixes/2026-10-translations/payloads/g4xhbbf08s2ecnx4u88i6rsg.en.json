@@ -1,0 +1,480 @@
+{
+ "data": {
+  "name": "Resignify Earth from Achille Mbembe's living thought",
+  "slug": "resignify-earth-from-achille-mbembe",
+  "type": "article",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": "Alba Danés",
+  "sortDate": "2024-12-22T17:30:00.000Z",
+  "metadata": {
+   "metaTitle": "Resignify Earth from Achille Mbembe's living thought",
+   "metaDescription": "In an intimate and expansive conversation with Achille Mbembe, we think the world from the margins, from the South, from living memory and transgenerational pain. His thought does not arrive to order anything. It arrives to open cracks. To shake. To remember what colonialism made us forget.",
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1130
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "Resignifying the Earth from living thought",
+    "titleHeading": "h1",
+    "text": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "text": "<cite>Decolonising is not only about toppling structures. It is about feeling again. Imagining again. Sharing the Earth again. We present a conversation with Achille Mbembe.</cite>",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "align": "bottom-left",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "85vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": "none",
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1130,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "text 2 columns",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "narrow",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "In an intimate and expansive conversation with Achille Mbembe, we think the world from the margins, from the global south, from living memory and transgenerational pain. His thought does not arrive to order anything. It arrives to open cracks. To shake. To remember what colonialism made us forget.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Joseph-Achille Mbembe, known as Achille Mbembe (born 1957), is a Cameroonian philosopher, political theorist and intellectual. In April 2024 we met him in Girona, invited by the Ferrater Mora Chair of Contemporary Thought, and we had the opportunity to talk with him about issues such as decolonialism, forms of governance, structural violence and spirituality. We present the conversation we held with him, introduced by Alba Danés Boix, partner of Resilience.Earth, within the framework of the Balkar.Earth learning community.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "Text",
+      "media": null,
+      "styles": {
+       "cssClass": "pb-0",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.video",
+    "title": "\"The archive of the conquest is exhausted. We need to look for new energies to multiply life.\"",
+    "embed": null,
+    "url": "https://youtu.be/9LgdPdn9gxo",
+    "image": 1128,
+    "styles": null
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "text 2 columns",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-lg-4",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Decolonize is to learn to exist",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Decolonization is not a symbolic or institutional act. It is a collective and intimate task that requires unmasking the scars of colonialism: structural racism, exploitation, denial of dignity. Mbembe tells us about psychic, cultural and spiritual decolonization. To reappropriate ourselves from our imaginary, our body, our sense of the world.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Reimagining governance: from control to common",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "What does it mean to rule without mastering? Mbembe invites us to rethink governance as a practice of mutual responsibility, as a way of care, not to control. Listen to forgotten voices, those who have built ways to live without hierarchies, without center, without empire. True sovereignty may not be in power, but in the ability to sustain life in common.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "bold": true,
+          "text": "The violence that is not seen, but that crosses everything",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Structural violence does not call. It does not break out. But it erodes everything. Mbembe denounces the silent forms of oppression: hunger, precariousness, institutional racism, loss of future. Breaking with these violence involves more than reforming them: it involves imagining completely new structures.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Spirituality and living archives",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Mbembe shakes us with a radical proposal: to reopen the archives of the world. Western thinking has made the planet an object. He has cut the ties between what is alive. But there are other files. The archives of the first nations, of the rooted peoples, of silences loaded with wisdom. Resonate with the cosmos, regenerate Earth and share it as a common good.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "images",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Conclusion",
+    "styles": {
+     "cssClass": "pt-0",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "normal",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "Conclusion",
+      "titleHeading": "h1",
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-3",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "And now what?",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "This dialogue is not a conclusion. It is a challenge. A cry calling for pause, listening, reconfiguration. Mbembe gives us no recipes. He offers us paths. And perhaps the most radical of all is this: to care for life again, radically.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-12 col-md-8 offset-md-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": {
+   "set": [
+    {
+     "documentId": "mey6tctw82qgxp75dst19y3f"
+    }
+   ]
+  },
+  "scopes": {
+   "set": [
+    {
+     "documentId": "o56mrvcrzudmlhbshs18uu3x"
+    },
+    {
+     "documentId": "sth66s3s5cbbag5wo0iw5vde"
+    }
+   ]
+  },
+  "typology": {
+   "set": [
+    {
+     "documentId": "fuidh03xk62s96r8jt30xzdh"
+    }
+   ]
+  },
+  "year": {
+   "set": [
+    {
+     "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+    }
+   ]
+  },
+  "audio": null
+ }
+}

@@ -1,0 +1,1166 @@
+{
+ "data": {
+  "name": "Cómo trabajamos",
+  "slug": "como-trabajamos",
+  "type": "page",
+  "pageCss": null,
+  "headerColorMode": "light",
+  "client": null,
+  "metaColor": null,
+  "readTime": null,
+  "author": null,
+  "sortDate": "2025-11-07T17:30:47.719Z",
+  "metadata": {
+   "metaTitle": "Cómo trabajamos",
+   "metaDescription": null,
+   "noIndex": false,
+   "metaDescriptionShort": null,
+   "shareImage": 1263
+  },
+  "sections": [
+   {
+    "__component": "sections.hero",
+    "title": "¿Cómo trabajamos para abordar las causas de vuestros retos?",
+    "titleHeading": "h1",
+    "text": [
+     {
+      "type": "heading",
+      "level": 3,
+      "children": [
+       {
+        "text": "",
+        "type": "text"
+       }
+      ]
+     }
+    ],
+    "align": "centered",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": "70vh",
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 1264,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "relatamos",
+    "styles": {
+     "cssClass": "page-slug-com-treballem-content-scroll",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 134,
+      "styles": {
+       "cssClass": "fixed-when-scroll",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-1",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "Identificamos<br>las causas profundas",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Conectando narrativas, ecologías y relaciones. Este relato del lugar o del origen nos permite acompañar la creación de respuestas alineadas con la singularidad de la comunidad o de la organización.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "&nbsp;",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "&nbsp;",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "Diseñamos<br>soluciones sistémicas",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Cocreando estrategias basadas en una perspectiva resiliente, activando vuestros potenciales latentes para transformar los retos en oportunidades regenerativas con un impacto real y significativo.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "&nbsp;",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "&nbsp;",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 2,
+        "children": [
+         {
+          "text": "Capacitamos<br>para la autogestión",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Desbloqueando las capacidades inherentes de las comunidades y organizaciones, a través de estructuras de gobernanza regenerativa que os permitan liderar vuestro cambio y convertiros en sistemas vivos.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": "h2",
+      "alias": "Relatamos el lugar y el origen",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-6",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": "50px 0 0 0",
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "imagen",
+    "styles": {
+     "cssClass": "columns-with-text-slider pb-0",
+     "height": null,
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": "xxl",
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": 75,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "Nuestra mirada",
+      "titleHeading": "h3",
+      "alias": "nuestra mirada",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-12 col-view",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 133,
+      "styles": {
+       "cssClass": "col-md-12",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": 75,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": "Rural y Disruptiva",
+      "titleHeading": "h1",
+      "alias": "Rural y Disruptiva",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-12 text-slider",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": "Regenerativa y Arraigada",
+      "titleHeading": "h1",
+      "alias": "Regenerativa y Arraigada",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-12 text-slider",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": "Reconciliadora y Descolonizada",
+      "titleHeading": "h1",
+      "alias": "Reconciliadora y Descolonizada",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-12 text-slider",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": "Resiliente y Adaptativa",
+      "titleHeading": "h1",
+      "alias": "Resiliente y Adaptativa",
+      "media": null,
+      "styles": {
+       "cssClass": "col-md-12 text-slider",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": null,
+       "paddingBottom": null,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.capabilities",
+    "title": "Capabilidades",
+    "subtitle": "Nuestras capabilidades<br>(capacidades + habilidades)<br>nos hacen singulares.",
+    "description": null,
+    "c2aText": "Saber más",
+    "styles": null,
+    "capabilities": {
+     "set": [
+      {
+       "documentId": "pm228ambwhkapyvgcfok5ro0"
+      },
+      {
+       "documentId": "orzdatot87yn27f5ubo6uw1k"
+      },
+      {
+       "documentId": "lpsiurivj0vgmw8ksep3u1cs"
+      },
+      {
+       "documentId": "eqojlqb56st5n07jmuoda0d6"
+      },
+      {
+       "documentId": "or02zwbp4qezh8a35kelk9ew"
+      },
+      {
+       "documentId": "w43dlnt9akdfo8kopitmn17v"
+      },
+      {
+       "documentId": "qew6zewpy566vxf07fj2dmpq"
+      },
+      {
+       "documentId": "t309kn4wqoy708oxb5wflzax"
+      },
+      {
+       "documentId": "asmx4b75s54quffqtl0bj4uj"
+      },
+      {
+       "documentId": "zaw4u33qtkrsqtsbyn3jhn6s"
+      }
+     ]
+    }
+   },
+   {
+    "__component": "sections.hero",
+    "title": null,
+    "titleHeading": null,
+    "text": null,
+    "align": "bottom-left",
+    "alias": "perfil",
+    "styles": {
+     "cssClass": "bg-cover bg-no-repeat",
+     "height": null,
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": 2,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    }
+   },
+   {
+    "__component": "sections.tabs",
+    "alias": null,
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "light",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": "#000",
+     "container": null,
+     "paddingTop": null,
+     "paddingBottom": null,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "tabs": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Cultura abierta.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En Resilience.Earth creemos en la cultura abierta. Compartimos nuestro conocimiento a través de nuestras metodologías, investigaciones y herramientas bajo licencias libres para que puedan ser utilizadas y mejoradas por otras personas y colectivos en las mismas condiciones en que lo hemos hecho nosotros. Encontraréis todos los recursos publicados en el apartado \"Herramientas disruptivas\"; si tenéis cualquier duda sobre el uso de las herramientas, podéis contactar con nosotros en info@resilience.earth",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "Apertura",
+      "titleHeading": "h2",
+      "alias": "Apertura",
+      "media": null,
+      "styles": null,
+      "c2a": {
+       "text": "Herramientas disruptivas",
+       "href": "https://w.resilience.earth/eines-disruptives",
+       "target": null,
+       "cssClass": "btn btn-dark btn-dark-border-white btn-100 mt-4 zw-100 btn-with-arrow-right",
+       "page": null
+      },
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "El Balanç Social y el MEC.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "El ",
+          "type": "text"
+         },
+         {
+          "url": "https://xes.cat/balanc-social",
+          "type": "link",
+          "children": [
+           {
+            "text": "Balanç Social",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": " es una herramienta de rendición de cuentas y medición del impacto social, ambiental y de buen gobierno impulsada por la Xarxa d'Economia Solidària (XES), de la que Resilience.Earth formamos parte. Con este balance auditamos y evaluamos de forma sistemática, objetiva y periódica el funcionamiento económico y la política de lucro; la perspectiva de género; la equidad y la democracia interna; la sostenibilidad ambiental; el compromiso social y la cooperación; y la calidad del trabajo. ",
+          "type": "text"
+         },
+         {
+          "url": "https://api-w.resilience.earth/uploads/Balanc_social_resilience_earth_2024_849ad8de5a.pdf",
+          "type": "link",
+          "children": [
+           {
+            "text": "",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": "",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Además, la cooperativa Resilience Earth está comprometida con la transparencia interna hacia sus miembros en todos los asuntos que afectan a la cooperativa, mediante la presentación de informes generales anuales, informes financieros anuales, presupuestos anuales, planes operativos anuales y el plan estratégico evolutivo. Para acompañar este proceso hemos creado el Manual Evolutivo de la Cooperativa, una herramienta ágil, transparente y coordinada de trabajo interno.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "Transparencia",
+      "titleHeading": "h2",
+      "alias": "Transparencia",
+      "media": 1247,
+      "styles": {
+       "cssClass": "balanc-social",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": true,
+       "paddingBottom": true,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": {
+       "text": "Resultados Balance Social 2024",
+       "href": "https://api-w.resilience.earth/uploads/Balanc_social_resilience_earth_2024_849ad8de5a.pdf",
+       "target": null,
+       "cssClass": "btn btn-dark btn-dark-border-white btn-100 mt-4 zw-100 btn-with-arrow-right",
+       "page": null
+      },
+      "verticalScroller": null
+     },
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 3,
+        "children": [
+         {
+          "text": "Justicia social y equidad.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "En Resilience.Earth entendemos la justicia social y la equidad como fundamentos esenciales para la transformación ecosocial. Trabajamos para regenerar las relaciones entre las personas y el territorio, poniendo en el centro la sanación, la diversidad y la soberanía comunitaria. Nos comprometemos con una mirada interseccional y decolonial que cuestiona privilegios, desmantela la polarización y las estructuras de poder excluyentes, y abre espacios para la voz y el liderazgo de colectivos históricamente oprimidos. Esto incluye revisar constantemente nuestras prácticas, relaciones y procesos de toma de decisiones. Apostamos por una equidad real dentro del equipo y en nuestras alianzas: con transparencia en la distribución de los recursos, fomentando la descentralización del poder y los roles compartidos, y creando espacios de trabajo seguros, accesibles y horizontales.",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "children": [
+         {
+          "text": "Trabajamos por una regeneración profunda que no solo repiensa nuestro impacto ambiental, sino que repara y sana heridas sociales y culturales profundas, caminando hacia modelos de vida digna para todas las personas.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": "Justicia social y equidad",
+      "titleHeading": "h2",
+      "alias": "Justicia social y equidad",
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Con el apoyo de",
+    "styles": {
+     "cssClass": "pb-5",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": true,
+     "paddingBottom": false,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 4,
+        "children": [
+         {
+          "text": "Con el apoyo de",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Logos apoyo 1",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": false,
+     "paddingBottom": false,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 839,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 838,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 782,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 1192,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 1193,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Logos apoyo 2",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": false,
+     "paddingBottom": false,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 1266,
+      "styles": {
+       "cssClass": "col-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": true,
+       "paddingBottom": true,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Subvencionado por el Servicio Público",
+    "styles": {
+     "cssClass": "pb-5",
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": true,
+     "paddingBottom": true,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": [
+       {
+        "type": "heading",
+        "level": 5,
+        "children": [
+         {
+          "text": "Subvencionado por el Servicio Público de Empleo de Cataluña y con la cofinanciación del 40 % del Fondo Social Europeo Plus.",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "title": null,
+      "titleHeading": null,
+      "alias": "Subvencionado por el Servicio Público",
+      "media": null,
+      "styles": {
+       "cssClass": "col-2",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": true,
+       "paddingBottom": true,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   },
+   {
+    "__component": "sections.columns",
+    "alias": "Logos Subvencionado...",
+    "styles": {
+     "cssClass": null,
+     "height": null,
+     "textColor": "dark",
+     "margin": null,
+     "padding": null,
+     "background": null,
+     "width": null,
+     "sectionId": null,
+     "backgroundColor": null,
+     "container": null,
+     "paddingTop": false,
+     "paddingBottom": false,
+     "listenAudioBefore": null,
+     "listenAudioAfter": null,
+     "backgroundImage": null,
+     "backgroundImage2": null,
+     "backgroundVideo": null,
+     "backgroundVideoMobile": null
+    },
+    "columns": [
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 1221,
+      "styles": {
+       "cssClass": "mt-4 pt-2 pe-5",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": true,
+       "paddingBottom": true,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 1254,
+      "styles": {
+       "cssClass": "mt-4 img-wb-filter pt-1 pe-5",
+       "height": null,
+       "textColor": "dark",
+       "margin": null,
+       "padding": null,
+       "background": null,
+       "width": null,
+       "sectionId": null,
+       "backgroundColor": null,
+       "container": null,
+       "paddingTop": true,
+       "paddingBottom": true,
+       "listenAudioBefore": null,
+       "listenAudioAfter": null,
+       "backgroundImage": null,
+       "backgroundImage2": null,
+       "backgroundVideo": null,
+       "backgroundVideoMobile": null
+      },
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": 782,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     },
+     {
+      "text": null,
+      "title": null,
+      "titleHeading": null,
+      "alias": null,
+      "media": null,
+      "styles": null,
+      "c2a": null,
+      "verticalScroller": null
+     }
+    ]
+   }
+  ],
+  "tags": [],
+  "scopes": [],
+  "typology": null,
+  "year": null,
+  "audio": null
+ }
+}

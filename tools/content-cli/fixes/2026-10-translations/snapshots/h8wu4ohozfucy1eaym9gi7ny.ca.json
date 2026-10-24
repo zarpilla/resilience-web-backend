@@ -1,0 +1,674 @@
+{
+  "data": {
+    "name": "Biomimètica Social",
+    "slug": "biomimetica-social",
+    "type": "capability",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Biomimètica Social",
+      "metaDescription": null,
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1235
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Biomimètica Social",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "40vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1235,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Si la natura opera com un superorganisme, què significa per a nosaltres deixar de funcionar de manera aïllada?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Mimetitzar la vida",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La biomimètica social és una disciplina que aplica els principis, patrons i estratègies observades en els ecosistemes naturals als sistemes humans, amb l'objectiu de millorar la seva resiliència, adaptabilitat i regeneració. Aquesta pràctica es fonamenta en la idea que els sistemes naturals, com els ecosistemes i les societats d'organismes, han evolucionat per resoldre reptes complexos de manera eficient a través de la cooperació, l'autoregulació i la interconnexió. La biomimètica social busca transferir aquests principis a l'organització social, empresarial i comunitària, promovent dinàmiques més col·laboratives i regeneratives que afavoreixin l'equilibri, la diversitat i la sostenibilitat a nivell local i global.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En aquest context, la biomimètica social utilitza l'estudi de les interaccions entre els elements naturals i la seva capacitat per autoregular-se i adaptar-se als canvis per dissenyar models organitzatius i de governança més efectius i regeneratius. Això inclou la implementació de solucions basades en la natura, com l'ús de patrons ecològics en processos de presa de decisions, la creació d'espais cooperatius i l'establiment de xarxes de suport que reflecteixin els cicles i les dinàmiques de la natura. L'objectiu és construir sistemes humans que siguin més resilients, flexibles i capaços de respondre de manera més efectiva als reptes socials, econòmics i ambientals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquest enfocament aporta als sistemes socials i ecològics les capacitats per afrontar impactes, adaptar-se a canvis i evolucionar cap a noves formes de funcionament equilibrades. Per superar els reptes actuals, és essencial que els éssers humans aprenguin a alinear-se i harmonitzar-se amb els sistemes vius que els envolten.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": "normal",
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“La natura busca posar en valor i connectar les diverses formes en què la vida s'expressa. Això augmenta la capacitat de l'ecosistema, o del metabolisme, per realitzar les seves funcions de maneres eficients i intel·ligents. A això li diem resiliència i és exactament el que Resilience.Earth fa en els sistemes humans! Per la vida!.”</cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Melina Angel, coautora de la biosistèmica, líder de Colombia Regenerativa i la Xarxa Global de Comunitats Regeneratives. Bióloga evolutiva i mestra en Biomímesis.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-10 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imatge",
+        "styles": {
+          "cssClass": "pt-0 pb-0 media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 442,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columns",
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Innovació ancestral",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La biomimètica com a disciplina va ser popularitzada per Janine Benyus en la seva obra Biomimicry: Innovation Inspired by Nature, publicada el 1997, on va introduir la idea que els dissenys i solucions innovadores podrien ser inspirats per les estratègies de la natura. Benyus va destacar com la natura ha perfeccionat les seves pròpies estratègies al llarg de milions d’anys per resoldre problemes com l’eficiència energètica, la sostenibilitat i l'autoregulació. Aquesta obra va establir les bases per al desenvolupament de la biomimètica com un camp que extrapola els processos naturals als dissenys humans, en un intent de crear solucions més eficients i harmòniques.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una altra pensadora clau en el desenvolupament de la biomimètica social és Toby Herzlick, qui va explorar com els principis de la natura podien ser aplicats no només als dissenys de productes, sinó també als sistemes socials i econòmics. Herzlick va ser pioner en la integració de la biomimètica en les organitzacions humanes i va contribuir a conceptualitzar com les dinàmiques naturals podrien inspirar models de governança i organització empresarial més eficients i regeneratius. Herzlick va ser una defensora de la creació de sistemes més autònoms i autoorganitzats que poguessin respondre de manera àgil als canvis en el seu entorn, aprofitant els mecanismes d'autoregulació observats a la natura.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Altres figures influents en l'evolució de la biomimètica social inclouen Tamsin Woolley-Barker, Leen Gorisen i Melina Angel, que han ampliat i aprofundit l’aplicació d’aquests principis a nivell social i comunitari. Woolley-Barker, en el seu llibre Teeming, explora com els ecosistemes naturals prosperen perquè els seus membres treballen conjuntament per una causa comuna. Aquest enfocament, aplicat als sistemes humans, permet dissenyar organitzacions més col·laboratives i adaptatives. Leen Gorisen, per la seva banda, posa èmfasi en la importància de l'innovació bio-inspirada i el disseny regeneratiu, destacant com les solucions naturals poden millorar les pràctiques humanes per afrontar els reptes globals. Gorisen també és l'autora del llibre Natural Intelligence, on explora la manera en què els sistemes vius poden inspirar solucions innovadores per als problemes contemporanis. Finalment, Melina Angel, amb la seva feina sobre biosistemes i comunitats regeneratives, aporta una perspectiva que integra la dimensió social i ecològica, subratllant la importància de construir xarxes de comunitats resilients i regeneratives que aprenen i creixen a través de la col·laboració.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "column 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“Per superar els reptes d'avui, nosaltres, els éssers humans, hem d'aprendre a alinear-nos i harmonitzar-nos amb els sistemes vius que ens envolten. Resilience Earth és una de les organitzacions pioneres que fa això mateix, treballant amb i per a la comunitat local en què estan integrades”</cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Leen Gorisen, especialitzada en ecologia, ciències de la transició, disseny regeneratiu i innovació bio-inspirada. Autora del llibre ‘Building the Future of Innovation, on millions of yeras of Natural Intelligence’ i fundadora del Centre4NI.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-10 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Tornem a ser natura",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A Resilience Earth, utilitzem la biomimètica social per investigar el comportament de les espècies autòctones del nostre territori, observant com la natura ha respost a condicions com l’abundància, l’escassetat o el canvi ambiental. Aquest estudi ens permet aprendre de les solucions naturals adaptatives i aplicar-les a les comunitats humanes. Així, afavorim un model de convivència més resilient, on les societats humanes poden reaprendre a integrar-se plenament en els seus ecosistemes, reconeixent la seva responsabilitat per mantenir un equilibri natural. L'objectiu és ajudar les comunitats a identificar el seu “nínxol ecològic”, és a dir, el paper que ocupen dins d’un ecosistema i la relació dinàmica amb el seu entorn.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El concepte d’homeòstasi ecosistèmica és fonamental per entendre com els ecosistemes naturals mantenen l’estabilitat malgrat els canvis. Això implica processos interconnectats que permeten als ecosistemes adaptar-se a les fluctuacions externes, garantint la seva supervivència. Aplicat als humans, l'homeòstasi ecosistèmica ens demostra com les nostres accions poden contribuir a la restauració d’un equilibri natural, evitant la destrucció i afavorint la regeneració dels ecosistemes. La nostra responsabilitat és comprendre aquesta interdependència i actuar d’acord amb els límits del nostre entorn.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Mitjançant la biomimètica social, Resilience Earth facilita l’aprenentatge per tornar a establir una relació equilibrada amb els territoris que habitem. Mitjançant el coneixement derivat de la natura, creem solucions innovadores que fomenten l’adaptació i la regeneració contínua dels sistemes socials i naturals. Així, busquem un camí on les comunitats i organitzacions siguin agents actius en la regeneració del seu territori, contribuint a un futur més resilient i equilibrat.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": null,
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "navigation-arrows",
+        "alias": "Explora altres capabilitats",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "menu": {
+          "set": [
+            {
+              "documentId": "bggm5vusi6vt5nll3u8srceh"
+            }
+          ]
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

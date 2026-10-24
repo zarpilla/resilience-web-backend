@@ -1,0 +1,523 @@
+{
+  "data": {
+    "name": "Facilitació Cocreativa",
+    "slug": "facilitacio-cocreativa",
+    "type": "capability",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-11-07T17:30:47.719Z",
+    "metadata": {
+      "metaTitle": "Facilitació Cocreativa",
+      "metaDescription": null,
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1236
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Facilitació Cocreativa",
+        "titleHeading": "h1",
+        "text": null,
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "40vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1236,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Quan un grup es converteix en la matriu del canvi, com podem distingir si som nosaltres qui impulsem el canvi o el canvi que ens impulsa?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Creació d'entrons",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La facilitació cocreativa és una metodologia centrada en la col·laboració profunda que permet a grups i organitzacions descobrir i activar el seu potencial col·lectiu. Aquesta pràctica redefineix la figura del facilitador, que deixa de ser una autoritat externa i es converteix en un creador d’entorns on les solucions emergeixen de manera orgànica. Jenny McKewn, una de les seves principals impulsores, considera que la facilitació és un espai de possibilitats en el qual les comunitats poden explorar, reflexionar i co-crear sense imposicions externes. La clau és crear condicions perquè el grup esdevingui la “matriu del canvi”.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La facilitació cocreativa posa èmfasi en la intel·ligència col·lectiva i el sentit de pertinença. McKewn destaca que el procés de facilitació no consisteix a donar respostes, sinó a acompanyar grups en la descoberta de les seves pròpies capacitats. Això implica reconèixer la diversitat i singularitat de cada participant, així com les dinàmiques particulars de cada grup, i integrar-les en un procés compartit. Aquest enfocament genera accions que no només són col·laboratives, sinó també profundament arrelades al context social, cultural i ambiental del grup.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aquesta metodologia no és només una eina per a la resolució de problemes, sinó també un procés transformador que promou l’autonomia i la regeneració. Tal com subratlla McKewn, la facilitació cocreativa no només acompanya els grups a resoldre reptes, sinó que també els empodera per dissenyar un futur compartit. Així, aquesta pràctica es converteix en un motor per a la innovació social i la sostenibilitat, fomentant una transformació que connecta les persones amb el seu territori i amb elles mateixes.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "columna 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "<cite>“Des de Resilience són pioners a complementar la mirada regenerativa amb el treball de processos. Això significa que, en els processos que acompanyen, faciliten que totes les veus, rols i sentiments es puguin expressar, promovent el diàleg, la creativitat i el sentiment de comunitat.”<cite>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "- Anna Espadalé de Fil a l’Agulla.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imatge",
+        "styles": {
+          "cssClass": "pt-0 pb-0 media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 436,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "columns",
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Espais de possibilitats",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Acadèmicament, la facilitació cocreativa s’entén com un procés que transcendeix la simple gestió de dinàmiques grupals. Jenny McKewn defineix aquest enfocament com la capacitat de “crear espais de possibilitats” que permeten als participants explorar el seu potencial col·lectiu sense directrius externes. Això s’alinea amb els plantejaments de Joanna Macy i Chris Johnstone sobre l’«esperança activa», que subratllen la necessitat d’enfrontar els desafiaments globals amb un compromís col·lectiu basat en la connexió i la col·laboració.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Macy i Johnstone, amb el seu mètode Work That Reconnects, ofereixen eines per connectar els participants amb les arrels profundes del canvi social i ecològic. Aquest treball no només ajuda a afrontar els reptes globals, sinó que també fomenta una comprensió compartida entre els membres del grup, facilitant la co-creació de solucions significatives. Això reforça l’impacte de la facilitació cocreativa, no com un procés tècnic, sinó com un camí per a la regeneració col·lectiva.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Figures com Kirsti Norris i Miren Larrea amplien aquest marc acadèmic amb enfocaments específics. Norris posa èmfasi en la sostenibilitat i la innovació, destacant com la facilitació cocreativa permet construir una visió compartida del futur que respecta les necessitats del present. Larrea, per la seva banda, subratlla la importància de la governança col·lectiva i la confiança en els processos de desenvolupament territorial, assegurant que els grups puguin liderar el seu propi camí cap a solucions duradores. Aquest marc acadèmic destaca com la facilitació cocreativa integra dimensions emocionals, culturals i estructurals per promoure transformacions efectives.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "column 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Imatge",
+        "styles": {
+          "cssClass": "pt-0 pb-0 media-border-radius",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 637,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Columns",
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Capabilitat Singular",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A Resilience Earth, entenem la facilitació cocreativa com una capabilitat que defineix el nostre paper com a facilitadores del canvi. Aquest rol no consisteix a dirigir o imposar, sinó a crear les condicions perquè les comunitats i les organitzacions trobin les seves pròpies respostes davant d’un context dinàmic i canviant. La nostra tasca és establir un espai segur on totes les veus puguin ser escoltades, especialment aquelles que han estat marginades o silenciades, i on la diversitat d’experiències pugui enriquir el procés de transformació col·lectiva.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aportem marcs conceptuals i metodologies innovadores i adaptades perquè siguin accessibles i útils en entorns comunitaris i organitzacionals. Per fer-ho, utilitzem eines pedagògiques com relats, pòsters visuals i narratives que fan tangibles idees complexes, facilitant així la comprensió i l’aplicació pràctica. Aquesta capacitat ens permet traduir el coneixement acadèmic en accions concretes i contextualitzades, que donen resposta als desafiaments únics de cada grup i territori.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La nostra mirada busca posar l'accent en la co-creació, promovent que les solucions no vinguin imposades externament, sinó que sorgeixin de la intel·ligència col·lectiva del grup. En el nostre paper com a facilitadores, actuem com a catalitzadores del diàleg, ajudant a establir les bases per a una col·laboració genuïna. Així, la facilitació cocreativa es converteix en una eina essencial per guiar processos de transformació que són tan diversos com les comunitats amb què treballem, i tan profunds com els reptes que aquestes afronten.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Column 2",
+            "media": null,
+            "styles": {
+              "cssClass": "col-md-8 offset-md-2",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.menu",
+        "preset": "navigation-arrows",
+        "alias": "Explora altres capabilitats",
+        "styles": null,
+        "menu": {
+          "set": [
+            {
+              "documentId": "bggm5vusi6vt5nll3u8srceh"
+            }
+          ]
+        }
+      }
+    ],
+    "tags": [],
+    "scopes": [],
+    "typology": null,
+    "year": null,
+    "audio": null
+  }
+}

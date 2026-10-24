@@ -1,0 +1,1554 @@
+{
+  "data": {
+    "name": "¿El Collsacabra abre caminos, vuelve Serrallonga?",
+    "slug": "el-collsacabra-obre-camins-torna-serrallonga",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": "Oscar Gussinyer",
+    "sortDate": "2025-04-16T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "¿El Collsacabra abre caminos, vuelve Serrallonga?",
+      "metaDescription": "En Collsacabra, cada crisis es una oportunidad para reinventarse, donde las comunidades se encuentran, se apoyan mutuamente y co-crean un futuro regenerativo desde dentro, con la fuerza de la colaboración local y una visión compartida.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1116
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "¿El Collsacabra abre caminos, vuelve Serrallonga?",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "Una conversación con Gerard Costa.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "ninguno",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1116,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "texto 2 columnas",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cuando vemos el Collsacabra como un organismo vivo, ¿cómo podemos sanarlo mediante prácticas que permitan el crecimiento natural?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Hoy tenemos la oportunidad de entrevistar a Gerard Costa, vicepresidente de la cooperativa de segundo grado Miceli Social y fundador de Anigami. Gerard es una figura clave en la transformación de los territorios rurales, especialmente en el Collsacabra, donde vive y trabaja, y ha liderado diversos proyectos orientados a la regeneración social y territorial. A través de su labor, ha ayudado a poner en valor la cultura local, la gestión sostenible y la visión global para afrontar los retos de la ruralidad. Su mirada está profundamente influenciada por la ecosofía, el pensamiento ecosocial y un enfoque de trabajo que integra el conocimiento local con la experiencia internacional. Su trayectoria refleja el compromiso con el desarrollo sostenible y la creación de redes de apoyo para las comunidades rurales.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Gerard, para empezar, ¿podrías explicarnos qué es Anigami y qué papel desempeñas? ¿Cómo se articula esta iniciativa con la cooperativa Miceli Social?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gerard Costa:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Anigami es una iniciativa con treinta años de recorrido y muchas ramas interconectadas, que nació para dar respuesta a los retos que tenemos como sociedad desde distintos ángulos, uno de ellos los desafíos que enfrentan las comunidades y territorios rurales en la actualidad. De hecho, esta línea de trabajo ha ganado peso en los últimos años al constatar que el modelo de crecimiento económico que tenemos no tiene en cuenta las dinámicas ecológicas y sociales de los territorios rurales. Anigami aporta una mirada regenerativa, un espacio de trabajo que integra personas, territorio y naturaleza para generar nuevos modelos de vida más sostenibles y resilientes. Desde Anigami buscamos crear un vínculo entre iniciativas y administraciones locales y el pensamiento ecosocial global para afrontar retos como el cambio climático o la gentrificación del espacio rural.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En cuanto a Miceli Social, es una cooperativa de segundo grado en la que participan diversas entidades, una de ellas Anigami, lo que nos permite unir esfuerzos para la transformación ecosocial. En Miceli Social trabajamos de manera transversal para crear un modelo cooperativo que haga frente a los retos de la ruralidad, como el despoblamiento y la necesidad de recuperar la cultura local, siempre con colaboración y trabajo en red entre los distintos agentes del territorio. El trabajo de Miceli Social está muy alineado con el proyecto de Anigami, porque creemos que los cambios transformadores en las comunidades no se logran de manera aislada, sino creando redes de apoyo que conecten y compartan recursos.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "2. Hablas de regeneración social y territorial. ¿Qué implica exactamente este concepto en el caso del Collsacabra?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gerard Costa:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " La regeneración social y territorial es un concepto que va más allá de la sostenibilidad. La sostenibilidad a menudo se queda solo en el ámbito ambiental o en la gestión de recursos, o simplemente para dar una buena imagen a una economía que sigue siendo extractiva y especulativa, pero la regeneración implica el equilibrio de toda la comunidad que cohabita un territorio, el bienestar de las personas y comunidades y su capacidad de vivir en armonía con los principios que generan la vida. En el Collsacabra, por ejemplo, esto significa no solo cuidar los espacios naturales, sino también a las personas y la biodiversidad que cohabitan el territorio, creando espacios y diálogos donde la gente pueda reconectarse con el lugar y con la comunidad que la acoge. Esto requiere una visión sistémica, donde todo está conectado: la naturaleza, la cultura local, la economía y las relaciones sociales. La regeneración consiste, por tanto, en crear espacios de equilibrio y armonía donde los distintos elementos se retroalimenten favoreciendo la vida tal como es.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En el Collsacabra, por ejemplo, todavía conservamos valores arraigados que resultan muy inspiradores, como la actividad agrícola tradicional, el vínculo con nuestros paisajes naturales, identitarios y la cultura local, pero también debemos tener en cuenta las amenazas que afectan al territorio, como la falta de relevo generacional, la dificultad de acceso a la tierra, la falta de vivienda para jóvenes, el turismo masivo o la gentrificación. Así que regenerar significa reconectar con estos valores esenciales, pero también saber nutrirlos de manera que se creen oportunidades para las personas que viven aquí, evitando la explotación de los recursos y trabajando por la justicia social y territorial. Debemos ser conscientes de que la regeneración no se hace de afuera hacia adentro, sino de adentro hacia afuera y de forma colectiva; es un cambio de paradigma ecosocial que requiere implicar a las personas en el proceso y disponer de las herramientas para transformar nuestro territorio.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "3. En 2018 viste que había varios problemas en espacios naturales como el Salt de la Foradada o el Morro de l’Abella. ¿Cómo surgió la necesidad de hacer algo ante estos retos?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gerard Costa:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Sí, exactamente. Fue en 2018 cuando los alcaldes se dieron cuenta de que las cosas no iban bien en el Collsacabra. En particular, lo que estaba pasando con espacios tan emblemáticos como el Salt de la Foradada o el Morro de l’Abella, espacios naturales muy significativos dentro de figuras de protección pero sin órganos de gestión. El Collsacabra es un territorio precioso, pero si no gestionamos bien estos espacios, el turismo acaba perjudicándolos. Estos espacios naturales, muy valorados por la población local, se estaban masificando, y cuando saltó la alarma nos reunimos con los alcaldes para buscar soluciones.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Diseñamos un programa, Santuarios Naturales, para concienciar a la ciudadanía sobre la necesidad de preservar los valores de los territorios que visitan. Hicimos miles de entrevistas a los visitantes para identificar los valores que buscaban, definir las amenazas y recopilar propuestas. De esta labor participativa surgió una campaña de sensibilización que dio trabajo a los jóvenes de los pueblos y que, años después, validada con éxito en una nueva campaña de participación, se convirtió en ordenanza municipal. Hoy, Santuarios Naturales y los jóvenes del territorio gestionan 10 espacios naturales en Osona, y en 2023 recibimos un reconocimiento internacional.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Este hecho generó un espacio de coordinación entre los tres alcaldes del Collsacabra que antes no existía, y a partir del entendimiento comenzaron a suceder cosas más allá de cada pueblo, en el ámbito territorial.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "4. ¿Hablas de una política territorial conjunta? ¿Cuál fue la primera acción concreta que propusiste para gestionar mejor el territorio?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gerard Costa:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Bueno, lo primero que surgió de estas reuniones con los alcaldes fue la falta de perspectiva del \"Collsacabra\" como territorio conjunto, como bioregión, mucho más allá de las políticas de cada municipio. También nos dimos cuenta de la necesidad de planificar y gestionar correctamente el uso público de nuestro paisaje natural. Así que pedí ayuda a dos buenos amigos para realizar un diagnóstico inicial: Josep Maria Mallarach, de Olot, consultor reconocido internacionalmente, y Josep Gordi, geógrafo que entonces era decano de la Facultad de Letras de la Universidad de Girona.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Al analizar el Collsacabra descubrimos un territorio vivo, habitado, con una geografía preciosa y gran biodiversidad. Un territorio interconectado sistémicamente con los territorios vecinos, con el turismo y el desarrollo, con un potencial enorme, pero también sometido a ciertas presiones que debían gestionarse. La gran conclusión de este diagnóstico fue que el Collsacabra estaba en una fase de maduración, pero sin una estrategia clara ni visión de futuro. Así que lo primero que propusimos fue desarrollar un plan estratégico, que no fuera un documento formal, sino una visión de futuro, elaborado desde dentro, con la participación activa de los locales y la implicación de las administraciones, pero sobre todo con la mirada puesta en los valores naturales y culturales que definen este territorio.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "5. ¿Qué dificultades encontraste al presentar una propuesta de tanto peso y cómo las afrontaste?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gerard Costa:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " La dificultad era trabajar en una visión de futuro como plan estratégico, pero sin que fuera un plan definido por expertos, como suele pasar: un documento de 300 páginas que termina en un cajón. Lo importante era escuchar la realidad del territorio y su potencial, y generar suficiente confianza política para abrir la mirada hacia una gobernanza bioregional participativa, que incluyera a ciudadanía y administraciones locales.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Mallarach y Gordi ya nos habían advertido que los planes estratégicos ejecutados por agencias especializadas suelen ser muy genéricos y sin vínculo real con un territorio determinado. Así que lo que necesitábamos no era un documento que definiera el futuro del Collsacabra, sino un cambio de rumbo, incluyendo el territorio y sus habitantes en este espacio tan privilegiado para decidir hacia dónde queremos ir como comunidad, cómo queremos vernos dentro de 10 años y llevarlo adelante juntos.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Trabajamos en esta línea, con un formato muy orgánico.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "6. En tu proyecto, contaste con la colaboración de expertos. ¿Cómo los seleccionaste y qué aportaba cada uno al proyecto?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Gerard Costa:",
+                    "type": "text"
+                  },
+                  {
+                    "text": " Los alcaldes me encargaron este reto con un pequeño presupuesto con el que pude reunir un equipo de expertos. Quería trabajar con personas que pudieran aportar una mirada abierta al proyecto, personas con experiencia profesional vinculada al territorio y con capacidad para transversalizar conceptos. Contraté a Josep Maria Mallarach, por proximidad geográfica y porque aportaba una visión global y experiencia en muchos lugares del mundo sobre cómo cohabitar la tierra; también elegí a Jordi Pigem, filósofo vinculado a Tavertet, con una profunda conexión con la ecosofía y la visión de la naturaleza que proponía Panikkar. También conté con Guillem Mas de la asociación Paisatges Vius, de L’Esquirol, para incluir una visión naturalista, y con Estel Vilar de Cantonigròs, una persona muy sensible especializada en la tradición china que aportaba una visión del territorio como un organismo vivo, interconectado con energía y biodinámicas propias, y yo mismo como nexo.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El documento resultante era una simple visión positiva y negativa de lo que podíamos llegar a ser en el futuro dentro de un contexto de poli-crisis global; de alguna manera permitía visualizar dónde estábamos y los diversos escenarios que se podían desarrollar, y, por supuesto, animaba a iniciar una consulta ciudadana vinculada con el objetivo de poner en marcha una estructura de gobernanza bioregional capaz de trabajar junto con las administraciones locales hacia una visión de futuro compartida por todo el territorio.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "7. ¿Cómo lograste que los alcaldes aceptaran la propuesta de crear una política territorial?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Creo que las circunstancias ayudaron, estábamos en la pandemia y en ese contexto global sus vecinos eran sus mejores aliados. Los alcaldes inicialmente no tenían visión conjunta de la Collsacabra, pero pronto se sentían muy cómodos trabajando juntos. La predisposición de los tres alcaldes era un elemento clave. La visión del futuro fue muy bien recibida, alcaldes, concejales y técnicos la hicieron suya y se firmó un acuerdo de compromiso como territorio en Cantonigròs que situó a los tres consejos para llevar a cabo la propuesta. Recuerdo que también hicimos una reunión con los alcaldes de los territorios vecinos que forman parte del Collsacabra geográfico como el Vall d'en Bas, Sant Feliu de Pallerols, les Planes d'Hostoles y Susqueda para generar un tejido de alianzas y apoyo en desafíos compartidos. Comenzó una nueva política territorial, por sí sola, surgió una alianza.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El siguiente paso fue convocar a la población del territorio e iniciar una consulta ciudadana, por áreas de interés o cuadros de trabajo que de manera estable están involucrados y lideran su propia visión del futuro para su territorio.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Le pedí ayuda a Manel Buch, un conocido cineasta con sede en Cantonigròs, y grabamos entrevistas con los agentes clave del territorio para compartir los mensajes de vídeo en las redes Collsacabra sobre temas que conciernen a los ciudadanos con el objetivo de generar una ola participativa imparable. Los alcaldes solicitaron financiación de la Diputació de Barcelona para iniciar la campaña consultiva y participativa. ",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una \"visión del futuro\" para Collsacabra es crear un enfoque sostenible y regenerativo del territorio, que integra los valores que lo definen y lo potencia. Comenzamos a trabajar sobre la base de identificar los elementos que hicieron de Collsacabra un paisaje habitado, vivo y único y que nos permitió mantener nuestra identidad, sin caer en la gentrificación o el turismo incontrolado. Este trabajo incluye entender cuáles son las amenazas y oportunidades, cómo las actividades agrícolas, ganaderas, turísticas y forestales pueden gestionarse de manera equilibrada y aportar valor al territorio, y cómo todo esto articula dentro del sistema más amplio. Siempre desde la participación y participación de ciudadanos y entidades del territorio. Esto no es sólo un plan de desarrollo económico, sino también la sostenibilidad social y ambiental de la zona, buscando siempre un modelo de máxima resiliencia para el futuro. ",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "\n",
+                    "type": "text",
+                    "italic": true
+                  },
+                  {
+                    "bold": true,
+                    "text": "8. Cuando hablas de crear una \"visión de futuro\" para el Collsacabra, ¿qué significa exactamente?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una \"visión de futuro\" para el Collsacabra es crear un enfoque sostenible y regenerativo para el territorio, que integre los valores que lo definen y los potencie. Comenzamos trabajando sobre la base de identificar los elementos que hacen del Collsacabra un paisaje habitado, vivo y único y que nos permiten mantener nuestra identidad, sin caer en la gentrificación o el turismo descontrolado. Este trabajo incluye entender cuáles son las amenazas y oportunidades, cómo se pueden gestionar las actividades agrícolas, ganaderas, turísticas y forestales de manera equilibrada y que aporten valor al territorio, y cómo todo esto se articula dentro del sistema más amplio. Siempre a partir de la participación e implicación de la ciudadanía y las entidades del territorio. No se trata solo de un plan de desarrollo económico, sino también de la sostenibilidad social y ambiental de la zona, buscando siempre un modelo de máxima resiliencia para el futuro.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "9. ¿Cuál fue el siguiente paso después de haber presentado la \"Visión de Futuro\" a los alcaldes? ¿Qué pasó después de ese momento inicial?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esta declaración oficial marcó el inicio del siguiente paso, que era la implicación ciudadana. Un año después, la Diputación de Barcelona facilitó el presupuesto para un proceso participativo que, según los estándares de un acuerdo marco que define qué empresas ejecutan estos proyectos, la agencia externa EspaiTres lideró. Se propuso un trabajo participativo con el fin de consensuar la visión de futuro del Collsacabra con los vecinos. El objetivo era que la ciudadanía pudiera aportar ideas, así que se propusieron varias mesas de trabajo para recoger los principales retos y, a la vez, propuestas de actuación a partir de la participación en los 3 pueblos. La implicación y participación ciudadana fue baja; la falta de cultura participativa y las dificultades para trabajar de forma colectiva fueron obstáculos que no se resolvieron completamente. Mucha gente no estaba acostumbrada a pensar de manera conjunta, a cooperar y a compartir recursos y conocimientos entre pueblos y sectores. También faltó la participación de la gente joven.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Se recogieron muchas propuestas brillantes que generaron un documento muy enriquecido y extenso, pero de difícil aplicación porque el proceso culminó con las mesas disueltas y sin recursos efectivos para coordinar y hacer efectivas las acciones.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En esa época, la participación ciudadana se entendía como un objetivo en sí, una forma de permeabilizar la democracia y no tanto como un medio de implicación ciudadana, de cultura participativa. Lo que se había proyectado desde la Visión de Futuro era implicar a la comunidad no solo en proyectar, sino en articular las propuestas de forma organizada y colectiva junto con sus ayuntamientos. Esto no sucedió y el proceso terminó con el documento formal. Hoy la participación se entiende más como una herramienta de trabajo para un fin más grande y transformador.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "10. ¿Cuáles fueron los principales fracasos de este proceso y qué se puede aprender de ello para el futuro?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Bueno, yo no lo llamaría fracaso, sino un primer paso hacia esta cultura de la participación necesaria para reconvertir nuestras comunidades en personas implicadas en el devenir de su territorio y su paisaje cultural con una mirada al futuro. Las carencias fueron la falta de cohesión, la desconexión con la realidad local y la ausencia de recursos para articular el proceso. Aunque el documento final contenía propuestas valientes, el hecho de no implicar activamente a la ciudadanía ni generar acciones concretas resultó ser una pérdida de oportunidades.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lo que se puede aprender de esta experiencia es que los procesos de participación no pueden venir desde fuera, sino que se necesitan alianzas reales con la comunidad y un enfoque de aprendizaje compartido capaz de transformar. La gente del territorio debe sentirse parte de este proceso desde el principio, liderarlo con una metodología adecuada a sus intereses, lenguaje y necesidades. Lo más importante es entender que la participación debe ser más que una \"acción\" institucional; debe ser una práctica continuada que implique no solo recoger opiniones, sino también trabajar conjuntamente hacia el objetivo común. Así, el futuro debe pasar por una gestión colaborativa basada en la confianza y el trabajo compartido entre todos los actores sociales, culturales, económicos e institucionales.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "11. ¿Cómo surgió la creación de la Mesa de la Agricultura del Collsacabra y qué objetivos buscaban alcanzar con este espacio?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La creación de la Mesa de la Agricultura y del Producto Local del Collsacabra surgió a raíz de una conversación casual con un ganadero del pueblo sobre dos temas particulares. En una reunión en el Ayuntamiento, el ganadero pedía poder hacer un cobertizo agrícola, y yo quería que conectaran el agua a la red en Les Comes, la masía donde tenemos las oficinas, sin agua de red. Ambos salimos del ayuntamiento sin soluciones. Después de este encuentro, nos dimos cuenta de que ambos estábamos solos, en situaciones similares de injusticia y dificultades para gestionar nuestras actividades. Pensé que nuestros problemas eran genéricos de muchos campesinos y gente de las masías y que, si nos juntábamos, podríamos unir fuerzas y convertirnos en un interlocutor válido ante las administraciones.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Así que, con este sentimiento de colaboración y unión de fuerzas y con el financiamiento y apoyo de Miceli Social, creamos la Mesa de la Agricultura con el objetivo de reunir a todos aquellos que vivimos en la agricultura: ganaderos, agricultores, productores y restauradores, y aquellos que teníamos carencias comunes. Con esta mesa queríamos crear un espacio de cooperación y ser un interlocutor fuerte ante las instituciones, para poder impulsar iniciativas colectivas que beneficiaran a los tres sectores implicados. Así, la Mesa nació para cubrir carencias conjuntas y dar respuestas eficaces a las necesidades sociales del territorio que no se estaban atendiendo.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "12. ¿Cuáles fueron los tres principales retos que la Mesa de la Agricultura identificó en sus primeras reuniones y qué soluciones se propusieron?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En la primera reunión de la Mesa de la Agricultura, éramos unos 35-40 asistentes de todo el Collsacabra y detectamos tres retos clave. El primero era que las administraciones no nos entendían, es decir, que no están conectadas con la realidad local y no comprenden o no pueden articular nuestras necesidades específicas. El segundo reto era que no nos conocemos lo suficiente entre nosotros, lo que dificultaba la cooperación y la creación de alianzas útiles para afrontar retos comunes. El tercer reto era que los intermediarios fijaban los precios de venta y se llevaban gran parte de los beneficios. La solución que propusimos fue, en primer lugar, establecer un mayor grado de comunicación y colaboración entre nosotros, superar el individualismo y trabajar conjuntamente. Así, comenzamos a proponer acciones concretas, como crear un taller compartido, y también empezamos a invitar a políticos, técnicos y otros actores sociales para ver si podíamos sentar las bases para resolver estos retos de manera conjunta.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "13. ¿Cuál fue la respuesta de los actores institucionales y cómo influyó su actitud en la evolución de la Mesa de la Agricultura?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En las reuniones siguientes, invitamos a técnicos, políticos y otros representantes relacionados con los tres retos identificados: Teresa Colell, responsable del Plan Estratégico de la Alimentación de Cataluña; Albert Puigvert, gerente de la Asociación de Iniciativas Rurales de Cataluña; Margarida Feliu, vicepresidenta del Consejo Comarcal de Osona; y Abel Peraire, responsable de una explotación ganadera en el Lluçanès con producción y distribución propias. La respuesta fue muy positiva e inspiradora, porque vimos el potencial de trabajar conjuntamente y que realmente podíamos mejorar la situación del territorio.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Un punto clave surgió cuando Teresa Colell nos explicó que las ayudas que la Generalitat destina a los ganaderos no llegaban de manera efectiva porque, como agricultores individuales, éramos demasiado pequeños, pero si nos uníamos, podríamos acceder a esas ayudas y obtener recursos. Esto generó un consenso sobre la necesidad de unirnos para ser más fuertes como grupo, y abrió la puerta a enfocar las carencias detectadas, solicitando apoyo para realizar un estudio de viabilidad de un taller compartido.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Aun así, no todo fue fácil: todavía encontramos resistencias a la hora de tomar decisiones concretas, colectivas y duraderas, pero fue un primer paso para establecer un camino de colaboración y unión entre nosotros y las instituciones.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "14. ¿Cuál fue el principal obstáculo que encontraron al intentar crear el taller compartido y cómo influyó en el proyecto?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El principal obstáculo fue la burocracia y las dificultades logísticas. Al no tener un NIF propio, nos unimos con la Asociación de Ganaderos de la Serra de Bellmunt, del territorio vecino, para solicitar la ayuda conjuntamente. Esto trasladó el epicentro de ambos territorios a la Plana de Vic y, finalmente, el taller se habría instalado en Manlleu, demasiado lejos tanto para los ganaderos del Collsacabra como para los de Bellmunt, por lo que el proyecto no continuó, aunque la necesidad persiste.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A pesar de no lograr poner en marcha el taller, el trabajo en equipo y la creación de la Mesa de la Agricultura nos permitió generar conocimiento y experiencia para seguir avanzando. Cada año organizamos unas jornadas técnicas donde invitamos proyectos inspiradores de otros territorios rurales, como la asociación “Terra de Masies” del Solsonès o la Feria del Cordero de la Asociación de Ganaderos del Pallars.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Actualmente, estamos reactivando el proyecto del taller compartido en el Collsacabra desde las entidades y ayuntamientos, buscando cómo superar la falta de estructura y financiación.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cuando entendemos el Collsacabra como un organismo vivo, cada acción, desde el cuidado del territorio hasta la transformación de nuestras prácticas individuales, se convierte en un puente hacia la regeneración colectiva, donde la interconexión entre la naturaleza y las personas guía el camino hacia una comunidad equitativa y resiliente.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "15. ¿Cómo te imaginas el futuro del Collsacabra y qué acciones son necesarias para garantizar su sostenibilidad a largo plazo?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El futuro del Collsacabra debe pasar por un modelo de cooperación y cohesión entre todos los actores del territorio, basado en una política participativa a nivel bioregional. Lo que intentamos construir es un sistema resiliente, con una economía local fuerte y vinculada a los valores de la tierra y el producto local. Para lograrlo, debemos seguir trabajando en las acciones que ya hemos iniciado, pero con una visión más a largo plazo.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Es importante crear sinergias con otros actores, sean de la misma comarca o de otras zonas, porque un proyecto como el del Collsacabra no se puede concebir de forma aislada. Para garantizar la sostenibilidad del territorio, se necesita una transición ecosocial, una estrategia que incluya la creación de infraestructuras compartidas, el impulso de proyectos agrícolas y ganaderos sostenibles, y la preservación de los paisajes naturales, manteniendo el equilibrio entre economía, cultura local y naturaleza.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "También es esencial potenciar la capacidad de las comunidades locales para afrontar los retos, con la implicación activa de jóvenes y mujeres en el proceso. Por último, la transparencia y la eficiencia en la gestión de recursos, así como la creación de redes de colaboración entre sectores, administraciones e instituciones, serán clave para que el Collsacabra siga siendo un ejemplo de bioregionalización regenerativa.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Texto",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Cuando entendemos el Collsacabra como organismo vivo, cada acción, desde el cuidado del territorio hasta la transformación de nuestras prácticas individuales, se convierte en un puente hacia la regeneración colectiva, donde la interconexión entre la naturaleza y las personas guía el camino hacia una comunidad equitativa y resiliente.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "cita 1",
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "15. ¿Cómo se imagina el futuro de Collsacabra y qué acciones son necesarias para garantizar su sostenibilidad a largo plazo?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El futuro de Collsacabra debe pasar a través de un modelo de cooperación y cohesión entre todos los actores del territorio desde una política involucrada en el ámbito biorregional. Lo que estamos tratando de construir es un sistema resistente, con una economía local fuerte y vinculado a los valores de la tierra y el producto local. Para lograrlo, tenemos que seguir trabajando de las acciones que ya hemos iniciado, pero con una visión a largo plazo mayor. Es importante crear sinergias con otros actores, ya sea en la misma región u otras áreas, porque un proyecto como Collsacabra no puede concebirse en forma aislada. Para garantizar la sostenibilidad del territorio, es necesaria una transición ecológica, una estrategia que incluya la creación de infraestructuras compartidas, el impulso de proyectos agrícolas y ganaderos sostenibles y la preservación de paisajes naturales, manteniendo al mismo tiempo el equilibrio entre economía, cultura local y naturaleza. También es esencial mejorar la capacidad de las comunidades locales para hacer frente a los desafíos, con la participación activa de los jóvenes y las mujeres en el proceso. Por último, la transparencia y la eficiencia en la gestión de los recursos, así como la creación de redes de colaboración entre diferentes sectores, administraciones e instituciones, serán fundamentales para garantizar que Collsacabra siga siendo un ejemplo de biorregionalización regenerativa.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "16. ¿Cómo surgió la creación de la Mesa de la Agricultura del Collsacabra y qué objetivos buscabais alcanzar con este espacio?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La creación de la Mesa de la Agricultura del Collsacabra surgió a partir de una conversación casual después de una reunión con un ganadero y con Gerard, de Anigami, sobre dos temas relacionados con las dificultades del territorio. En una reunión en el Ayuntamiento, un ganadero quería un cobertizo agrícola y Gerard pedía que conectaran el agua a la red en la zona de les Comes, donde no había suministro. Tras este encuentro, nos dimos cuenta de que ambos nos encontrábamos en situaciones similares de injusticia y dificultades para gestionar nuestras actividades. Coincidimos después en un bar y vimos que estábamos solos en nuestras demandas, pero que, si nos uníamos, podíamos convertirnos en un interlocutor válido frente a las administraciones. Con ese sentimiento de colaboración y unión de fuerzas, creamos la Mesa de la Agricultura con el objetivo de reunir a todos los que vivían de la tierra: ganaderos, agricultores y personas con carencias comunes. Con esta unión queríamos crear un espacio de cooperación y ser un interlocutor fuerte ante las instituciones, capaz de impulsar iniciativas colectivas que beneficiaran a todos los sectores implicados. Así nació la Mesa, para cubrir carencias compartidas y dar respuestas eficaces a las necesidades del territorio.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "17. ¿Cuáles fueron los tres principales retos que la Mesa de la Agricultura identificó en sus primeras reuniones y qué soluciones se propusieron?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En la primera reunión de la Mesa de la Agricultura identificamos tres retos clave. El primero era que las administraciones no nos entienden, es decir, que no están conectadas con la realidad local y no comprenden nuestras necesidades específicas como campesinos y habitantes del territorio. El segundo reto era que no nos conocíamos lo suficiente entre nosotros, lo que dificultaba la cooperación y la creación de alianzas útiles para afrontar retos comunes. El tercer reto era que los intermediarios —empresas o actores externos— se aprovechaban de nuestra falta de organización, cargándonos con costes o impidiendo que avanzáramos como colectivo.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La solución que propusimos fue, en primer lugar, establecer un mayor grado de comunicación y colaboración entre nosotros mismos, superar el individualismo y trabajar en conjunto. Empezamos a plantear acciones concretas, como crear un obrador compartido, e invitamos a políticos, técnicos y otros actores sociales para sentar las bases y abordar juntos estos retos.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "18. ¿Cuál fue la respuesta de los actores institucionales y cómo influyó su actitud en la evolución de la Mesa de la Agricultura?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En las primeras reuniones de la Mesa de la Agricultura invitamos a diversos actores institucionales, como representantes de la Diputación, técnicos y otros políticos. La respuesta fue, en muchos casos, positiva, porque vieron el potencial de trabajar conjuntamente con nosotros y comprendieron que realmente podíamos hacer cosas para mejorar el territorio.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Uno de los puntos clave surgió cuando Teresa Colell, una representante institucional, nos dijo que las ayudas que la Diputación destinaba a los ganaderos no llegaban de forma efectiva porque, como colectivo, éramos demasiado pequeños e individuales. Pero si nos uníamos, podríamos optimizar esas ayudas y acceder a más recursos. Así se generó un consenso sobre la necesidad de unirnos para ser más fuertes como grupo, lo que abrió la puerta a conseguir más apoyos y recursos.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Sin embargo, no todo fue fácil: aún encontramos resistencias a la hora de tomar decisiones concretas y duraderas. Pero fue un primer paso para establecer un camino de colaboración y unión entre nosotros y las instituciones.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "19. ¿Cuál fue el principal obstáculo que encontrasteis al intentar crear el obrador compartido y cómo influyó en el proyecto?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El principal obstáculo que encontramos al intentar crear el obrador compartido fue que, aunque contábamos con el apoyo teórico de la Diputación y otros actores, la realidad era que la burocracia y las dificultades logísticas no nos facilitaban las cosas. Uno de los primeros problemas fue que la Mesa de la Agricultura no tenía un NIF propio, lo que nos obligó a buscar otra entidad con NIF para poder presentar la solicitud de ayudas. Esta falta de formalización inicial generó un desajuste en el proceso.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "También intentamos ubicar el obrador en un lugar más centralizado, pero los ganaderos no estaban de acuerdo, ya que consideraban que la ubicación —en Manlleu— no ofrecía los beneficios esperados. Esto provocó un segundo desajuste en nuestra estrategia.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A pesar de estas dificultades, seguimos trabajando y manteniendo vivo el proyecto con la ayuda de otras organizaciones como Arca, continuamos reuniéndonos y avanzamos en otras acciones conjuntas para encontrar soluciones. Aunque no logramos sacar adelante el obrador, el trabajo en equipo y la creación de la Mesa de la Agricultura nos permitió generar conocimiento y experiencia para seguir avanzando.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "20. ¿Cómo te imaginas el futuro del Collsacabra y qué acciones son necesarias para garantizar su sostenibilidad a largo plazo?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El futuro del Collsacabra debe pasar por un modelo de cooperación y cohesión entre todos los actores del territorio. Lo que intentamos construir es un sistema resiliente, con una economía local fuerte y vinculada al medio natural. Para lograrlo, debemos seguir trabajando en las acciones que ya hemos iniciado, pero con una visión más a largo plazo.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Es importante crear sinergias con otros actores, ya sean de la misma comarca o de otras zonas, porque un proyecto como el del Collsacabra no puede concebirse de manera aislada. Para garantizar la sostenibilidad del territorio, hace falta una estrategia que incluya la creación de infraestructuras compartidas, el impulso de proyectos agrícolas y ganaderos sostenibles y la preservación de los espacios naturales, manteniendo siempre el equilibrio entre economía, cultura local y naturaleza.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "También es esencial potenciar la capacidad de las comunidades locales para afrontar los retos, con la implicación activa de jóvenes y mujeres en el proceso. Finalmente, la transparencia y la eficiencia en la gestión de los recursos, así como la creación de redes de colaboración entre los distintos sectores, serán claves para garantizar que el Collsacabra siga siendo un ejemplo de bioregionalización regenerativa.",
+                    "type": "text",
+                    "italic": true
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": null,
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "El Collsacabra es como un río que fluye silenciosamente: cada gota se une a las demás para formar una corriente que transforma suavemente el paisaje, adaptándose y renovándose constantemente, guiada por la armonía de sus aguas.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imágenes",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 619,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusión",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": "Conclusión",
+            "titleHeading": "h2",
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "El papel de Miceli Social en la regeneración de ruralidades como el Collsacabra",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El modelo de transformación que se está desplegando en el Collsacabra, tal como nos ha explicado Gerard Costa, es un ejemplo claro de cómo los territorios rurales pueden gestionarse de manera regenerativa y adaptativa, trabajando desde dentro, con la colaboración activa de todos los agentes locales e integrando visiones y conocimientos diversos. La creación de espacios de participación como la Mesa de la Agricultura y las estrategias para fomentar la cooperación y la sostenibilidad local muestran un camino hacia la bioregionalización regenerativa que ha demostrado ser eficaz en el contexto del Collsacabra.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Este enfoque, sin embargo, no se limita solo a este territorio. Miceli Social, de la cual Gerard es vicepresidente, es una cooperativa de segundo grado que tiene como objetivo acompañar proyectos de cambio social y ambiental en las ruralidades. Su experiencia acumulada a través de procesos como el del Collsacabra los posiciona como un actor fundamental en la generación de cambios similares en otros contextos rurales de Cataluña y más allá.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Lo que hace única a Miceli Social es su capacidad para unir esfuerzos entre distintos agentes sociales, económicos y políticos para crear modelos territoriales resilientes y justos. Su enfoque como cooperativa de segundo grado les permite trabajar de manera transversal e integrar diferentes sectores de la sociedad: desde la agricultura y la ganadería hasta el turismo sostenible y la gestión forestal, siempre manteniendo el equilibrio con la naturaleza y promoviendo la regeneración de los recursos naturales.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El papel de Gerard y de Miceli Social en este proceso no es solo el de facilitadores, sino también el de generadores de espacios donde las distintas voces locales pueden ser escuchadas y donde se puede tejer una visión común de futuro. Así, Miceli Social puede convertirse en una pieza clave para aquellos territorios rurales que quieran emprender procesos de regeneración y transición hacia modelos sostenibles y justos. A través del trabajo colaborativo, la formación de equipos locales y la puesta en marcha de proyectos que integren la sostenibilidad social, económica y ambiental, Miceli Social ofrece las herramientas necesarias para que otras ruralidades den el salto hacia una regeneración real y efectiva.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En definitiva, Miceli Social, con su mirada inclusiva y su enfoque de trabajo en red, tiene el potencial de convertirse en un referente en la creación de estrategias de desarrollo sostenible y regenerativo en otras zonas rurales que quieran abordar los retos globales desde una perspectiva local y comunitaria. Con este modelo, se pueden generar cambios profundos y sostenibles que no solo transformen las comunidades, sino que también contribuyan a la construcción de un futuro más equilibrado y resiliente para todos.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Además, este proceso fomenta un cambio cultural en las comunidades, creando un sentido de pertenencia y responsabilidad compartida. Las comunidades pasan a ser agentes activos de la regeneración, preparándose para afrontar los cambios futuros con estrategias a largo plazo.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esta aplicación de la bioregionalización incrementa la resiliencia territorial, permitiendo que el territorio se regenere a través de sus propias dinámicas. Cuanto más comprendemos las interrelaciones del lugar, mayor capacidad tenemos para afrontar retos globales y locales, creando soluciones a largo plazo y ayudando a las comunidades a prosperar.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En resumen, la bioregionalización es un proceso de identificación de patrones y regeneración activa que permite aprovechar el potencial inherente de los lugares. Esto no solo ayuda a afrontar retos inmediatos, sino que también abre el camino hacia un futuro más adaptativo y resiliente. Las crisis se convierten en oportunidades para la evolución y la prosperidad.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": [],
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "kzyjg9bhzq9rv1nn3dvmf3ju"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

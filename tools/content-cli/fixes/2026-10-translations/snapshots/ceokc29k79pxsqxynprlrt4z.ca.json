@@ -1,0 +1,489 @@
+{
+  "data": {
+    "name": "Xarxes, Ecosistemes i Pols Cooperatius de Laura Comas",
+    "slug": "xarxes-ecosistemes-i-pols-cooperatius-de-laura-comas",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2025-09-20T15:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Xarxes, Ecosistemes i Pols Cooperatius- Discurs de Laura Comas",
+      "metaDescription": "Laura Comas Martinez, sòcia de Resilience.Earth, analitza els reptes i potencialitats del cooperativisme territorial a Catalunya, destacant la necessitat de superar la centralització i fomentar ecosistemes distribuïts i arrelats. A través de metàfores naturals —el bosc de ribera, els micelis o les conques fluvials—, proposa entendre el cooperativisme com un ecosistema viu i interconnectat, capaç d’autoregular-se i regenerar la vida col·lectiva. Una invitació a repensar la governança i la cooperació des d’una mirada bioregional i sistèmica.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1083
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Xarxes, Ecosistemes i Pols Cooperatius. Cap a noves articulacions territorials.",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite> Una reflexió de Laura Comas en clau de mirada territorial de la FCTC, en el marc del Fòrum Cooperativista celebrat a Girona el 19 de setembre 2025. </cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 1083,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "content",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "article",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "“Les tensions són reals, sí, però també són energia. I si les sabem escoltar, poden esdevenir motor de noves formes.”",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "1. Concentració i reptes del cooperativisme",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Crec que totes les presents som conscients de la concentració del cooperativisme a Barcelona. El 45% de les cooperatives de treball federades es troben al Barcelonès. I aquestes paraules, de vegades, poden generar resistències. Cal dialogar-les, cal comprendre totes les parts. Les tensions són reals, sí, però també són energia. I si les sabem escoltar, poden esdevenir motor de noves formes.",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Crec firmament que el cooperativisme i l’articulació territorial poden ser punta de llança per proposar i impulsar un canvi disruptiu en la tendència centralitzadora de les ciutats. Un canvi que podria anar més enllà del cooperativisme, amb impacte en molts altres sectors i àmbits de la societat. De fet, avui tenim les condicions per generar un escenari amb nodes diversos, arrelats i coordinats entre ells.",
+                    "type": "text"
+                  },
+                  {
+                    "url": "https://www.catalysts.community/toolkit-essentials-en",
+                    "type": "link",
+                    "children": [
+                      {
+                        "text": "",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "&nbsp;",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En aquest context, els Ateneus Cooperatius juguen un paper fonamental. I cal tenir en compte la diversitat de la distribució territorial, per exemple, l’Ateneu de Terres Gironines és el que cobreix la superfície més gran de Catalunya: 7 comarques, 208 municipis i gairebé 5.000 quilòmetres quadrats. El segueixen l’Alt Pirineu i Aran, la Catalunya Central, Ponent Coopera i CoopCamp.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Cal analitzar les dades amb altres mirades. El Pallars Sobirà, per exemple, és la comarca amb més cooperatives per habitant, tot i tenir molt poca població. Això ens indica que existeix un fort teixit cooperatiu. I aquí em pregunto: quin paper han tingut els grups locals de la XES en l'activació i expansió de l’economia social i solidària arreu del país?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Per poder atendre preguntes com aquesta, abans de passar a l’acció, us en convido a fer-ne una altra: Quin potencial té el moviment cooperatiu a Catalunya si enlloc de seguir la inèrcia centralitzadora, experimenta models més distribuïts?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "2. Ecosistemes cooperatius i aprenentatges de la natura",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Ens trobem en un moment emergent d’ecosistemes i pols cooperatius. I vull compartir amb vosaltres un ecosistema proper, que a mi m’inspira i m’ajuda a tenir les coses més clares: el bosc de ribera.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "A primer cop d’ull pot semblar que cadascú va a la seva: els ànecs nedant tranquils, els peixos movent-se en bancs, els crancs de riu amagats sota les pedres. Fins i tot els crancs americans, que van arribar de fora i amenacen els autòctons. Allà estan. Els hi diem invasors, sí, però sabeu què? La llúdriga, que havia estat en perill d’extinció, ha trobat en ells un banquet. I ara la seva població creix.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "No tinc la solució pels coipus de manera immediata. Però amb aquestes espècies veiem que si una peça es descompensa, tot l’entorn se’n ressent. ",
+                    "type": "text"
+                  },
+                  {
+                    "bold": true,
+                    "text": "No podem respondre des de la mateixa lògica lineal i centrada en el problema. Necessitem noves mirades que ajudin a l’autoregulació del sistema, que augmentin la vitalitat i la diversitat. La natura ens ensenya que els desequilibris no sempre es resolen amb control, sinó amb noves relacions i connexions. Com la polèmica reintroducció del llop al Yellowstone fa vint anys, que ha regenerat tota la biodiversitat del parc.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Seguim al bosc de ribera. Comenceu a notar la humitat de les falgueres? I com canten les mallerengues? Elles mantenen a ratlla les plagues i es cruspeixen milers de mosquits. En un bosc de ribera, cada espècie ocupa el seu nínxol.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "3. El cor del bosc i la governança distribuïda",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Al cor d’aquest ecosistema hi ha la verneda. Els verns, gegants amb els peus dins l’aigua, són refugi d’ocells, insectes i mamífers. Quan veus un bosc de verns, saps que el riu és sa. Els verns són bioindicadors: ens mostren si la vida floreix o s’apaga. A mi em recorden aquells pols cooperatius que, en un barri, poble o comarca, dinamitzen un ecosistema, generant mancomunació, solidaritat i arrelament.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "I sota terra, ocults als nostres ulls, hi ha els micelis. Ells connecten arbres, plantes i ecosistemes, compartint nutrients, informació i equilibri. No tenen un centre, té diferents nodes, tanmateix, sosté el bosc: són una institució distribuïda i resilient. Podem dir, doncs, que l’organisme més gran del planeta funciona des d’una governança distribuïda.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En aquest bosc aparentment caòtic hi ha equilibri i cooperació, diversitat, interdependència i ordre. Cada espècie treu el màxim del seu potencial, no per competir, sinó per viure i regenerar la vida. Totes les espècies viuen per regenerar la vida.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "4. Conques, bioregions i mirada compartida",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Però si ampliem la mirada, veiem que el riu no és només el bosc de ribera. El riu forma part d’una conca hidrogràfica. Aquí, a Girona, estem a la conca del Ter: cada gota que cau al Collsacabra probablement acaba trobant el seu camí fins a Pals.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "La conca es pot percebre com una bioregió. No hi ha frontera entre dalt i baix, entre bosc i ciutat, entre pagesia i indústria. Si tot està connectat, on comença la frontera entre l’urbà i el rural? Quin és el nostre rol dins aquest ecosistema? Som ànecs, coipus, verns, micelis... o potser tot a la vegada? Imaginem que els nostres ecosistemes cooperatius es dibuixessin seguint les conques hidrogràfiques en lloc de les divisions administratives. Quin mapa sortiria? Com canviarien les aliances?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "L’aigua, mentrestant, té una direcció. Sempre va cap al mar, però no té un sol origen. Rep afluents, rierols, fonts amagades. Com aquí a Girona, la ciutat dels quatre rius: el Ter, l’Onyar, el Güell i el Galligant, tots formant part de la mateixa conca. Quanta vida, eh! Moltes entrades, una direcció compartida. Aquesta és la metàfora perfecta per a la jornada d’avui.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "I per acabar, només em queda agrair l’espai i convidar-nos a pensar des del nostre potencial, des del nostre nínxol i des del nostre lloc.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Una reflexió de Laura Comas com a representant de la mirada territorial FCTC, compartida durant la celebració del Forum Cooperativista Xarxes, Ecosistemes i Pols Cooperatius. Cap a noves articulacions territorials, celebrat el divendres 19 de setembre 2025 al Centre Cívic de Sant Narcís, Girona. ",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1080,
+            "styles": null,
+            "c2a": {
+              "text": null,
+              "href": null,
+              "target": null,
+              "cssClass": null,
+              "page": null
+            },
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "un altra foto",
+        "styles": {
+          "cssClass": "pt-0 zpb-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 1074,
+            "styles": {
+              "cssClass": "media-border-radius",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        },
+        {
+          "documentId": "wdxle0jcaaimiq811ax69yf0"
+        },
+        {
+          "documentId": "hssiiy2x3556i9hnb2bdj2cr"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "fuidh03xk62s96r8jt30xzdh"
+        }
+      ]
+    },
+    "year": {
+      "set": [
+        {
+          "documentId": "ufqzqdqlnm0c7n5yzuftrzah"
+        }
+      ]
+    },
+    "audio": null
+  }
+}

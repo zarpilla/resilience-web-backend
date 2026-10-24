@@ -1,0 +1,728 @@
+{
+  "data": {
+    "name": "Gobernanza local con la vida en el centro",
+    "slug": "gobernanza-local-con-la-vida-en-el-centro",
+    "type": "article",
+    "pageCss": null,
+    "headerColorMode": "light",
+    "client": null,
+    "metaColor": null,
+    "readTime": null,
+    "author": null,
+    "sortDate": "2024-11-10T17:30:00.000Z",
+    "metadata": {
+      "metaTitle": "Gobernanza local con la vida en el centro - Melina Angel",
+      "metaDescription": "El biorregionalismo y la biomímesis nos ofrecen la oportunidad de repensar la gobernanza local desde una perspectiva más armoniosa y conectada con la naturaleza. Melina Ángel nos recuerda que poner la vida en el centro de las decisiones es clave para crear modelos sostenibles e inclusivos, que respeten tanto las necesidades humanas como las dinámicas de los ecosistemas. Esta transformación implica no solo escuchar a los territorios, sino también desaprender las estructuras heredadas del colonialismo y avanzar hacia una relación más equitativa con la tierra y entre comunidades.",
+      "noIndex": false,
+      "metaDescriptionShort": null,
+      "shareImage": 1009
+    },
+    "sections": [
+      {
+        "__component": "sections.hero",
+        "title": "Gobernanza local con la vida en el centro",
+        "titleHeading": "h1",
+        "text": [
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              {
+                "text": "<cite>Una conversación con Melina Ángel sobre la necesidad de priorizar la vida en todas las decisiones y procesos de gobernanza.</cite>",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "align": "bottom-left",
+        "alias": null,
+        "styles": {
+          "cssClass": null,
+          "height": "75vh",
+          "textColor": "light",
+          "margin": null,
+          "padding": null,
+          "background": "none",
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": "#000",
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": 866,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        }
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "texto 2 columnas",
+        "styles": {
+          "cssClass": null,
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Cuando ponemos la vida en el centro de la gobernanza, ¿qué cambia en nuestras prácticas sociales?",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "En un mundo marcado por la crisis climática y las desigualdades sociales, el concepto de biomímesis social y biorregionalismo emerge como una propuesta revolucionaria para replantear la gobernanza local. Óscar Gussinyer conversa con Melina Ángel, experta en biomímesis aplicada a los sistemas sociales y miembro de la organización Meraki en Colombia. Juntos exploran cómo las comunidades indígenas y los ecosistemas pueden inspirar modelos de gobernanza que pongan la vida en el centro.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "&nbsp;",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Texto",
+            "media": null,
+            "styles": {
+              "cssClass": "pb-0",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.video",
+        "title": "la tierra no es un recurso; es un sistema vivo con el que hay que dialogar y armonizarse.",
+        "embed": null,
+        "url": "https://www.youtube.com/watch?v=Cl-iibZnbbw&t=2s",
+        "image": 1024,
+        "styles": null
+      },
+      {
+        "__component": "sections.columns",
+        "alias": null,
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": null,
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-lg-4",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Escuchar a los territorios, escuchar a la vida</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Según Melina, una de las claves para una gobernanza sostenible es aprender a escuchar profundamente a los territorios. En Colombia, las comunidades indígenas mantienen una relación directa con la tierra que va más allá de una visión extractiva o utilitarista. “Para estas comunidades, la tierra no es un recurso; es un sistema vivo con el que debemos dialogar y armonizarnos”, afirma.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esta filosofía se refleja en sus prácticas: antes de construir un puente o un camino, consultan a los ecosistemas y realizan rituales de conexión. Esto muestra una forma de actuar que prioriza la sostenibilidad y el respeto por la naturaleza, creando un modelo que podría ser adoptado por otros gobiernos locales.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>El reto de descolonizar la gobernanza</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Otro aspecto destacado en la reflexión de Melina es el reconocimiento de cómo el colonialismo ha marcado la manera en que gestionamos los territorios. En Europa, por ejemplo, la historia colonial también ha dejado huellas en las estructuras de gobierno. Las comunidades pequeñas, como los municipios rurales, a menudo reproducen modelos de centralización que no responden a las necesidades reales del territorio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Melina propone una pregunta fundamental para cambiar esta dinámica: “¿Cómo podemos poner la vida en el centro?” Esta perspectiva implica comprender qué está vivo en un territorio, ya sean las necesidades sociales, las tensiones culturales o los procesos ecológicos. Solo a través de esta escucha se pueden generar respuestas auténticas e inclusivas.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Armonía entre escalas: de lo local a lo global</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Uno de los desafíos que Melina subraya es la obsesión por escalar soluciones. La naturaleza nos enseña que la complejidad surge de las interacciones locales: individuos, comunidades y sus relaciones. Así como un bosque funciona gracias a la armonía entre árboles, plantas y animales, las comunidades humanas también necesitan dinámicas de escucha y cooperación para florecer.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "“La gobernanza es un acto de sostener lo invisible: las conexiones, las necesidades compartidas, las relaciones”, afirma Melina. Estos procesos no pueden imponerse desde arriba, sino que deben surgir de las dinámicas propias de cada territorio.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Biorregiones: una nueva forma de pertenecer</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El biorregionalismo ofrece una nueva manera de entender los territorios. En lugar de basarse en fronteras políticas arbitrarias, reconoce los límites naturales definidos por la geografía, los ecosistemas y las culturas locales. “Las biorregiones se delimitan por sí mismas. Son espacios donde las comunidades sienten que pertenecen, donde existe una relación intrínseca con la tierra”, explica Melina.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Esta conexión profunda con el territorio no solo satisface necesidades vitales, sino que también fomenta la reciprocidad y la regeneración. Por ejemplo, los ríos pueden ser vistos no como simples recursos, sino como parte de un sistema vivo que necesita cuidados para regenerarse y beneficiar a toda la comunidad.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Una economía desde la vida</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Finalmente, Melina señala que es necesario repensar la economía. En lugar de basarse en la extracción y la exportación, podemos inspirarnos en la naturaleza, donde los flujos de energía, recursos e información se organizan para generar abundancia local. Esto no significa aislamiento, sino relaciones sostenibles con otras biorregiones.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "“Un bosque es un ejemplo de economía viva: acumula recursos no para explotarlos, sino para sostener toda su red de vida. Ese es el modelo que deberíamos adoptar”, concluye.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "<h4>Biomímesis: un camino accesible para todos</h4>",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Melina recalca que no es necesario ser biólogo ni tener una formación académica especializada para aplicar la biomímesis. La vida misma nos enseña. “La clave es escuchar: escuchar a la naturaleza, escucharnos a nosotros mismos y escuchar a los demás. La vida está dentro de nosotros y a nuestro alrededor. Solo necesitamos abrirnos a esa conexión”.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Este enfoque nos recuerda que somos parte de la biosfera, no agentes separados. Si aprendemos a actuar con esta conciencia, podremos construir una gobernanza local más justa, armónica y alineada con los procesos de la vida.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": null,
+            "styles": {
+              "cssClass": null,
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "imágenes",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "narrow",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": null,
+            "titleHeading": null,
+            "alias": null,
+            "media": 385,
+            "styles": null,
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      },
+      {
+        "__component": "sections.columns",
+        "alias": "Conclusión",
+        "styles": {
+          "cssClass": "pt-0",
+          "height": null,
+          "textColor": "dark",
+          "margin": null,
+          "padding": null,
+          "background": null,
+          "width": null,
+          "sectionId": null,
+          "backgroundColor": null,
+          "container": "normal",
+          "paddingTop": null,
+          "paddingBottom": null,
+          "listenAudioBefore": null,
+          "listenAudioAfter": null,
+          "backgroundImage": null,
+          "backgroundImage2": null,
+          "backgroundVideo": null,
+          "backgroundVideoMobile": null
+        },
+        "columns": [
+          {
+            "text": null,
+            "title": "Conclusión",
+            "titleHeading": "h1",
+            "alias": "Conclusión",
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-3",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          },
+          {
+            "text": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "El biorregionalismo y la biomímesis nos ofrecen una oportunidad para repensar la gobernanza local desde una perspectiva más armoniosa y conectada con la naturaleza. Melina Ángel nos recuerda que poner la vida en el centro de las decisiones es clave para crear modelos sostenibles e inclusivos, que respeten tanto las necesidades humanas como las dinámicas de los ecosistemas. Esta transformación no solo implica escuchar a los territorios, sino también desaprender las estructuras heredadas del colonialismo, para avanzar hacia una relación más equitativa con la tierra y entre comunidades.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "title": null,
+            "titleHeading": null,
+            "alias": "Texto",
+            "media": null,
+            "styles": {
+              "cssClass": "col-12 col-md-8 offset-md-1",
+              "height": null,
+              "textColor": "dark",
+              "margin": null,
+              "padding": null,
+              "background": null,
+              "width": null,
+              "sectionId": null,
+              "backgroundColor": null,
+              "container": null,
+              "paddingTop": null,
+              "paddingBottom": null,
+              "listenAudioBefore": null,
+              "listenAudioAfter": null,
+              "backgroundImage": null,
+              "backgroundImage2": null,
+              "backgroundVideo": null,
+              "backgroundVideoMobile": null
+            },
+            "c2a": null,
+            "verticalScroller": null
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "set": [
+        {
+          "documentId": "fja5j82cp904cdyyx1u0cduj"
+        }
+      ]
+    },
+    "scopes": {
+      "set": [
+        {
+          "documentId": "sth66s3s5cbbag5wo0iw5vde"
+        }
+      ]
+    },
+    "typology": {
+      "set": [
+        {
+          "documentId": "qpf7c8h94lgfoueomj35ap7x"
+        }
+      ]
+    },
+    "year": null,
+    "audio": null
+  }
+}
