@@ -4,7 +4,15 @@
 - **Prioritat:** baixa
 - **Data:** 2026-10-24 · **Tipus:** canvi de bloc existent
 
-## Què passa
+## Troballa important (24/10/2026)
+
+A producció la llista automàtica **mai es carregava**: un error de JavaScript (`useI18n()` als
+getters de Pinia) i `useFetch` cridat des d'`onMounted` feien que es mostrés sempre la llista
+manual `blogPage` del bloc. Corregit al frontend. Per no canviar l'ordre que veien les visites,
+l'script de `sortDate` reprodueix l'ordre d'aquella llista manual. En castellà i anglès,
+a més, apareixeran els recursos que faltaven a la llista manual (p. ex. *Marcos sistémicos*).
+
+## Què passava
 
 `components/SectionsBlog.vue` (mode `filter = true`):
 
