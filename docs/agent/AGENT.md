@@ -180,7 +180,7 @@ Full per-field reference: `../manual/04-blocs.md`. Summary:
 | Component | Content source | Key fields |
 |---|---|---|
 | `sections.hero` | own fields | `title`, `titleHeading` (empty ⇒ title hidden), `text` (headings/paragraphs only), `align` (bottom-left/centered), `styles.height`, background image/video |
-| `sections.columns` | own fields | `columns[]` each: `title`, `titleHeading`, `text` (rich text), `media`, `c2a`, `styles.cssClass` (= **grid width**), `styles.padding/margin` (applied per paragraph) |
+| `sections.columns` | own fields | `columns[]` each: `title`, `titleHeading`, `text` (rich text), `media`, `c2a`, `buttons[]` (more buttons, same shape as `c2a`, rendered after it), `styles.cssClass` (= **grid width**), `styles.padding/margin` (applied per paragraph) |
 | `sections.slider` | **a Menu** (`menu`) → each child's `page` | `preset` (`three` / `services` / `one`), `subTitle` (visible title in `three`), `intervalMilliseconds`; dark look via cssClass `slider-three-black` (+ `slider-three-black-kaos orange-titles` for Caos Creatiu) |
 | `sections.menu` | a Menu | `preset`: `default` (child `title` only), `tags-cloud`, `marquee` (child `image` = logos), `navigation-arrows`; `title-sections` renders nothing |
 | `sections.masonry` | **all published articles** (`pages` field ignored) | `filter` (keep true: enables load-more), `pageSize` |
@@ -337,7 +337,8 @@ relations → `{ "set": [ { "documentId": … } ] }`.
 ### 5.2 New Eines disruptives resource
 
 Same as 5.1 with `--type resource`; shareImage landscape 4:3; download buttons are column
-`c2a` with `href` to an uploaded PDF URL and `target: "_blank"`; section #3 must stay a
+`c2a` (first) + `buttons[]` (the rest, all in the same column — do not add one Columns block
+per button any more) with `href` to an uploaded PDF URL and `target: "_blank"`; section #3 must stay a
 Columns block. Optional slider menu: "Recursos per catalitzar les teves iniciatives".
 A PDF uploaded on test has a test URL (`https://w.resilience.earth/uploads/...`): on production
 upload it again and use the production URL (`https://api-w.resilience.earth/uploads/...`).

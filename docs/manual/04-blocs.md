@@ -78,6 +78,7 @@ Camps de **cada columna**:
 | `text` | Text amb format (títols, negreta, cursiva, llistes, enllaços). |
 | `media` | Imatge, vídeo (amb controls) o àudio, sota el text. |
 | `c2a` | Un botó: `text`, `page` (pàgina interna) o `href` (adreça), `target` i `cssClass` (aspecte). Vegeu [Botons](05-estils.md#7-botons). |
+| `buttons` | Més botons, un sota l'altre, amb els mateixos camps que `c2a`. Surten després del `c2a`. |
 | `styles → cssClass` | **L'amplada de la columna** (graella de 12) i altres classes. Vegeu [Graella](05-estils.md#1-la-graella-de-12-columnes). |
 | `styles → backgroundImage` | Imatge de fons de la columna. |
 | `styles → padding` / `margin` | Espai al voltant de cada paràgraf de text i del botó. |
@@ -243,7 +244,7 @@ Pestanyes: a l'esquerra els títols, a la dreta el contingut de la pestanya acti
 
 ![Tabs](img/block-tabs.jpg)
 
-Cada pestanya és com una columna (`title`, `text`, `media`, `c2a`). Fes servir **`titleHeading` = `h2`** perquè el títol surti a la llista de l'esquerra amb l'estil correcte.
+Cada pestanya és com una columna (`title`, `text`, `media`, `c2a`, `buttons`). Fes servir **`titleHeading` = `h2`** perquè el títol surti a la llista de l'esquerra amb l'estil correcte.
 
 ---
 

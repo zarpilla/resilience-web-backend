@@ -98,7 +98,8 @@ Igual que l'[article](#pas-a-pas), amb aquestes diferències:
 - Filtra la llista per `type` = `resource` i duplica un recurs.
 - `shareImage`: **horitzontal 4:3** (1024 × 768 px).
 - `metaDescriptionShort` i `metaDescription`: la llista d'Eines mostra la curta i, si és buida, la llarga.
-- Els botons de descàrrega són el camp **c2a** de les columnes: `text` (text del botó) i `href` (enllaç al PDF). Per enllaçar un PDF: puja'l a la Media Library, copia'n l'enllaç (icona 🔗) i enganxa'l a `href`. Posa `target` = `_blank` perquè s'obri en una pestanya nova.
+- Els botons de descàrrega van a la columna del 3r bloc: el primer al camp **c2a** i la resta al camp **buttons** (una llista: **Add an entry** per cada botó, i es reordenen arrossegant). Cada botó té `text` (text del botó) i `href` (enllaç al PDF). Per enllaçar un PDF: puja'l a la Media Library, copia'n l'enllaç (icona 🔗) i enganxa'l a `href`. Posa `target` = `_blank` perquè s'obri en una pestanya nova.
+  Abans calia un bloc Columns per cada botó (com a la imatge de dalt); aquests recursos continuen funcionant igual, no cal canviar-los.
 - *(Opcional)* Afegeix-lo al slider **«Recursos per catalitzar les teves iniciatives»** (surt a la Home, al final de cada recurs i a les pàgines d'àmbit): [recepta C](#c-afegir-treure-o-reordenar-targetes-dun-slider).
 
 ---

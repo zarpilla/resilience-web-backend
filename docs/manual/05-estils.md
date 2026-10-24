@@ -237,7 +237,7 @@ Si cal una classe que no existeix, la persona tècnica la pot afegir a **Header 
 
 ## 7. Botons
 
-Els botons són el camp **c2a** d'una columna (o d'un Slider amb preset `one`).
+Els botons són el camp **c2a** d'una columna (o d'un Slider amb preset `one`) i cadascun dels de la llista **buttons** d'una columna.
 
 | Camp | Què fa |
 |---|---|
