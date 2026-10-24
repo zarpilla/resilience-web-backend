@@ -19,5 +19,11 @@ export default {
       path: "/pages/categories",
       handler: "page.categories",
     },
+    {
+      // Needs an API token (not available to the public role).
+      method: "POST",
+      path: "/pages/:id/unpublish",
+      handler: "page.unpublish",
+    },
   ],
 };

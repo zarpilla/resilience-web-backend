@@ -424,6 +424,7 @@ WRITE (needs RW_API_TOKEN; drafts by default; --yes required for non-local API)
   menu-move <menu> --from N --to M [--locale ca]
         (menus have no draft: these changes are LIVE immediately)
   publish <slug|documentId> [--locale ca]                          publish a page draft
+  unpublish <slug|documentId> [--locale ca | --all-locales]          take a page off the site (draft kept)
   template-push <file.json> --name <template name> [--locale ca]  replace a template's blocks (LIVE on every page using it)
   texts <slug> --out t.json                                        translatable texts of a page ({"pointer": "text"})
   texts-apply <slug> t.json --locale es [--publish]                es/en version = ca structure + translated texts
@@ -778,6 +779,30 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     // Re-saving the draft with status=published publishes it.
     await http("PUT", `/api/${kind}s/${doc.documentId}?locale=${locale}&status=published`, { data: {} });
     out(`published ${kind} ${doc.documentId} (${locale})`);
+  },
+
+  async unpublish() {
+    // The REST API has no unpublish: this uses the backend route
+    // POST /api/pages/:id/unpublish (needs a token with that permission).
+    assertWritable();
+    const all = !!opt["all-locales"];
+    // resolve the document from the given slug/id in --locale (the draft always exists)
+    const { documentId } = await findPage(pos[0], { st: "draft" });
+    const locs = all ? LOCALES : [locale];
+    let any = false;
+    for (const loc of locs) {
+      const q = qs({ locale: loc, status: "published", filters: { documentId: { $eq: documentId } }, populate: pagePopulate });
+      const pub = (await http("GET", `/api/pages?${q}`)).data[0];
+      if (pub) {
+        backup("page", pub);
+        any = true;
+      }
+    }
+    if (!any) die(`"${pos[0]}" is not published in ${locs.join(", ")}`);
+    const res = await http("POST", `/api/pages/${documentId}/unpublish?locale=${all ? "*" : locale}`, {});
+    out(`unpublished page ${documentId}: ${res.unpublished.join(", ") || "-"}` +
+      (res.notPublished.length ? ` (was not published: ${res.notPublished.join(", ")})` : "") +
+      `\nThe draft is kept: "publish" puts it back (per language).`);
   },
 
   async restore() {

@@ -78,6 +78,7 @@ node rw-content.mjs export <slug> --out page.json  # editable JSON
 node rw-content.mjs clone <slug> --name "New title"           # new DRAFT page copied from <slug>
 node rw-content.mjs push page.json --document <documentId>    # replace a page (draft)
 node rw-content.mjs publish <slug>
+node rw-content.mjs unpublish <slug> [--all-locales]          # off the site, draft kept (prefer this to deleting)
 node rw-content.mjs menus | menu "<title>"
 node rw-content.mjs menu-add "<menu>" --page <slug> --at 0 --title "<label>"
 node rw-content.mjs menu-remove "<menu>" --index N

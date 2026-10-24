@@ -565,5 +565,48 @@ export default factories.createCoreController(
       };
       ctx.body = { countArray };
     },
+    /**
+     * POST /api/pages/:id/unpublish?locale=ca|es|en|*
+     * Removes the published version of a page (the draft stays, as with the
+     * admin's "Unpublish" button). The REST API has no unpublish of its own.
+     * Needs an API token with this permission (full access has it); the
+     * public role does not.
+     */
+    unpublish: async (ctx) => {
+      const documentId = ctx.params.id;
+      const locale = String(ctx.query.locale || "");
+      if (!locale) {
+        return ctx.badRequest("locale is required: ca, es, en or * (all languages)");
+      }
+      const locales =
+        locale === "*"
+          ? (await strapi.plugin("i18n").service("locales").find()).map((l) => l.code)
+          : [locale];
+      const docs = strapi.documents("api::page.page");
+
+      const existing = await docs.findMany({
+        filters: { documentId },
+        locale: "*" as any,
+        status: "draft",
+        fields: ["locale"],
+        limit: -1,
+      });
+      if (!existing.length) {
+        return ctx.notFound(`page ${documentId} not found`);
+      }
+
+      const unpublished: string[] = [];
+      const notPublished: string[] = [];
+      for (const l of locales) {
+        const published = await docs.findOne({ documentId, locale: l, status: "published", fields: ["id"] });
+        if (!published) {
+          notPublished.push(l);
+          continue;
+        }
+        await docs.unpublish({ documentId, locale: l });
+        unpublished.push(l);
+      }
+      ctx.body = { documentId, unpublished, notPublished };
+    },
   })
 );

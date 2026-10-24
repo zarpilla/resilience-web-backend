@@ -21,6 +21,7 @@ node tools/content-cli/rw-content.mjs help
 | `push f.json --document <id>` / `push f.json --new` | Replace / create a page. Draft unless `--publish`. Creates the locale version if it does not exist yet. |
 | `set <page> <field> <value>` | Change one top-level field. |
 | `publish <page>` | Publish the current draft. |
+| `unpublish <page> [--all-locales]` | Take a page off the site (the draft is kept; `publish` puts it back). Saves a backup of the published version first. Uses the backend route `POST /api/pages/:id/unpublish` (the REST API has none). |
 | `menus`, `menu <title\|id>` | List menus / show a menu's items. |
 | `menu-add <menu> --page <slug> [--at N] [--title …]` | Add a card/item (live immediately). |
 | `menu-remove <menu> --index N`, `menu-move <menu> --from N --to M` | Remove / reorder (live). |
