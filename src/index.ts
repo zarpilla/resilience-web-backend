@@ -1,4 +1,5 @@
 import type { Core } from '@strapi/strapi';
+import { applyFieldHelp } from './admin-help/apply-field-help';
 
 export default {
   /**
@@ -16,7 +17,7 @@ export default {
    * This gives you an opportunity to set up your data model,
    * run jobs, or perform some special logic.
    */
-  bootstrap({ strapi }: { strapi: Core.Strapi }) {
+  async bootstrap({ strapi }: { strapi: Core.Strapi }) {
     console.log('Resilience Web Backend is starting up...');
     // we want to update the sortDate of the pages entity if it's null or undefined, only at startup
     const sortDate = new Date();
@@ -26,6 +27,9 @@ export default {
         sortDate: sortDate,
       },
     });
-    
+
+    // Catalan help texts under the fields of the admin (no effect on the website)
+    await applyFieldHelp(strapi);
+
   },
 };
