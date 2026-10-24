@@ -216,7 +216,7 @@ one row should sum ≤ 12. Without classes columns share the width equally. Plus
 Section-level helpers: `pt-0 pb-0 py-0 pt-80px mb-120px mt-150-n bg-cover bg-no-repeat
 blog-black slider-three-black slider-three-black-kaos orange-titles h3-normal h2-mb-2
 width-pct80 width-pct50 all-media-same-height d-none`. Classes starting with `z` are
-intentionally disabled — leave them. Buttons (`c2a.cssClass`): see `../manual/05-estils.md#7-botons`.
+intentionally disabled — leave them. Buttons: set `style` (`normal`, `negre`, `fosc_vora_blanca`, `fosc_blanc`, `negre_crema`, `fletxa_avall`) and `fullWidth`; leave `cssClass` empty. See `../manual/05-estils.md#7-botons`.
 
 Rich text tricks: a paragraph containing only `<hr>` ⇒ horizontal rule; inline HTML
 `<span class="orange">`, `<cite>`, `<br>`, `<a href target="_blank">` is rendered.

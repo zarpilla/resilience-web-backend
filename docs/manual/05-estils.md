@@ -245,19 +245,24 @@ Els botons són el camp **c2a** d'una columna (o d'un Slider amb preset `one`) i
 | `page` | Pàgina interna de destí (recomanat). |
 | `href` | Adreça externa (`https://...`), un PDF, un correu (`mailto:info@resilience.earth`) o una àncora (`#serveis`). Només si no hi ha `page`. |
 | `target` | `_blank` = obrir en pestanya nova (només amb `href`). |
-| `cssClass` | Aspecte del botó. |
+| `style` | **Aspecte del botó** (desplegable, vegeu la taula de sota). Per defecte `normal`. |
+| `fullWidth` | Activa'l perquè el botó ocupi tota l'amplada de la columna. |
+| `cssClass` | Avançat, normalment **buit**: classes extra que s'afegeixen a l'estil. |
 
-Combinacions de `cssClass` que es fan servir a la web:
+Opcions de `style`:
 
-| Aspecte | `cssClass` |
+| `style` | Aspecte |
 |---|---|
-| Blanc amb vora negra i fletxa → (per defecte) | `btn mt-4 btn-with-arrow-right` |
-| Negre | `btn mt-4 btn-dark btn-with-arrow-right` |
-| Fletxa ↓ | `btn mt-4 btn-with-arrow-down` |
-| Sobre fons fosc: vora blanca | `btn btn-dark btn-dark-border-white mt-4 btn-with-arrow-right` |
-| Sobre fons fosc: blanc | `btn mt-4 btn-white btn-dark-border-white btn-with-arrow-right` |
-| Negre que es torna crema en passar el ratolí | `btn mt-4 btn-dark btn-hover-cream btn-with-arrow-right` |
-| Amplada completa | afegeix `w-100` |
+| `normal` | Blanc amb vora negra i fletxa → |
+| `negre` | Negre |
+| `fosc_vora_blanca` | Sobre fons fosc: negre amb vora blanca |
+| `fosc_blanc` | Sobre fons fosc: blanc |
+| `negre_crema` | Negre que es torna crema en passar el ratolí |
+| `fletxa_avall` | Blanc amb fletxa ↓ |
+
+> Abans l'aspecte s'escrivia a mà a `cssClass` (ex: `btn mt-4 btn-dark btn-with-arrow-right`). Els
+> botons existents es van convertir al camp `style` l'octubre de 2026. Un botó sense `style` però
+> amb `cssClass` es continua pintant només amb el `cssClass`.
 
 ![Botons](img/demo-text.jpg)
 
