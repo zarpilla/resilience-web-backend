@@ -5,6 +5,7 @@ export default [
   'strapi::cors',
   'strapi::poweredBy',
   'strapi::query',
+  'global::public-published-only',
   'strapi::body',
   'strapi::session',
   'strapi::favicon',
