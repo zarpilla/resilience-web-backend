@@ -20,56 +20,57 @@ Cada bloc té un apartat **styles** i, dins dels blocs *Columns* i *Tabs*, cada 
 
 ## 1. La graella de 12 columnes
 
-Imagina que l'amplada de la pàgina està dividida en **12 franges iguals**. Cada columna d'un bloc *Columns* diu **quantes franges ocupa**. Això es fa escrivint unes **classes** al camp `cssClass` de l'apartat `styles` **de la columna**.
+Imagina que l'amplada de la pàgina està dividida en **12 franges iguals**. Cada columna d'un bloc *Columns* diu **quantes franges ocupa** amb tres camps de la columna:
+
+| Camp | Què fa |
+|---|---|
+| `width` | Franges que ocupa la columna a partir de **tauleta/ordinador** (768 px), de l'1 al 12. **Buit** = totes les columnes del bloc es reparteixen l'espai a parts iguals. |
+| `offsetLeft` | Franges **buides a l'esquerra** de la columna (a partir de tauleta/ordinador). |
+| `widthLarge` | *(Opcional)* Amplada diferent a partir de **pantalla gran** (992 px). Buit = la mateixa que `width`. |
+
+A **mòbil** cada columna ocupa sempre tota l'amplada i es posen una sota l'altra; no cal fer res.
 
 ![Graella de 12 columnes: en blau les 12 franges, en vermell cada columna](img/demo-grid.jpg)
 
-*En blau, les 12 franges. En vermell, cada columna amb la classe que té escrita.*
+*En blau, les 12 franges. En vermell, cada columna (la imatge mostra les classes CSS equivalents als camps).*
 
-### Les classes de la graella
+### Exemples
 
-| Escriu a `cssClass` | Resultat a l'ordinador |
-|---|---|
-| *(res)* | Totes les columnes del bloc es reparteixen l'espai a parts iguals. |
-| `col-12 col-md-6` | Meitat de l'amplada (6 de 12). |
-| `col-12 col-md-4` | Un terç (4 de 12). |
-| `col-12 col-md-3` | Un quart (3 de 12). |
-| `col-12 col-md-8` | Dos terços (8 de 12). |
-| `col-12 col-md-5`, `col-md-7`... | 5 de 12, 7 de 12... (qualsevol número de l'1 al 12). |
-| `col-12 col-md-8 offset-md-4` | Ocupa 8 i **deixa 4 franges buides a l'esquerra** (text a la dreta). |
-| `col-12 col-md-6 offset-md-3` | Ocupa 6 i salta 3: **centrada**. |
-| `col-12 col-md-6 offset-md-1` | Ocupa 6 i deixa 1 franja d'espai a l'esquerra (separació entre columnes). |
+| Vull | `width` | `offsetLeft` |
+|---|---|---|
+| Meitat de l'amplada | 6 | |
+| Un terç | 4 | |
+| Un quart | 3 | |
+| Dos terços | 8 | |
+| Dos terços **a la dreta** | 8 | 4 |
+| Meitat **centrada** | 6 | 3 |
+| Text centrat i estret (molt habitual) | 8 | 2 |
+| Meitat amb una franja de separació a l'esquerra | 6 | 1 |
 
-Com es llegeix:
-- **`col-12`** = «a **mòbil**, ocupa les 12 franges» (tota l'amplada). Posa-ho sempre: així a mòbil les columnes queden una sota l'altra.
-- **`col-md-6`** = «a partir de **tauleta/ordinador** (`md`), ocupa 6 franges».
-- **`offset-md-4`** = «a partir de tauleta/ordinador, **salta** 4 franges abans de començar».
-- També existeix `col-lg-...` i `offset-lg-...` (`lg` = només a pantalles grans, a partir de 992 px). Ex: `col-12 col-lg-4`.
-
-**Regla:** dins d'un mateix bloc, els números (columnes + salts) haurien de **sumar 12 o menys**. Si sumen més de 12, l'última columna baixa a una línia nova.
+**Regla:** dins d'un mateix bloc, els números (`width` + `offsetLeft` de totes les columnes) haurien de **sumar 12 o menys**. Si sumen més de 12, l'última columna baixa a una línia nova.
 
 | Exemple | Suma |
 |---|---|
-| `col-md-6` + `col-md-6` | 6 + 6 = 12 ✅ |
-| `col-md-4` + `col-md-4` + `col-md-4` | 12 ✅ |
-| `col-md-5` + `col-md-6 offset-md-1` | 5 + 1 + 6 = 12 ✅ |
-| `col-md-8` + `col-md-6` | 14 ❌ (la segona baixa a sota) |
+| 6 + 6 | 12 ✅ |
+| 4 + 4 + 4 | 12 ✅ |
+| 5 + (1 + 6) | 12 ✅ |
+| 8 + 6 | 14 ❌ (la segona baixa a sota) |
 
 ### Què passa a mòbil
 
-A mòbil, amb `col-12`, cada columna ocupa tota l'amplada i es posen **una sota l'altra**, en el mateix ordre que a Strapi:
+A mòbil cada columna ocupa tota l'amplada i es posen **una sota l'altra**, en el mateix ordre que a Strapi:
 
 <img src="img/demo-grid-mobile.jpg" alt="La mateixa pàgina a mòbil" width="300">
 
-### Columnes buides com a separador
+### Casos especials (avançat)
 
-Una columna sense contingut amb `col-12 col-lg-1` fa d'espai entre dues columnes (la Home ho fa servir). És equivalent a fer servir `offset`.
+Per a amplades diferents **a mòbil** (poc habitual) cal escriure classes Bootstrap al `cssClass` de la columna, per exemple `col-8` (8 franges també a mòbil). Abans de l'octubre de 2026 totes les amplades s'escrivien així (`col-12 col-md-8 offset-md-2`...); les columnes existents es van convertir als camps nous.
 
 ### Altres classes que es poden afegir a una columna
 
 Al mateix camp `cssClass` de la columna, separades per espais, pots afegir: `media-border-radius` (imatge amb cantonades rodones), `pt-5` (espai a dalt), `pb-5`, `mb-5` (espai a baix)... Vegeu [Classes CSS](#6-classes-css).
 
-Exemple real (Home): `pt-4 ms-auto col-12 col-lg-7`.
+Exemple real (Home): `cssClass` = `pt-4 ms-auto` amb `widthLarge` = 7.
 
 ---
 
@@ -116,19 +117,22 @@ Dins d'aquest contenidor s'aplica la graella de 12 columnes.
 
 Cada bloc té per defecte **120 px de padding a dalt i a baix** (50 px a mòbil). Els Hero no en tenen.
 
-### Treure l'espai de dalt o de baix (el més habitual)
+### Canviar l'espai de dalt o de baix: `spaceTop` i `spaceBottom`
 
-Per enganxar dos blocs (per exemple, un títol amb el bloc de sota), treu l'espai:
+Als `styles` del **bloc** hi ha dos desplegables:
 
-| Vull | Opció A (camps) | Opció B (classe a `cssClass` del bloc) |
-|---|---|---|
-| Sense espai a dalt | `paddingTop` = **FALSE** | `pt-0` |
-| Sense espai a baix | `paddingBottom` = **FALSE** | `pb-0` |
-| Sense espai ni a dalt ni a baix | els dos a FALSE | `py-0` |
+| Valor | Espai |
+|---|---|
+| `cap` | 0 (per enganxar dos blocs, per exemple un títol amb el bloc de sota) |
+| `petit` | 24 px |
+| `mitja` | 48 px |
+| `normal` o buit | l'espai per defecte (120 px; 50 px a mòbil) |
 
-### Espais intermedis amb classes
+Les caselles antigues `paddingTop` / `paddingBottom` només compten si el desplegable és buit (FALSE = `cap`). Abans de l'octubre de 2026 això es feia amb les classes `pt-0`, `pb-0`, `pt-4`, `pb-5`...; els blocs existents es van convertir als desplegables.
 
-En lloc de 0 o 120 px, pots posar un espai intermedi amb classes de la mena `pt-N` / `pb-N` / `py-N` (dalt / baix / tots dos), on N va de 0 a 5:
+### Altres espais amb classes (avançat)
+
+Per a altres valors pots escriure classes de la mena `pt-N` / `pb-N` / `py-N` (dalt / baix / tots dos) al `cssClass`, on N va de 0 a 5:
 
 | Classe | Espai |
 |---|---|
@@ -192,7 +196,7 @@ Les classes són paraules clau que s'escriuen a `cssClass`, **separades per espa
 
 | Classe | Efecte |
 |---|---|
-| `pt-0`, `pb-0`, `py-0` | Treu l'espai de dalt / baix / tots dos. |
+| `pt-0`, `pb-0`, `py-0` | Treu l'espai de dalt / baix / tots dos (millor: `spaceTop` / `spaceBottom` = `cap`). |
 | `pt-80px` | 80 px a dalt. |
 | `mb-120px` | 120 px de marge a baix. |
 | `mt-150-n` | Puja el bloc 150 px per sobre de l'anterior. |
@@ -214,7 +218,7 @@ Les classes són paraules clau que s'escriuen a `cssClass`, **separades per espa
 
 | Classe | Efecte |
 |---|---|
-| `col-12 col-md-N`, `offset-md-N` | Amplada a la graella ([secció 1](#1-la-graella-de-12-columnes)). |
+| `col-8`, `col-md-N`... | Amplada a la graella: millor els camps `width` / `offsetLeft` ([secció 1](#1-la-graella-de-12-columnes)). |
 | `media-border-radius` | Imatge amb cantonades rodones (20 px). |
 | `img-wb-filter` | Imatge en blanc i negre. |
 | `img-height-75` (o `-50`, `-100`) | Imatges a 75 px d'alt (files de logos). |

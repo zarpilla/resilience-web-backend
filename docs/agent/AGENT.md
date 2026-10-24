@@ -205,12 +205,13 @@ article 800px | small ~650px), `textColor` (`light` on dark backgrounds — also
 header logo/colour), `backgroundColor` (`#000`, `#F2EEEA` cream, `#FFFFFF`), `backgroundImage`,
 `backgroundImage2` (right half), `backgroundVideo(+Mobile)`, `height` (`450px`, `75vh`),
 `padding` / `margin` (CSS shorthand, overrides the default 120px vertical padding),
-`paddingTop` / `paddingBottom` (`false` ⇒ `pt-0`/`pb-0`), `sectionId` (anchor). `width`
+`spaceTop` / `spaceBottom` (`cap` 0, `petit` 24px, `mitja` 48px, `normal`/null 120px — use these, not `pt-0`/`pb-0` classes; old booleans `paddingTop` / `paddingBottom` only apply when these are null), `sectionId` (anchor). `width`
 only works on Tabs.
 
-On a **column** (`columns[].styles`): `cssClass` defines the Bootstrap 12-column grid width,
-e.g. `col-12 col-md-6`, `col-12 col-md-8 offset-md-4`, `col-12 col-lg-7`; numbers + offsets in
-one row should sum ≤ 12. Without classes columns share the width equally. Plus helper classes:
+Column **width** is set with the column fields `width` (1–12, from 768px), `offsetLeft` (0–11)
+and `widthLarge` (1–12, from 992px) — not with `col-md-*` classes; numbers + offsets in one row
+should sum ≤ 12; empty = columns share the width equally; on mobile always full width. Mobile-
+specific widths (`col-8`...) still go in `columns[].styles.cssClass`. Column helper classes:
 `media-border-radius`, `img-wb-filter`, `img-height-75`, `h2-with-arrow-down`, `orange-titles`,
 `fixed-when-scroll`, Bootstrap spacing `pt-N pb-N mt-N mb-N` (N 0–5), `ms-auto`, `text-center`.
 Section-level helpers: `pt-0 pb-0 py-0 pt-80px mb-120px mt-150-n bg-cover bg-no-repeat

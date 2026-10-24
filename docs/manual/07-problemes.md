@@ -29,10 +29,10 @@ La pàgina enllaçada pot estar despublicada, esborrada o sense `shareImage`. Ob
 Falta triar `titleHeading` (h1, h2...).
 
 **A mòbil les columnes queden estranyes.**
-Comprova que totes les columnes tinguin `col-12` a més de `col-md-...`.
+Comprova que el `cssClass` de les columnes no tingui classes d'amplada de mòbil (`col-8`, `col-6`...). L'amplada es posa al camp `width` de la columna, que a mòbil sempre ocupa tota l'amplada.
 
 **Un bloc té massa espai a dalt o a baix.**
-Posa `paddingTop` / `paddingBottom` a FALSE, o les classes `pt-0` / `pb-0` (vegeu [Espais](05-estils.md#3-espais-padding-i-margin)).
+Tria `spaceTop` / `spaceBottom` = `cap`, `petit` o `mitja` als `styles` del bloc (vegeu [Espais](05-estils.md#3-espais-padding-i-margin)).
 
 **El text no es veu (blanc sobre blanc o negre sobre negre).**
 Revisa `textColor`: `light` per a fons foscos, `dark` per a fons clars.
