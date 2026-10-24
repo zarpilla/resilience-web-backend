@@ -8,7 +8,6 @@ in the sibling repo `resilience-web-frontend`.
   [tools/content-cli/](tools/content-cli/README.md). Never write to production without explicit approval.
 - **How the site works for editors** (Catalan, screenshots): [docs/manual/](docs/manual/README.md).
 - **Pending technical work / where to put new tasks**: [docs/tasks/](docs/tasks/README.md).
-- **Local copy with production data**: [docs/agent/dev-environment.md](docs/agent/dev-environment.md).
 
 Code changes: keep the visual output of existing pages identical unless the task says
 otherwise; compare screenshots before/after. Admin help texts live in

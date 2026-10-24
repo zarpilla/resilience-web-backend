@@ -1,6 +1,6 @@
 # 001 — La web mostra l'esborrany (draft) de les pàgines publicades
 
-- **Estat:** ✅ feta i desplegada el 24/10/2026 — `src/api/page/controllers/page.ts`. Ordre de desplegament: [DESPLEGAMENT-2026-10.md](DESPLEGAMENT-2026-10.md)
+- **Estat:** ✅ feta i desplegada el 24/10/2026 — `src/api/page/controllers/page.ts`.
 - **Prioritat:** mitjana (decisió de comportament)
 - **Data:** 2026-10-24 · **Tipus:** bug / comportament
 

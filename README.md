@@ -9,7 +9,6 @@ Strapi 5 backend (CMS) of https://resilience.earth.
 | People who edit content (Catalan, with screenshots) | [docs/manual/](docs/manual/README.md) |
 | AI agents editing content on someone's behalf | [docs/agent/AGENT.md](docs/agent/AGENT.md) · how to use them: [docs/agent/README.md](docs/agent/README.md) |
 | Content CLI (read/clone/edit pages, menus, templates via the API) | [tools/content-cli/](tools/content-cli/README.md) |
-| Local copy with production data | [docs/agent/dev-environment.md](docs/agent/dev-environment.md) |
 | Pending technical tasks | [docs/tasks/](docs/tasks/README.md) |
 
 Admin help texts (Catalan descriptions under each field) are defined in

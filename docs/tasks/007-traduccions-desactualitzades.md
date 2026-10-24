@@ -53,7 +53,7 @@ les pàgines ES/EN es veuen com el català (captures revisades).
 
 ## Aplicar a producció
 
-Vegeu l'ordre complet a [DESPLEGAMENT-2026-10.md](DESPLEGAMENT-2026-10.md). L'script:
+L'script:
 - compara el contingut actual amb les instantànies i **salta** qualsevol pàgina que s'hagi
   editat des del 24/10/2026 (cal tornar-la a revisar);
 - diu `ALREADY APPLIED` si ja està feta (es pot tornar a executar);

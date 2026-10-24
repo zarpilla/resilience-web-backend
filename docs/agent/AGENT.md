@@ -42,8 +42,7 @@ reference for *how you operate*.
 | Environment | API base URL | Admin | Notes |
 |---|---|---|---|
 | Production | `https://api-w.resilience.earth` | `/admin` | Public site: `https://resilience.earth` |
-| **Test** (default for trying changes) | `https://w.resilience.earth` | `/admin` | Front end https://w.resilience.earth (basic auth). Copy of production data, branch `develop`. See [test-environment.md](test-environment.md). |
-| Local development (optional) | e.g. `http://localhost:1337` | `/admin` | See [dev-environment.md](dev-environment.md). |
+| **Test** (default for trying changes) | `https://w.resilience.earth` | `/admin` | Front end https://w.resilience.earth (password protected, not indexed). Copy of production data. |
 
 - **Reading** (pages, menus, published content) needs no token.
 - **Writing** needs an API token (`RW_API_TOKEN`) created by the developer in Strapi
@@ -53,8 +52,10 @@ reference for *how you operate*.
   route `GET /api/pages/templates/<name>?locale=xx` (read-only, already populated).
 - **Do every change on test first**, let the person check it on https://w.resilience.earth,
   then repeat it on production. Test and production use **different tokens**. If test data is
-  stale, ask the developer to run `refresh-db.sh` ([test-environment.md](test-environment.md)).
-- If you have no dev environment, explain the change precisely, get approval, apply it to
+  out of date with production, ask the developer to refresh it.
+- Test does not send e-mails (forms save the entry but show an error). Files uploaded in test
+  exist only in test: upload them again to production and use the production file ids.
+- If test is not available, explain the change precisely, get approval, apply it to
   production, verify immediately, and keep the backup path handy to revert.
 
 ---

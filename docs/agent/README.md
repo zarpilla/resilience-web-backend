@@ -5,7 +5,6 @@ accés a eines) pugui fer canvis de contingut a resilience.earth a partir del qu
 expliquis amb les teves paraules.
 
 - [AGENT.md](AGENT.md) — instruccions per a l'agent (en anglès; no cal que les llegeixis).
-- [dev-environment.md](dev-environment.md) — com muntar una còpia de proves (per a la persona tècnica).
 
 ## Què necessita l'agent
 

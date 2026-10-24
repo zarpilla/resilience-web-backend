@@ -5,7 +5,7 @@ de contingut delicades). Els agents d'IA hi afegeixen fitxers nous quan una peti
 pot resoldre amb els blocs actuals (vegeu `docs/agent/AGENT.md` §9). Plantilla:
 [TEMPLATE.md](TEMPLATE.md).
 
-Desplegament d'octubre 2026: fet el 24/10 seguint [DESPLEGAMENT-2026-10.md](DESPLEGAMENT-2026-10.md).
+Desplegament d'octubre 2026: fet el 24/10 (el pla detallat el guarda la persona tècnica, fora del repositori).
 
 | # | Tasca | Prioritat | Estat |
 |---|---|---|---|
