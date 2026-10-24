@@ -1,3 +1,23 @@
+# resilience-web-backend
+
+Strapi 5 backend (CMS) of https://resilience.earth.
+
+## Documentation
+
+| For | Where |
+|---|---|
+| People who edit content (Catalan, with screenshots) | [docs/manual/](docs/manual/README.md) |
+| AI agents editing content on someone's behalf | [docs/agent/AGENT.md](docs/agent/AGENT.md) · how to use them: [docs/agent/README.md](docs/agent/README.md) |
+| Content CLI (read/clone/edit pages, menus, templates via the API) | [tools/content-cli/](tools/content-cli/README.md) |
+| Local copy with production data | [docs/agent/dev-environment.md](docs/agent/dev-environment.md) |
+| Pending technical tasks | [docs/tasks/](docs/tasks/README.md) |
+
+Admin help texts (Catalan descriptions under each field) are defined in
+`src/admin-help/field-help.ts` and written to the Content Manager configuration on startup
+(disable with `ADMIN_FIELD_HELP=false`).
+
+---
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
