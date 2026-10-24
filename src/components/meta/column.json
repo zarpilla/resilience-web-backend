@@ -35,6 +35,11 @@
       "repeatable": false,
       "component": "meta.c2-a"
     },
+    "buttons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "meta.c2-a"
+    },
     "title": {
       "type": "string"
     },

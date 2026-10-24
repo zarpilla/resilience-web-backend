@@ -58,6 +58,11 @@ const sectionsPopulate = {
                   page: true,
                 },
               },
+              buttons: {
+                populate: {
+                  page: true,
+                },
+              },
               verticalScroller: {
                 populate: {
                   children: {
@@ -93,6 +98,11 @@ const sectionsPopulate = {
                 },
               },
               c2a: {
+                populate: {
+                  page: true,
+                },
+              },
+              buttons: {
                 populate: {
                   page: true,
                 },

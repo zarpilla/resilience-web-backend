@@ -109,7 +109,11 @@ export const FIELD_HELP: HelpMap = {
       description:
         "Amplada de la columna (cssClass, ex: col-12 col-md-6), imatge de fons, padding i margin del text.",
     },
-    c2a: { description: "Botó opcional sota el text." },
+    c2a: { description: "Botó opcional sota el text (un de sol). Per posar-ne més d'un, fes servir «buttons»." },
+    buttons: {
+      description:
+        "Botons sota el text, un sota l'altre (ex: descàrregues en diversos idiomes). Afegeix-ne tants com calgui amb «Add an entry»; els pots reordenar arrossegant. Si també hi ha c2a, aquest surt primer.",
+    },
     alias,
     verticalScroller: {
       description: "Avançat: menú amb imatges que es mostren en mosaic animat al costat del text.",

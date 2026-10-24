@@ -116,6 +116,7 @@ const columnPop = {
     media: true,
     styles: stylesPop,
     c2a: { populate: { page: true } },
+    buttons: { populate: { page: true } },
     verticalScroller: true,
   },
 };
@@ -263,7 +264,7 @@ function collectTexts(node, ptr = "", acc = {}, inC2a = false) {
     for (const [k, v] of Object.entries(node)) {
       const here = `${ptr}/${k}`;
       if (typeof v === "string" && v.trim() && (TEXT_KEYS.has(k) || (k === "text" && (node.type === "text" || inC2a)))) acc[here] = v;
-      else if (v && typeof v === "object") collectTexts(v, here, acc, k === "c2a");
+      else if (v && typeof v === "object") collectTexts(v, here, acc, k === "c2a" || k === "buttons");
     }
   }
   return acc;
@@ -384,7 +385,7 @@ function summarizeSections(sections) {
     if (Array.isArray(s.bios)) lines.push(`     bios: ${[...new Set(s.bios.map((b) => b.name))].join(", ") || "-"}`);
     for (const [j, c] of (s.columns || s.tabs || []).entries()) {
       lines.push(
-        `     col${j}${c.title ? ` "${c.title}"` : ""}${stylesSummary(c.styles)}${c.media ? ` media=${c.media.name}` : ""}${c.c2a ? ` c2a="${c.c2a.text}"` : ""}`
+        `     col${j}${c.title ? ` "${c.title}"` : ""}${stylesSummary(c.styles)}${c.media ? ` media=${c.media.name}` : ""}${c.c2a ? ` c2a="${c.c2a.text}"` : ""}${c.buttons?.length ? ` buttons=${c.buttons.map((b) => `"${b.text}"`).join(",")}` : ""}`
       );
       const t = plain(c.text);
       if (t) lines.push(`        ${t.slice(0, 160)}`);
