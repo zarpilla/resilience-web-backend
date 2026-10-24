@@ -6,6 +6,16 @@ import { factories } from "@strapi/strapi";
 
 // export default factories.createCoreController('api::page.page');
 
+/**
+ * The public site must render the PUBLISHED version of pages. Strapi 5's
+ * document service defaults to the draft, so the status is set explicitly.
+ * Authenticated API-token requests may ask for ?status=draft (previews, tools).
+ */
+const resolveStatus = (ctx): "published" | "draft" =>
+  ctx.query.status === "draft" && ctx.state?.auth?.strategy?.name === "api-token"
+    ? "draft"
+    : "published";
+
 const sectionsPopulate = {
   sections: {
     on: {
@@ -427,9 +437,11 @@ export default factories.createCoreController(
   "api::page.page",
   ({ strapi }) => ({
     sections: async (ctx, next) => {
+      const status = resolveStatus(ctx);
       const page = await strapi.documents("api::page.page").findOne({
         documentId: ctx.params.id,
         locale: ctx.query.locale as string,
+        status,
         populate: {
           metadata: {
             populate: "shareImage",
@@ -438,6 +450,10 @@ export default factories.createCoreController(
           ...sectionsPopulate,
         },
       });
+
+      if (!page) {
+        return ctx.notFound("Page not found in this locale");
+      }
 
       const sectionsPopulateWithoutTemplate = { ...sectionsPopulate };
       delete sectionsPopulateWithoutTemplate.sections["sections.template"];
@@ -452,6 +468,7 @@ export default factories.createCoreController(
             .findOne({
               documentId: section.template.documentId,
               locale: ctx.query.locale as string,
+              status: "published", // templates have no draft & publish
               populate: {
                 localizations: true,
                 ...sectionsPopulateWithoutTemplate,
@@ -478,6 +495,7 @@ export default factories.createCoreController(
             },
           },
           locale: ctx.query.locale as string,
+          status: "published", // templates have no draft & publish
           populate: {
             localizations: true,
             ...sectionsPopulate,
@@ -488,6 +506,7 @@ export default factories.createCoreController(
     categories: async (ctx, next) => {
       const allPages = await strapi.documents("api::page.page").findMany({
         locale: ctx.query.locale as string,
+        status: "published",
         filters: {
           type: ctx.query.type,
         },
