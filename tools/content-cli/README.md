@@ -29,6 +29,8 @@ node tools/content-cli/rw-content.mjs help
 | `media "<text>"` | Search the media library (needs token). |
 | `upload <file> [--alt …] [--replace <id>]` | Upload (type from the extension) or replace a file keeping its id. |
 | `taxonomies` | Scopes, typologies, years and tags with their documentIds. |
+| `verify <slug> [--locale]` | Published? every file reachable and with a proper type? position in the mosaic/list, menus and sliders containing it. |
+| `texts <slug> --out t.json`, `texts-apply <slug> t.json --locale es [--publish]` | Translation: export the texts, translate the values, build the es/en version from the Catalan structure. |
 | `bios`, `bio-export <slug>`, `bio-push f.json --new\|--document <id>` | Team members. |
 | `team-add <bio>`, `team-remove <bio>` | Add/remove a person in BOTH team lists ("Qui som" page and template `bio`). Live. |
 | `restore <backup.json>` | Put back a backup written by a previous command. |

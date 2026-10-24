@@ -189,7 +189,16 @@ async function findMenu(ref, { loc = locale, st = status } = {}) {
     populate: { children: { populate: { page: pageRef, image: true, submenu: true } } },
   });
   const res = await http("GET", `/api/menus?${q}`);
-  if (!res.data.length) die(`Menu "${ref}" not found (locale=${loc}).`);
+  if (!res.data.length) {
+    // menu titles are translated ("Caos Creatiu" / "Caos Creativo"): find it by title in any locale
+    if (!looksLikeDocId(ref)) {
+      for (const other of LOCALES.filter((l) => l !== loc)) {
+        const r = await http("GET", `/api/menus?${qs({ locale: other, filters: { title: { $eq: ref } }, fields: ["title"] })}`);
+        if (r.data.length) return findMenu(r.data[0].documentId, { loc, st });
+      }
+    }
+    die(`Menu "${ref}" not found (locale=${loc}).${TOKEN ? "" : " Menus need RW_API_TOKEN."}`);
+  }
   return res.data[0];
 }
 
@@ -227,6 +236,44 @@ async function teamLists() {
   return { page, tpl };
 }
 const biosBlock = (doc) => (doc?.sections || []).find((s) => s.__component === "sections.bios");
+
+async function findPageSoft(documentId, loc, st) {
+  const r = await http("GET", `/api/pages?${qs({ locale: loc, status: st, filters: { documentId: { $eq: documentId } }, fields: ["slug", "updatedAt", "publishedAt"] })}`).catch(() => ({ data: [] }));
+  return r.data[0] || null;
+}
+
+const URL_PREFIX = {
+  page: { ca: "", es: "", en: "" },
+  article: { ca: "article/", es: "articulo/", en: "article/" },
+  resource: { ca: "recurs/", es: "recurso/", en: "resource/" },
+  scope: { ca: "ambit/", es: "ambito/", en: "scope/" },
+  service: { ca: "servei/", es: "servicio/", en: "service/" },
+  capability: { ca: "capabilitat/", es: "capabilidad/", en: "capability/" },
+  project: { ca: "projecte/", es: "proyecto/", en: "project/" },
+};
+const SITE = process.env.RW_SITE_URL || (/w\.resilience\.earth/.test(API) ? "https://w.resilience.earth" : /localhost|127\.0\.0\.1/.test(API) ? "http://localhost:3000" : "https://resilience.earth");
+const pagePublicUrl = (p, loc = locale) =>
+  `${SITE}${loc === "ca" ? "" : "/" + loc}${p.slug === "home" ? "" : "/" + (URL_PREFIX[p.type]?.[loc] ?? "") + p.slug}`;
+
+// translatable text leaves of a page payload, as { "json/pointer": "text" }
+const TEXT_KEYS = new Set(["name", "slug", "title", "subTitle", "subtitle", "c2aText", "goToText", "author", "metaTitle", "metaDescription", "metaDescriptionShort"]);
+function collectTexts(node, ptr = "", acc = {}, inC2a = false) {
+  if (Array.isArray(node)) { node.forEach((v, i) => collectTexts(v, `${ptr}/${i}`, acc, inC2a)); return acc; }
+  if (node && typeof node === "object") {
+    for (const [k, v] of Object.entries(node)) {
+      const here = `${ptr}/${k}`;
+      if (typeof v === "string" && v.trim() && (TEXT_KEYS.has(k) || (k === "text" && (node.type === "text" || inC2a)))) acc[here] = v;
+      else if (v && typeof v === "object") collectTexts(v, here, acc, k === "c2a");
+    }
+  }
+  return acc;
+}
+function setPointer(obj, ptr, value) {
+  const parts = ptr.split("/").slice(1);
+  let o = obj;
+  for (const p of parts.slice(0, -1)) o = o[p];
+  o[parts.at(-1)] = value;
+}
 
 // ---------------------------------------------------------------------------
 // convert a fetched document into a payload accepted by PUT/POST
@@ -377,6 +424,9 @@ WRITE (needs RW_API_TOKEN; drafts by default; --yes required for non-local API)
         (menus have no draft: these changes are LIVE immediately)
   publish <slug|documentId> [--locale ca]                          publish a page draft
   template-push <file.json> --name <template name> [--locale ca]  replace a template's blocks (LIVE on every page using it)
+  texts <slug> --out t.json                                        translatable texts of a page ({"pointer": "text"})
+  texts-apply <slug> t.json --locale es [--publish]                es/en version = ca structure + translated texts
+  verify <slug> [--locale ca]                                      published? files OK? position in lists, menus containing it
   bios [--locale ca]                                               team members (+ who is in the team lists)
   bio-export <slug> --out f.json | bio-push f.json --new|--document <id> [--publish]
   team-add <bio slug> / team-remove <bio slug> [--locale ca]       "Qui som" page AND template "bio" (LIVE)
@@ -411,7 +461,11 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
 
   async show() {
     const p = await findPage(pos[0]);
-    out(`${p.name}\n  documentId=${p.documentId} type=${p.type} slug=${p.slug} locale=${p.locale} status=${p.publishedAt ? "published" : "draft"}`);
+    const pub = p.publishedAt ? p : await findPageSoft(p.documentId, p.locale, "published");
+    const draft = p.publishedAt ? await findPageSoft(p.documentId, p.locale, "draft") : p;
+    const pending = pub && draft && Date.parse(draft.updatedAt) > Date.parse(pub.updatedAt) + 2000;
+    out(`${p.name}\n  documentId=${p.documentId} type=${p.type} slug=${p.slug} locale=${p.locale}`);
+    out(`  published: ${pub ? `yes (${pub.publishedAt})` : "NO (only a draft: not visible on the site)"}${pending ? " — the draft has UNPUBLISHED changes" : ""}  [showing the ${p.publishedAt ? "published" : "draft"} version]`);
     out(`  metaTitle=${p.metadata?.metaTitle ?? "-"} | shareImage=${p.metadata?.shareImage?.name ?? "-"}`);
     out(`  metaDescription=${(p.metadata?.metaDescription ?? "-").slice(0, 160)}`);
     out(`  sortDate=${p.sortDate} author=${p.author ?? "-"} typology=${p.typology?.name ?? "-"} year=${p.year?.name ?? "-"} scopes=${(p.scopes || []).map((s) => s.name).join(", ") || "-"} tags=${(p.tags || []).map((s) => s.name).join(", ") || "-"}`);
@@ -586,6 +640,71 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     await printMenu(m.documentId);
   },
 
+  async texts() {
+    const p = await findPage(pos[0]);
+    const json = JSON.stringify(collectTexts(toWritable(p)), null, 2);
+    if (opt.out) { fs.writeFileSync(opt.out, json); console.error(`written ${opt.out}: translate the values, keep the keys (${p.locale} → target locale)`); }
+    else out(json);
+  },
+
+  async "texts-apply"() {
+    // builds the target-locale version from the SOURCE locale structure (default ca) + translated texts
+    assertWritable();
+    const [ref, file] = pos;
+    if (!file) die("usage: texts-apply <slug|documentId> <translated.json> --locale es [--from ca] [--publish]");
+    const from = opt.from || "ca";
+    if (locale === from) die("--locale must be the TARGET language (es / en)");
+    const src = await findPage(ref, { loc: from });
+    const data = toWritable(src);
+    const tr = JSON.parse(fs.readFileSync(file, "utf8"));
+    const keys = Object.keys(collectTexts(data));
+    const missing = keys.filter((k) => !(k in tr));
+    for (const [k, v] of Object.entries(tr)) setPointer({ data }, "/data" + k, v);
+    if (missing.length) console.error(`WARNING: ${missing.length} text(s) not translated, kept from ${from}: ${missing.slice(0, 5).join(" ")}`);
+    const cur = await findPageSoft(src.documentId, locale, "draft");
+    if (cur) backup("page", await findPage(src.documentId, { loc: locale, st: "draft" }));
+    const res = await http("PUT", `/api/pages/${src.documentId}?locale=${locale}&status=${statusParam()}`, { data });
+    out(`${cur ? "updated" : "created"} ${locale} version of ${src.documentId}: ${res.data.slug} (${statusParam()}) — ${pagePublicUrl(res.data, locale)}`);
+    out(`CHECK: images were copied from ${from}; replace any image that contains ${from} text.`);
+  },
+
+  async verify() {
+    const p = await findPage(pos[0], { st: "published" }).catch(() => null);
+    if (!p) die(`"${pos[0]}" has no PUBLISHED ${locale} version: it is not visible on the site.`);
+    out(`${p.name} — published ${p.publishedAt}\n  ${pagePublicUrl(p)}`);
+    const live = await http("GET", `/api/pages/sections/${p.documentId}?locale=${locale}`).catch((e) => die("sections endpoint failed: " + e.message));
+    // images and files actually used by the live page
+    const media = [];
+    const walk = (o, where) => {
+      if (Array.isArray(o)) return o.forEach((v, i) => walk(v, `${where}[${i}]`));
+      if (o && typeof o === "object") {
+        if (isMedia(o)) return media.push({ where, name: o.name, url: o.url, mime: o.mime });
+        for (const [k, v] of Object.entries(o)) if (!["page", "menu", "bios", "capabilities", "localizations"].includes(k)) walk(v, `${where}.${k}`);
+      }
+    };
+    walk(live.metadata, "metadata"); walk(live.sections, "sections");
+    let bad = 0;
+    for (const m of media) {
+      const r = await fetch(m.url.startsWith("http") ? m.url : API + m.url, { method: "HEAD" }).catch(() => null);
+      const ok = r && r.ok && m.mime !== "application/octet-stream";
+      if (!ok) bad++;
+      out(`  ${ok ? "ok " : "BAD"} ${m.mime.padEnd(16)} ${m.name}  (${m.where})${r ? "" : " unreachable"}${r && !r.ok ? " HTTP " + r.status : ""}`);
+    }
+    out(`  ${media.length} file(s), ${bad} problem(s)${locale !== "ca" ? " — images shared with ca may contain Catalan text: look at them" : ""}`);
+    // position in the automatic lists
+    if (["article", "resource"].includes(p.type)) {
+      const lst = await http("GET", `/api/pages?${qs({ locale, filters: { type: { $eq: p.type } }, sort: ["sortDate:desc", "createdAt:desc"], fields: ["slug"], pagination: { pageSize: 100 } })}`);
+      const pos1 = lst.data.findIndex((x) => x.documentId === p.documentId) + 1;
+      out(`  position in ${p.type === "article" ? "Caos Creatiu / Home mosaic" : "Eines disruptives list"}: ${pos1 || "NOT FOUND"} of ${lst.data.length}`);
+    }
+    // menus (sliders, navigation) that contain it
+    if (TOKEN) {
+      const ms = await http("GET", `/api/menus?${qs({ locale, populate: { children: { populate: { page: { fields: ["slug"] } } } }, pagination: { pageSize: 200 } })}`);
+      const inMenus = ms.data.flatMap((m) => (m.children || []).map((c, i) => (c.page?.documentId === p.documentId ? `"${m.title}" [${i}]` : null)).filter(Boolean));
+      out(`  in menus/sliders: ${inMenus.join(", ") || "none"}`);
+    }
+  },
+
   async bios() {
     const q = qs({ locale, status: opt.status || "published", fields: ["name", "slug", "position", "weight"], sort: "weight:asc", pagination: { pageSize: 200 } });
     const res = await http("GET", `/api/bios?${q}`);
@@ -647,7 +766,7 @@ Env: RW_API_URL (default http://localhost:1337), RW_API_TOKEN, RW_BACKUP_DIR (de
     for (const [api, label] of [["scopes", "scopes (àmbits)"], ["typologies", "typology"], ["years", "year"], ["tags", "tags"]]) {
       const q = qs({ locale, fields: ["name"], sort: "name:asc", pagination: { pageSize: 200 } });
       const res = await http("GET", `/api/${api}?${q}`).catch(() => ({ data: [] }));
-      out(`${label}: ` + res.data.map((t) => `${t.name} [${t.documentId}]`).join(" · "));
+      out(`${label}: ` + (res.data.map((t) => `${t.name} [${t.documentId}]`).join(" · ") || (TOKEN ? "(none)" : "(empty: set RW_API_TOKEN)")));
     }
   },
 

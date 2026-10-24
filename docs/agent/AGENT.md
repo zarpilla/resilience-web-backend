@@ -87,7 +87,9 @@ node rw-content.mjs media "<part of file name>"
 node rw-content.mjs upload ./image.jpg --alt "description"   # file type from the extension; --replace <id> keeps the id
 node rw-content.mjs taxonomies                     # scopes, typologies, years, tags with their documentIds
 node rw-content.mjs bios | bio-export <slug> --out b.json | bio-push b.json --new|--document <id> --publish
-node rw-content.mjs team-add <bio-slug> | team-remove <bio-slug>   # "Qui som" page AND template "bio"
+node rw-content.mjs team-add <bio-slug> | team-remove <bio-slug>   # "Qui som" page AND template "bio" (published, LIVE)
+node rw-content.mjs verify <slug> [--locale es]    # published? files OK? position in lists? which sliders/menus?
+node rw-content.mjs texts <slug> --out t.json      # translatable texts → translate values → texts-apply <slug> t.json --locale es --publish
 ```
 
 All commands take `--locale ca|es|en` (default `ca`). Writes to a non-localhost URL require
@@ -231,6 +233,8 @@ Numbered lists render as bullets; images/quotes/code inside rich text are not re
 | Main menu (Header.mainMenu) | Main Menu | — |
 | Header.secondaryMenu and Footer.menu | Secondary | — |
 
+Menu titles are translated ("Caos Creatiu" / "Caos Creativo" / "Caos Creative"): the CLI finds
+a menu by its Catalan title in any locale, or use the documentId.
 documentIds are the same for the es/en versions of a menu; each locale has its **own list of
 children** that must be edited separately (pointing to the page translations). Verify IDs
 with `rw-content menus` — they may change.
@@ -282,6 +286,10 @@ The mosaic fills its columns right to left: the newest article appears top-right
 
 ### Checklist after every change (on test, then again on production)
 
+Start with `verify <slug>` (and `--locale es/en`): it checks publication, files, list position
+and menus. Then, if you can open the front end, look at it. If you cannot (no browser, test
+front end unreachable), say so to the person and rely on `verify`.
+
 - Open the page (and its es/en versions if touched). If you can, take a screenshot.
 - Every image loads: in a browser `document.images` all have `naturalWidth > 0`. An image
   stored as `application/octet-stream` is not shown by the site (`upload` sets the right type;
@@ -289,6 +297,8 @@ The mosaic fills its columns right to left: the newest article appears top-right
 - The lists that should show it: Caos Creatiu mosaic and Home mosaic (articles), Eines
   disruptives list (resources), the slider you added it to, "Qui som" and a `/bio/...` page
   (people). Check on a phone-sized viewport too (390 px).
+- Images that contain words (covers, posters) must be in the page's language: an es/en version
+  that reuses a Catalan image with text needs its own image.
 - Nothing copied from the original page is left (description, share image, author, tags,
   scopes, audio, texts) — `clone` copies all of it.
 
@@ -316,11 +326,13 @@ relations → `{ "set": [ { "documentId": … } ] }`.
    (remove if not provided). Upload new images with `upload`. Use `taxonomies` for ids.
 4. `push a.json --document <id>` → review in admin/dev → `publish <new-slug>`.
 5. Optional: `menu-add "Caos Creatiu" --page <new-slug> --at 0 --title "<title>"`.
-6. Optional translations: `export <slug> --out a.json`, translate only the human texts
-   (`name`, `slug`, metadata, `title`, `text` leaves, c2a `text`) — never `cssClass` or other
-   styles — then `push a-es.json --document <documentId> --locale es` (creates the `es`
-   version of the same document) → `publish <es-slug> --locale es`. Then add it to the es/en
-   versions of the menus.
+6. Optional translations: `texts <slug> --out t.json` → translate the VALUES (keep keys; give
+   `/slug` a slug in that language) → `texts-apply <slug> t.json --locale es --publish`. It
+   builds the es version from the Catalan structure (styles and images untouched). Then add it
+   to the es/en versions of the menus (`menu-add` accepts the Catalan menu title) and replace
+   images that contain Catalan text.
+7. "Put it in Caos Creatiu" may mean the mosaic (automatic once published) or the black
+   "Caos Creatiu" slider (menu, manual). If unclear, ask; if you do both, say so.
 
 ### 5.2 New Eines disruptives resource
 
@@ -359,7 +371,7 @@ exist in that locale) to be shown. Unpublishing a Bio hides it everywhere.
    `largeImage` (landscape), `weight`, `scopes`; drop `audio`, `signature` and `metadata` values
    that belong to the other person.
 3. `bio-push b.json --new --publish` → `team-add <new-slug>` (adds it to the "Qui som" page and to
-   the template `bio`; idempotent). `team-remove` does the opposite.
+   the template `bio`, publishes the page: LIVE; idempotent). `team-remove` does the opposite.
 4. Repeat per locale (`--locale es/en`: translated Bio, then `team-add --locale es/en`).
 
 ## 6. Things that are NOT possible without code (send to step 9)

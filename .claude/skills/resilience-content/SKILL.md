@@ -12,7 +12,7 @@ description: Edit the content of the resilience.earth website (Strapi CMS) on be
    production `https://api-w.resilience.earth`. Each has its own token: the developer gives it to
    you; read it into `RW_API_TOKEN` without printing it. Never commit or show tokens/passwords.
 4. Workflow: restate the request → inspect (`show`, `menu`, `bios`) → copy a similar example →
-   apply on test → run the checklist (images load, lists/sliders, mobile) → send test links →
+   apply on test → `verify <slug>` + the checklist (images, lists/sliders, mobile) → send test links →
    only after the person says yes, repeat on production with `--yes` → verify → report.
 5. Talk to the person in their language (usually Catalan), plain words, with links.
 6. If it needs code (new block, layout, animation, field): say it cannot be done with the
